@@ -1,5 +1,8 @@
 name: IAASSE Jobs Fetcher
 
+permissions:
+  contents: write   # <-- THIS IS THE KEY FIX
+
 on:
   schedule:
     - cron: "0 */6 * * *"
@@ -8,8 +11,10 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Install PHP
         run: |
@@ -26,3 +31,4 @@ jobs:
           git add jobs-data.json
           git commit -m "Update jobs data" || exit 0
           git push
+
