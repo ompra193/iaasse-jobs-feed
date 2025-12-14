@@ -1,0 +1,21 @@
+name: IAASSE Jobs Fetcher
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run jobs fetcher
+        run: php fetch-jobs.php
+      - name: Commit jobs JSON
+        run: |
+          git config user.name "IAASSE Bot"
+          git config user.email "bot@iaasse.org"
+          git add jobs-data.json
+          git commit -m "Update jobs data" || exit 0
+          git push
