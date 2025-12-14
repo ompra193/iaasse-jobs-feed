@@ -10,8 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install PHP
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y php php-cli php-xml
+
       - name: Run jobs fetcher
         run: php fetch-jobs.php
+
       - name: Commit jobs JSON
         run: |
           git config user.name "IAASSE Bot"
