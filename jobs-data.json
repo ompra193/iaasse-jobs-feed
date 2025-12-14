@@ -1,8 +1,35 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-14 12:26",
+    "generated_at": "2025-12-14 18:51",
     "total_jobs": 125,
     "jobs": [
+        {
+            "title": "Offensive Security Engineer Agent Security",
+            "company": "remoteok.com",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-offensive-security-engineer-agent-security-openai-1129207",
+            "date": 1765652416
+        },
+        {
+            "title": "Software Architect",
+            "company": "remoteok.com",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-architect-conga-1129206",
+            "date": 1765652410
+        },
+        {
+            "title": "Mid C# Fullstack Developer",
+            "company": "remoteok.com",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-mid-c-fullstack-developer-zipdev-1129205",
+            "date": 1765634419
+        },
         {
             "title": "Enterprise Account Executive Western",
             "company": "remoteok.com",
@@ -912,31 +939,13 @@
             "date": 1764694818
         },
         {
-            "title": "Senior Application Engineer",
-            "company": "remoteok.com",
+            "title": "Lemon.io: Senior Full-stack Developer",
+            "company": "weworkremotely.com",
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
-            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-application-engineer-infstones-1129086",
-            "date": 1764691201
-        },
-        {
-            "title": "Associate Machine Learning Engineer Trust & Safety Intelligence",
-            "company": "remoteok.com",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-associate-machine-learning-engineer-trust-safety-intelligence-spotify-1129085",
-            "date": 1764684032
-        },
-        {
-            "title": "GTM Analytics Engineer",
-            "company": "remoteok.com",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-gtm-analytics-engineer-stedi-1129084",
-            "date": 1764684016
+            "link": "https:\/\/weworkremotely.com\/remote-jobs\/lemon-io-senior-full-stack-developer-6",
+            "date": 1764248069
         },
         {
             "title": "Prat City LLC: Senior Full Stack Developer",
@@ -1119,28 +1128,6 @@
             "date": 1761041232
         },
         {
-            "title": "DesignFiles: Remote Front-End Rails Developer",
-            "company": "weworkremotely.com",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "link": "https:\/\/weworkremotely.com\/remote-jobs\/designfiles-remote-front-end-rails-developer",
-            "date": 1760527644
-        },
-        {
-            "title": "DesignFiles: Remote Growth Engineer (Full-Stack Rails)",
-            "company": "weworkremotely.com",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "link": "https:\/\/weworkremotely.com\/remote-jobs\/designfiles-remote-growth-engineer-full-stack-rails",
-            "date": 1760527338
-        },
-        {
             "title": "Inovo Studios: Full Stack Javascript Developer (Shape Up + Small team)",
             "company": "weworkremotely.com",
             "country": "Worldwide",
@@ -1150,6 +1137,15 @@
             ],
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/inovo-studios-full-stack-javascript-developer-shape-up-small-team-1",
             "date": 1758215388
+        },
+        {
+            "title": "Perfect (Stealth Technology Startup): Lead Software Engineer",
+            "company": "weworkremotely.com",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "link": "https:\/\/weworkremotely.com\/remote-jobs\/perfect-stealth-technology-startup-lead-software-engineer",
+            "date": 1756478021
         },
         {
             "title": "DynamiCare Health: Full-Stack Engineer",
