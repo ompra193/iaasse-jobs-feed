@@ -1,3 +1,4 @@
+die('FETCH RUN OK ' . date('Y-m-d H:i:s'));
 <?php
 /**
  * IAASSE Jobs Fetcher
