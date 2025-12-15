@@ -1,33 +1,32 @@
 <?php
 /**
- * IAASSE Jobs Fetcher – India + PSU + Private + Non-IT
- * FINAL STABLE VERSION
+ * IAASSE Jobs Fetcher
+ * India IT + Internships + Govt/PSU + Non-IT
+ * GitHub Actions SAFE
  */
 
 date_default_timezone_set('Asia/Kolkata');
 $OUT = __DIR__ . '/jobs-data.json';
 
 /* =========================
-   SOURCES
+   WORKING RSS SOURCES
 ========================= */
 
 $sources = [
 
-/* ===== REMOTE / PRIVATE ===== */
-['url'=>'https://remoteok.com/remote-jobs.rss','country'=>'Worldwide','company'=>'Various'],
-['url'=>'https://weworkremotely.com/categories/remote-programming-jobs.rss','country'=>'Worldwide','company'=>'Various'],
-
-/* ===== INDIA – INTERNSHIPS ===== */
-['url'=>'https://internshala.com/rss','country'=>'India','company'=>'Internshala'],
-
-/* ===== INDIA – PRIVATE (IT + NON-IT) ===== */
+/* ===== INDIA – IT & INTERNSHIPS (WORKING) ===== */
+['url'=>'https://www.naukri.com/rss/jobs/search?qp=software+engineering','country'=>'India','company'=>'Naukri'],
+['url'=>'https://www.naukri.com/rss/jobs/search?qp=internship','country'=>'India','company'=>'Naukri'],
 ['url'=>'https://www.freshersworld.com/jobs/rss','country'=>'India','company'=>'Freshersworld'],
-['url'=>'https://www.timesjobs.com/rss/jobFeed.xml','country'=>'India','company'=>'TimesJobs'],
+['url'=>'https://www.freshersworld.com/rss/internship-jobs','country'=>'India','company'=>'Freshersworld'],
 
 /* ===== INDIA – GOVT / PSU ===== */
-['url'=>'https://www.freejobalert.com/rss.xml','country'=>'India','company'=>'Govt / PSU'],
-['url'=>'https://www.sarkariresult.com/rss/latestjob.xml','country'=>'India','company'=>'Govt / PSU'],
+['url'=>'https://www.freejobalert.com/rss/government-jobs.xml','country'=>'India','company'=>'Govt / PSU'],
 ['url'=>'https://www.employmentnews.gov.in/NewEmp/RSS.xml','country'=>'India','company'=>'Govt of India'],
+
+/* ===== REMOTE / GLOBAL ===== */
+['url'=>'https://remoteok.com/remote-jobs.rss','country'=>'Worldwide','company'=>'RemoteOK'],
+['url'=>'https://weworkremotely.com/categories/remote-programming-jobs.rss','country'=>'Worldwide','company'=>'WeWorkRemotely'],
 ];
 
 /* =========================
@@ -51,7 +50,7 @@ function loadRSS($url){
 function detectEmployment($title){
     $t = strtolower($title);
 
-    if(preg_match('/intern|apprentice|trainee/',$t)) return 'internship';
+    if(preg_match('/intern|internship|apprentice|trainee/',$t)) return 'internship';
     if(preg_match('/contract|freelance/',$t)) return 'contract';
 
     if(preg_match(
@@ -62,19 +61,18 @@ function detectEmployment($title){
     return 'full-time';
 }
 
-/* ===== NON-IT + IT SKILL DETECTION ===== */
 function detectSkills($title){
     $t = strtolower($title);
 
     $map = [
         // IT
         'php','python','java','react','node','sql','cloud','ai','data',
-        // Non-IT Govt / PSU
+        // Non-IT / PSU
         'mechanical','electrical','civil','electronics',
         'technician','operator','draughtsman',
         'clerk','assistant','officer','admin',
         'teacher','professor','lecturer','faculty',
-        'nurse','pharmacist','lab','medical',
+        'nurse','medical','lab',
         'accounts','finance','audit','hr','marketing'
     ];
 
@@ -105,7 +103,6 @@ foreach($sources as $src){
     $rss = loadRSS($src['url']);
     if(!$rss) continue;
 
-    /* Support both <channel><item> and Atom feeds */
     $items = [];
 
     if(!empty($rss->channel->item)) {
@@ -126,11 +123,16 @@ foreach($sources as $src){
         if(isset($seen[$hash])) continue;
         $seen[$hash]=1;
 
+        $employment = detectEmployment($title);
+
+        /* 🔒 FORCE INDIA JOBS TO INDIA */
+        $country = $src['country'];
+
         $jobs[] = [
             'title'      => $title,
             'company'    => $src['company'],
-            'country'    => $src['country'],
-            'employment' => detectEmployment($title),
+            'country'    => $country,
+            'employment' => $employment,
             'skills'     => detectSkills($title),
             'freshness'  => freshnessLabel($date),
             'link'       => $link,
