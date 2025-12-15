@@ -1,8 +1,18 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-15 19:25:53",
+    "generated_at": "2025-12-16 00:29:30",
     "total_jobs": 100,
     "jobs": [
+        {
+            "title": "Senior Systems Engineer Software",
+            "company": "RemoteOK",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "freshness": "fresh",
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-engineer-software-2100-nvidia-usa-1129220",
+            "date": 1765749602
+        },
         {
             "title": "Software Engineer Infrastructure Supercomputing",
             "company": "RemoteOK",
@@ -325,7 +335,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
-            "freshness": "new",
+            "freshness": "recent",
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-rust-shopify-parcelhero-1129187",
             "date": 1765548065
         },
@@ -335,7 +345,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
-            "freshness": "new",
+            "freshness": "recent",
             "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-compassx-group-1129186",
             "date": 1765548058
         },
@@ -345,7 +355,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
-            "freshness": "new",
+            "freshness": "recent",
             "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-goodnotes-1129185",
             "date": 1765548051
         },
@@ -355,7 +365,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
-            "freshness": "new",
+            "freshness": "recent",
             "link": "https://remoteOK.com/remote-jobs/remote-systems-infrastructure-engineer-deepintent-1129184",
             "date": 1765548018
         },
@@ -836,7 +846,7 @@
             "skills": [
                 "java"
             ],
-            "freshness": "recent",
+            "freshness": "old",
             "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-java-net-new-relic-1129130",
             "date": 1765216815
         },
@@ -1035,16 +1045,6 @@
             "freshness": "old",
             "link": "https://remoteOK.com/remote-jobs/remote-stem-associate-hispanic-access-foundation-1129100",
             "date": 1764810014
-        },
-        {
-            "title": "Senior Exploit Developer",
-            "company": "RemoteOK",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "freshness": "old",
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-exploit-developer-vulncheck-1129099",
-            "date": 1764802821
         }
     ]
 }
