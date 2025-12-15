@@ -1,8 +1,28 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-15 00:22",
+    "generated_at": "2025-12-15 09:31",
     "total_jobs": 125,
     "jobs": [
+        {
+            "title": "Software Engineer Infrastructure Supercomputing",
+            "company": "remoteok.com",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-infrastructure-supercomputing-xai-1129217",
+            "date": 1765677642
+        },
+        {
+            "title": "Staff DevOps Engineer",
+            "company": "remoteok.com",
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "devops"
+            ],
+            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-staff-devops-engineer-heartflow-1129216",
+            "date": 1765677618
+        },
         {
             "title": "Digital Marketing Manager Online Opportunity",
             "company": "remoteok.com",
@@ -925,22 +945,15 @@
             "date": 1764802821
         },
         {
-            "title": "Business Development",
-            "company": "remoteok.com",
+            "title": "Growth Factory Ventures: Applied AI Engineer",
+            "company": "weworkremotely.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
-            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-business-development-woo-x-1129098",
-            "date": 1764799251
-        },
-        {
-            "title": "Senior Product Designer",
-            "company": "remoteok.com",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-product-designer-tratta-1129097",
-            "date": 1764777829
+            "skills": [
+                "ai"
+            ],
+            "link": "https:\/\/weworkremotely.com\/remote-jobs\/growth-factory-ventures-applied-ai-engineer",
+            "date": 1764258687
         },
         {
             "title": "Lemon.io: Senior Full-stack Developer",
@@ -1068,15 +1081,6 @@
             "skills": [],
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/silverfin-experienced-ruby-product-engineer",
             "date": 1763377025
-        },
-        {
-            "title": "WPForms: WordPress Full-Stack Developer",
-            "company": "weworkremotely.com",
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "link": "https:\/\/weworkremotely.com\/remote-jobs\/wpforms-wordpress-full-stack-developer",
-            "date": 1763149432
         },
         {
             "title": "CompanyCam: Senior Software Engineer (React\/React Native)",
