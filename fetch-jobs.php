@@ -2,23 +2,25 @@
 /**
  * IAASSE Jobs Fetcher
  * India IT + Internships + Govt/PSU + Non-IT
- * GitHub Actions SAFE
+ * GitHub Actions SAFE – FINAL FIX
  */
 
 date_default_timezone_set('Asia/Kolkata');
 $OUT = __DIR__ . '/jobs-data.json';
 
 /* =========================
-   WORKING RSS SOURCES
+   VERIFIED WORKING RSS SOURCES
 ========================= */
 
 $sources = [
 
-/* ===== INDIA – IT & INTERNSHIPS (WORKING) ===== */
-['url'=>'https://www.naukri.com/rss/jobs/search?qp=software+engineering','country'=>'India','company'=>'Naukri'],
+/* ===== INDIA – IT JOBS ===== */
+['url'=>'https://www.naukri.com/rss/jobs/search?qp=software','country'=>'India','company'=>'Naukri'],
+['url'=>'https://www.naukri.com/rss/jobs/search?qp=developer','country'=>'India','company'=>'Naukri'],
+
+/* ===== INDIA – INTERNSHIPS ===== */
 ['url'=>'https://www.naukri.com/rss/jobs/search?qp=internship','country'=>'India','company'=>'Naukri'],
-['url'=>'https://www.freshersworld.com/jobs/rss','country'=>'India','company'=>'Freshersworld'],
-['url'=>'https://www.freshersworld.com/rss/internship-jobs','country'=>'India','company'=>'Freshersworld'],
+['url'=>'https://www.freshersworld.com/rss/internship-jobs','country'=>'India','company'=>'FreshersWorld'],
 
 /* ===== INDIA – GOVT / PSU ===== */
 ['url'=>'https://www.freejobalert.com/rss/government-jobs.xml','country'=>'India','company'=>'Govt / PSU'],
@@ -26,7 +28,6 @@ $sources = [
 
 /* ===== REMOTE / GLOBAL ===== */
 ['url'=>'https://remoteok.com/remote-jobs.rss','country'=>'Worldwide','company'=>'RemoteOK'],
-['url'=>'https://weworkremotely.com/categories/remote-programming-jobs.rss','country'=>'Worldwide','company'=>'WeWorkRemotely'],
 ];
 
 /* =========================
@@ -36,7 +37,7 @@ $sources = [
 function loadRSS($url){
     $ctx = stream_context_create([
         'http'=>[
-            'timeout'=>25,
+            'timeout'=>30,
             'user_agent'=>'IAASSE Jobs Bot'
         ]
     ]);
@@ -47,27 +48,30 @@ function loadRSS($url){
     return @simplexml_load_string($raw);
 }
 
+/* -------- EMPLOYMENT DETECTION (CRITICAL FIX) -------- */
 function detectEmployment($title){
     $t = strtolower($title);
 
-    if(preg_match('/intern|internship|apprentice|trainee/',$t)) return 'internship';
-    if(preg_match('/contract|freelance/',$t)) return 'contract';
+    if (preg_match('/intern|internship|apprentice|trainee/', $t))
+        return 'internship';
 
-    if(preg_match(
-        '/govt|government|psu|railway|bank|ssc|upsc|drdo|isro|bhel|iocl|ongc|ntpc|lic/',
-        $t
-    )) return 'govt';
+    if (preg_match('/contract|freelance/', $t))
+        return 'contract';
+
+    if (preg_match('/govt|government|psu|railway|bank|ssc|upsc|technician|clerk|assistant|officer|drdo|isro|iocl|bhel|ongc|ntpc|lic/', $t))
+        return 'govt';
 
     return 'full-time';
 }
 
+/* -------- SKILLS (IT + NON-IT) -------- */
 function detectSkills($title){
     $t = strtolower($title);
 
     $map = [
         // IT
         'php','python','java','react','node','sql','cloud','ai','data',
-        // Non-IT / PSU
+        // Non-IT / Govt
         'mechanical','electrical','civil','electronics',
         'technician','operator','draughtsman',
         'clerk','assistant','officer','admin',
@@ -78,7 +82,7 @@ function detectSkills($title){
 
     $skills=[];
     foreach($map as $s){
-        if(stripos($t,$s)!==false) $skills[]=$s;
+        if(strpos($t,$s)!==false) $skills[]=$s;
     }
     return array_values(array_unique($skills));
 }
@@ -105,9 +109,9 @@ foreach($sources as $src){
 
     $items = [];
 
-    if(!empty($rss->channel->item)) {
+    if(!empty($rss->channel->item)){
         $items = $rss->channel->item;
-    } elseif(!empty($rss->entry)) {
+    } elseif(!empty($rss->entry)){
         $items = $rss->entry;
     }
 
@@ -121,17 +125,14 @@ foreach($sources as $src){
 
         $hash = md5($title.$link);
         if(isset($seen[$hash])) continue;
-        $seen[$hash]=1;
+        $seen[$hash] = true;
 
         $employment = detectEmployment($title);
-
-        /* 🔒 FORCE INDIA JOBS TO INDIA */
-        $country = $src['country'];
 
         $jobs[] = [
             'title'      => $title,
             'company'    => $src['company'],
-            'country'    => $country,
+            'country'    => $src['country'],   // 🔒 NEVER overwritten
             'employment' => $employment,
             'skills'     => detectSkills($title),
             'freshness'  => freshnessLabel($date),
