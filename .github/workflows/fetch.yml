@@ -1,7 +1,7 @@
 name: IAASSE Jobs Fetcher
 
 permissions:
-  contents: write   # <-- THIS IS THE KEY FIX
+  contents: write   # REQUIRED to push commits
 
 on:
   schedule:
@@ -24,6 +24,42 @@ jobs:
       - name: Run jobs fetcher
         run: php fetch-jobs.php
 
+      # ✅ STEP ADDED — JSON VALIDATION (BLOCKS BAD COMMITS)
+      - name: Validate jobs-data.json
+        run: |
+          node -e "
+          const fs = require('fs');
+
+          if (!fs.existsSync('jobs-data.json')) {
+            console.error('❌ jobs-data.json not found');
+            process.exit(1);
+          }
+
+          const data = JSON.parse(fs.readFileSync('jobs-data.json','utf8'));
+
+          if (!Array.isArray(data.jobs)) {
+            console.error('❌ jobs must be an array');
+            process.exit(1);
+          }
+
+          data.jobs.forEach((job,i)=>{
+            const required = ['title','company','country','employment','link','date'];
+            required.forEach(k=>{
+              if(!job[k]){
+                console.error(`❌ Missing ${k} at job index ${i}`);
+                process.exit(1);
+              }
+            });
+
+            if (typeof job.date !== 'number') {
+              console.error(`❌ Invalid date at job index ${i}`);
+              process.exit(1);
+            }
+          });
+
+          console.log('✅ jobs-data.json validation passed');
+          "
+
       - name: Commit jobs JSON
         run: |
           git config user.name "IAASSE Bot"
@@ -31,4 +67,3 @@ jobs:
           git add jobs-data.json
           git commit -m "Update jobs data" || exit 0
           git push
-
