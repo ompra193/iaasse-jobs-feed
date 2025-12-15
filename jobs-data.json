@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-15 09:31",
+    "generated_at": "2025-12-15 11:24",
     "total_jobs": 125,
     "jobs": [
         {
@@ -9,6 +9,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-infrastructure-supercomputing-xai-1129217",
             "date": 1765677642
         },
@@ -17,9 +18,8 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "devops"
-            ],
+            "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-staff-devops-engineer-heartflow-1129216",
             "date": 1765677618
         },
@@ -28,7 +28,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "marketing"
+            ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-digital-marketing-manager-online-opportunity-mindmoneyreset-1129215",
             "date": 1765663250
         },
@@ -38,6 +41,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-partnership-head-hr-force-international-1129214",
             "date": 1765663244
         },
@@ -49,6 +53,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-danish-speaking-jobs-greece-work-greece-fully-paid-relocation-package-mercier-consultancy-md-1129213",
             "date": 1765663238
         },
@@ -60,6 +65,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-french-speaking-jobs-greece-work-greece-fully-paid-relocation-package-mercier-consultancy-md-1129212",
             "date": 1765663232
         },
@@ -71,6 +77,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-danish-speaking-jobs-greece-work-greece-fully-paid-relocation-package-mercier-consultancy-md-1129211",
             "date": 1765663226
         },
@@ -80,15 +87,19 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-leadership-development-associate-lifestyle-seed-consulting-1129210",
             "date": 1765663220
         },
         {
-            "title": "Digital Marketing & Client Outreach Consultant",
+            "title": "Digital Marketing &amp; Client Outreach Consultant",
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "marketing"
+            ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-digital-marketing-amp-client-outreach-consultant-blue-shed-group-1129209",
             "date": 1765663214
         },
@@ -98,6 +109,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-3pillar-3pillar-1129208",
             "date": 1765656007
         },
@@ -107,6 +119,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-offensive-security-engineer-agent-security-openai-1129207",
             "date": 1765652416
         },
@@ -116,6 +129,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-architect-conga-1129206",
             "date": 1765652410
         },
@@ -125,6 +139,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-mid-c-fullstack-developer-zipdev-1129205",
             "date": 1765634419
         },
@@ -134,15 +149,17 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-enterprise-account-executive-western-versaterm-1129204",
             "date": 1765605761
         },
         {
-            "title": "Fraud & Payments Risk Specialist",
+            "title": "Fraud &amp; Payments Risk Specialist",
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-fraud-amp-payments-risk-specialist-baselane-1129203",
             "date": 1765605743
         },
@@ -152,6 +169,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-enterprise-account-executive-eastern-versaterm-1129202",
             "date": 1765605736
         },
@@ -161,6 +179,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-licensed-mental-health-therapist-oregon-ascend-healthcare-1129201",
             "date": 1765605719
         },
@@ -170,6 +189,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-director-people-ops-duckduckgo-1129200",
             "date": 1765605691
         },
@@ -181,6 +201,7 @@
             "skills": [
                 "cloud"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-security-engineer-cloud-security-trase-systems-1129199",
             "date": 1765605685
         },
@@ -188,10 +209,11 @@
             "title": "Drone Systems Specialist Freelance AI Trainer Project",
             "company": "remoteok.com",
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "contract",
             "skills": [
                 "ai"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-drone-systems-specialist-freelance-ai-trainer-project-invisible-agency-1129198",
             "date": 1765605662
         },
@@ -201,6 +223,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-manager-operations-project-management-airsculpt-1129197",
             "date": 1765605643
         },
@@ -208,10 +231,11 @@
             "title": "Architecture & Construction Documentation Specialist Freelance AI Trainer Project",
             "company": "remoteok.com",
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "contract",
             "skills": [
                 "ai"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-architecture-construction-documentation-specialist-freelance-ai-trainer-project-invisible-agency-1129196",
             "date": 1765605623
         },
@@ -221,6 +245,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-typescript-developer-stoke-studio-1129195",
             "date": 1765601849
         },
@@ -230,6 +255,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-frontend-developer-sanctuary-computer-1129194",
             "date": 1765587759
         },
@@ -239,6 +265,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-account-manager-qsr-fetch-1129193",
             "date": 1765576860
         },
@@ -248,6 +275,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-customer-success-manager-ii-sled-extrahop-1129192",
             "date": 1765576833
         },
@@ -257,6 +285,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-trading-technology-engineer-bitmex-1129191",
             "date": 1765569619
         },
@@ -265,7 +294,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "analyst"
+            ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-junior-crypto-analyst-trader-whitebridge-ltd-1129190",
             "date": 1765567843
         },
@@ -275,6 +307,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-accountant-circle-so-1129189",
             "date": 1765566057
         },
@@ -284,6 +317,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-copywriter-infuse-1129188",
             "date": 1765566035
         },
@@ -293,6 +327,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-rust-shopify-parcelhero-1129187",
             "date": 1765548065
         },
@@ -302,6 +337,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-full-stack-software-engineer-compassx-group-1129186",
             "date": 1765548058
         },
@@ -311,6 +347,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-backend-engineer-goodnotes-1129185",
             "date": 1765548051
         },
@@ -320,6 +357,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-systems-infrastructure-engineer-deepintent-1129184",
             "date": 1765548018
         },
@@ -332,6 +370,7 @@
                 "data",
                 "cloud"
             ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-staff-cloud-database-engineer-weightwatchers-1129183",
             "date": 1765519314
         },
@@ -341,6 +380,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-proposal-manager-ultraviolet-cyber-1129182",
             "date": 1765519296
         },
@@ -350,6 +390,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-frontend-engineer-editor-team-thrivecart-1129181",
             "date": 1765519289
         },
@@ -359,6 +400,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-manager-identity-security-mq-referrals-only-1129180",
             "date": 1765519268
         },
@@ -367,7 +409,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "analyst"
+            ],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-privacy-assurance-program-analyst-trustarc-1129179",
             "date": 1765519253
         },
@@ -377,6 +422,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-manager-community-events-and-engagement-american-marketing-association-1129178",
             "date": 1765519246
         },
@@ -386,6 +432,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "new",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-quality-engineer-gurobi-optimization-1129177",
             "date": 1765519225
         },
@@ -395,6 +442,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-language-instructor-ae-virtual-class-s-a-1129176",
             "date": 1765507129
         },
@@ -406,6 +454,7 @@
             "skills": [
                 "cloud"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-staff-technical-product-manager-cloud-infrastructure-turkiye-jumpcloud-1129175",
             "date": 1765504801
         },
@@ -415,6 +464,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-support-specialist-cadwell-1129174",
             "date": 1765501214
         },
@@ -424,6 +474,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-communications-manager-ambience-healthcare-1129173",
             "date": 1765461614
         },
@@ -433,6 +484,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-engineering-manager-self-custody-anchorage-digital-1129172",
             "date": 1765450802
         },
@@ -442,6 +494,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-magicschool-ai-1129171",
             "date": 1765432825
         },
@@ -450,7 +503,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "analyst"
+            ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-netsuite-system-analyst-cologix-1129170",
             "date": 1765411202
         },
@@ -460,6 +516,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-associate-underwriter-ck-specialty-insurance-associates-inc-1129169",
             "date": 1765404056
         },
@@ -469,6 +526,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-veterinarian-joliet-il-heartstrings-pet-hospice-in-home-euthanasia-aftercare-1129168",
             "date": 1765404050
         },
@@ -478,6 +536,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-implementation-specialist-health-tech-adoreal-1129167",
             "date": 1765404044
         },
@@ -487,6 +546,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-call-center-representative-lap-of-love-1129166",
             "date": 1765404038
         },
@@ -496,6 +556,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-full-stack-typescript-engineer-glama-1129165",
             "date": 1765403255
         },
@@ -505,6 +566,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-brand-designer-garden3d-1129164",
             "date": 1765397724
         },
@@ -516,6 +578,7 @@
             "skills": [
                 "data"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-data-engineer-ethena-labs-1129163",
             "date": 1765396801
         },
@@ -525,6 +588,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-product-manager-conduit-1129162",
             "date": 1765386001
         },
@@ -534,6 +598,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-cyber-security-specialist-sentrabyte-digital-solusi-1129161",
             "date": 1765376956
         },
@@ -543,6 +608,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-business-development-manager-loot-labs-1129160",
             "date": 1765375227
         },
@@ -552,6 +618,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-customer-service-specialist-greenlight-financial-technology-1129159",
             "date": 1765375221
         },
@@ -561,6 +628,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-full-stack-developer-best-online-traffic-school-1129158",
             "date": 1765374544
         },
@@ -570,6 +638,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-tech-innovations-inc-1129153",
             "date": 1765321254
         },
@@ -579,6 +648,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-backend-developer-global-tech-service-solutions-1129152",
             "date": 1765313047
         },
@@ -588,6 +658,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-frontend-developer-global-tech-service-solutions-1129151",
             "date": 1765312669
         },
@@ -597,6 +668,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-product-manager-recidiviz-1129150",
             "date": 1765306818
         },
@@ -610,6 +682,7 @@
                 "node",
                 "cloud"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-cloud-architect-nodejs-react-3pillar-1129146",
             "date": 1765288905
         },
@@ -619,6 +692,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-talent-acquisition-coordinator-jumpcloud-1129145",
             "date": 1765288898
         },
@@ -628,6 +702,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-noho-labs-8vc-1129144",
             "date": 1765288882
         },
@@ -639,6 +714,7 @@
             "skills": [
                 "data"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-data-migration-engineer-mark43-1129143",
             "date": 1765288875
         },
@@ -648,6 +724,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-software-engineer-anduril-industries-1129142",
             "date": 1765288855
         },
@@ -655,8 +732,9 @@
             "title": "Government Relations Executive Northeast Midwest Mid Atlantic",
             "company": "remoteok.com",
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-government-relations-executive-northeast-midwest-mid-atlantic-cartwheel-1129141",
             "date": 1765263616
         },
@@ -665,7 +743,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "sales"
+            ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-network-operations-sales-jobs-gfiber-1129139",
             "date": 1765260175
         },
@@ -675,6 +756,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-product-manager-e-commerce-ollie-1129138",
             "date": 1765260162
         },
@@ -686,6 +768,7 @@
             "skills": [
                 "data"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-legal-technology-consulting-director-discovery-and-data-management-harbor-1129137",
             "date": 1765260138
         },
@@ -695,6 +778,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-clinical-operations-specialist-quality-safety-midi-health-1129136",
             "date": 1765260117
         },
@@ -703,7 +787,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "sales"
+            ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-account-executive-sales-team-bennie-1129135",
             "date": 1765260096
         },
@@ -713,6 +800,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-hubspot-careers-all-openings-hubspot-1129134",
             "date": 1765260073
         },
@@ -721,7 +809,10 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "analyst"
+            ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-benefits-analyst-bennie-1129133",
             "date": 1765260061
         },
@@ -733,6 +824,7 @@
             "skills": [
                 "data"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-data-migration-engineer-mark43-1129132",
             "date": 1765260039
         },
@@ -742,6 +834,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-tech-solutions-inc-1129131",
             "date": 1765231209
         },
@@ -753,6 +846,7 @@
             "skills": [
                 "java"
             ],
+            "freshness": "recent",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-technical-support-engineer-java-net-new-relic-1129130",
             "date": 1765216815
         },
@@ -762,6 +856,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-customer-success-specialist-modernizing-medicine-inc-1129126",
             "date": 1765170019
         },
@@ -771,6 +866,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-careers-radformation-radformation-1129124",
             "date": 1765083606
         },
@@ -780,6 +876,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-technical-writer-micro1-1129123",
             "date": 1765040411
         },
@@ -789,6 +886,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-software-engineer-ii-horace-mann-1129121",
             "date": 1764972032
         },
@@ -800,6 +898,7 @@
             "skills": [
                 "php"
             ],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-php-developer-prezly-1129120",
             "date": 1764966445
         },
@@ -808,9 +907,8 @@
             "company": "remoteok.com",
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "devops"
-            ],
+            "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-devops-engineer-alpaca-1129119",
             "date": 1764961221
         },
@@ -820,6 +918,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-account-executive-bobtail-1129118",
             "date": 1764957649
         },
@@ -829,6 +928,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-onboarding-specialist-pulley-1129117",
             "date": 1764957626
         },
@@ -840,6 +940,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-digital-specialist-paid-social-community-boost-1129116",
             "date": 1764957601
         },
@@ -851,6 +952,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-backend-engineer-unichain-uniswap-labs-1129115",
             "date": 1764950415
         },
@@ -860,6 +962,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-5k-monthly-work-from-home-offer-remote-5k-monthly-work-from-home-job-offer-1129114",
             "date": 1764936066
         },
@@ -869,6 +972,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-current-openings-wormhole-foundation-1129111",
             "date": 1764918014
         },
@@ -878,6 +982,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-product-designer-onepay-1129110",
             "date": 1764914415
         },
@@ -887,6 +992,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-strategic-partnerships-manager-jobgether-1129108",
             "date": 1764885616
         },
@@ -896,6 +1002,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-systems-engineer-veeam-software-1129105",
             "date": 1764828032
         },
@@ -905,6 +1012,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-advanced-msk-physiotherapist-gpdq-1129104",
             "date": 1764828018
         },
@@ -914,6 +1022,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-technical-program-manager-monad-foundation-1129103",
             "date": 1764828011
         },
@@ -923,6 +1032,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-development-coordinator-givewell-1129101",
             "date": 1764813615
         },
@@ -932,6 +1042,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-stem-associate-hispanic-access-foundation-1129100",
             "date": 1764810014
         },
@@ -941,6 +1052,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/remoteOK.com\/remote-jobs\/remote-senior-exploit-developer-vulncheck-1129099",
             "date": 1764802821
         },
@@ -952,6 +1064,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/growth-factory-ventures-applied-ai-engineer",
             "date": 1764258687
         },
@@ -961,6 +1074,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/lemon-io-senior-full-stack-developer-6",
             "date": 1764248069
         },
@@ -970,6 +1084,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/prat-city-llc-senior-full-stack-developer",
             "date": 1764154451
         },
@@ -981,6 +1096,7 @@
             "skills": [
                 "data"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/posthog-product-engineer-data-modeling",
             "date": 1764116080
         },
@@ -992,6 +1108,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/posthog-ai-product-engineer",
             "date": 1764115342
         },
@@ -1003,6 +1120,7 @@
             "skills": [
                 "react"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
             "date": 1764083919
         },
@@ -1012,6 +1130,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/comparis-ch-android-engineer-80-100-f-m-x",
             "date": 1764083406
         },
@@ -1021,6 +1140,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/baxenergy-senior-software-engineer-renewable-energy-software",
             "date": 1763997787
         },
@@ -1032,6 +1152,7 @@
             "skills": [
                 "data"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/baxenergy-senior-data-scientist-1",
             "date": 1763997670
         },
@@ -1043,6 +1164,7 @@
             "skills": [
                 "python"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/onthegosystems-python-developer",
             "date": 1763992240
         },
@@ -1052,6 +1174,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/silverfin-player-coach-engineering-team-lead",
             "date": 1763990610
         },
@@ -1061,6 +1184,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/chipcolate-senior-engineer-fullstack",
             "date": 1763717760
         },
@@ -1070,6 +1194,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/aexgroup-csharp-net-developer",
             "date": 1763500661
         },
@@ -1079,6 +1204,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/silverfin-experienced-ruby-product-engineer",
             "date": 1763377025
         },
@@ -1090,6 +1216,7 @@
             "skills": [
                 "react"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/companycam-senior-software-engineer-react-react-native",
             "date": 1761340552
         },
@@ -1101,6 +1228,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/bitovi-applied-ai-engineer-consultant",
             "date": 1761075519
         },
@@ -1112,6 +1240,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/stellar-ai-senior-software-engineer",
             "date": 1761075386
         },
@@ -1123,6 +1252,7 @@
             "skills": [
                 "python"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/valory-ag-senior-python-engineer",
             "date": 1761046876
         },
@@ -1132,6 +1262,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/weflow-senior-principal-software-engineer",
             "date": 1761041232
         },
@@ -1143,6 +1274,7 @@
             "skills": [
                 "java"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/inovo-studios-full-stack-javascript-developer-shape-up-small-team-1",
             "date": 1758215388
         },
@@ -1152,6 +1284,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/perfect-stealth-technology-startup-lead-software-engineer",
             "date": 1756478021
         },
@@ -1161,6 +1294,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/dynamicare-health-full-stack-engineer",
             "date": 1755535001
         },
@@ -1170,6 +1304,7 @@
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/sticker-mule-software-engineer-1",
             "date": 1753693913
         },
@@ -1181,6 +1316,7 @@
             "skills": [
                 "python"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
         },
@@ -1192,6 +1328,7 @@
             "skills": [
                 "ai"
             ],
+            "freshness": "old",
             "link": "https:\/\/weworkremotely.com\/remote-jobs\/proton-ai-senior-backend-engineer",
             "date": 1737590397
         }
