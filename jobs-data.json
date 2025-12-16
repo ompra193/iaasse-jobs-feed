@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-16 19:22:57",
-    "total_jobs": 120,
+    "generated_at": "2025-12-17 00:28:57",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Customer Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-pulley-1129231",
+            "date": 1765843270
+        },
+        {
+            "title": "Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-nmi-1129230",
+            "date": 1765843253
+        },
+        {
+            "title": "Security Engineer Cloud Security",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-cloud-security-red-cell-partners-1129229",
+            "date": 1765843233
+        },
+        {
+            "title": "Senior Software Engineer Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-platform-omada-health-1129228",
+            "date": 1765843213
+        },
+        {
+            "title": "Gerente Sr Tecnologia",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-gerente-sr-tecnologia-skydropx-frenet-1129227",
+            "date": 1765836018
+        },
         {
             "title": "Senior Platform Infrastructure Engineer II",
             "company": "RemoteOK",
@@ -261,19 +318,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-people-ops-duckduckgo-1129200",
             "date": 1765605691
-        },
-        {
-            "title": "Security Engineer Cloud Security",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-cloud-security-trase-systems-1129199",
-            "date": 1765605685
         },
         {
             "title": "Drone Systems Specialist Freelance AI Trainer Project",
@@ -1029,61 +1073,17 @@
             "date": 1764950415
         },
         {
-            "title": "$5k Monthly Virtual Assistant",
-            "company": "RemoteOK",
+            "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "assistant"
+                "react"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-5k-monthly-virtual-assistant-best-estimate-pro-1129114",
-            "date": 1764936066
-        },
-        {
-            "title": "Current openings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-wormhole-foundation-1129111",
-            "date": 1764918014
-        },
-        {
-            "title": "Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-onepay-1129110",
-            "date": 1764914415
-        },
-        {
-            "title": "Senior Strategic Partnerships Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-strategic-partnerships-manager-jobgether-1129108",
-            "date": 1764885616
-        },
-        {
-            "title": "Senior Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-engineer-veeam-software-1129105",
-            "date": 1764828032
+            "link": "https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform",
+            "date": 1764618137
         },
         {
             "title": "OnTheGoSystems: PHP Developer (Latin America, German, French and Spanish speakers)",
@@ -1337,17 +1337,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/perfect-stealth-technology-startup-lead-software-engineer",
             "date": 1756478021
-        },
-        {
-            "title": "DynamiCare Health: Full-Stack Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
-            "date": 1755535001
         },
         {
             "title": "Sticker Mule: Software engineer",
