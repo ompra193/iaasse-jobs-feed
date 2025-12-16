@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-16 12:31:10",
+    "generated_at": "2025-12-16 19:22:57",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Platform Infrastructure Engineer II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-infrastructure-engineer-ii-braze-1129226",
+            "date": 1765821651
+        },
+        {
+            "title": "Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-support-engineer-humansignal-1129225",
+            "date": 1765821620
+        },
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-inkitt-1129224",
+            "date": 1765821601
+        },
+        {
+            "title": "Staff Protocol Engineer EVM",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-protocol-engineer-evm-ava-labs-1129223",
+            "date": 1765814422
+        },
         {
             "title": "Finance Manager",
             "company": "RemoteOK",
@@ -701,7 +745,7 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-developer-global-tech-service-solutions-1129152",
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-developer-global-tech-services-solutions-1129152",
             "date": 1765313047
         },
         {
@@ -937,17 +981,6 @@
             "date": 1764966445
         },
         {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-alpaca-1129119",
-            "date": 1764961221
-        },
-        {
             "title": "Account Executive",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1051,39 +1084,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-engineer-veeam-software-1129105",
             "date": 1764828032
-        },
-        {
-            "title": "Advanced MSK Physiotherapist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-advanced-msk-physiotherapist-gpdq-1129104",
-            "date": 1764828018
-        },
-        {
-            "title": "Technical Program Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-program-manager-monad-foundation-1129103",
-            "date": 1764828011
-        },
-        {
-            "title": "Development Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-development-coordinator-givewell-1129101",
-            "date": 1764813615
         },
         {
             "title": "OnTheGoSystems: PHP Developer (Latin America, German, French and Spanish speakers)",
