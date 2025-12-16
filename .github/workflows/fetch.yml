@@ -1,7 +1,7 @@
 name: IAASSE Jobs Fetcher
 
 permissions:
-  contents: write   # REQUIRED to push commits
+  contents: write
 
 on:
   schedule:
@@ -21,10 +21,19 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y php php-cli php-xml
 
-      - name: Run jobs fetcher
-        run: php fetch-jobs.php
+      # ✅ Ensure Node.js for JSON validation
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-      # ✅ STEP ADDED — JSON VALIDATION (BLOCKS BAD COMMITS)
+      # ✅ Run fetcher (fail on error)
+      - name: Run jobs fetcher
+        run: |
+          set -e
+          php fetch-jobs.php
+
+      # ✅ JSON SCHEMA VALIDATION (KEEP THIS)
       - name: Validate jobs-data.json
         run: |
           node -e "
