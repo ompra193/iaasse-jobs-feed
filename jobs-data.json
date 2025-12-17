@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-17 00:28:57",
+    "generated_at": "2025-12-17 09:18:41",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Vice President Customer Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-customer-support-vultr-1129236",
+            "date": 1765872011
+        },
+        {
+            "title": "Senior Contract Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-contract-support-specialist-blue-water-thinking-1129235",
+            "date": 1765864834
+        },
+        {
+            "title": "PHP Laravel Developer Needed ROCKSTARS ONLY",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-php-laravel-developer-needed-rockstars-only-agent-legend-1129233",
+            "date": 1765856477
+        },
+        {
+            "title": "Senior Infrastructure Engineer Core Systems",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-infrastructure-engineer-core-systems-quicknode-1129232",
+            "date": 1765846801
+        },
         {
             "title": "Customer Support Specialist",
             "company": "RemoteOK",
@@ -1023,54 +1069,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-php-developer-prezly-1129120",
             "date": 1764966445
-        },
-        {
-            "title": "Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-bobtail-1129118",
-            "date": 1764957649
-        },
-        {
-            "title": "Onboarding Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-onboarding-specialist-pulley-1129117",
-            "date": 1764957626
-        },
-        {
-            "title": "Digital Specialist Paid Social",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-specialist-paid-social-community-boost-1129116",
-            "date": 1764957601
-        },
-        {
-            "title": "Backend Engineer Unichain",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-unichain-uniswap-labs-1129115",
-            "date": 1764950415
         },
         {
             "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
