@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-17 12:29:41",
-    "total_jobs": 120,
+    "generated_at": "2025-12-17 19:16:34",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Java Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-java-software-engineer-capital-com-1129241",
+            "date": 1765911602
+        },
+        {
+            "title": "Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-shakepay-1129240",
+            "date": 1765904416
+        },
+        {
+            "title": "Current openings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-bitmex-1129239",
+            "date": 1765893607
+        },
         {
             "title": "Job Title Here",
             "company": "RemoteOK",
@@ -70,17 +105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-pulley-1129231",
             "date": 1765843270
-        },
-        {
-            "title": "Staff Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-nmi-1129230",
-            "date": 1765843253
         },
         {
             "title": "Security Engineer Cloud Security",
@@ -1047,39 +1071,15 @@
             "date": 1765083606
         },
         {
-            "title": "Technical Writer",
-            "company": "RemoteOK",
+            "title": "Contra: Creative Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-micro1-1129123",
-            "date": 1765040411
-        },
-        {
-            "title": "Software Engineer II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-horace-mann-1129121",
-            "date": 1764972032
-        },
-        {
-            "title": "Senior PHP Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-php-developer-prezly-1129120",
-            "date": 1764966445
+            "link": "https://weworkremotely.com/remote-jobs/contra-creative-engineer",
+            "date": 1764688808
         },
         {
             "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
@@ -1261,17 +1261,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/aexgroup-csharp-net-developer",
             "date": 1763500661
-        },
-        {
-            "title": "Silverfin: Experienced Ruby Product Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer",
-            "date": 1763377025
         },
         {
             "title": "CompanyCam: Senior Software Engineer (React/React Native)",
