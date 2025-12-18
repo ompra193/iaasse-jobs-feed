@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-18 00:29:38",
+    "generated_at": "2025-12-18 09:18:51",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Caregiver Elderly Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-caregiver-elderly-support-ryz-labs-1129257",
+            "date": 1765951263
+        },
+        {
+            "title": "Physical Therapist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-physical-therapist-ryz-labs-1129256",
+            "date": 1765951256
+        },
+        {
+            "title": "Polly",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-polly-polly-1129255",
+            "date": 1765951246
+        },
+        {
+            "title": "Khmer US based Medical Translators needed",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-khmer-us-based-medical-translators-needed-lilt-production-1129254",
+            "date": 1765951213
+        },
         {
             "title": "Behavior Technician",
             "company": "RemoteOK",
@@ -1045,52 +1091,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-coordinator-jumpcloud-1129145",
             "date": 1765288898
-        },
-        {
-            "title": "Software Engineer Noho Labs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-noho-labs-8vc-1129144",
-            "date": 1765288882
-        },
-        {
-            "title": "Data Migration Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-migration-engineer-mark43-1129143",
-            "date": 1765288875
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-anduril-industries-1129142",
-            "date": 1765288855
-        },
-        {
-            "title": "Government Relations Executive Northeast Midwest Mid Atlantic",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-government-relations-executive-northeast-midwest-mid-atlantic-cartwheel-1129141",
-            "date": 1765263616
         },
         {
             "title": "Energy Hub: Hardware and Firmware Engineer (Contract / Short-term (V0 & V1 pilots))",
