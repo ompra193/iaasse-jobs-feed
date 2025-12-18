@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-18 19:20:51",
+    "generated_at": "2025-12-19 00:29:01",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Software Engineer III",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-iii-meridianlink-1129270",
+            "date": 1766008817
+        },
         {
             "title": "Graphic Designer",
             "company": "RemoteOK",
@@ -1089,26 +1100,15 @@
             "date": 1765404038
         },
         {
-            "title": "Full Stack TypeScript Engineer",
-            "company": "RemoteOK",
+            "title": "Proxify AB: Senior Next.js Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-typescript-engineer-glama-1129165",
-            "date": 1765403255
-        },
-        {
-            "title": "Energy Hub: Hardware and Firmware Engineer (Contract / Short-term (V0 & V1 pilots))",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/energy-hub-hardware-and-firmware-engineer-contract-short-term-v0-v1-pilots",
-            "date": 1764692872
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-3",
+            "date": 1764765472
         },
         {
             "title": "Contra: Creative Engineer",
