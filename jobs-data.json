@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-19 12:29:28",
-    "total_jobs": 122,
+    "generated_at": "2025-12-19 19:16:57",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "The SafetyWing Digital Nomad Residency",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-the-safetywing-digital-nomad-residency-safetywing-1129278",
+            "date": 1766072725
+        },
+        {
+            "title": "SDET II SDET III",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sdet-ii-sdet-iii-netomi-1129275",
+            "date": 1766066437
+        },
+        {
+            "title": "Director IT & Security",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-it-security-highlightta-1129274",
+            "date": 1766066424
+        },
+        {
+            "title": "Product Owner Payments",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-owner-payments-flex-1129273",
+            "date": 1766066417
+        },
+        {
+            "title": "Community Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-community-manager-manta-network-powered-by-p0x-labs-1129272",
+            "date": 1766062801
+        },
         {
             "title": "Manager Security Product Research",
             "company": "RemoteOK",
@@ -1032,72 +1087,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-communications-manager-ambience-healthcare-1129173",
             "date": 1765461614
-        },
-        {
-            "title": "Engineering Manager Self Custody",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-self-custody-anchorage-digital-1129172",
-            "date": 1765450802
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-magicschool-ai-1129171",
-            "date": 1765432825
-        },
-        {
-            "title": "NetSuite System Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-netsuite-system-analyst-cologix-1129170",
-            "date": 1765411202
-        },
-        {
-            "title": "Associate Underwriter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-underwriter-ck-specialty-insurance-associates-inc-1129169",
-            "date": 1765404056
-        },
-        {
-            "title": "Veterinarian Joliet IL",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-veterinarian-joliet-il-heartstrings-pet-hospice-in-home-euthanasia-aftercare-1129168",
-            "date": 1765404050
-        },
-        {
-            "title": "Implementation Specialist Health tech",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-health-tech-adoreal-1129167",
-            "date": 1765404044
         },
         {
             "title": "Proxify AB: Senior Next.js Developer",
