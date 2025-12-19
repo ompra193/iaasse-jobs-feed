@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-19 00:29:01",
+    "generated_at": "2025-12-19 09:21:25",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Manager Security Product Research",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-security-product-research-corelight-1129271",
+            "date": 1766030413
+        },
         {
             "title": "Software Engineer III",
             "company": "RemoteOK",
@@ -344,17 +355,6 @@
             "date": 1765911602
         },
         {
-            "title": "Staff Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-shakepay-1129240",
-            "date": 1765904416
-        },
-        {
             "title": "Current openings",
             "company": "RemoteOK",
             "company_logo": null,
@@ -432,6 +432,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-pulley-1129231",
             "date": 1765843270
+        },
+        {
+            "title": "Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-nmi-1129230",
+            "date": 1765843253
         },
         {
             "title": "Security Engineer Cloud Security",
@@ -1089,17 +1100,6 @@
             "date": 1765404044
         },
         {
-            "title": "Call Center Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-call-center-representative-lap-of-love-1129166",
-            "date": 1765404038
-        },
-        {
             "title": "Proxify AB: Senior Next.js Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1292,17 +1292,6 @@
             "date": 1763717760
         },
         {
-            "title": "AEXGroup: C# / .Net developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aexgroup-csharp-net-developer",
-            "date": 1763500661
-        },
-        {
             "title": "CompanyCam: Senior Software Engineer (React/React Native)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1364,6 +1353,17 @@
             "date": 1756478021
         },
         {
+            "title": "Zencastr: Senior Backend Engineer - Full Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
+            "date": 1754510489
+        },
+        {
             "title": "Sticker Mule: Software engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1388,17 +1388,15 @@
             "date": 1753281114
         },
         {
-            "title": "Proton.ai: Senior Backend Engineer",
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
-            "date": 1737590397
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
