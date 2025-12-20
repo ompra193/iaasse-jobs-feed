@@ -1,8 +1,67 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-20 12:25:59",
+    "generated_at": "2025-12-20 18:51:05",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "JumpCloud",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-jumpcloud-jumpcloud-1129289",
+            "date": 1766167208
+        },
+        {
+            "title": "Marketing Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-strategist-onelocal-1129288",
+            "date": 1766163620
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-field-nation-1129287",
+            "date": 1766152846
+        },
+        {
+            "title": "Platform Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-platform-security-engineer-braze-1129285",
+            "date": 1766152812
+        },
+        {
+            "title": "Lead Medical Writer Medical Communications",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-medical-writer-medical-communications-avalere-health-1129286",
+            "date": 1766152812
+        },
         {
             "title": "Senior Product Marketing Manager Cloud Security",
             "company": "RemoteOK",
@@ -1034,63 +1093,6 @@
             "date": 1765519268
         },
         {
-            "title": "Privacy Assurance Program Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-privacy-assurance-program-analyst-trustarc-1129179",
-            "date": 1765519253
-        },
-        {
-            "title": "Manager Community Events and Engagement",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-community-events-and-engagement-american-marketing-association-1129178",
-            "date": 1765519246
-        },
-        {
-            "title": "Software Quality Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-quality-engineer-gurobi-optimization-1129177",
-            "date": 1765519225
-        },
-        {
-            "title": "Language instructor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-language-instructor-ae-virtual-class-s-a-1129176",
-            "date": 1765507129
-        },
-        {
-            "title": "Staff Technical Product Manager Cloud Infrastructure T\u00c3\u00bcrkiye",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-technical-product-manager-cloud-infrastructure-turkiye-jumpcloud-1129175",
-            "date": 1765504801
-        },
-        {
             "title": "Proxify AB: Senior Next.js Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1309,30 +1311,6 @@
             "date": 1761075386
         },
         {
-            "title": "Valory AG: Senior Python Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/valory-ag-senior-python-engineer",
-            "date": 1761046876
-        },
-        {
-            "title": "Weflow: Senior / Principal Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/weflow-senior-principal-software-engineer",
-            "date": 1761041232
-        },
-        {
             "title": "Perfect (Stealth Technology Startup): Lead Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1377,6 +1355,30 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
+        },
+        {
+            "title": "Speechify Inc: Software Engineer, iOS Core Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+            "date": 1752075311
+        },
+        {
+            "title": "Lumenalta: Javascript Fullstack Engineer - Senior",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior",
+            "date": 1744230316
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
