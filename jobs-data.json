@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-20 00:26:58",
+    "generated_at": "2025-12-20 09:11:28",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Product Marketing Manager Cloud Security",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-marketing-manager-cloud-security-tenable-inc-1129284",
+            "date": 1766116817
+        },
         {
             "title": "Software Engineer Integrations",
             "company": "RemoteOK",
@@ -1076,17 +1089,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-staff-technical-product-manager-cloud-infrastructure-turkiye-jumpcloud-1129175",
             "date": 1765504801
-        },
-        {
-            "title": "Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-support-specialist-cadwell-1129174",
-            "date": 1765501214
         },
         {
             "title": "Proxify AB: Senior Next.js Developer",
