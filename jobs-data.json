@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-20 18:51:05",
+    "generated_at": "2025-12-21 00:20:23",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Operations Recruiter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-recruiter-field-ai-1129291",
+            "date": 1766181625
+        },
+        {
+            "title": "Full Stack Software Engineer III Angular Java",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-iii-angular-java-meridianlink-1129290",
+            "date": 1766181618
+        },
         {
             "title": "JumpCloud",
             "company": "RemoteOK",
@@ -1071,26 +1095,15 @@
             "date": 1765519296
         },
         {
-            "title": "Frontend Engineer Editor Team",
-            "company": "RemoteOK",
+            "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-editor-team-thrivecart-1129181",
-            "date": 1765519289
-        },
-        {
-            "title": "Manager Identity Security",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-identity-security-mq-referrals-only-1129180",
-            "date": 1765519268
+            "link": "https://weworkremotely.com/remote-jobs/app-sauce-junior-vibecoder-mobile-app-builder",
+            "date": 1765051453
         },
         {
             "title": "Proxify AB: Senior Next.js Developer",
@@ -1342,19 +1355,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1",
             "date": 1753693913
-        },
-        {
-            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
-            "date": 1753281114
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
