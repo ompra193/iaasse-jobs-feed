@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-21 12:26:49",
-    "total_jobs": 121,
+    "generated_at": "2025-12-21 19:05:29",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-little-thinking-minds-1129296",
+            "date": 1766239240
+        },
         {
             "title": "Senior Research Engineer OLMo",
             "company": "RemoteOK",
@@ -697,17 +708,6 @@
             "date": 1765821620
         },
         {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-inkitt-1129224",
-            "date": 1765821601
-        },
-        {
             "title": "Staff Protocol Engineer EVM",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1081,17 +1081,6 @@
             "date": 1765548058
         },
         {
-            "title": "Senior Backend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-goodnotes-1129185",
-            "date": 1765548051
-        },
-        {
             "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1284,17 +1273,6 @@
             "date": 1763990610
         },
         {
-            "title": "Chipcolate: Senior Engineer - Fullstack",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/chipcolate-senior-engineer-fullstack",
-            "date": 1763717760
-        },
-        {
             "title": "CompanyCam: Senior Software Engineer (React/React Native)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1374,6 +1352,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior",
             "date": 1744230316
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
