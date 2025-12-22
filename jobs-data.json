@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-22 19:18:03",
+    "generated_at": "2025-12-23 00:27:44",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Director of Narrative and Video Storytelling",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-narrative-and-video-storytelling-field-ai-1129301",
+            "date": 1766354419
+        },
+        {
+            "title": "Senior GenAI Technical Lead Partner Platforms",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-genai-technical-lead-partner-platforms-2100-nvidia-usa-1129300",
+            "date": 1766354402
+        },
         {
             "title": "Current openings",
             "company": "RemoteOK",
@@ -1046,28 +1070,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-accountant-circle-so-1129189",
             "date": 1765566057
-        },
-        {
-            "title": "Copywriter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-copywriter-infuse-1129188",
-            "date": 1765566035
-        },
-        {
-            "title": "Software Engineer Rust Shopify",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-rust-shopify-parcelhero-1129187",
-            "date": 1765548065
         },
         {
             "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
