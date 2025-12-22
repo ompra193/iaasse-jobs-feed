@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-22 00:22:25",
-    "total_jobs": 120,
+    "generated_at": "2025-12-22 09:31:14",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Current openings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-sezzle-1129297",
+            "date": 1766282406
+        },
         {
             "title": "Senior DevOps Engineer",
             "company": "RemoteOK",
@@ -561,17 +572,6 @@
             "date": 1765911602
         },
         {
-            "title": "Current openings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-bitmex-1129239",
-            "date": 1765893607
-        },
-        {
             "title": "Job Title Here",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1068,17 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-rust-shopify-parcelhero-1129187",
             "date": 1765548065
-        },
-        {
-            "title": "Full Stack Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-compassx-group-1129186",
-            "date": 1765548058
         },
         {
             "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
