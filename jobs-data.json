@@ -1,8 +1,67 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-23 19:19:31",
+    "generated_at": "2025-12-24 00:28:22",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Performance Application Engineer Intelligent Factory",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-performance-application-engineer-intelligent-factory-intrinsic-1129307",
+            "date": 1766448036
+        },
+        {
+            "title": "Software Manager Exchange",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-manager-exchange-ghx-1129306",
+            "date": 1766448019
+        },
+        {
+            "title": "Staff Software Engineer Backend",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-backend-leona-health-1129305",
+            "date": 1766448002
+        },
+        {
+            "title": "AI Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-magna-legal-services-1129304",
+            "date": 1766440823
+        },
+        {
+            "title": "Executive Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-virtual-assistant-offshore-launch-1129303",
+            "date": 1766437218
+        },
         {
             "title": "Data Engineer",
             "company": "RemoteOK",
@@ -1017,61 +1076,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-typescript-developer-stoke-studio-1129195",
             "date": 1765601849
-        },
-        {
-            "title": "Senior Frontend Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1129194",
-            "date": 1765587759
-        },
-        {
-            "title": "Account Manager QSR",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-manager-qsr-fetch-1129193",
-            "date": 1765576860
-        },
-        {
-            "title": "Customer Success Manager II SLED",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ii-sled-extrahop-1129192",
-            "date": 1765576833
-        },
-        {
-            "title": "Trading Technology Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-trading-technology-engineer-bitmex-1129191",
-            "date": 1765569619
-        },
-        {
-            "title": "Junior Crypto Analyst & Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1129190",
-            "date": 1765567843
         },
         {
             "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
