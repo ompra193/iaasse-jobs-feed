@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-23 12:31:14",
+    "generated_at": "2025-12-23 19:19:31",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1255,17 +1255,6 @@
             "date": 1763992240
         },
         {
-            "title": "Silverfin: Player-Coach Engineering Team Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead",
-            "date": 1763990610
-        },
-        {
             "title": "CompanyCam: Senior Software Engineer (React/React Native)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1277,6 +1266,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/companycam-senior-software-engineer-react-react-native",
             "date": 1761340552
+        },
+        {
+            "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist",
+            "date": 1760069509
         },
         {
             "title": "Perfect (Stealth Technology Startup): Lead Software Engineer",
