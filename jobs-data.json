@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-23 00:27:44",
+    "generated_at": "2025-12-23 09:24:20",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-sayari-1129302",
+            "date": 1766383240
+        },
         {
             "title": "Director of Narrative and Video Storytelling",
             "company": "RemoteOK",
@@ -1059,17 +1072,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1129190",
             "date": 1765567843
-        },
-        {
-            "title": "Senior Accountant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-accountant-circle-so-1129189",
-            "date": 1765566057
         },
         {
             "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
