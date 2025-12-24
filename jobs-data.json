@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-24 12:31:13",
-    "total_jobs": 120,
+    "generated_at": "2025-12-24 19:13:14",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Growth Marketer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketer-bitmex-1129324",
+            "date": 1766516419
+        },
+        {
+            "title": "BIM Modeler",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bim-modeler-sanctuary-1129323",
+            "date": 1766498417
+        },
+        {
+            "title": "Commercial Pilots AI Trainer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-commercial-pilots-ai-trainer-handshake-1129322",
+            "date": 1766498411
+        },
         {
             "title": "Senior Director Global Support",
             "company": "RemoteOK",
@@ -1072,28 +1107,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-french-speaking-jobs-greece-work-greece-fully-paid-relocation-package-mercier-consultancy-md-1129212",
             "date": 1765663232
-        },
-        {
-            "title": "Leadership Development Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-leadership-development-associate-lifestyle-seed-consulting-1129210",
-            "date": 1765663220
-        },
-        {
-            "title": "Digital Marketing &amp; Client Outreach Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-amp-client-outreach-consultant-blue-shed-group-1129209",
-            "date": 1765663214
         },
         {
             "title": "OnTheGoSystems: PHP developer (French or German speakers)",
