@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-24 19:13:14",
+    "generated_at": "2025-12-25 00:26:37",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Product Manager GeckoTerminal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-geckoterminal-coingecko-1129326",
+            "date": 1766520038
+        },
+        {
+            "title": "Senior Analytics Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-alpaca-1129325",
+            "date": 1766520031
+        },
         {
             "title": "Growth Marketer",
             "company": "RemoteOK",
@@ -1083,30 +1105,41 @@
             "date": 1765663244
         },
         {
-            "title": "Danish Speaking Jobs Greece Work Greece Fully Paid Relocation Package",
-            "company": "RemoteOK",
+            "title": "Contra: Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai"
+                "react",
+                "node",
+                "sql"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-danish-speaking-jobs-greece-work-greece-fully-paid-relocation-package-mercier-consultancy-md-1129213",
-            "date": 1765663238
+            "link": "https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql",
+            "date": 1765389332
         },
         {
-            "title": "French Speaking Jobs Greece Work Greece Fully Paid Relocation Package",
-            "company": "RemoteOK",
+            "title": "Sonas: Fullstack Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-french-speaking-jobs-greece-work-greece-fully-paid-relocation-package-mercier-consultancy-md-1129212",
-            "date": 1765663232
+            "link": "https://weworkremotely.com/remote-jobs/sonas-fullstack-engineer",
+            "date": 1765301529
+        },
+        {
+            "title": "Preql: Engineering Manager / Lead Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer",
+            "date": 1765290738
         },
         {
             "title": "OnTheGoSystems: PHP developer (French or German speakers)",
@@ -1264,43 +1297,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/comparis-ch-android-engineer-80-100-f-m-x",
             "date": 1764083406
-        },
-        {
-            "title": "BaxEnergy: Senior Software Engineer - Renewable Energy Software",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/baxenergy-senior-software-engineer-renewable-energy-software",
-            "date": 1763997787
-        },
-        {
-            "title": "BaxEnergy: Senior Data Scientist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/baxenergy-senior-data-scientist-1",
-            "date": 1763997670
-        },
-        {
-            "title": "OnTheGoSystems: Python Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-python-developer",
-            "date": 1763992240
         },
         {
             "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
