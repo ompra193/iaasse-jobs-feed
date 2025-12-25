@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-25 19:19:37",
+    "generated_at": "2025-12-26 00:30:19",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Product Manager Wallet SDKs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-wallet-sdks-startale-1129334",
+            "date": 1766624406
+        },
+        {
+            "title": "Growth Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketing-manager-infstones-1129333",
+            "date": 1766606402
+        },
         {
             "title": "Senior Data Engineer",
             "company": "RemoteOK",
@@ -1070,28 +1092,29 @@
             "date": 1765821620
         },
         {
-            "title": "Staff Protocol Engineer EVM",
-            "company": "RemoteOK",
+            "title": "BBE Marketing Inc: Senior Symfony Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-protocol-engineer-evm-ava-labs-1129223",
-            "date": 1765814422
+            "link": "https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer",
+            "date": 1765479716
         },
         {
-            "title": "Finance Manager",
-            "company": "RemoteOK",
+            "title": "Breezy HR : Senior Cloud Platform Engineer (AWS)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "finance"
+                "cloud",
+                "hr"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-finance-manager-refed-1129222",
-            "date": 1765778416
+            "link": "https://weworkremotely.com/remote-jobs/breezy-hr-senior-cloud-platform-engineer-aws",
+            "date": 1765420737
         },
         {
             "title": "Contra: Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
@@ -1262,30 +1285,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer",
             "date": 1764115342
-        },
-        {
-            "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
-            "date": 1764083919
-        },
-        {
-            "title": "comparis.ch: Android Engineer 80-100% (f/m/x)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-android-engineer-80-100-f-m-x",
-            "date": 1764083406
         },
         {
             "title": "Nova: Full Stack Developer",
