@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-25 12:29:19",
-    "total_jobs": 121,
+    "generated_at": "2025-12-25 19:19:37",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-nansen-ai-1129332",
+            "date": 1766588449
+        },
+        {
+            "title": "Social Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-givedirectly-1129331",
+            "date": 1766588419
+        },
+        {
+            "title": "Senior Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-teleport-1129330",
+            "date": 1766584804
+        },
         {
             "title": "Project Director Campus Action Planning",
             "company": "RemoteOK",
@@ -233,19 +268,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-xai-1129309",
             "date": 1766462412
-        },
-        {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-hugeinc-1129308",
-            "date": 1766451611
         },
         {
             "title": "Performance Application Engineer Intelligent Factory",
@@ -1072,39 +1094,6 @@
             "date": 1765778416
         },
         {
-            "title": "Senior Systems Engineer Software",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-engineer-software-2100-nvidia-usa-1129220",
-            "date": 1765749602
-        },
-        {
-            "title": "Software Engineer Infrastructure Supercomputing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-supercomputing-xai-1129217",
-            "date": 1765677642
-        },
-        {
-            "title": "Staff DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-heartflow-1129216",
-            "date": 1765677618
-        },
-        {
             "title": "Contra: Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1299,6 +1288,17 @@
             "date": 1764083406
         },
         {
+            "title": "Nova: Full Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/nova-full-stack-developer",
+            "date": 1762800346
+        },
+        {
             "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1343,17 +1343,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
             "date": 1754510489
-        },
-        {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1",
-            "date": 1753693913
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
