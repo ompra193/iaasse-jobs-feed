@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-25 00:26:37",
+    "generated_at": "2025-12-25 09:24:32",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Project Director Campus Action Planning",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-director-campus-action-planning-campus-compact-1129329",
+            "date": 1766556048
+        },
+        {
+            "title": "Member Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-member-support-specialist-disqo-1129328",
+            "date": 1766556024
+        },
         {
             "title": "Product Manager GeckoTerminal",
             "company": "RemoteOK",
@@ -1081,28 +1103,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-heartflow-1129216",
             "date": 1765677618
-        },
-        {
-            "title": "Digital Marketing Manager Online Opportunity",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-online-opportunity-mindmoneyreset-1129215",
-            "date": 1765663250
-        },
-        {
-            "title": "Partnership Head",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-partnership-head-hr-force-international-1129214",
-            "date": 1765663244
         },
         {
             "title": "Contra: Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
