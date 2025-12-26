@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-26 00:30:19",
-    "total_jobs": 120,
+    "generated_at": "2025-12-26 09:21:12",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-wormhole-foundation-1129335",
+            "date": 1766624425
+        },
         {
             "title": "Product Manager Wallet SDKs",
             "company": "RemoteOK",
@@ -1092,6 +1103,19 @@
             "date": 1765821620
         },
         {
+            "title": "MyDataValue: Fully Remote - Founding Full-Stack Senior Engineer (UK ONLY)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mydatavalue-fully-remote-founding-full-stack-senior-engineer-uk-only",
+            "date": 1765485501
+        },
+        {
             "title": "BBE Marketing Inc: Senior Symfony Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1261,30 +1285,15 @@
             "date": 1764154451
         },
         {
-            "title": "PostHog: Product Engineer - Data Modeling",
+            "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "data"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling",
-            "date": 1764116080
-        },
-        {
-            "title": "PostHog: AI Product Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer",
-            "date": 1764115342
+            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
+            "date": 1762937762
         },
         {
             "title": "Nova: Full Stack Developer",
