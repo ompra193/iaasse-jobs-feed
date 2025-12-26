@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-26 19:21:12",
+    "generated_at": "2025-12-27 00:24:26",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Product Security Engineer DeFi",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-security-engineer-defi-falconx-1129337",
+            "date": 1766692816
+        },
         {
             "title": "Senior Frontend Engineer",
             "company": "RemoteOK",
@@ -1090,17 +1101,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-gerente-sr-tecnologia-skydropx-frenet-1129227",
             "date": 1765836018
-        },
-        {
-            "title": "Senior Platform Infrastructure Engineer II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-infrastructure-engineer-ii-braze-1129226",
-            "date": 1765821651
         },
         {
             "title": "Toptal: React Native Developer",
