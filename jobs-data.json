@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-26 12:29:03",
+    "generated_at": "2025-12-26 19:21:12",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Frontend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-arize-ai-1129336",
+            "date": 1766678421
+        },
         {
             "title": "Site Reliability Engineer",
             "company": "RemoteOK",
@@ -1092,15 +1103,17 @@
             "date": 1765821651
         },
         {
-            "title": "Support Engineer",
-            "company": "RemoteOK",
+            "title": "Toptal: React Native Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-support-engineer-humansignal-1129225",
-            "date": 1765821620
+            "link": "https://weworkremotely.com/remote-jobs/toptal-react-native-developer",
+            "date": 1765551959
         },
         {
             "title": "MyDataValue: Fully Remote - Founding Full-Stack Senior Engineer (UK ONLY)",
@@ -1272,17 +1285,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-6",
             "date": 1764248069
-        },
-        {
-            "title": "Prat City LLC: Senior Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/prat-city-llc-senior-full-stack-developer",
-            "date": 1764154451
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
