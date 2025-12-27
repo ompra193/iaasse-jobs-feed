@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-27 00:24:26",
+    "generated_at": "2025-12-27 09:18:29",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Full Stack Engineer Contacts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-engineer-contacts-calendly-1129339",
+            "date": 1766721617
+        },
         {
             "title": "Product Security Engineer DeFi",
             "company": "RemoteOK",
@@ -1090,17 +1101,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-platform-omada-health-1129228",
             "date": 1765843213
-        },
-        {
-            "title": "Gerente Sr Tecnologia",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-gerente-sr-tecnologia-skydropx-frenet-1129227",
-            "date": 1765836018
         },
         {
             "title": "Toptal: React Native Developer",
