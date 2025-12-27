@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-27 12:26:34",
+    "generated_at": "2025-12-27 19:11:49",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Staff Software Engineer Backend with Close 10 years of experience",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-backend-with-close-10-years-of-experience-outreach-1129341",
+            "date": 1766768402
+        },
+        {
+            "title": "Technical Program Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-program-associate-givedirectly-1129340",
+            "date": 1766757615
+        },
         {
             "title": "Full Stack Engineer Contacts",
             "company": "RemoteOK",
@@ -1079,28 +1101,15 @@
             "date": 1765843253
         },
         {
-            "title": "Security Engineer Cloud Security",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-cloud-security-red-cell-partners-1129229",
-            "date": 1765843233
-        },
-        {
-            "title": "Senior Software Engineer Platform",
-            "company": "RemoteOK",
+            "title": "Sanctuary Computer: Senior Frontend Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-platform-omada-health-1129228",
-            "date": 1765843213
+            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer",
+            "date": 1765565397
         },
         {
             "title": "Toptal: React Native Developer",
@@ -1274,17 +1283,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer",
             "date": 1764258687
-        },
-        {
-            "title": "Lemon.io: Senior Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-6",
-            "date": 1764248069
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
