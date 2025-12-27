@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-27 19:11:49",
+    "generated_at": "2025-12-28 00:28:08",
     "total_jobs": 121,
     "jobs": [
         {
@@ -1101,6 +1101,20 @@
             "date": 1765843253
         },
         {
+            "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react",
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1",
+            "date": 1765789528
+        },
+        {
             "title": "Sanctuary Computer: Senior Frontend Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1272,19 +1286,6 @@
             "date": 1764608327
         },
         {
-            "title": "Growth Factory Ventures: Applied AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer",
-            "date": 1764258687
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1320,17 +1321,6 @@
             "date": 1760069509
         },
         {
-            "title": "Perfect (Stealth Technology Startup): Lead Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/perfect-stealth-technology-startup-lead-software-engineer",
-            "date": 1756478021
-        },
-        {
             "title": "Zencastr: Senior Fullstack Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1362,6 +1352,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
             "date": 1752075311
+        },
+        {
+            "title": "Mobena: Frontend Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
+            "date": 1747425814
         },
         {
             "title": "Lumenalta: Javascript Fullstack Engineer - Senior",
