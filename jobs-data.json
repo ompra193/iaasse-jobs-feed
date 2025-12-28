@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-28 19:08:55",
+    "generated_at": "2025-12-29 00:24:31",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Business Systems Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-systems-analyst-nasa-federal-credit-union-1129353",
+            "date": 1766880009
+        },
+        {
+            "title": "Customer Experience Associate New Req",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-experience-associate-new-req-koala-health-1129352",
+            "date": 1766880001
+        },
         {
             "title": "Frontend Engineer Trading Platform",
             "company": "RemoteOK",
@@ -1098,30 +1120,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-web-scraping-engineer-python-oxylabs-1129243",
             "date": 1765922401
-        },
-        {
-            "title": "Events Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-events-marketing-manager-alpaca-1129242",
-            "date": 1765918827
-        },
-        {
-            "title": "Java Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-java-software-engineer-capital-com-1129241",
-            "date": 1765911602
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
