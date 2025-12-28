@@ -1,8 +1,99 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-28 00:28:08",
-    "total_jobs": 121,
+    "generated_at": "2025-12-28 09:44:22",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Internal Controls &amp; Policy Adherence Testing Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-internal-controls-amp-policy-adherence-testing-analyst-cloudwalk-1129350",
+            "date": 1766815296
+        },
+        {
+            "title": "Frontend Product Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-frontend-product-engineer-mento-1129349",
+            "date": 1766815288
+        },
+        {
+            "title": "Commercial P&amp;C Support Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-commercial-pampc-support-representative-thimble-1129348",
+            "date": 1766815268
+        },
+        {
+            "title": "Content Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-manager-terra-1129347",
+            "date": 1766815260
+        },
+        {
+            "title": "Associate Clinical Director Oncology",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-clinical-director-oncology-private-health-management-1129346",
+            "date": 1766815253
+        },
+        {
+            "title": "Recovery Analyst Underpayments",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recovery-analyst-underpayments-trend-health-partners-1129345",
+            "date": 1766815227
+        },
+        {
+            "title": "Cloud Full Stack Python Software Engineer US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python",
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cloud-full-stack-python-software-engineer-us-railroad19-inc-1129344",
+            "date": 1766815220
+        },
+        {
+            "title": "Customer Care Specialist Inbound Phone Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-care-specialist-inbound-phone-support-honk-1129343",
+            "date": 1766815213
+        },
         {
             "title": "Staff Software Engineer Backend with Close 10 years of experience",
             "company": "RemoteOK",
@@ -1020,85 +1111,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-java-software-engineer-capital-com-1129241",
             "date": 1765911602
-        },
-        {
-            "title": "Job Title Here",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-title-here-cyderes-1129237",
-            "date": 1765886406
-        },
-        {
-            "title": "Vice President Customer Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-customer-support-vultr-1129236",
-            "date": 1765872011
-        },
-        {
-            "title": "Senior Contract Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-contract-support-specialist-blue-water-thinking-1129235",
-            "date": 1765864834
-        },
-        {
-            "title": "PHP Laravel Developer Needed ROCKSTARS ONLY",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-php-laravel-developer-needed-rockstars-only-agent-legend-1129233",
-            "date": 1765856477
-        },
-        {
-            "title": "Senior Infrastructure Engineer Core Systems",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-infrastructure-engineer-core-systems-quicknode-1129232",
-            "date": 1765846801
-        },
-        {
-            "title": "Customer Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-pulley-1129231",
-            "date": 1765843270
-        },
-        {
-            "title": "Staff Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-nmi-1129230",
-            "date": 1765843253
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
