@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-28 12:27:24",
-    "total_jobs": 122,
+    "generated_at": "2025-12-28 19:08:55",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Frontend Engineer Trading Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-trading-platform-myfunded-futures-1129351",
+            "date": 1766844012
+        },
         {
             "title": "Internal Controls &amp; Policy Adherence Testing Analyst",
             "company": "RemoteOK",
