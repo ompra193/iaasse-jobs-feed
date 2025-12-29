@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-29 00:24:31",
+    "generated_at": "2025-12-29 09:48:11",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "DevOps Software Engineer Energy Storage",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-software-engineer-energy-storage-redwood-materials-1129354",
+            "date": 1766887216
+        },
         {
             "title": "Business Systems Analyst",
             "company": "RemoteOK",
@@ -1107,19 +1118,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-career-syngenta-1129244",
             "date": 1765922419
-        },
-        {
-            "title": "Senior Web Scraping Engineer Python",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-web-scraping-engineer-python-oxylabs-1129243",
-            "date": 1765922401
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
