@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-29 19:21:32",
+    "generated_at": "2025-12-30 00:26:27",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Senior Backend Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-engineer-teleport-1129355",
+            "date": 1766959202
+        },
         {
             "title": "DevOps Software Engineer Energy Storage",
             "company": "RemoteOK",
@@ -1107,17 +1118,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stacklok-1129245",
             "date": 1765922424
-        },
-        {
-            "title": "Career",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-career-syngenta-1129244",
-            "date": 1765922419
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
