@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-30 19:24:39",
+    "generated_at": "2025-12-31 00:28:24",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Work From Home Benefits Services Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-benefits-services-representative-global-elite-texas-1129370",
+            "date": 1767052855
+        },
+        {
+            "title": "Senior Infrastructure Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-infrastructure-engineer-paradigm-health-1129369",
+            "date": 1767052831
+        },
+        {
+            "title": "Senior Software Developer II Cloud",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-ii-cloud-life360-1129368",
+            "date": 1767052814
+        },
+        {
+            "title": "HR Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-administrator-offshore-launch-1129367",
+            "date": 1767045691
+        },
+        {
+            "title": "Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-ahrefs-1129366",
+            "date": 1767045662
+        },
+        {
+            "title": "Client Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-success-manager-offshore-launch-1129365",
+            "date": 1767045646
+        },
+        {
+            "title": "Full Stack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-microventures-1129364",
+            "date": 1767045641
+        },
+        {
+            "title": "Sales Development Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-manager-dune-1129363",
+            "date": 1767045627
+        },
+        {
+            "title": "Current job openings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-current-job-openings-databricks-1129362",
+            "date": 1767045621
+        },
         {
             "title": "Senior Business Analyst",
             "company": "RemoteOK",
@@ -1015,109 +1118,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-ap-principal-us-market-access-based-role-avalere-health-1129260",
             "date": 1765980020
-        },
-        {
-            "title": "Member of Technical Staff Atlas",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-atlas-anchorage-digital-1129259",
-            "date": 1765980008
-        },
-        {
-            "title": "Senior Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-loft-orbital-solutions-1129258",
-            "date": 1765980001
-        },
-        {
-            "title": "Caregiver Elderly Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-caregiver-elderly-support-ryz-labs-1129257",
-            "date": 1765951263
-        },
-        {
-            "title": "Physical Therapist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-physical-therapist-ryz-labs-1129256",
-            "date": 1765951256
-        },
-        {
-            "title": "Polly",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-polly-polly-1129255",
-            "date": 1765951246
-        },
-        {
-            "title": "Khmer US based Medical Translators needed",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-khmer-us-based-medical-translators-needed-lilt-production-1129254",
-            "date": 1765951213
-        },
-        {
-            "title": "Behavior Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-behavior-technician-ryz-labs-1129253",
-            "date": 1765922509
-        },
-        {
-            "title": "Lead Digital Media Planner Buyer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-digital-media-planner-buyer-bluelight-consulting-1129252",
-            "date": 1765922502
-        },
-        {
-            "title": "Outlast",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-outlast-outlast-1129251",
-            "date": 1765922481
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
