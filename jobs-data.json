@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-30 00:26:27",
+    "generated_at": "2025-12-30 09:26:06",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Social Media Content Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-specialist-alltrails-1129356",
+            "date": 1766995202
+        },
         {
             "title": "Senior Backend Software Engineer",
             "company": "RemoteOK",
@@ -1107,17 +1118,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-business-intelligence-analyst-rainfocus-1129246",
             "date": 1765922436
-        },
-        {
-            "title": "Software Engineer II Golang",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-golang-stacklok-1129245",
-            "date": 1765922424
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
