@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-30 12:29:40",
+    "generated_at": "2025-12-30 19:24:39",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Senior Business Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-business-analyst-xpansiv-1129361",
+            "date": 1767031282
+        },
+        {
+            "title": "Project Coordinator Contract",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-coordinator-contract-infuse-1129360",
+            "date": 1767031275
+        },
+        {
+            "title": "Commercial Sales Engineer Central",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-commercial-sales-engineer-central-chainguard-1129359",
+            "date": 1767031234
+        },
+        {
+            "title": "Business Development Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-unlimit-1129358",
+            "date": 1767024002
+        },
+        {
+            "title": "Motion Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-motion-designer-alpaca-1129357",
+            "date": 1767016822
+        },
         {
             "title": "Social Media Content Specialist",
             "company": "RemoteOK",
@@ -1063,61 +1118,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-outlast-outlast-1129251",
             "date": 1765922481
-        },
-        {
-            "title": "Senior Security Operations Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-operations-analyst-the-voleon-group-1129250",
-            "date": 1765922469
-        },
-        {
-            "title": "Commercial Account Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-commercial-account-representative-illumio-1129249",
-            "date": 1765922455
-        },
-        {
-            "title": "Solution Engineer Inside Sales Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solution-engineer-inside-sales-support-illumio-1129248",
-            "date": 1765922449
-        },
-        {
-            "title": "Times Changed We Changed with Them...Maybe You Should Too",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-times-changed-we-changed-with-them-maybe-you-should-too-global-elite-texas-1129247",
-            "date": 1765922443
-        },
-        {
-            "title": "Business Intelligence Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-intelligence-analyst-rainfocus-1129246",
-            "date": 1765922436
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
