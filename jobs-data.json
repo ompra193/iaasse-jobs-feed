@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-31 09:25:02",
+    "generated_at": "2025-12-31 12:30:04",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Virtual Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-operations-manager-women-builders-council-1129379",
+            "date": 1767090786
+        },
         {
             "title": "Client Success Manager Coupa",
             "company": "RemoteOK",
@@ -1105,17 +1116,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-customer-growth-manager-immutable-1129268",
             "date": 1765994451
-        },
-        {
-            "title": "Senior Software Engineer Trading Technology",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-trading-technology-bitmex-1129267",
-            "date": 1765994444
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
