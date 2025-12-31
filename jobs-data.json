@@ -1,8 +1,85 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-31 00:28:24",
+    "generated_at": "2025-12-31 09:25:02",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Client Success Manager Coupa",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-success-manager-coupa-crosscountry-consulting-1129378",
+            "date": 1767074500
+        },
+        {
+            "title": "Social Media Manager Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-platform-digital-media-management-1129377",
+            "date": 1767074493
+        },
+        {
+            "title": "IT Operations Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-it-operations-specialist-myfunded-futures-1129376",
+            "date": 1767074487
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-chainguard-1129375",
+            "date": 1767074471
+        },
+        {
+            "title": "Senior Specialist Senior Accountant Shared Financial Services",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-specialist-senior-accountant-shared-financial-services-make-a-wish-america-1129374",
+            "date": 1767074449
+        },
+        {
+            "title": "Senior Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-agile-six-1129373",
+            "date": 1767074427
+        },
+        {
+            "title": "Senior Engineering Manager Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-infrastructure-mzla-technologies-corporation-1129371",
+            "date": 1767060042
+        },
         {
             "title": "Work From Home Benefits Services Representative",
             "company": "RemoteOK",
@@ -1039,85 +1116,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-trading-technology-bitmex-1129267",
             "date": 1765994444
-        },
-        {
-            "title": "Software Engineer I Dev Tooling",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-i-dev-tooling-sumo-logic-1129266",
-            "date": 1765994418
-        },
-        {
-            "title": "Distributed Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-distributed-systems-engineer-livekit-1129265",
-            "date": 1765980051
-        },
-        {
-            "title": "Sales Enablement and Training Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-enablement-and-training-manager-socure-1129264",
-            "date": 1765980045
-        },
-        {
-            "title": "Analytics Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analytics-engineer-socure-1129263",
-            "date": 1765980039
-        },
-        {
-            "title": "Security Compliance Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-compliance-specialist-livekit-1129262",
-            "date": 1765980033
-        },
-        {
-            "title": "Overnight Customer Support Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-overnight-customer-support-engineer-rebuy-inc-1129261",
-            "date": 1765980026
-        },
-        {
-            "title": "AP Principal US Market Access based role",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ap-principal-us-market-access-based-role-avalere-health-1129260",
-            "date": 1765980020
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
