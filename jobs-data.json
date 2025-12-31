@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-31 12:30:04",
+    "generated_at": "2025-12-31 19:16:47",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Client Success Executive Wayforge",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-success-executive-wayforge-sbi-growth-1129381",
+            "date": 1767117616
+        },
+        {
+            "title": "WNS Global Services",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-wns-global-services-wns-global-services-1129380",
+            "date": 1767103229
+        },
         {
             "title": "Virtual Operations Manager",
             "company": "RemoteOK",
@@ -1094,28 +1116,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-iii-meridianlink-1129270",
             "date": 1766008817
-        },
-        {
-            "title": "Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-waterfall-1129269",
-            "date": 1765998001
-        },
-        {
-            "title": "Technical Customer Growth Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-customer-growth-manager-immutable-1129268",
-            "date": 1765994451
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
