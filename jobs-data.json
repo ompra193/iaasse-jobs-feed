@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2025-12-31 19:16:47",
+    "generated_at": "2026-01-01 00:25:04",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Software Engineer Networking Software and Services",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-networking-software-and-services-xai-1129382",
+            "date": 1767128410
+        },
         {
             "title": "Client Success Executive Wayforge",
             "company": "RemoteOK",
@@ -1107,15 +1118,17 @@
             "date": 1766030413
         },
         {
-            "title": "Software Engineer III",
-            "company": "RemoteOK",
+            "title": "Proxify AB: Senior Backend Developer (Python)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "python"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-iii-meridianlink-1129270",
-            "date": 1766008817
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-5",
+            "date": 1765789951
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
@@ -1288,19 +1301,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform",
             "date": 1764618137
-        },
-        {
-            "title": "OnTheGoSystems: PHP Developer (Latin America, German, French and Spanish speakers)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-latin-america-german-french-and-spanish-speakers",
-            "date": 1764608327
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
