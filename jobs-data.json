@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-01 19:16:14",
+    "generated_at": "2026-01-02 00:27:12",
     "total_jobs": 123,
     "jobs": [
         {
@@ -1118,6 +1118,19 @@
             "date": 1766066417
         },
         {
+            "title": "Proxify AB: Senior Fullstack Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python",
+            "date": 1765795017
+        },
+        {
             "title": "Proxify AB: Senior Ruby on Rails Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1290,17 +1303,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-3",
             "date": 1764765472
-        },
-        {
-            "title": "Contra: Creative Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/contra-creative-engineer",
-            "date": 1764688808
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
