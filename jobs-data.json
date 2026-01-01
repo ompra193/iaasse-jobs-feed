@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-01 00:25:04",
+    "generated_at": "2026-01-01 09:48:16",
     "total_jobs": 123,
     "jobs": [
         {
@@ -1118,6 +1118,19 @@
             "date": 1766030413
         },
         {
+            "title": "Proxify AB: Senior Ruby on Rails Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-2",
+            "date": 1765794764
+        },
+        {
             "title": "Proxify AB: Senior Backend Developer (Python)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1288,19 +1301,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/contra-creative-engineer",
             "date": 1764688808
-        },
-        {
-            "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform",
-            "date": 1764618137
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
