@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-01 12:30:56",
+    "generated_at": "2026-01-01 19:16:14",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Member of Technical Staff Fullstack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-fullstack-engineer-inflection-ai-1129384",
+            "date": 1767189642
+        },
+        {
+            "title": "Staff Software Engineer Simulation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-simulation-muon-space-1129383",
+            "date": 1767189618
+        },
         {
             "title": "Software Engineer Networking Software and Services",
             "company": "RemoteOK",
@@ -1094,28 +1116,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-owner-payments-flex-1129273",
             "date": 1766066417
-        },
-        {
-            "title": "Community Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-community-manager-manta-network-powered-by-p0x-labs-1129272",
-            "date": 1766062801
-        },
-        {
-            "title": "Manager Security Product Research",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-security-product-research-corelight-1129271",
-            "date": 1766030413
         },
         {
             "title": "Proxify AB: Senior Ruby on Rails Developer",
