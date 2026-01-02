@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-02 12:32:06",
+    "generated_at": "2026-01-02 19:16:19",
     "total_jobs": 123,
     "jobs": [
         {
@@ -1294,17 +1294,6 @@
             "date": 1765051453
         },
         {
-            "title": "Proxify AB: Senior Next.js Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-3",
-            "date": 1764765472
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1338,6 +1327,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist",
             "date": 1760069509
+        },
+        {
+            "title": "DynamiCare Health: Full-Stack Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
+            "date": 1755535001
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
