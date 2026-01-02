@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-02 00:27:12",
+    "generated_at": "2026-01-02 09:27:57",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Security Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-architect-dexterity-1129385",
+            "date": 1767240002
+        },
         {
             "title": "Member of Technical Staff Fullstack Engineer",
             "company": "RemoteOK",
@@ -1105,17 +1116,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-it-security-highlightta-1129274",
             "date": 1766066424
-        },
-        {
-            "title": "Product Owner Payments",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-owner-payments-flex-1129273",
-            "date": 1766066417
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
