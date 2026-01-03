@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-03 09:18:51",
+    "generated_at": "2026-01-03 12:27:15",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Executive Assistant Operations Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-operations-virtual-assistant-assist-world-1129394",
+            "date": 1767351608
+        },
+        {
+            "title": "Marketing &amp; Sponsorship Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-amp-sponsorship-coordinator-assist-world-1129393",
+            "date": 1767351601
+        },
         {
             "title": "Staff Software Engineer Money",
             "company": "RemoteOK",
@@ -1107,30 +1131,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-lead-medical-writer-medical-communications-avalere-health-1129286",
             "date": 1766152812
-        },
-        {
-            "title": "Senior Product Marketing Manager Cloud Security",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-marketing-manager-cloud-security-tenable-inc-1129284",
-            "date": 1766116817
-        },
-        {
-            "title": "Software Engineer Integrations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-integrations-deposco-1129282",
-            "date": 1766095224
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer (US Only)",
