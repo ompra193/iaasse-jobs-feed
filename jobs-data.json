@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-03 19:12:42",
+    "generated_at": "2026-01-04 00:26:00",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "SQUIRE",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-squire-squire-1129396",
+            "date": 1767391221
+        },
         {
             "title": "Coding Bootcamp\u00ef\u00b9\u00a3Job Guaranteed",
             "company": "RemoteOK",
@@ -1118,17 +1129,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-field-nation-1129287",
             "date": 1766152846
-        },
-        {
-            "title": "Platform Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-platform-security-engineer-braze-1129285",
-            "date": 1766152812
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer (US Only)",
