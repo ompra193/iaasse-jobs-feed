@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-03 00:24:20",
-    "total_jobs": 123,
+    "generated_at": "2026-01-03 09:18:51",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Staff Software Engineer Money",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-money-galileo-financial-technologies-1129390",
+            "date": 1767326455
+        },
+        {
+            "title": "Senior Cloud Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-clickhouse-1129389",
+            "date": 1767326437
+        },
+        {
+            "title": "Regional Director Public Sector Sales DOW",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-director-public-sector-sales-dow-chainguard-1129388",
+            "date": 1767326417
+        },
+        {
+            "title": "Senior Staff AI Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-ai-software-engineer-aegis-ventures-1129387",
+            "date": 1767322815
+        },
         {
             "title": "Security Architect",
             "company": "RemoteOK",
@@ -1085,37 +1133,17 @@
             "date": 1766095224
         },
         {
-            "title": "The SafetyWing Digital Nomad Residency",
-            "company": "RemoteOK",
+            "title": "Lincoln Freedom Group, LLC: Python Developer (US Only)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "python"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-the-safetywing-digital-nomad-residency-safetywing-1129278",
-            "date": 1766072725
-        },
-        {
-            "title": "SDET II SDET III",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sdet-ii-sdet-iii-netomi-1129275",
-            "date": 1766066437
-        },
-        {
-            "title": "Director IT & Security",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-it-security-highlightta-1129274",
-            "date": 1766066424
+            "link": "https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-us-only",
+            "date": 1765924531
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
@@ -1408,17 +1436,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
             "date": 1718559051
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
