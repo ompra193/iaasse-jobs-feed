@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-03 12:27:15",
+    "generated_at": "2026-01-03 19:12:42",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Coding Bootcamp\u00ef\u00b9\u00a3Job Guaranteed",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-coding-bootcamp-job-guaranteed-metana-1129395",
+            "date": 1767366410
+        },
         {
             "title": "Executive Assistant Operations Virtual Assistant",
             "company": "RemoteOK",
@@ -1117,19 +1128,6 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-platform-security-engineer-braze-1129285",
-            "date": 1766152812
-        },
-        {
-            "title": "Lead Medical Writer Medical Communications",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-medical-writer-medical-communications-avalere-health-1129286",
             "date": 1766152812
         },
         {
