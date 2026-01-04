@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-04 00:26:00",
+    "generated_at": "2026-01-04 09:50:06",
     "total_jobs": 124,
     "jobs": [
         {
@@ -1131,6 +1131,19 @@
             "date": 1766152846
         },
         {
+            "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only",
+            "date": 1765937852
+        },
+        {
             "title": "Lincoln Freedom Group, LLC: Python Developer (US Only)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1375,17 +1388,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer",
             "date": 1754693731
-        },
-        {
-            "title": "Zencastr: Senior Backend Engineer - Full Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
-            "date": 1754510489
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
