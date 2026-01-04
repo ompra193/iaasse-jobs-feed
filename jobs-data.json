@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-04 12:28:56",
+    "generated_at": "2026-01-04 19:13:37",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-malt-1129398",
+            "date": 1767456002
+        },
+        {
+            "title": "Espresso",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-espresso-espresso-1129397",
+            "date": 1767452406
+        },
         {
             "title": "SQUIRE",
             "company": "RemoteOK",
@@ -1107,28 +1129,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-jumpcloud-jumpcloud-1129289",
             "date": 1766167208
-        },
-        {
-            "title": "Marketing Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-strategist-onelocal-1129288",
-            "date": 1766163620
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-field-nation-1129287",
-            "date": 1766152846
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
