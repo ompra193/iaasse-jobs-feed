@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-04 19:13:37",
-    "total_jobs": 124,
+    "generated_at": "2026-01-05 00:29:49",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-qualio-1129401",
+            "date": 1767477645
+        },
+        {
+            "title": "Associate Technical Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-technical-support-engineer-recharge-1129400",
+            "date": 1767477615
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-bugcrowd-1129399",
+            "date": 1767474011
+        },
         {
             "title": "Staff Software Engineer",
             "company": "RemoteOK",
@@ -228,17 +261,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-it-operations-specialist-myfunded-futures-1129376",
             "date": 1767074487
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-chainguard-1129375",
-            "date": 1767074471
         },
         {
             "title": "Senior Specialist Senior Accountant Shared Financial Services",
@@ -1092,43 +1114,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-staff-user-researcher-nourish-1129292",
             "date": 1766210433
-        },
-        {
-            "title": "Operations Recruiter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-recruiter-field-ai-1129291",
-            "date": 1766181625
-        },
-        {
-            "title": "Full Stack Software Engineer III Angular Java",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-iii-angular-java-meridianlink-1129290",
-            "date": 1766181618
-        },
-        {
-            "title": "JumpCloud",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-jumpcloud-jumpcloud-1129289",
-            "date": 1766167208
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
