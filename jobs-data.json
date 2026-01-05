@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-05 12:50:05",
+    "generated_at": "2026-01-05 19:24:12",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Online Hotel Reservationist Fully",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservationist-fully-destination-knot-1129404",
+            "date": 1767549601
+        },
+        {
+            "title": "Full Stack Product Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-jiga-1129403",
+            "date": 1767539499
+        },
         {
             "title": "Account Executive",
             "company": "RemoteOK",
@@ -1092,28 +1114,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-research-engineer-olmo-the-allen-institute-for-artificial-intelligence-1129294",
             "date": 1766221215
-        },
-        {
-            "title": "Head of Studio Standards and Business",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-head-of-studio-standards-and-business-samsung-research-america-1129293",
-            "date": 1766210468
-        },
-        {
-            "title": "Staff User Researcher",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-user-researcher-nourish-1129292",
-            "date": 1766210433
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
