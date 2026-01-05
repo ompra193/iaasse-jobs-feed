@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-05 00:29:49",
+    "generated_at": "2026-01-05 10:10:55",
     "total_jobs": 123,
     "jobs": [
         {
@@ -1397,17 +1397,17 @@
             "date": 1747425814
         },
         {
-            "title": "Lumenalta: Javascript Fullstack Engineer - Senior",
+            "title": "Proton.ai: Senior Backend Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "java"
+                "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior",
-            "date": 1744230316
+            "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
+            "date": 1737590397
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
