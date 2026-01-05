@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-05 19:24:12",
+    "generated_at": "2026-01-06 00:29:31",
     "total_jobs": 123,
     "jobs": [
         {
@@ -1375,15 +1375,17 @@
             "date": 1754693731
         },
         {
-            "title": "Speechify Inc: Software Engineer, iOS Core Product",
+            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "python"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-            "date": 1752075311
+            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+            "date": 1753281114
         },
         {
             "title": "Mobena: Frontend Engineer",
