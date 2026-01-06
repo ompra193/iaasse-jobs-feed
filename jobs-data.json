@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-06 19:21:52",
-    "total_jobs": 120,
+    "generated_at": "2026-01-07 00:26:37",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior Backend PHP Software Engineer Inventory",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-php-software-engineer-inventory-cloudbeds-1129436",
+            "date": 1767657680
+        },
         {
             "title": "Associate Growth Marketer API",
             "company": "RemoteOK",
@@ -1053,41 +1066,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-performance-application-engineer-intelligent-factory-intrinsic-1129307",
             "date": 1766448036
-        },
-        {
-            "title": "Software Manager Exchange",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-manager-exchange-ghx-1129306",
-            "date": 1766448019
-        },
-        {
-            "title": "Staff Software Engineer Backend",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-backend-leona-health-1129305",
-            "date": 1766448002
-        },
-        {
-            "title": "AI Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-magna-legal-services-1129304",
-            "date": 1766440823
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
