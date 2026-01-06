@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-06 09:24:42",
+    "generated_at": "2026-01-06 12:33:09",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Content Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-certik-1129407",
+            "date": 1767610801
+        },
         {
             "title": "Head of Paid Search",
             "company": "RemoteOK",
@@ -1116,17 +1127,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-current-openings-sezzle-1129297",
             "date": 1766282406
-        },
-        {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-little-thinking-minds-1129296",
-            "date": 1766239240
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
