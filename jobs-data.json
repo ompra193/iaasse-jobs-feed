@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-06 12:33:09",
-    "total_jobs": 123,
+    "generated_at": "2026-01-06 19:21:52",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Associate Growth Marketer API",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-growth-marketer-api-coingecko-1129430",
+            "date": 1767636059
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-bobsled-1129429",
+            "date": 1767636052
+        },
+        {
+            "title": "Video Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-interview-kickstart-1129427",
+            "date": 1767632424
+        },
         {
             "title": "Content Marketing Manager",
             "company": "RemoteOK",
@@ -712,17 +745,6 @@
             "date": 1766678421
         },
         {
-            "title": "Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-wormhole-foundation-1129335",
-            "date": 1766624425
-        },
-        {
             "title": "Product Manager Wallet SDKs",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1066,67 +1088,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-magna-legal-services-1129304",
             "date": 1766440823
-        },
-        {
-            "title": "Executive Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-virtual-assistant-offshore-launch-1129303",
-            "date": 1766437218
-        },
-        {
-            "title": "Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-sayari-1129302",
-            "date": 1766383240
-        },
-        {
-            "title": "Director of Narrative and Video Storytelling",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-narrative-and-video-storytelling-field-ai-1129301",
-            "date": 1766354419
-        },
-        {
-            "title": "Senior GenAI Technical Lead Partner Platforms",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-genai-technical-lead-partner-platforms-2100-nvidia-usa-1129300",
-            "date": 1766354402
-        },
-        {
-            "title": "Current openings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-sezzle-1129297",
-            "date": 1766282406
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
