@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-06 00:29:31",
+    "generated_at": "2026-01-06 09:24:42",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Head of Paid Search",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-paid-search-wpromote-1129406",
+            "date": 1767592814
+        },
         {
             "title": "Online Hotel Reservationist Fully",
             "company": "RemoteOK",
@@ -835,6 +848,17 @@
             "date": 1766498411
         },
         {
+            "title": "Silverfin: Experienced Ruby Product Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1",
+            "date": 1766478621
+        },
+        {
             "title": "Senior Director Global Support",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1105,17 +1129,6 @@
             "date": 1766239240
         },
         {
-            "title": "Senior Research Engineer OLMo",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-research-engineer-olmo-the-allen-institute-for-artificial-intelligence-1129294",
-            "date": 1766221215
-        },
-        {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1307,17 +1320,6 @@
             "date": 1765266119
         },
         {
-            "title": "App Sauce: Junior VibeCoder & Mobile App Builder",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/app-sauce-junior-vibecoder-mobile-app-builder",
-            "date": 1765051453
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1338,6 +1340,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/nova-full-stack-developer",
             "date": 1762800346
+        },
+        {
+            "title": "Stellar AI: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
+            "date": 1761075386
         },
         {
             "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
@@ -1362,17 +1377,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
             "date": 1755535001
-        },
-        {
-            "title": "Zencastr: Senior Fullstack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer",
-            "date": 1754693731
         },
         {
             "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
