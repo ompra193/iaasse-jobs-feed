@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-07 19:24:34",
+    "generated_at": "2026-01-08 00:30:16",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Junior Software Developer Full Stack",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-software-developer-full-stack-koho-1129454",
+            "date": 1767736867
+        },
+        {
+            "title": "Senior HubSpot Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-hubspot-developer-softermii-1129453",
+            "date": 1767736861
+        },
+        {
+            "title": "Owner IT Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-owner-it-support-engineer-owner-1129452",
+            "date": 1767736834
+        },
+        {
+            "title": "Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-federato-1129451",
+            "date": 1767736827
+        },
+        {
+            "title": "Senior Product Designer Ticketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-ticketing-playon-1129450",
+            "date": 1767729601
+        },
         {
             "title": "Assistant Manager Social Media",
             "company": "RemoteOK",
@@ -1008,39 +1063,15 @@
             "date": 1766520031
         },
         {
-            "title": "Growth Marketer",
-            "company": "RemoteOK",
+            "title": "Silverfin: Player-Coach Engineering Team Lead",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketer-bitmex-1129324",
-            "date": 1766516419
-        },
-        {
-            "title": "BIM Modeler",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bim-modeler-sanctuary-1129323",
-            "date": 1766498417
-        },
-        {
-            "title": "Commercial Pilots AI Trainer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-commercial-pilots-ai-trainer-handshake-1129322",
-            "date": 1766498411
+            "link": "https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead-1",
+            "date": 1766478890
         },
         {
             "title": "Silverfin: Experienced Ruby Product Engineer",
@@ -1052,31 +1083,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1",
             "date": 1766478621
-        },
-        {
-            "title": "Senior Director Global Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-global-support-elite-technology-1129321",
-            "date": 1766469790
-        },
-        {
-            "title": "Medical Affairs Writer Contract",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-affairs-writer-contract-kyverna-therapeutics-1129320",
-            "date": 1766469772
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
@@ -1364,19 +1370,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
             "date": 1737590397
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
