@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-07 12:31:42",
+    "generated_at": "2026-01-07 19:24:34",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Assistant Manager Social Media",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-manager-social-media-interview-kickstart-1129449",
+            "date": 1767722443
+        },
+        {
+            "title": "Customer Support Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-clerk-chat-1129448",
+            "date": 1767722417
+        },
+        {
+            "title": "Content and Communications Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-and-communications-lead-recidiviz-1129447",
+            "date": 1767708040
+        },
         {
             "title": "Art Director",
             "company": "RemoteOK",
@@ -1042,39 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-medical-affairs-writer-contract-kyverna-therapeutics-1129320",
             "date": 1766469772
-        },
-        {
-            "title": "Executive Director Patient Advocacy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-director-patient-advocacy-kyverna-therapeutics-1129319",
-            "date": 1766469765
-        },
-        {
-            "title": "Manager Commercial Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-commercial-sales-cribl-1129318",
-            "date": 1766469758
-        },
-        {
-            "title": "SEC Reporting Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sec-reporting-manager-highlevel-1129317",
-            "date": 1766469734
         },
         {
             "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
