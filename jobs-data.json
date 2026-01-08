@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-08 19:23:35",
-    "total_jobs": 118,
+    "generated_at": "2026-01-09 00:28:02",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Server Engineer NBA 2K",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-server-engineer-nba-2k-visual-concepts-1129464",
+            "date": 1767826815
+        },
+        {
+            "title": "Senior Software Engineer Analytics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-analytics-bayesian-health-inc-1129463",
+            "date": 1767823245
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-solutions-inc-1129462",
+            "date": 1767823206
+        },
         {
             "title": "Junior Crypto Analyst & Trader",
             "company": "RemoteOK",
@@ -250,17 +283,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-agent-infrastructure-openai-1129438",
             "date": 1767672011
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-tech-solutions-inc-1129437",
-            "date": 1767664813
         },
         {
             "title": "Senior Backend PHP Software Engineer Inventory",
@@ -1017,28 +1039,6 @@
             "date": 1766678421
         },
         {
-            "title": "Product Manager Wallet SDKs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-wallet-sdks-startale-1129334",
-            "date": 1766624406
-        },
-        {
-            "title": "Growth Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketing-manager-infstones-1129333",
-            "date": 1766606402
-        },
-        {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1061,19 +1061,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week",
             "date": 1766590964
-        },
-        {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-nansen-ai-1129332",
-            "date": 1766588449
         },
         {
             "title": "Silverfin: Player-Coach Engineering Team Lead",
@@ -1254,26 +1241,17 @@
             "date": 1765389332
         },
         {
-            "title": "Sonas: Fullstack Engineer",
+            "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sonas-fullstack-engineer",
-            "date": 1765301529
-        },
-        {
-            "title": "Preql: Engineering Manager / Lead Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer",
-            "date": 1765290738
+            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
+            "date": 1764083919
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
@@ -1320,6 +1298,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
             "date": 1755535001
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1",
+            "date": 1753693913
         },
         {
             "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
