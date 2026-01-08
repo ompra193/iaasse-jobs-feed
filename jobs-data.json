@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-08 00:30:16",
-    "total_jobs": 119,
+    "generated_at": "2026-01-08 09:24:49",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Staff Software Engineer Crypto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-crypto-robinhood-1129455",
+            "date": 1767751221
+        },
         {
             "title": "Junior Software Developer Full Stack",
             "company": "RemoteOK",
@@ -984,6 +995,19 @@
             "date": 1766606402
         },
         {
+            "title": "Stack Influence: Senior Full Stack Javascript Engineer (Remote, 4-day week)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week",
+            "date": 1766590964
+        },
+        {
             "title": "Senior Data Engineer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1039,28 +1063,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-member-support-specialist-disqo-1129328",
             "date": 1766556024
-        },
-        {
-            "title": "Product Manager GeckoTerminal",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-geckoterminal-coingecko-1129326",
-            "date": 1766520038
-        },
-        {
-            "title": "Senior Analytics Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-analytics-engineer-alpaca-1129325",
-            "date": 1766520031
         },
         {
             "title": "Silverfin: Player-Coach Engineering Team Lead",
@@ -1309,19 +1311,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist",
-            "date": 1760069509
         },
         {
             "title": "DynamiCare Health: Full-Stack Engineer",
