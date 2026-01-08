@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-08 12:30:21",
+    "generated_at": "2026-01-08 19:23:35",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Junior Crypto Analyst & Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1129461",
+            "date": 1767812035
+        },
+        {
+            "title": "Graphic Design Technical Mentor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graphic-design-technical-mentor-alx-africa-1129459",
+            "date": 1767805217
+        },
+        {
+            "title": "Customer Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-front-1129458",
+            "date": 1767794439
+        },
+        {
+            "title": "Quality Assurance Engineer Manual",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-quality-assurance-engineer-manual-elligint-health-1129457",
+            "date": 1767794432
+        },
         {
             "title": "Staff Software Engineer Crypto",
             "company": "RemoteOK",
@@ -995,6 +1039,17 @@
             "date": 1766606402
         },
         {
+            "title": "Remote Leverage: Senior Full Stack MERN Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/remote-leverage-senior-full-stack-mern-developer",
+            "date": 1766595482
+        },
+        {
             "title": "Stack Influence: Senior Full Stack Javascript Engineer (Remote, 4-day week)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1019,50 +1074,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-nansen-ai-1129332",
             "date": 1766588449
-        },
-        {
-            "title": "Social Media Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-givedirectly-1129331",
-            "date": 1766588419
-        },
-        {
-            "title": "Senior Full Stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-teleport-1129330",
-            "date": 1766584804
-        },
-        {
-            "title": "Project Director Campus Action Planning",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-director-campus-action-planning-campus-compact-1129329",
-            "date": 1766556048
-        },
-        {
-            "title": "Member Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-member-support-specialist-disqo-1129328",
-            "date": 1766556024
         },
         {
             "title": "Silverfin: Player-Coach Engineering Team Lead",
@@ -1263,19 +1274,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/preql-engineering-manager-lead-engineer",
             "date": 1765290738
-        },
-        {
-            "title": "OnTheGoSystems: PHP developer (French or German speakers)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-french-or-german-speakers",
-            "date": 1765266119
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
