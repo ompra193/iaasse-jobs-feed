@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-09 09:26:16",
+    "generated_at": "2026-01-09 12:32:29",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Accelerator Design & Development Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-accelerator-design-development-manager-instride-1129473",
+            "date": 1767866415
+        },
         {
             "title": "Software Engineer Mid level API",
             "company": "RemoteOK",
@@ -1025,17 +1036,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-associate-clinical-director-oncology-private-health-management-1129346",
             "date": 1766815253
-        },
-        {
-            "title": "Recovery Analyst Underpayments",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recovery-analyst-underpayments-trend-health-partners-1129345",
-            "date": 1766815227
         },
         {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
