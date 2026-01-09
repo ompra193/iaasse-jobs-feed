@@ -1,8 +1,98 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-09 00:28:02",
+    "generated_at": "2026-01-09 09:26:16",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Software Engineer Mid level API",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-mid-level-api-coingecko-1129472",
+            "date": 1767859245
+        },
+        {
+            "title": "Software Engineer Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-site-reliability-engineer-thumbtack-1129471",
+            "date": 1767859239
+        },
+        {
+            "title": "Senior Software Engineer .NET US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-net-us-perfectserve-1129470",
+            "date": 1767859215
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-evolve-1129469",
+            "date": 1767848417
+        },
+        {
+            "title": "Senior Staff Machine Learning Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-cresta-1129468",
+            "date": 1767844830
+        },
+        {
+            "title": "Staff Software Engineer Java",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-java-ping-identity-1129467",
+            "date": 1767841212
+        },
+        {
+            "title": "Principal Server Engineer NBA 2K",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-server-engineer-nba-2k-visual-concepts-1129466",
+            "date": 1767837616
+        },
+        {
+            "title": "Software Engineer iOS",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ios-mercury-1129465",
+            "date": 1767834022
+        },
         {
             "title": "Senior Server Engineer NBA 2K",
             "company": "RemoteOK",
@@ -397,17 +487,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-associate-technical-support-engineer-recharge-1129400",
             "date": 1767477615
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-bugcrowd-1129399",
-            "date": 1767474011
         },
         {
             "title": "Staff Software Engineer",
@@ -957,86 +1036,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-recovery-analyst-underpayments-trend-health-partners-1129345",
             "date": 1766815227
-        },
-        {
-            "title": "Cloud Full Stack Python Software Engineer US",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python",
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-full-stack-python-software-engineer-us-railroad19-inc-1129344",
-            "date": 1766815220
-        },
-        {
-            "title": "Customer Care Specialist Inbound Phone Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-care-specialist-inbound-phone-support-honk-1129343",
-            "date": 1766815213
-        },
-        {
-            "title": "Staff Software Engineer Backend with Close 10 years of experience",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-backend-with-close-10-years-of-experience-outreach-1129341",
-            "date": 1766768402
-        },
-        {
-            "title": "Technical Program Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-program-associate-givedirectly-1129340",
-            "date": 1766757615
-        },
-        {
-            "title": "Full Stack Engineer Contacts",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-engineer-contacts-calendly-1129339",
-            "date": 1766721617
-        },
-        {
-            "title": "Product Security Engineer DeFi",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-security-engineer-defi-falconx-1129337",
-            "date": 1766692816
-        },
-        {
-            "title": "Senior Frontend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-arize-ai-1129336",
-            "date": 1766678421
         },
         {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
