@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-09 19:26:06",
+    "generated_at": "2026-01-10 00:34:05",
     "total_jobs": 117,
     "jobs": [
         {
@@ -1225,19 +1225,30 @@
             "date": 1765420737
         },
         {
-            "title": "Contra: Senior Software Engineer (React, Node.js, GraphQL, PostgreSQL)",
+            "title": "PostHog: Product Engineer - Data Modeling",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "react",
-                "node",
-                "sql"
+                "data"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-react-node-js-graphql-postgresql",
-            "date": 1765389332
+            "link": "https://weworkremotely.com/remote-jobs/posthog-product-engineer-data-modeling",
+            "date": 1764116080
+        },
+        {
+            "title": "PostHog: AI Product Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer",
+            "date": 1764115342
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
@@ -1262,17 +1273,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
             "date": 1762937762
-        },
-        {
-            "title": "Nova: Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/nova-full-stack-developer",
-            "date": 1762800346
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
