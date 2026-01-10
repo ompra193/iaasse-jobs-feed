@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-10 00:34:05",
+    "generated_at": "2026-01-10 09:19:34",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Full Stack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-nuclear-promise-x-1129478",
+            "date": 1767949209
+        },
+        {
+            "title": "Product Engineer AuthKit",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-engineer-authkit-workos-1129477",
+            "date": 1767938419
+        },
+        {
+            "title": "Senior Solutions Architect APAC",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-solutions-architect-apac-chainguard-1129476",
+            "date": 1767931215
+        },
         {
             "title": "Accelerator Design & Development Manager",
             "company": "RemoteOK",
@@ -1005,39 +1038,6 @@
             "date": 1766815288
         },
         {
-            "title": "Commercial P&amp;C Support Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-commercial-pampc-support-representative-thimble-1129348",
-            "date": 1766815268
-        },
-        {
-            "title": "Content Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-manager-terra-1129347",
-            "date": 1766815260
-        },
-        {
-            "title": "Associate Clinical Director Oncology",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-clinical-director-oncology-private-health-management-1129346",
-            "date": 1766815253
-        },
-        {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1211,18 +1211,17 @@
             "date": 1765479716
         },
         {
-            "title": "Breezy HR : Senior Cloud Platform Engineer (AWS)",
+            "title": "Growth Factory Ventures: Applied AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "cloud",
-                "hr"
+                "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/breezy-hr-senior-cloud-platform-engineer-aws",
-            "date": 1765420737
+            "link": "https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer",
+            "date": 1764258687
         },
         {
             "title": "PostHog: Product Engineer - Data Modeling",
