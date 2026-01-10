@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-10 09:19:34",
+    "generated_at": "2026-01-10 12:26:33",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Java Software Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-java-software-developer-callibrity-1129479",
+            "date": 1767952814
+        },
         {
             "title": "Senior Full Stack Developer",
             "company": "RemoteOK",
@@ -1025,17 +1038,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-internal-controls-amp-policy-adherence-testing-analyst-cloudwalk-1129350",
             "date": 1766815296
-        },
-        {
-            "title": "Frontend Product Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-frontend-product-engineer-mento-1129349",
-            "date": 1766815288
         },
         {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
