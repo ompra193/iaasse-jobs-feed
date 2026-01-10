@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-10 12:26:33",
+    "generated_at": "2026-01-10 19:13:36",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Performance Marketing Manager GalaxyOne",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-galaxyone-galaxy-digital-services-1129485",
+            "date": 1767981632
+        },
+        {
+            "title": "DevSecOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devsecops-engineer-alpaca-1129484",
+            "date": 1767974419
+        },
+        {
+            "title": "Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-pancakeswap-1129483",
+            "date": 1767967232
+        },
+        {
+            "title": "AEP Enterprise Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-aep-enterprise-architect-jobgether-1129482",
+            "date": 1767967227
+        },
+        {
+            "title": "Blockchain Investigator and Law Enforcement Liaison",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-blockchain-investigator-and-law-enforcement-liaison-tether-operations-limited-1129481",
+            "date": 1767967219
+        },
+        {
+            "title": "Crypto Production Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-production-engineer-wormhole-foundation-1129480",
+            "date": 1767967212
+        },
         {
             "title": "Senior Java Software Developer",
             "company": "RemoteOK",
@@ -972,72 +1040,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-specialist-alltrails-1129356",
             "date": 1766995202
-        },
-        {
-            "title": "Senior Backend Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-engineer-teleport-1129355",
-            "date": 1766959202
-        },
-        {
-            "title": "DevOps Software Engineer Energy Storage",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-devops-software-engineer-energy-storage-redwood-materials-1129354",
-            "date": 1766887216
-        },
-        {
-            "title": "Business Systems Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-systems-analyst-nasa-federal-credit-union-1129353",
-            "date": 1766880009
-        },
-        {
-            "title": "Customer Experience Associate New Req",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-experience-associate-new-req-koala-health-1129352",
-            "date": 1766880001
-        },
-        {
-            "title": "Frontend Engineer Trading Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-trading-platform-myfunded-futures-1129351",
-            "date": 1766844012
-        },
-        {
-            "title": "Internal Controls &amp; Policy Adherence Testing Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-internal-controls-amp-policy-adherence-testing-analyst-cloudwalk-1129350",
-            "date": 1766815296
         },
         {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
