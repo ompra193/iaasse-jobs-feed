@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-11 00:24:04",
+    "generated_at": "2026-01-11 09:48:27",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "2D Game Artist Co op Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-2d-game-artist-co-op-intern-a-thinking-ape-1129495",
+            "date": 1768021241
+        },
+        {
+            "title": "Lead Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-artist-take-two-interactive-software-inc-1129494",
+            "date": 1768021216
+        },
+        {
+            "title": "Senior Software Engineer iOS",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ios-underdog-sports-1129493",
+            "date": 1768017617
+        },
+        {
+            "title": "Senior Software Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-vidyard-1129492",
+            "date": 1768006820
+        },
         {
             "title": "Senior Software Engineer Solutions",
             "company": "RemoteOK",
@@ -978,48 +1022,15 @@
             "date": 1767045646
         },
         {
-            "title": "Full Stack Developer",
-            "company": "RemoteOK",
+            "title": "KFC: Sr. Software Engineer II",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-microventures-1129364",
-            "date": 1767045641
-        },
-        {
-            "title": "Sales Development Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-manager-dune-1129363",
-            "date": 1767045627
-        },
-        {
-            "title": "Current job openings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-current-job-openings-databricks-1129362",
-            "date": 1767045621
-        },
-        {
-            "title": "Senior Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-business-analyst-xpansiv-1129361",
-            "date": 1767031282
+            "link": "https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii",
+            "date": 1767034919
         },
         {
             "title": "Remote Leverage: Senior Full Stack MERN Developer",
@@ -1171,28 +1182,17 @@
             "date": 1765551959
         },
         {
-            "title": "MyDataValue: Fully Remote - Founding Full-Stack Senior Engineer (UK ONLY)",
+            "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "react"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mydatavalue-fully-remote-founding-full-stack-senior-engineer-uk-only",
-            "date": 1765485501
-        },
-        {
-            "title": "BBE Marketing Inc: Senior Symfony Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bbe-marketing-inc-senior-symfony-developer",
-            "date": 1765479716
+            "link": "https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform",
+            "date": 1764618137
         },
         {
             "title": "Growth Factory Ventures: Applied AI Engineer",
