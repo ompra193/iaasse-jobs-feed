@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-11 19:14:15",
+    "generated_at": "2026-01-12 00:24:54",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-xai-1129503",
+            "date": 1768086017
+        },
+        {
+            "title": "Customer Service Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-virtual-assistant-assist-world-1129502",
+            "date": 1768078802
+        },
+        {
+            "title": "Salesforce Experience Architect AI and Agentforce",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-experience-architect-ai-and-agentforce-neuraflash-part-of-accenture-1129501",
+            "date": 1768075233
+        },
+        {
+            "title": "Current openings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-remote-referral-board-1129500",
+            "date": 1768075211
+        },
         {
             "title": "Principal DevSecOps Engineer",
             "company": "RemoteOK",
@@ -770,6 +818,19 @@
             "date": 1767366410
         },
         {
+            "title": "WodBoard: Senior Rails developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wodboard-senior-rails-developer-1",
+            "date": 1767362332
+        },
+        {
             "title": "Executive Assistant Operations Virtual Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -987,54 +1048,6 @@
             "date": 1767060042
         },
         {
-            "title": "Work From Home Benefits Services Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-benefits-services-representative-global-elite-texas-1129370",
-            "date": 1767052855
-        },
-        {
-            "title": "Senior Infrastructure Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-infrastructure-engineer-paradigm-health-1129369",
-            "date": 1767052831
-        },
-        {
-            "title": "Senior Software Developer II Cloud",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-ii-cloud-life360-1129368",
-            "date": 1767052814
-        },
-        {
-            "title": "HR Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-administrator-offshore-launch-1129367",
-            "date": 1767045691
-        },
-        {
             "title": "KFC: Sr. Software Engineer II",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1169,30 +1182,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1",
             "date": 1765789528
-        },
-        {
-            "title": "Sanctuary Computer: Senior Frontend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer",
-            "date": 1765565397
-        },
-        {
-            "title": "Toptal: React Native Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-react-native-developer",
-            "date": 1765551959
         },
         {
             "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
@@ -1330,6 +1319,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
             "date": 1737590397
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
