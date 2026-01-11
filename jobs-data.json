@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-11 12:28:09",
+    "generated_at": "2026-01-11 19:14:15",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Principal DevSecOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-ghx-1129499",
+            "date": 1768071640
+        },
+        {
+            "title": "Lead .NET Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-net-engineer-excella-1129498",
+            "date": 1768071624
+        },
         {
             "title": "2D Game Artist Co op Intern",
             "company": "RemoteOK",
@@ -772,6 +794,19 @@
             "date": 1767351601
         },
         {
+            "title": "OnTheGoSystems: Senior Python Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer",
+            "date": 1767348656
+        },
+        {
             "title": "Staff Software Engineer Money",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1000,28 +1035,6 @@
             "date": 1767045691
         },
         {
-            "title": "Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-ahrefs-1129366",
-            "date": 1767045662
-        },
-        {
-            "title": "Client Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-success-manager-offshore-launch-1129365",
-            "date": 1767045646
-        },
-        {
             "title": "KFC: Sr. Software Engineer II",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1245,17 +1258,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
             "date": 1764083919
-        },
-        {
-            "title": "CodeSignal: Software Engineer, Business Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
-            "date": 1762937762
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
