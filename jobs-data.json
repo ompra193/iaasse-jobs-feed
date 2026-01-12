@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-12 00:24:54",
-    "total_jobs": 115,
+    "generated_at": "2026-01-12 09:48:01",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Rocket Ready",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-rocket-ready-rocket-money-1129510",
+            "date": 1768118417
+        },
+        {
+            "title": "DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-bugcrowd-1129509",
+            "date": 1768114813
+        },
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-bugcrowd-1129508",
+            "date": 1768107611
+        },
+        {
+            "title": "Staff DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-bugcrowd-1129507",
+            "date": 1768104040
+        },
+        {
+            "title": "Technical Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-ada-1129506",
+            "date": 1768104014
+        },
+        {
+            "title": "Senior Backend Engineer Submission Processing Team",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-submission-processing-team-kalepa-1129505",
+            "date": 1768096822
+        },
+        {
+            "title": "Forward Deployed Engineer AI Inference",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-ai-inference-red-hat-inc-1129504",
+            "date": 1768096801
+        },
         {
             "title": "Graphic Designer",
             "company": "RemoteOK",
@@ -982,72 +1061,6 @@
             "date": 1767103229
         },
         {
-            "title": "Client Success Manager Coupa",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-success-manager-coupa-crosscountry-consulting-1129378",
-            "date": 1767074500
-        },
-        {
-            "title": "Social Media Manager Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-platform-digital-media-management-1129377",
-            "date": 1767074493
-        },
-        {
-            "title": "IT Operations Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-operations-specialist-myfunded-futures-1129376",
-            "date": 1767074487
-        },
-        {
-            "title": "Senior Specialist Senior Accountant Shared Financial Services",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-specialist-senior-accountant-shared-financial-services-make-a-wish-america-1129374",
-            "date": 1767074449
-        },
-        {
-            "title": "Senior Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-agile-six-1129373",
-            "date": 1767074427
-        },
-        {
-            "title": "Senior Engineering Manager Infrastructure",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-infrastructure-mzla-technologies-corporation-1129371",
-            "date": 1767060042
-        },
-        {
             "title": "KFC: Sr. Software Engineer II",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1273,6 +1286,17 @@
             "date": 1755535001
         },
         {
+            "title": "Zencastr: Senior Backend Engineer - Full Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
+            "date": 1754510489
+        },
+        {
             "title": "Sticker Mule: Software engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1295,17 +1319,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
-        },
-        {
-            "title": "Mobena: Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
-            "date": 1747425814
         },
         {
             "title": "Proton.ai: Senior Backend Engineer",
