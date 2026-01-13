@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-13 18:18:21",
+    "generated_at": "2026-01-14 00:01:45",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Enterprise Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-customer-success-manager-lumos-1129530",
+            "date": 1768262486
+        },
+        {
+            "title": "HR Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-specialist-g-p-1129529",
+            "date": 1768262459
+        },
+        {
+            "title": "Software Engineer II DevOps",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-devops-sony-interactive-entertainment-1129528",
+            "date": 1768262431
+        },
+        {
+            "title": "Kubernetes Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-kubernetes-engineer-le018-zelis-healthcare-llc-1129527",
+            "date": 1768262401
+        },
+        {
+            "title": "Writer Editor B2B Technology",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-writer-editor-b2b-technology-launchsquad-1129524",
+            "date": 1768248024
+        },
+        {
+            "title": "Staff Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-zenbusiness-inc-1129523",
+            "date": 1768248018
+        },
         {
             "title": "Business Development Manager",
             "company": "RemoteOK",
@@ -963,28 +1031,6 @@
             "date": 1767452406
         },
         {
-            "title": "SQUIRE",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-squire-squire-1129396",
-            "date": 1767391221
-        },
-        {
-            "title": "Coding Bootcamp\u00ef\u00b9\u00a3Job Guaranteed",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-coding-bootcamp-job-guaranteed-metana-1129395",
-            "date": 1767366410
-        },
-        {
             "title": "WodBoard: Senior Rails developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -998,30 +1044,6 @@
             "date": 1767362332
         },
         {
-            "title": "Executive Assistant Operations Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-operations-virtual-assistant-assist-world-1129394",
-            "date": 1767351608
-        },
-        {
-            "title": "Marketing &amp; Sponsorship Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-amp-sponsorship-coordinator-assist-world-1129393",
-            "date": 1767351601
-        },
-        {
             "title": "OnTheGoSystems: Senior Python Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1033,30 +1055,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer",
             "date": 1767348656
-        },
-        {
-            "title": "Staff Software Engineer Money",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-money-galileo-financial-technologies-1129390",
-            "date": 1767326455
-        },
-        {
-            "title": "Senior Cloud Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-clickhouse-1129389",
-            "date": 1767326437
         },
         {
             "title": "KFC: Sr. Software Engineer II",
