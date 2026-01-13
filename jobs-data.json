@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-13 12:05:04",
+    "generated_at": "2026-01-13 18:18:21",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Business Development Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-gate-1129522",
+            "date": 1768230001
+        },
         {
             "title": "Senior Software Engineer Backend",
             "company": "RemoteOK",
@@ -1046,17 +1057,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-clickhouse-1129389",
             "date": 1767326437
-        },
-        {
-            "title": "Regional Director Public Sector Sales DOW",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-director-public-sector-sales-dow-chainguard-1129388",
-            "date": 1767326417
         },
         {
             "title": "KFC: Sr. Software Engineer II",
