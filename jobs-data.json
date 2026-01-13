@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-13 00:30:30",
-    "total_jobs": 116,
+    "generated_at": "2026-01-13 09:25:15",
+    "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Backend",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-cresta-1129520",
+            "date": 1768201211
+        },
+        {
+            "title": "Associate Director Manufacturing Science and Technology",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-director-manufacturing-science-and-technology-apogee-therapeutics-1129518",
+            "date": 1768194035
+        },
+        {
+            "title": "Platform & Automation Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-platform-automation-engineer-braze-1129517",
+            "date": 1768194015
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clariti-cloud-inc-1129516",
+            "date": 1768183209
+        },
         {
             "title": "Quality Analyst II",
             "company": "RemoteOK",
@@ -454,17 +498,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-net-us-perfectserve-1129470",
             "date": 1767859215
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-evolve-1129469",
-            "date": 1767848417
         },
         {
             "title": "Senior Staff Machine Learning Engineer",
@@ -1024,52 +1057,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-regional-director-public-sector-sales-dow-chainguard-1129388",
             "date": 1767326417
-        },
-        {
-            "title": "Senior Staff AI Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-ai-software-engineer-aegis-ventures-1129387",
-            "date": 1767322815
-        },
-        {
-            "title": "Security Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-architect-dexterity-1129385",
-            "date": 1767240002
-        },
-        {
-            "title": "Member of Technical Staff Fullstack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-fullstack-engineer-inflection-ai-1129384",
-            "date": 1767189642
-        },
-        {
-            "title": "Staff Software Engineer Simulation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-simulation-muon-space-1129383",
-            "date": 1767189618
         },
         {
             "title": "KFC: Sr. Software Engineer II",
