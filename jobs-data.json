@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-14 12:04:55",
-    "total_jobs": 115,
+    "generated_at": "2026-01-14 18:16:55",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Copywriter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-copywriter-unreal-snacks-1129543",
+            "date": 1768323646
+        },
+        {
+            "title": "Video & Motion Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-video-motion-designer-karya-1129542",
+            "date": 1768323624
+        },
+        {
+            "title": "Product Consultant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-consultant-apply-digital-1129541",
+            "date": 1768312863
+        },
+        {
+            "title": "Finance and Accounting Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-finance-and-accounting-manager-jobgether-1129540",
+            "date": 1768312856
+        },
         {
             "title": "DevOps Lead Engineer",
             "company": "RemoteOK",
@@ -83,14 +129,16 @@
             "date": 1768269617
         },
         {
-            "title": "Senior Full Stack Engineer",
+            "title": "Senior Data Engineer",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "data"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-sanctuary-computer-1129532",
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-sanctuary-computer-1129532",
             "date": 1768269460
         },
         {
@@ -781,6 +829,17 @@
             "date": 1767751221
         },
         {
+            "title": "Perry Homes: Website Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/perry-homes-website-developer",
+            "date": 1767737979
+        },
+        {
             "title": "Junior Software Developer Full Stack",
             "company": "RemoteOK",
             "company_logo": null,
@@ -998,28 +1057,6 @@
             "date": 1767636059
         },
         {
-            "title": "Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-bobsled-1129429",
-            "date": 1767636052
-        },
-        {
-            "title": "Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-interview-kickstart-1129427",
-            "date": 1767632424
-        },
-        {
             "title": "Jiga: Full Stack Product Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1129,59 +1166,6 @@
             "date": 1765924531
         },
         {
-            "title": "Proxify AB: Senior Fullstack Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python",
-            "date": 1765795017
-        },
-        {
-            "title": "Proxify AB: Senior Ruby on Rails Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-2",
-            "date": 1765794764
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-5",
-            "date": 1765789951
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (React.js & Node.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-1",
-            "date": 1765789528
-        },
-        {
             "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1271,6 +1255,17 @@
             "date": 1755535001
         },
         {
+            "title": "Zencastr: Senior Fullstack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer",
+            "date": 1754693731
+        },
+        {
             "title": "Zencastr: Senior Backend Engineer - Full Remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1304,6 +1299,30 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
+        },
+        {
+            "title": "Speechify Inc: Software Engineer, iOS Core Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+            "date": 1752075311
+        },
+        {
+            "title": "Lumenalta: Javascript Fullstack Engineer - Senior",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior",
+            "date": 1744230316
         },
         {
             "title": "Proton.ai: Senior Backend Engineer",
