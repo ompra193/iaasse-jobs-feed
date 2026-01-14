@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-14 00:01:45",
+    "generated_at": "2026-01-14 12:04:55",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "DevOps Lead Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-lead-engineer-envoy-global-inc-1129539",
+            "date": 1768298468
+        },
+        {
+            "title": "Principal DevOps Engineer Datastores",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-devops-engineer-datastores-udemy-1129538",
+            "date": 1768298423
+        },
+        {
+            "title": "Software Development Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-development-manager-mitratech-1129537",
+            "date": 1768294826
+        },
+        {
+            "title": "Solutions Architect Strategic Capture",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-strategic-capture-defense-unicorns-1129536",
+            "date": 1768291213
+        },
+        {
+            "title": "Current openings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-alpaca-1129535",
+            "date": 1768287611
+        },
+        {
+            "title": "Character Artist Heads NBA 2K",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-character-artist-heads-nba-2k-visual-concepts-1129534",
+            "date": 1768269638
+        },
+        {
+            "title": "Sales & Business Development Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-business-development-director-near-foundation-1129533",
+            "date": 1768269617
+        },
+        {
+            "title": "Senior Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-sanctuary-computer-1129532",
+            "date": 1768269460
+        },
+        {
+            "title": "Software Developer ll ShareGate Foundation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-developer-ll-sharegate-foundation-workleap-1129531",
+            "date": 1768266011
+        },
         {
             "title": "Enterprise Customer Success Manager",
             "company": "RemoteOK",
@@ -274,17 +375,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-salesforce-experience-architect-ai-and-agentforce-neuraflash-part-of-accenture-1129501",
             "date": 1768075233
-        },
-        {
-            "title": "Current openings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-remote-referral-board-1129500",
-            "date": 1768075211
         },
         {
             "title": "Principal DevSecOps Engineer",
@@ -930,52 +1020,6 @@
             "date": 1767632424
         },
         {
-            "title": "Content Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-marketing-manager-certik-1129407",
-            "date": 1767610801
-        },
-        {
-            "title": "Head of Paid Search",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-head-of-paid-search-wpromote-1129406",
-            "date": 1767592814
-        },
-        {
-            "title": "Online Hotel Reservationist Fully",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservationist-fully-destination-knot-1129404",
-            "date": 1767549601
-        },
-        {
-            "title": "Full Stack Product Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-jiga-1129403",
-            "date": 1767539499
-        },
-        {
             "title": "Jiga: Full Stack Product Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -985,50 +1029,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer",
             "date": 1767513969
-        },
-        {
-            "title": "Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-qualio-1129401",
-            "date": 1767477645
-        },
-        {
-            "title": "Associate Technical Support Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-technical-support-engineer-recharge-1129400",
-            "date": 1767477615
-        },
-        {
-            "title": "Staff Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-malt-1129398",
-            "date": 1767456002
-        },
-        {
-            "title": "Espresso",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-espresso-espresso-1129397",
-            "date": 1767452406
         },
         {
             "title": "WodBoard: Senior Rails developer",
