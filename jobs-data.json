@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-15 12:04:48",
+    "generated_at": "2026-01-15 18:16:13",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "HR Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-virtual-assistant-assist-world-1129560",
+            "date": 1768406402
+        },
         {
             "title": "Solutions Architect Contract Hire",
             "company": "RemoteOK",
@@ -1027,17 +1041,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-assistant-manager-social-media-interview-kickstart-1129449",
             "date": 1767722443
-        },
-        {
-            "title": "Customer Support Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-clerk-chat-1129448",
-            "date": 1767722417
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
