@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-15 18:16:13",
+    "generated_at": "2026-01-16 00:06:53",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "UI UX Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ui-ux-designer-jobgether-1129562",
+            "date": 1768435209
+        },
+        {
+            "title": "Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-jobgether-1129561",
+            "date": 1768435202
+        },
         {
             "title": "HR Virtual Assistant",
             "company": "RemoteOK",
@@ -964,6 +988,17 @@
             "date": 1767751221
         },
         {
+            "title": "Sangoma: Web Developer (Remote- Canada and/or United States )",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sangoma-web-developer-remote-canada-and-or-united-states",
+            "date": 1767737979
+        },
+        {
             "title": "Perry Homes: Website Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1017,30 +1052,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-federato-1129451",
             "date": 1767736827
-        },
-        {
-            "title": "Senior Product Designer Ticketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-ticketing-playon-1129450",
-            "date": 1767729601
-        },
-        {
-            "title": "Assistant Manager Social Media",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistant-manager-social-media-interview-kickstart-1129449",
-            "date": 1767722443
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
@@ -1228,17 +1239,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "DynamiCare Health: Full-Stack Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
-            "date": 1755535001
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
