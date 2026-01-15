@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-15 00:03:59",
-    "total_jobs": 119,
+    "generated_at": "2026-01-15 07:14:40",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129555",
+            "date": 1768374006
+        },
+        {
+            "title": "Principal Enterprise Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-enterprise-architect-versaterm-1129553",
+            "date": 1768366806
+        },
+        {
+            "title": "Distinguished Engineer Apache Spark",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-distinguished-engineer-apache-spark-2100-nvidia-usa-1129552",
+            "date": 1768359605
+        },
+        {
+            "title": "Sr Software Development Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sr-software-development-engineer-beyondtrust-1129551",
+            "date": 1768356005
+        },
         {
             "title": "Site Reliability Engineer South Korea",
             "company": "RemoteOK",
@@ -340,17 +384,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-platform-automation-engineer-braze-1129517",
             "date": 1768194015
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clariti-cloud-inc-1129516",
-            "date": 1768183209
         },
         {
             "title": "Quality Analyst II",
@@ -1027,52 +1060,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-erp-systems-manager-disher-1129444",
             "date": 1767679331
-        },
-        {
-            "title": "Copy of Senior AI ML Engineer Applied Machine Learning",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-copy-of-senior-ai-ml-engineer-applied-machine-learning-trase-systems-1129443",
-            "date": 1767679324
-        },
-        {
-            "title": "Senior Software Engineer Backend Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-engineering-trase-systems-1129442",
-            "date": 1767679293
-        },
-        {
-            "title": "Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-manager-digible-1129441",
-            "date": 1767679270
-        },
-        {
-            "title": "Senior Software Engineer Frontend Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-frontend-engineering-trase-systems-1129440",
-            "date": 1767679249
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
