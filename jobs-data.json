@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-15 07:14:40",
-    "total_jobs": 118,
+    "generated_at": "2026-01-15 12:04:48",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Solutions Architect Contract Hire",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-contract-hire-lirio-1129559",
+            "date": 1768384810
+        },
         {
             "title": "Senior Software Engineer",
             "company": "RemoteOK",
@@ -11,8 +22,19 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129555",
-            "date": 1768374006
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129558",
+            "date": 1768381206
+        },
+        {
+            "title": "Senior Staff Content Designer Pay Group",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-content-designer-pay-group-gusto-1129557",
+            "date": 1768377660
         },
         {
             "title": "Principal Enterprise Architect",
@@ -1016,50 +1038,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-clerk-chat-1129448",
             "date": 1767722417
-        },
-        {
-            "title": "Content and Communications Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-and-communications-lead-recidiviz-1129447",
-            "date": 1767708040
-        },
-        {
-            "title": "Art Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-art-director-digital-media-management-1129446",
-            "date": 1767679355
-        },
-        {
-            "title": "Lead Omics Workflow Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-omics-workflow-engineer-axle-1129445",
-            "date": 1767679348
-        },
-        {
-            "title": "ERP Systems Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-erp-systems-manager-disher-1129444",
-            "date": 1767679331
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
