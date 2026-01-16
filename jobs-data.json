@@ -1,31 +1,18 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-16 00:06:53",
-    "total_jobs": 116,
+    "generated_at": "2026-01-16 07:16:33",
+    "total_jobs": 111,
     "jobs": [
         {
-            "title": "UI UX Designer",
+            "title": "Senior Software Engineer",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ui-ux-designer-jobgether-1129562",
-            "date": 1768435209
-        },
-        {
-            "title": "Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-jobgether-1129561",
-            "date": 1768435202
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129563",
+            "date": 1768460406
         },
         {
             "title": "HR Virtual Assistant",
@@ -51,17 +38,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-contract-hire-lirio-1129559",
             "date": 1768384810
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129558",
-            "date": 1768381206
         },
         {
             "title": "Senior Staff Content Designer Pay Group",
@@ -216,19 +192,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-consultant-apply-digital-1129541",
             "date": 1768312863
-        },
-        {
-            "title": "Finance and Accounting Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-finance-and-accounting-manager-jobgether-1129540",
-            "date": 1768312856
         },
         {
             "title": "DevOps Lead Engineer",
@@ -751,17 +714,6 @@
             "date": 1767974419
         },
         {
-            "title": "AEP Enterprise Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-aep-enterprise-architect-jobgether-1129482",
-            "date": 1767967227
-        },
-        {
             "title": "Blockchain Investigator and Law Enforcement Liaison",
             "company": "RemoteOK",
             "company_logo": null,
@@ -988,6 +940,19 @@
             "date": 1767751221
         },
         {
+            "title": "AHU Technologies: Senior Trainer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-trainer",
+            "date": 1767737979
+        },
+        {
             "title": "Sangoma: Web Developer (Remote- Canada and/or United States )",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1041,17 +1006,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-owner-it-support-engineer-owner-1129452",
             "date": 1767736834
-        },
-        {
-            "title": "Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-federato-1129451",
-            "date": 1767736827
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
@@ -1148,19 +1102,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only",
             "date": 1765937852
-        },
-        {
-            "title": "Lincoln Freedom Group, LLC: Python Developer (US Only)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-us-only",
-            "date": 1765924531
         },
         {
             "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
