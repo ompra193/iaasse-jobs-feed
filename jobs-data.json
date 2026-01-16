@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-16 12:04:58",
+    "generated_at": "2026-01-16 18:14:52",
     "total_jobs": 110,
     "jobs": [
+        {
+            "title": "Director of Engineering Canada",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-engineering-canada-alpaca-1129568",
+            "date": 1768496405
+        },
+        {
+            "title": "Software Engineering Team Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-team-lead-bloxroute-labs-1129566",
+            "date": 1768482001
+        },
         {
             "title": "Staff Data Software Engineer",
             "company": "RemoteOK",
@@ -942,17 +964,6 @@
             "date": 1767794432
         },
         {
-            "title": "Staff Software Engineer Crypto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-crypto-robinhood-1129455",
-            "date": 1767751221
-        },
-        {
             "title": "AHU Technologies: Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -997,17 +1008,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/perry-homes-website-developer",
             "date": 1767737979
-        },
-        {
-            "title": "Junior Software Developer Full Stack",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-software-developer-full-stack-koho-1129454",
-            "date": 1767736867
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
