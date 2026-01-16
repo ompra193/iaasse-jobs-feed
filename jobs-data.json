@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-16 07:16:33",
-    "total_jobs": 111,
+    "generated_at": "2026-01-16 12:04:58",
+    "total_jobs": 110,
     "jobs": [
+        {
+            "title": "Staff Data Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-software-engineer-lookout-inc-1129565",
+            "date": 1768467605
+        },
         {
             "title": "Senior Software Engineer",
             "company": "RemoteOK",
@@ -11,8 +24,8 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129563",
-            "date": 1768460406
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129564",
+            "date": 1768464006
         },
         {
             "title": "HR Virtual Assistant",
@@ -940,6 +953,17 @@
             "date": 1767751221
         },
         {
+            "title": "AHU Technologies: Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-sales-representative-fire-protection-inspections-columbus-ga",
+            "date": 1767737979
+        },
+        {
             "title": "AHU Technologies: Senior Trainer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -984,28 +1008,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-software-developer-full-stack-koho-1129454",
             "date": 1767736867
-        },
-        {
-            "title": "Senior HubSpot Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-hubspot-developer-softermii-1129453",
-            "date": 1767736861
-        },
-        {
-            "title": "Owner IT Support Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-owner-it-support-engineer-owner-1129452",
-            "date": 1767736834
         },
         {
             "title": "Jiga: Full Stack Product Engineer",
@@ -1089,19 +1091,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1",
             "date": 1766478621
-        },
-        {
-            "title": "Lincoln Freedom Group, LLC: Python Developer - Code Quality & Standards (US Only)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lincoln-freedom-group-llc-python-developer-code-quality-standards-us-only",
-            "date": 1765937852
         },
         {
             "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
