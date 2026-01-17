@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-17 00:03:27",
+    "generated_at": "2026-01-17 07:11:11",
     "total_jobs": 101,
     "jobs": [
+        {
+            "title": "Machine Learning Engineer 3D Vision&Localization",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-3d-visionlocalization-bot-auto-1129593",
+            "date": 1768546804
+        },
+        {
+            "title": "Senior Quality Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-khan-academy-1129592",
+            "date": 1768539606
+        },
+        {
+            "title": "Character Artist Clothing NBA 2K",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-character-artist-clothing-nba-2k-visual-concepts-1129591",
+            "date": 1768528831
+        },
+        {
+            "title": "Manager Sales Development",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-sales-development-newsela-1129589",
+            "date": 1768528809
+        },
+        {
+            "title": "Salesforce Experience Architect AI and Agentforce",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-experience-architect-ai-and-agentforce-neuraflash-part-of-accenture-1129588",
+            "date": 1768525206
+        },
         {
             "title": "Associate Customer Success Manager Colombia",
             "company": "RemoteOK",
@@ -661,19 +718,6 @@
             "date": 1768078802
         },
         {
-            "title": "Salesforce Experience Architect AI and Agentforce",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-experience-architect-ai-and-agentforce-neuraflash-part-of-accenture-1129501",
-            "date": 1768075233
-        },
-        {
             "title": "Principal DevSecOps Engineer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -817,54 +861,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-galaxyone-galaxy-digital-services-1129485",
             "date": 1767981632
-        },
-        {
-            "title": "DevSecOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-devsecops-engineer-alpaca-1129484",
-            "date": 1767974419
-        },
-        {
-            "title": "Blockchain Investigator and Law Enforcement Liaison",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-blockchain-investigator-and-law-enforcement-liaison-tether-operations-limited-1129481",
-            "date": 1767967219
-        },
-        {
-            "title": "Crypto Production Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-crypto-production-engineer-wormhole-foundation-1129480",
-            "date": 1767967212
-        },
-        {
-            "title": "Senior Java Software Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-java-software-developer-callibrity-1129479",
-            "date": 1767952814
         },
         {
             "title": "AHU Technologies: Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
