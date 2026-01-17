@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-17 12:01:14",
+    "generated_at": "2026-01-17 18:09:59",
     "total_jobs": 101,
     "jobs": [
+        {
+            "title": "VP of Engineering Institutional Trading",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-of-engineering-institutional-trading-alpaca-1129603",
+            "date": 1768586406
+        },
+        {
+            "title": "Customer Solutions Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-solutions-engineer-sysdig-1129601",
+            "date": 1768572053
+        },
+        {
+            "title": "Account Executive SMB India",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-smb-india-jumpcloud-1129600",
+            "date": 1768572037
+        },
+        {
+            "title": "Senior Manager Revenue Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-revenue-operations-openrouter-1129599",
+            "date": 1768572030
+        },
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-guusto-1129598",
+            "date": 1768572023
+        },
+        {
+            "title": "Staff Developer Advocate Platform Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-developer-advocate-platform-engineering-temporal-technologies-1129597",
+            "date": 1768572005
+        },
         {
             "title": "Senior Software Engineer Analytics",
             "company": "RemoteOK",
@@ -798,72 +864,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-lead-artist-take-two-interactive-software-inc-1129494",
             "date": 1768021216
-        },
-        {
-            "title": "Senior Software Engineer iOS",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ios-underdog-sports-1129493",
-            "date": 1768017617
-        },
-        {
-            "title": "Senior Software Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-vidyard-1129492",
-            "date": 1768006820
-        },
-        {
-            "title": "Senior Software Engineer Solutions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-solutions-ada-1129491",
-            "date": 1768003256
-        },
-        {
-            "title": "Graphic Design Technical Mentor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-graphic-design-technical-mentor-alx-africa-1129490",
-            "date": 1768003218
-        },
-        {
-            "title": "Principal Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-recorded-future-1129489",
-            "date": 1767996062
-        },
-        {
-            "title": "Software Engineer Identity Access Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-management-zip-1129488",
-            "date": 1767996046
         },
         {
             "title": "AHU Technologies: Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
