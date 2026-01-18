@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-18 07:22:50",
+    "generated_at": "2026-01-18 12:02:05",
     "total_jobs": 101,
     "jobs": [
+        {
+            "title": "Software Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-i-pattern-data-1129608",
+            "date": 1768644006
+        },
         {
             "title": "Machine Learning Engineer",
             "company": "RemoteOK",
@@ -853,17 +864,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-service-virtual-assistant-assist-world-1129502",
             "date": 1768078802
-        },
-        {
-            "title": "Principal DevSecOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-ghx-1129499",
-            "date": 1768071640
         },
         {
             "title": "Azumo: Project Manager - Latin America",
