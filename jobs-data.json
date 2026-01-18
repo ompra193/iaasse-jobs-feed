@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-18 12:02:05",
-    "total_jobs": 101,
+    "generated_at": "2026-01-18 18:10:01",
+    "total_jobs": 103,
     "jobs": [
+        {
+            "title": "Software Engineering Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-intern-emma-the-sleep-company-1129611",
+            "date": 1768672802
+        },
+        {
+            "title": "Principal Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-policyme-1129610",
+            "date": 1768658426
+        },
+        {
+            "title": "Product Manager Automotive Vertical",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-automotive-vertical-conversica-1129609",
+            "date": 1768658420
+        },
         {
             "title": "Software Engineer I",
             "company": "RemoteOK",
@@ -851,19 +884,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-xai-1129503",
             "date": 1768086017
-        },
-        {
-            "title": "Customer Service Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-virtual-assistant-assist-world-1129502",
-            "date": 1768078802
         },
         {
             "title": "Azumo: Project Manager - Latin America",
