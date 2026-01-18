@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-17 23:58:43",
+    "generated_at": "2026-01-18 07:22:50",
     "total_jobs": 101,
     "jobs": [
+        {
+            "title": "Machine Learning Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-fullscript-1129607",
+            "date": 1768611612
+        },
+        {
+            "title": "Clinical Operations Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-operations-specialist-mood-health-1129606",
+            "date": 1768611605
+        },
         {
             "title": "Senior Machine Learning Engineer",
             "company": "RemoteOK",
@@ -844,26 +866,15 @@
             "date": 1768071640
         },
         {
-            "title": "Lead .NET Engineer",
-            "company": "RemoteOK",
+            "title": "Azumo: Project Manager - Latin America",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-net-engineer-excella-1129498",
-            "date": 1768071624
-        },
-        {
-            "title": "2D Game Artist Co op Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2d-game-artist-co-op-intern-a-thinking-ape-1129495",
-            "date": 1768021241
+            "link": "https://weworkremotely.com/remote-jobs/azumo-project-manager-latin-america",
+            "date": 1767738013
         },
         {
             "title": "AHU Technologies: Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
@@ -1141,19 +1152,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior",
             "date": 1744230316
-        },
-        {
-            "title": "Proton.ai: Senior Backend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
-            "date": 1737590397
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
