@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-19 07:21:13",
+    "generated_at": "2026-01-19 12:08:55",
     "total_jobs": 103,
     "jobs": [
+        {
+            "title": "Senior Software Engineer SELECT by DoiT",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-select-by-doit-doit-1129621",
+            "date": 1768726803
+        },
+        {
+            "title": "Staff Embedded Systems Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-embedded-systems-engineer-inspiren-1129620",
+            "date": 1768723205
+        },
         {
             "title": "Senior eCommerce Manager",
             "company": "RemoteOK",
@@ -862,28 +884,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-commercial-tailscale-1129514",
             "date": 1768172417
-        },
-        {
-            "title": "Sr Solutions Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sr-solutions-engineer-beyondtrust-1129513",
-            "date": 1768168827
-        },
-        {
-            "title": "Senior Software Engineer Rocket Ready",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-rocket-ready-rocket-money-1129510",
-            "date": 1768118417
         },
         {
             "title": "Azumo: Project Manager - Latin America",
