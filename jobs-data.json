@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-19 12:08:55",
+    "generated_at": "2026-01-19 18:20:44",
     "total_jobs": 103,
     "jobs": [
+        {
+            "title": "Seeking Professionals for a New Approach an Old Industry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-seeking-professionals-for-a-new-approach-an-old-industry-global-elite-texas-1129622",
+            "date": 1768744825
+        },
         {
             "title": "Senior Software Engineer SELECT by DoiT",
             "company": "RemoteOK",
@@ -875,15 +886,17 @@
             "date": 1768176011
         },
         {
-            "title": "Solutions Engineer Commercial",
-            "company": "RemoteOK",
+            "title": "ImFusion: Backend / Web Application Developer (Cloud & SaaS)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
+            "employment": "govt",
+            "skills": [
+                "cloud"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-commercial-tailscale-1129514",
-            "date": 1768172417
+            "link": "https://weworkremotely.com/remote-jobs/imfusion-backend-web-application-developer-cloud-saas",
+            "date": 1767738013
         },
         {
             "title": "Azumo: Project Manager - Latin America",
@@ -1002,17 +1015,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week",
             "date": 1766590964
-        },
-        {
-            "title": "Silverfin: Player-Coach Engineering Team Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/silverfin-player-coach-engineering-team-lead-1",
-            "date": 1766478890
         },
         {
             "title": "Silverfin: Experienced Ruby Product Engineer",
