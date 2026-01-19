@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-18 23:58:37",
+    "generated_at": "2026-01-19 07:21:13",
     "total_jobs": 103,
     "jobs": [
+        {
+            "title": "Senior eCommerce Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-ecommerce-manager-juneshine-brands-1129619",
+            "date": 1768716039
+        },
+        {
+            "title": "Software Engineer Full Stack",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-allbooked-1129618",
+            "date": 1768716032
+        },
+        {
+            "title": "AWS Solution Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-aws-solution-architect-neuraflash-part-of-accenture-1129617",
+            "date": 1768716004
+        },
+        {
+            "title": "AWS Technical Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-aws-technical-architect-neuraflash-part-of-accenture-1129616",
+            "date": 1768708805
+        },
+        {
+            "title": "Staff Software Engineer Cloud Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-cloud-infrastructure-tenstorrent-1129615",
+            "date": 1768701606
+        },
         {
             "title": "Security Infrastructure Engineer",
             "company": "RemoteOK",
@@ -827,61 +884,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-rocket-ready-rocket-money-1129510",
             "date": 1768118417
-        },
-        {
-            "title": "DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-bugcrowd-1129509",
-            "date": 1768114813
-        },
-        {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-bugcrowd-1129508",
-            "date": 1768107611
-        },
-        {
-            "title": "Staff DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-bugcrowd-1129507",
-            "date": 1768104040
-        },
-        {
-            "title": "Technical Support Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-ada-1129506",
-            "date": 1768104014
-        },
-        {
-            "title": "Senior Backend Engineer Submission Processing Team",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-submission-processing-team-kalepa-1129505",
-            "date": 1768096822
         },
         {
             "title": "Azumo: Project Manager - Latin America",
