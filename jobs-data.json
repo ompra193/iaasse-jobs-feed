@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-19 18:20:44",
-    "total_jobs": 103,
+    "generated_at": "2026-01-20 00:02:45",
+    "total_jobs": 102,
     "jobs": [
+        {
+            "title": "Client Retention Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-retention-specialist-beyond-finance-1129628",
+            "date": 1768773643
+        },
+        {
+            "title": "Social Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-interactive-brokers-1129627",
+            "date": 1768773638
+        },
+        {
+            "title": "Security Infrastructure Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-infrastructure-engineer-tailscale-1129626",
+            "date": 1768773628
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-caylent-1129625",
+            "date": 1768773615
+        },
+        {
+            "title": "Staff Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-security-engineer-1129624",
+            "date": 1768773605
+        },
+        {
+            "title": "AWS Technical Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-aws-technical-architect-neuraflash-part-of-accenture-1129623",
+            "date": 1768766406
+        },
         {
             "title": "Seeking Professionals for a New Approach an Old Industry",
             "company": "RemoteOK",
@@ -70,17 +136,6 @@
             "date": 1768716004
         },
         {
-            "title": "AWS Technical Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-aws-technical-architect-neuraflash-part-of-accenture-1129616",
-            "date": 1768708805
-        },
-        {
             "title": "Staff Software Engineer Cloud Infrastructure",
             "company": "RemoteOK",
             "company_logo": null,
@@ -92,17 +147,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-cloud-infrastructure-tenstorrent-1129615",
             "date": 1768701606
-        },
-        {
-            "title": "Security Infrastructure Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-infrastructure-engineer-tailscale-1129614",
-            "date": 1768690807
         },
         {
             "title": "Implementation Specialist Spanish Speaking",
@@ -831,59 +875,17 @@
             "date": 1768248018
         },
         {
-            "title": "Business Development Manager",
-            "company": "RemoteOK",
+            "title": "EBG: PHP Web Application Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
+            "employment": "govt",
+            "skills": [
+                "php"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-gate-1129522",
-            "date": 1768230001
-        },
-        {
-            "title": "Senior Software Engineer Backend",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-cresta-1129520",
-            "date": 1768201211
-        },
-        {
-            "title": "Associate Director Manufacturing Science and Technology",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-director-manufacturing-science-and-technology-apogee-therapeutics-1129518",
-            "date": 1768194035
-        },
-        {
-            "title": "Platform & Automation Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-platform-automation-engineer-braze-1129517",
-            "date": 1768194015
-        },
-        {
-            "title": "Quality Analyst II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-quality-analyst-ii-pathward-n-a-1129515",
-            "date": 1768176011
+            "link": "https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer",
+            "date": 1767738013
         },
         {
             "title": "ImFusion: Backend / Web Application Developer (Cloud & SaaS)",
@@ -1137,19 +1139,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1",
             "date": 1753693913
-        },
-        {
-            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
-            "date": 1753281114
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
