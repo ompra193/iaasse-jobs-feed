@@ -1,8 +1,67 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-20 12:06:38",
+    "generated_at": "2026-01-20 18:21:13",
     "total_jobs": 100,
     "jobs": [
+        {
+            "title": "Senior Cloud Infrastructure Engineer Kubernetes",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-infrastructure-engineer-kubernetes-camunda-1129637",
+            "date": 1768845621
+        },
+        {
+            "title": "Senior Sales Engineer West",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-west-dataiku-misc-postings-1129636",
+            "date": 1768845614
+        },
+        {
+            "title": "Senior Software Engineer II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-spoton-product-1129635",
+            "date": 1768845604
+        },
+        {
+            "title": "Junior Customer Support Specialist AI SaaS Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-customer-support-specialist-ai-saas-support-1129633",
+            "date": 1768831224
+        },
+        {
+            "title": "Director of Engineering Founding Engineer India",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-engineering-founding-engineer-india-alpaca-1129632",
+            "date": 1768827612
+        },
         {
             "title": "Sales Development Representative",
             "company": "RemoteOK",
@@ -805,65 +864,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sales-business-development-director-near-foundation-1129533",
             "date": 1768269617
-        },
-        {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-sanctuary-computer-1129532",
-            "date": 1768269460
-        },
-        {
-            "title": "Software Developer ll ShareGate Foundation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-developer-ll-sharegate-foundation-workleap-1129531",
-            "date": 1768266011
-        },
-        {
-            "title": "Enterprise Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-customer-success-manager-lumos-1129530",
-            "date": 1768262486
-        },
-        {
-            "title": "HR Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-specialist-g-p-1129529",
-            "date": 1768262459
-        },
-        {
-            "title": "Software Engineer II DevOps",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-devops-sony-interactive-entertainment-1129528",
-            "date": 1768262431
         },
         {
             "title": "Applied Imagination: Ba/Qa",
