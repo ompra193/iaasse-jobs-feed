@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-20 00:02:45",
-    "total_jobs": 102,
+    "generated_at": "2026-01-20 07:16:13",
+    "total_jobs": 100,
     "jobs": [
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-bounteous-1129631",
+            "date": 1768802441
+        },
+        {
+            "title": "Account Executive Ohio",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-ohio-langchain-1129630",
+            "date": 1768802433
+        },
+        {
+            "title": "Senior Marketing Manager Paid Ads",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-marketing-manager-paid-ads-acebet-com-1129629",
+            "date": 1768785103
+        },
         {
             "title": "Client Retention Specialist",
             "company": "RemoteOK",
@@ -279,17 +314,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-revenue-operations-openrouter-1129599",
             "date": 1768572030
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-guusto-1129598",
-            "date": 1768572023
         },
         {
             "title": "Staff Developer Advocate Platform Engineering",
@@ -842,37 +866,15 @@
             "date": 1768262431
         },
         {
-            "title": "Kubernetes Engineer",
-            "company": "RemoteOK",
+            "title": "Applied Imagination: Ba/Qa",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-kubernetes-engineer-le018-zelis-healthcare-llc-1129527",
-            "date": 1768262401
-        },
-        {
-            "title": "Writer Editor B2B Technology",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-writer-editor-b2b-technology-launchsquad-1129524",
-            "date": 1768248024
-        },
-        {
-            "title": "Staff Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-zenbusiness-inc-1129523",
-            "date": 1768248018
+            "link": "https://weworkremotely.com/remote-jobs/applied-imagination-ba-qa",
+            "date": 1767738013
         },
         {
             "title": "EBG: PHP Web Application Developer",
@@ -1030,19 +1032,6 @@
             "date": 1766478621
         },
         {
-            "title": "Enrollio: Senior Full-Stack TypeScript Engineer (NestJS + React) \u2013 SaaS Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/enrollio-senior-full-stack-typescript-engineer-nestjs-react-saas-platform",
-            "date": 1764618137
-        },
-        {
             "title": "Growth Factory Ventures: Applied AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1093,19 +1082,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
             "date": 1764083919
-        },
-        {
-            "title": "Stellar AI: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-            "date": 1761075386
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
