@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-20 18:21:13",
-    "total_jobs": 100,
+    "generated_at": "2026-01-21 00:08:01",
+    "total_jobs": 99,
     "jobs": [
+        {
+            "title": "Senior Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-zinkworks-1129643",
+            "date": 1768860085
+        },
+        {
+            "title": "Strategic Partnerships Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-strategic-partnerships-account-manager-wellhub-1129642",
+            "date": 1768860073
+        },
+        {
+            "title": "Work From Home Hotel Reservations Customer Service",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-hotel-reservations-customer-service-destination-knot-1129641",
+            "date": 1768860053
+        },
+        {
+            "title": "Client Outreach Onboarding Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-outreach-onboarding-coordinator-simplyinsured-1129640",
+            "date": 1768860047
+        },
+        {
+            "title": "Temporary Payroll Tax Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-temporary-payroll-tax-accountant-angi-1129639",
+            "date": 1768860035
+        },
+        {
+            "title": "Client Retention Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-retention-specialist-beyond-finance-1129638",
+            "date": 1768852806
+        },
         {
             "title": "Senior Cloud Infrastructure Engineer Kubernetes",
             "company": "RemoteOK",
@@ -96,17 +162,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-marketing-manager-paid-ads-acebet-com-1129629",
             "date": 1768785103
-        },
-        {
-            "title": "Client Retention Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-retention-specialist-beyond-finance-1129628",
-            "date": 1768773643
         },
         {
             "title": "Social Media Manager",
@@ -796,74 +851,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-devops-lead-engineer-envoy-global-inc-1129539",
             "date": 1768298468
-        },
-        {
-            "title": "Principal DevOps Engineer Datastores",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-devops-engineer-datastores-udemy-1129538",
-            "date": 1768298423
-        },
-        {
-            "title": "Software Development Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-development-manager-mitratech-1129537",
-            "date": 1768294826
-        },
-        {
-            "title": "Solutions Architect Strategic Capture",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-strategic-capture-defense-unicorns-1129536",
-            "date": 1768291213
-        },
-        {
-            "title": "Current openings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-current-openings-alpaca-1129535",
-            "date": 1768287611
-        },
-        {
-            "title": "Character Artist Heads NBA 2K",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-character-artist-heads-nba-2k-visual-concepts-1129534",
-            "date": 1768269638
-        },
-        {
-            "title": "Sales & Business Development Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-business-development-director-near-foundation-1129533",
-            "date": 1768269617
         },
         {
             "title": "Applied Imagination: Ba/Qa",
