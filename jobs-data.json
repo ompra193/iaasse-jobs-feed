@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-21 07:19:07",
-    "total_jobs": 100,
+    "generated_at": "2026-01-21 12:07:09",
+    "total_jobs": 102,
     "jobs": [
+        {
+            "title": "Principal Engineer Pulumi Neo",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-engineer-pulumi-neo-pulumi-1129661",
+            "date": 1768903229
+        },
+        {
+            "title": "Staff Software Engineer DevProd",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-devprod-temporal-technologies-1129660",
+            "date": 1768903218
+        },
+        {
+            "title": "Senior Site Reliability Engineer Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-infrastructure-underdog-sports-1129659",
+            "date": 1768903206
+        },
         {
             "title": "Account Executive",
             "company": "RemoteOK",
@@ -857,17 +890,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-content-designer-pay-group-gusto-1129557",
             "date": 1768377660
-        },
-        {
-            "title": "Principal Enterprise Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-enterprise-architect-versaterm-1129553",
-            "date": 1768366806
         },
         {
             "title": "Applied Imagination: Ba/Qa",
