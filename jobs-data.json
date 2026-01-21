@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-21 12:07:09",
-    "total_jobs": 102,
+    "generated_at": "2026-01-21 18:21:01",
+    "total_jobs": 103,
     "jobs": [
+        {
+            "title": "Crypto Trading Trainee Market Analysis Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trading-trainee-market-analysis-associate-whitebridge-ltd-1129668",
+            "date": 1768924102
+        },
+        {
+            "title": "Fi Senior Embedded Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fi-senior-embedded-software-engineer-fi-1129667",
+            "date": 1768917632
+        },
         {
             "title": "Principal Engineer Pulumi Neo",
             "company": "RemoteOK",
@@ -879,17 +903,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-contract-hire-lirio-1129559",
             "date": 1768384810
-        },
-        {
-            "title": "Senior Staff Content Designer Pay Group",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-content-designer-pay-group-gusto-1129557",
-            "date": 1768377660
         },
         {
             "title": "Applied Imagination: Ba/Qa",
