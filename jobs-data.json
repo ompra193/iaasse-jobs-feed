@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-21 18:21:01",
-    "total_jobs": 103,
+    "generated_at": "2026-01-22 00:12:28",
+    "total_jobs": 104,
     "jobs": [
+        {
+            "title": "Ecosystem Operation Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ecosystem-operation-manager-gate-1129671",
+            "date": 1768946428
+        },
+        {
+            "title": "HR Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-coordinator-smartbug-media-1129670",
+            "date": 1768946412
+        },
+        {
+            "title": "Software Development Engineer III",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-iii-gocardless-1129669",
+            "date": 1768946405
+        },
         {
             "title": "Crypto Trading Trainee Market Analysis Associate",
             "company": "RemoteOK",
@@ -878,31 +913,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129564",
             "date": 1768464006
-        },
-        {
-            "title": "HR Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-virtual-assistant-assist-world-1129560",
-            "date": 1768406402
-        },
-        {
-            "title": "Solutions Architect Contract Hire",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-contract-hire-lirio-1129559",
-            "date": 1768384810
         },
         {
             "title": "Applied Imagination: Ba/Qa",
