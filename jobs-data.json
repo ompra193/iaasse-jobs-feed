@@ -1,8 +1,98 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-22 00:12:28",
-    "total_jobs": 104,
+    "generated_at": "2026-01-22 07:19:18",
+    "total_jobs": 107,
     "jobs": [
+        {
+            "title": "iOS Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ios-software-engineer-fetch-1129679",
+            "date": 1768978808
+        },
+        {
+            "title": "Senior Workforce Management Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-workforce-management-analyst-cohere-health-1129678",
+            "date": 1768975296
+        },
+        {
+            "title": "Senior Full Stack Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-empassion-1129677",
+            "date": 1768975277
+        },
+        {
+            "title": "Revenue Operations Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-trueml-1129676",
+            "date": 1768975270
+        },
+        {
+            "title": "Software Engineer Core Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-core-platform-cribl-1129675",
+            "date": 1768975258
+        },
+        {
+            "title": "Account Manager Utilities Telecom Rail",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-manager-utilities-telecom-rail-esri-1129674",
+            "date": 1768975243
+        },
+        {
+            "title": "CUSTOMER SUCCESS MANAGER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-wishpond-technologies-1129673",
+            "date": 1768975229
+        },
+        {
+            "title": "Product Inventor Engineer @ Fun Ecom Co",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-inventor-engineer-fun-ecom-co-jls-trading-co-1129672",
+            "date": 1768963937
+        },
         {
             "title": "Ecosystem Operation Manager",
             "company": "RemoteOK",
@@ -854,65 +944,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-account-executive-level-2-bloomerang-1129578",
             "date": 1768514503
-        },
-        {
-            "title": "Senior Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-scientist-phaidra-1129569",
-            "date": 1768507218
-        },
-        {
-            "title": "Director of Engineering Canada",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-engineering-canada-alpaca-1129568",
-            "date": 1768496405
-        },
-        {
-            "title": "Software Engineering Team Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-team-lead-bloxroute-labs-1129566",
-            "date": 1768482001
-        },
-        {
-            "title": "Staff Data Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-software-engineer-lookout-inc-1129565",
-            "date": 1768467605
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fluxon-1129564",
-            "date": 1768464006
         },
         {
             "title": "Applied Imagination: Ba/Qa",
