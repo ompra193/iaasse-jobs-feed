@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-22 12:05:58",
-    "total_jobs": 108,
+    "generated_at": "2026-01-22 18:20:52",
+    "total_jobs": 113,
     "jobs": [
+        {
+            "title": "Customer Support Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-technician-skyslope-1129688",
+            "date": 1769014831
+        },
+        {
+            "title": "Customer Service Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-beyond-finance-1129687",
+            "date": 1769014816
+        },
+        {
+            "title": "Junior Customer Support Specialist AI SaaS Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-customer-support-specialist-ai-saas-support-1129686",
+            "date": 1769011245
+        },
+        {
+            "title": "Backend Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-backend-developer-evolve-tech-llc-1129685",
+            "date": 1769004081
+        },
+        {
+            "title": "Technical Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-project-manager-rula-1129684",
+            "date": 1769004057
+        },
+        {
+            "title": "Growth Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketing-manager-infstones-1129683",
+            "date": 1769004010
+        },
         {
             "title": "Product Line Manager Lending Solutions",
             "company": "RemoteOK",
@@ -456,19 +526,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-spoton-product-1129635",
             "date": 1768845604
-        },
-        {
-            "title": "Junior Customer Support Specialist AI SaaS Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-customer-support-specialist-ai-saas-support-1129633",
-            "date": 1768831224
         },
         {
             "title": "Director of Engineering Founding Engineer India",
@@ -957,6 +1014,17 @@
             "date": 1768514503
         },
         {
+            "title": "Speechify Inc: Software Engineer, macOS Core Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product",
+            "date": 1767789467
+        },
+        {
             "title": "Applied Imagination: Ba/Qa",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1110,17 +1178,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week",
             "date": 1766590964
-        },
-        {
-            "title": "Silverfin: Experienced Ruby Product Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-product-engineer-1",
-            "date": 1766478621
         },
         {
             "title": "Growth Factory Ventures: Applied AI Engineer",
