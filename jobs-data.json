@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-22 18:20:52",
-    "total_jobs": 113,
+    "generated_at": "2026-01-23 00:03:24",
+    "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Technical Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-specialist-adyen-1129692",
+            "date": 1769032873
+        },
+        {
+            "title": "FrontEnd Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-clearscore-technology-limited-1129691",
+            "date": 1769032847
+        },
+        {
+            "title": "Senior Software Development Engineer DevOps",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-development-engineer-devops-equip-health-1129690",
+            "date": 1769032834
+        },
+        {
+            "title": "Contract Writer Black Budget",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-contract-writer-black-budget-pubg-emea-1129689",
+            "date": 1769029205
+        },
         {
             "title": "Customer Support Technician",
             "company": "RemoteOK",
@@ -992,28 +1036,6 @@
             "date": 1768514559
         },
         {
-            "title": "Account Executive Advisor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-advisor-pathward-n-a-1129579",
-            "date": 1768514514
-        },
-        {
-            "title": "Account Executive Level 2",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-level-2-bloomerang-1129578",
-            "date": 1768514503
-        },
-        {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1254,17 +1276,6 @@
             "date": 1754510489
         },
         {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1",
-            "date": 1753693913
-        },
-        {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1287,6 +1298,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lumenalta-javascript-fullstack-engineer-senior",
             "date": 1744230316
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
