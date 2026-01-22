@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-22 07:19:18",
-    "total_jobs": 107,
+    "generated_at": "2026-01-22 12:05:58",
+    "total_jobs": 108,
     "jobs": [
+        {
+            "title": "Product Line Manager Lending Solutions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-line-manager-lending-solutions-pathward-n-a-1129680",
+            "date": 1768986008
+        },
         {
             "title": "iOS Software Engineer",
             "company": "RemoteOK",
