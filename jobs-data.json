@@ -1,8 +1,80 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-23 18:18:06",
+    "generated_at": "2026-01-24 00:04:38",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Lead Designer Web &amp; Interactive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-lead-designer-web-amp-interactive-bullish-us-llc-1129708",
+            "date": 1769126427
+        },
+        {
+            "title": "Chief AGI Economist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-agi-economist-deepmind-1129707",
+            "date": 1769126420
+        },
+        {
+            "title": "Senior React Native Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-react-native-developer-orium-1129706",
+            "date": 1769126408
+        },
+        {
+            "title": "Senior Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-software-engineer-nmi-1129705",
+            "date": 1769122808
+        },
+        {
+            "title": "Data Conversion Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-conversion-engineer-lumin-digital-1129703",
+            "date": 1769119236
+        },
+        {
+            "title": "Senior Software Engineer Data Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-platform-missionwired-1129702",
+            "date": 1769119225
+        },
         {
             "title": "Technical Customer Support Representative",
             "company": "RemoteOK",
@@ -986,76 +1058,6 @@
             "date": 1768550417
         },
         {
-            "title": "Senior Software Engineer Training",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-training-ada-1129594",
-            "date": 1768550407
-        },
-        {
-            "title": "Machine Learning Engineer 3D Vision&Localization",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-3d-visionlocalization-bot-auto-1129593",
-            "date": 1768546804
-        },
-        {
-            "title": "Senior Quality Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-khan-academy-1129592",
-            "date": 1768539606
-        },
-        {
-            "title": "Character Artist Clothing NBA 2K",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-character-artist-clothing-nba-2k-visual-concepts-1129591",
-            "date": 1768528831
-        },
-        {
-            "title": "Manager Sales Development",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-sales-development-newsela-1129589",
-            "date": 1768528809
-        },
-        {
-            "title": "Salesforce Experience Architect AI and Agentforce",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-experience-architect-ai-and-agentforce-neuraflash-part-of-accenture-1129588",
-            "date": 1768525206
-        },
-        {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1209,19 +1211,6 @@
             "date": 1767034919
         },
         {
-            "title": "Stack Influence: Senior Full Stack Javascript Engineer (Remote, 4-day week)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stack-influence-senior-full-stack-javascript-engineer-remote-4-day-week",
-            "date": 1766590964
-        },
-        {
             "title": "Growth Factory Ventures: Applied AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1272,6 +1261,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
             "date": 1764083919
+        },
+        {
+            "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist",
+            "date": 1760069509
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
