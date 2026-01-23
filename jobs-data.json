@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-23 00:03:24",
-    "total_jobs": 115,
+    "generated_at": "2026-01-23 07:15:53",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Freelance Economy Designer Black Budget",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-economy-designer-black-budget-pubg-emea-1129697",
+            "date": 1769058004
+        },
+        {
+            "title": "Brand Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-quantum-metric-1129696",
+            "date": 1769054418
+        },
+        {
+            "title": "Principal Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-product-designer-lumiq-1129695",
+            "date": 1769054408
+        },
+        {
+            "title": "Technical Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-project-manager-datakind-1129694",
+            "date": 1769047207
+        },
         {
             "title": "Technical Support Specialist",
             "company": "RemoteOK",
@@ -94,17 +138,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-backend-developer-evolve-tech-llc-1129685",
             "date": 1769004081
-        },
-        {
-            "title": "Technical Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-project-manager-rula-1129684",
-            "date": 1769004057
         },
         {
             "title": "Growth Marketing Manager",
@@ -1023,17 +1056,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-labor-planning-shipbob-inc-1129585",
             "date": 1768514568
-        },
-        {
-            "title": "Enterprise Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-anaplan-1129584",
-            "date": 1768514559
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
