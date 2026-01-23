@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-23 12:05:48",
+    "generated_at": "2026-01-23 18:18:06",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Technical Customer Support Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-representative-froonze-1129701",
+            "date": 1769096658
+        },
+        {
+            "title": "Japan Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-japan-marketing-manager-manta-network-powered-by-p0x-labs-1129700",
+            "date": 1769094002
+        },
+        {
+            "title": "Member of Product Core Experience",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-member-of-product-core-experience-anchorage-digital-1129699",
+            "date": 1769090401
+        },
         {
             "title": "Freelance Economy Designer Black Budget",
             "company": "RemoteOK",
@@ -1021,41 +1054,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-salesforce-experience-architect-ai-and-agentforce-neuraflash-part-of-accenture-1129588",
             "date": 1768525206
-        },
-        {
-            "title": "Associate Customer Success Manager Colombia",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-customer-success-manager-colombia-doit-1129587",
-            "date": 1768514593
-        },
-        {
-            "title": "Marketing Operations Production Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-operations-production-specialist-anaplan-1129586",
-            "date": 1768514579
-        },
-        {
-            "title": "Supply Chain Analyst Labor Planning",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-labor-planning-shipbob-inc-1129585",
-            "date": 1768514568
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
