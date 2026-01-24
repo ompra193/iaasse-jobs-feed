@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-24 18:11:02",
-    "total_jobs": 118,
+    "generated_at": "2026-01-25 00:00:31",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Risk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-risk-mercury-1129729",
+            "date": 1769209206
+        },
+        {
+            "title": "Full Stack Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-regard-1129728",
+            "date": 1769205647
+        },
+        {
+            "title": "Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-mistral-ai-1129727",
+            "date": 1769205601
+        },
+        {
+            "title": "Medical Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-director-precision-for-medicine-1129726",
+            "date": 1769198406
+        },
         {
             "title": "Mid level Designer",
             "company": "RemoteOK",
@@ -1035,39 +1081,15 @@
             "date": 1768716004
         },
         {
-            "title": "Staff Software Engineer Cloud Infrastructure",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-cloud-infrastructure-tenstorrent-1129615",
-            "date": 1768701606
-        },
-        {
-            "title": "Implementation Specialist Spanish Speaking",
-            "company": "RemoteOK",
+            "title": "SuperPlane Inc.: Lead Frontend Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-spanish-speaking-roofr-1129613",
-            "date": 1768687204
-        },
-        {
-            "title": "Software Engineering Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-intern-emma-the-sleep-company-1129611",
-            "date": 1768672802
+            "link": "https://weworkremotely.com/remote-jobs/superplane-inc-lead-frontend-engineer",
+            "date": 1767883616
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
@@ -1260,19 +1282,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/posthog-ai-product-engineer",
             "date": 1764115342
-        },
-        {
-            "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
-            "date": 1764083919
         },
         {
             "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
