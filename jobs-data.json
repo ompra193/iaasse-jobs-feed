@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-24 07:13:12",
+    "generated_at": "2026-01-24 12:02:20",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior Game Designer WWE Champions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-game-designer-wwe-champions-scopely-1129722",
+            "date": 1769166015
+        },
+        {
+            "title": "Game Designer Star Trek Fleet Command",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-game-designer-star-trek-fleet-command-scopely-1129721",
+            "date": 1769166004
+        },
         {
             "title": "Full Stack Engineer",
             "company": "RemoteOK",
@@ -1046,28 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-policyme-1129610",
             "date": 1768658426
-        },
-        {
-            "title": "Product Manager Automotive Vertical",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-automotive-vertical-conversica-1129609",
-            "date": 1768658420
-        },
-        {
-            "title": "Software Engineer I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-i-pattern-data-1129608",
-            "date": 1768644006
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
