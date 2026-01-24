@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-24 12:02:20",
+    "generated_at": "2026-01-24 18:11:02",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Mid level Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mid-level-designer-rehire-1129723",
+            "date": 1769176839
+        },
         {
             "title": "Senior Game Designer WWE Champions",
             "company": "RemoteOK",
@@ -1057,17 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-intern-emma-the-sleep-company-1129611",
             "date": 1768672802
-        },
-        {
-            "title": "Principal Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-policyme-1129610",
-            "date": 1768658426
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
