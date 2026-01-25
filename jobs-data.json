@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-25 07:25:52",
-    "total_jobs": 120,
+    "generated_at": "2026-01-25 12:02:44",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "X Memes and Headline Commentary Tutor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-x-memes-and-headline-commentary-tutor-xai-1129749",
+            "date": 1769256004
+        },
         {
             "title": "Solutions Engineering Channel",
             "company": "RemoteOK",
