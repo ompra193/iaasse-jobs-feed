@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-25 18:12:27",
+    "generated_at": "2026-01-26 00:00:26",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Manager of Storage Services",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-of-storage-services-lightedge-1129753",
+            "date": 1769292012
+        },
+        {
+            "title": "Engineering Manager API",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-api-runway-1129752",
+            "date": 1769281204
+        },
         {
             "title": "Channel Account Manager HVAC Northeast",
             "company": "RemoteOK",
@@ -1077,30 +1099,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-temporary-payroll-tax-accountant-angi-1129639",
             "date": 1768860035
-        },
-        {
-            "title": "Client Retention Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-retention-specialist-beyond-finance-1129638",
-            "date": 1768852806
-        },
-        {
-            "title": "Senior Cloud Infrastructure Engineer Kubernetes",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-infrastructure-engineer-kubernetes-camunda-1129637",
-            "date": 1768845621
         },
         {
             "title": "AHU Technologies: Curam Business Analyst",
