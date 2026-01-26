@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-26 00:00:26",
+    "generated_at": "2026-01-26 07:25:15",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Engineering Manager Data Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-data-engineering-engine-1129757",
+            "date": 1769320829
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-jobscan-1129756",
+            "date": 1769320818
+        },
+        {
+            "title": "Senior Backend Engineer Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-infrastructure-clickhouse-1129754",
+            "date": 1769310005
+        },
         {
             "title": "Manager of Storage Services",
             "company": "RemoteOK",
@@ -1066,39 +1101,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-strategic-partnerships-account-manager-wellhub-1129642",
             "date": 1768860073
-        },
-        {
-            "title": "Work From Home Hotel Reservations Customer Service",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-hotel-reservations-customer-service-destination-knot-1129641",
-            "date": 1768860053
-        },
-        {
-            "title": "Client Outreach Onboarding Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-outreach-onboarding-coordinator-simplyinsured-1129640",
-            "date": 1768860047
-        },
-        {
-            "title": "Temporary Payroll Tax Accountant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-temporary-payroll-tax-accountant-angi-1129639",
-            "date": 1768860035
         },
         {
             "title": "AHU Technologies: Curam Business Analyst",
