@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-26 12:07:58",
-    "total_jobs": 121,
+    "generated_at": "2026-01-26 18:19:55",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "$1k Weekly Work from Home Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-1k-weekly-work-from-home-assistant-best-estimate-pro-1129764",
+            "date": 1769366887
+        },
         {
             "title": "Technical Support Engineer",
             "company": "RemoteOK",
@@ -1079,28 +1092,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-java-clear-corporate-1129645",
             "date": 1768870816
-        },
-        {
-            "title": "Senior Infrastructure Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-infrastructure-engineer-peregrine-technologies-1129644",
-            "date": 1768870806
-        },
-        {
-            "title": "Senior Full Stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-zinkworks-1129643",
-            "date": 1768860085
         },
         {
             "title": "AHU Technologies: Curam Business Analyst",
