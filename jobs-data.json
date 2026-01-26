@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-26 07:25:15",
+    "generated_at": "2026-01-26 12:07:58",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Technical Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-swayable-1129758",
+            "date": 1769328003
+        },
         {
             "title": "Senior Engineering Manager Data Engineering",
             "company": "RemoteOK",
@@ -1090,17 +1101,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-zinkworks-1129643",
             "date": 1768860085
-        },
-        {
-            "title": "Strategic Partnerships Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategic-partnerships-account-manager-wellhub-1129642",
-            "date": 1768860073
         },
         {
             "title": "AHU Technologies: Curam Business Analyst",
