@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-26 18:19:55",
+    "generated_at": "2026-01-27 00:06:31",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Fullstack Engineer Education",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fullstack-engineer-education-xai-1129766",
+            "date": 1769378407
+        },
         {
             "title": "$1k Weekly Work from Home Assistant",
             "company": "RemoteOK",
@@ -1081,17 +1092,15 @@
             "date": 1768870826
         },
         {
-            "title": "Senior Software Engineer Java",
-            "company": "RemoteOK",
+            "title": "Productive Shop: Web graphic designer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "java"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-java-clear-corporate-1129645",
-            "date": 1768870816
+            "link": "https://weworkremotely.com/remote-jobs/productive-shop-web-graphic-designer",
+            "date": 1767984656
         },
         {
             "title": "AHU Technologies: Curam Business Analyst",
@@ -1278,19 +1287,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii",
             "date": 1767034919
-        },
-        {
-            "title": "Growth Factory Ventures: Applied AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/growth-factory-ventures-applied-ai-engineer",
-            "date": 1764258687
         },
         {
             "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
