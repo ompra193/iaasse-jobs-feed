@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-27 12:06:00",
-    "total_jobs": 120,
+    "generated_at": "2026-01-27 18:21:29",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Financial Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-financial-analyst-element-critical-1129772",
+            "date": 1769439634
+        },
+        {
+            "title": "Software Engineer Manager Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-manager-marketing-bitmex-1129771",
+            "date": 1769439625
+        },
+        {
+            "title": "Senior Platform Engineer Postgres Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-postgres-specialist-tiger-data-1129770",
+            "date": 1769436038
+        },
+        {
+            "title": "Data Partnerships",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-partnerships-clay-labs-1129769",
+            "date": 1769436031
+        },
+        {
+            "title": "Senior Sales Engineer APAC",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-apac-alpaca-1129768",
+            "date": 1769436014
+        },
+        {
+            "title": "Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-manager-ergeon-1129767",
+            "date": 1769436003
+        },
         {
             "title": "Fullstack Engineer Education",
             "company": "RemoteOK",
@@ -1011,85 +1079,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-freshpaint-1129653",
             "date": 1768888877
-        },
-        {
-            "title": "Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-manager-orennia-1129652",
-            "date": 1768888870
-        },
-        {
-            "title": "Insurance Follow Up Specialist Outpatient Infusion Therapy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-insurance-follow-up-specialist-outpatient-infusion-therapy-ivx-health-1129651",
-            "date": 1768888861
-        },
-        {
-            "title": "Senior Full Stack Software Engineer CRM",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-crm-circle-so-1129650",
-            "date": 1768888852
-        },
-        {
-            "title": "Healthcare Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-healthcare-data-analyst-zocalo-health-1129649",
-            "date": 1768888842
-        },
-        {
-            "title": "Experienced Quantitative Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-experienced-quantitative-trader-kronos-research-1129648",
-            "date": 1768874417
-        },
-        {
-            "title": "Customer Success Manager Circle Plus",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-circle-plus-circle-so-1129647",
-            "date": 1768874406
-        },
-        {
-            "title": "Principal Network Integration Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-network-integration-engineer-skylo-technologies-1129646",
-            "date": 1768870826
         },
         {
             "title": "Productive Shop: Web graphic designer",
