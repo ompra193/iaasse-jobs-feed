@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-27 18:21:29",
-    "total_jobs": 119,
+    "generated_at": "2026-01-28 00:09:27",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Staff Platform Security Engineer Office of the CISO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-platform-security-engineer-office-of-the-ciso-obsidian-security-1129775",
+            "date": 1769472007
+        },
+        {
+            "title": "Manager End User Computing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-end-user-computing-precision-medicine-group-1129774",
+            "date": 1769464840
+        },
+        {
+            "title": "Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-support-engineer-blue-cube-services-1129773",
+            "date": 1769464823
+        },
         {
             "title": "Financial Analyst",
             "company": "RemoteOK",
@@ -1055,30 +1088,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-field-sales-representative-ride-aventon-1129655",
             "date": 1768888890
-        },
-        {
-            "title": "Senior Product Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-marketing-manager-goodleap-1129654",
-            "date": 1768888883
-        },
-        {
-            "title": "Senior Software Engineer Data",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-freshpaint-1129653",
-            "date": 1768888877
         },
         {
             "title": "Productive Shop: Web graphic designer",
