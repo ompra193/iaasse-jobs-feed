@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-28 18:21:34",
+    "generated_at": "2026-01-29 00:07:49",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Platform & Enterprise Full Stack Sr Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-platform-enterprise-full-stack-sr-staff-software-engineer-bnsf-railway-1129835",
+            "date": 1769552871
+        },
+        {
+            "title": "Platform & Enterprise Front End Sr Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-platform-enterprise-front-end-sr-staff-software-engineer-bnsf-railway-1129834",
+            "date": 1769552663
+        },
+        {
+            "title": "Enterprise Account Executive UK",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-uk-surepay-1129833",
+            "date": 1769551257
+        },
+        {
+            "title": "Fullstack Engineer II Tutor Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fullstack-engineer-ii-tutor-platform-khan-academy-1129832",
+            "date": 1769551248
+        },
+        {
+            "title": "Junior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-data-engineer-satelligence-1129831",
+            "date": 1769551211
+        },
+        {
+            "title": "Sr Staff AI Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sr-staff-ai-engineer-bnsf-railway-1129829",
+            "date": 1769550255
+        },
         {
             "title": "Customer Success Specialist",
             "company": "RemoteOK",
@@ -1039,74 +1109,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-mid-level-designer-rehire-1129723",
             "date": 1769176839
-        },
-        {
-            "title": "Senior Game Designer WWE Champions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-game-designer-wwe-champions-scopely-1129722",
-            "date": 1769166015
-        },
-        {
-            "title": "Game Designer Star Trek Fleet Command",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-game-designer-star-trek-fleet-command-scopely-1129721",
-            "date": 1769166004
-        },
-        {
-            "title": "Full Stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-engineer-ubiminds-1129719",
-            "date": 1769148115
-        },
-        {
-            "title": "Senior Program Coordinator Data Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-program-coordinator-data-operations-blueprint-1129718",
-            "date": 1769148109
-        },
-        {
-            "title": "Middle Information Developer TSCM 43250",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-middle-information-developer-tscm-43250-eleks-1129717",
-            "date": 1769148098
-        },
-        {
-            "title": "Senior IT Auditor PCI QSA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-it-auditor-pci-qsa-a-lign-1129716",
-            "date": 1769148092
         },
         {
             "title": "Productive Shop: Web graphic designer",
