@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-28 07:18:28",
+    "generated_at": "2026-01-28 12:06:53",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Customer Success Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-specialist-smarsh-1129827",
+            "date": 1769515201
+        },
+        {
+            "title": "Bookkeeper Tax Preparer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-tax-preparer-distro-1129826",
+            "date": 1769511602
+        },
+        {
+            "title": "Senior Software Engineer Analytics Front Office",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-analytics-front-office-drw-1129825",
+            "date": 1769508007
+        },
+        {
+            "title": "Data Analyst Media Relations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-media-relations-global-fishing-watch-1129824",
+            "date": 1769504452
+        },
+        {
+            "title": "Regional Customer Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-customer-support-specialist-natera-1129823",
+            "date": 1769504406
+        },
         {
             "title": "Member of Information &amp; Security",
             "company": "RemoteOK",
@@ -1050,63 +1107,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-it-auditor-pci-qsa-a-lign-1129716",
             "date": 1769148092
-        },
-        {
-            "title": "Technical Customer Support Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-associate-narmi-1129715",
-            "date": 1769148082
-        },
-        {
-            "title": "Sales Engineer LATAM",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-engineer-latam-alpaca-1129714",
-            "date": 1769148076
-        },
-        {
-            "title": "Principal Product UX Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-product-ux-designer-halcyon-1129713",
-            "date": 1769148062
-        },
-        {
-            "title": "Senior Executive Assistant the CEO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-the-ceo-agiloft-1129712",
-            "date": 1769148052
-        },
-        {
-            "title": "2026 Associate Solution Consultant Malaysia",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2026-associate-solution-consultant-malaysia-rainfocus-1129711",
-            "date": 1769148044
         },
         {
             "title": "Productive Shop: Web graphic designer",
