@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-29 18:27:55",
+    "generated_at": "2026-01-30 00:16:26",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Engineer Confluent Marketplace Partner Applied Solution",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineer-confluent-marketplace-partner-applied-solution-confluent-1129855",
+            "date": 1769637622
+        },
+        {
+            "title": "Senior Product Designer T\u00c3\u00bcrkiye",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-turkiye-jumpcloud-1129854",
+            "date": 1769634002
+        },
         {
             "title": "Manager User Group Program 11132",
             "company": "RemoteOK",
@@ -1096,30 +1118,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-job-27144-mid-level-fullstack-developer-brazil-ciampt-1129745",
             "date": 1769234570
-        },
-        {
-            "title": "Job 27039 Senior Product Owner Brazil",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27039-senior-product-owner-brazil-ciampt-1129744",
-            "date": 1769234563
-        },
-        {
-            "title": "Senior Specialist Healthcare Data Analytics & Visualization",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-specialist-healthcare-data-analytics-visualization-interwell-health-1129743",
-            "date": 1769234554
         },
         {
             "title": "Truv: Web Designer",
