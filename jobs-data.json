@@ -1,8 +1,164 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-29 00:07:49",
-    "total_jobs": 120,
+    "generated_at": "2026-01-29 07:31:25",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Zora",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-zora-zora-1129849",
+            "date": 1769583633
+        },
+        {
+            "title": "Business Development Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-unlimit-1129848",
+            "date": 1769580132
+        },
+        {
+            "title": "Regional Property Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-property-manager-the-scion-group-1129847",
+            "date": 1769580118
+        },
+        {
+            "title": "Campaign Manager Demand Generation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-campaign-manager-demand-generation-datacor-1129846",
+            "date": 1769580107
+        },
+        {
+            "title": "Director Project Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-project-management-edreports-1129845",
+            "date": 1769580097
+        },
+        {
+            "title": "Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-eulerity-1129844",
+            "date": 1769580087
+        },
+        {
+            "title": "Product Designer Provider Experience",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-provider-experience-octave-1129843",
+            "date": 1769580077
+        },
+        {
+            "title": "Product Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-safe-security-1129842",
+            "date": 1769580067
+        },
+        {
+            "title": "Salesforce System Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-system-administrator-inkind-1129841",
+            "date": 1769580060
+        },
+        {
+            "title": "Full Stack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-patrick-j-mcgovern-foundation-1129840",
+            "date": 1769580049
+        },
+        {
+            "title": "Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-salvo-health-1129839",
+            "date": 1769580041
+        },
+        {
+            "title": "Software Engineer Enterprise Readiness",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-enterprise-readiness-dagster-labs-1129838",
+            "date": 1769580027
+        },
+        {
+            "title": "Copywriter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-copywriter-movement-strategy-1129837",
+            "date": 1769580006
+        },
+        {
+            "title": "Principal Software Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-software-architect-toshiba-global-commerce-solutions-1129836",
+            "date": 1769569205
+        },
         {
             "title": "Platform & Enterprise Full Stack Sr Staff Software Engineer",
             "company": "RemoteOK",
@@ -966,149 +1122,15 @@
             "date": 1769234516
         },
         {
-            "title": "Travel Product Researcher &amp; Content Curator",
-            "company": "RemoteOK",
+            "title": "Truv: Web Designer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-travel-product-researcher-amp-content-curator-destination-knot-1129738",
-            "date": 1769234509
-        },
-        {
-            "title": "Travel Booking Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-travel-booking-specialist-destination-knot-1129737",
-            "date": 1769234501
-        },
-        {
-            "title": "Client Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-success-manager-honk-1129736",
-            "date": 1769234486
-        },
-        {
-            "title": "Manager Program Strategy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-program-strategy-merit-america-1129735",
-            "date": 1769234479
-        },
-        {
-            "title": "Appointment Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-appointment-coordinator-airsculpt-1129734",
-            "date": 1769234468
-        },
-        {
-            "title": "Customer Experience Shift Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-experience-shift-manager-ollie-1129733",
-            "date": 1769234456
-        },
-        {
-            "title": "Hotel &amp; Resort Reservation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hotel-amp-resort-reservation-specialist-destination-knot-1129732",
-            "date": 1769234447
-        },
-        {
-            "title": "Fully Customer Service Booking Hotels",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-fully-customer-service-booking-hotels-destination-knot-1129731",
-            "date": 1769234440
-        },
-        {
-            "title": "Senior Software Engineer Risk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-risk-mercury-1129729",
-            "date": 1769209206
-        },
-        {
-            "title": "Full Stack Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-regard-1129728",
-            "date": 1769205647
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-mistral-ai-1129727",
-            "date": 1769205601
-        },
-        {
-            "title": "Medical Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-director-precision-for-medicine-1129726",
-            "date": 1769198406
-        },
-        {
-            "title": "Mid level Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mid-level-designer-rehire-1129723",
-            "date": 1769176839
+            "link": "https://weworkremotely.com/remote-jobs/truv-web-designer",
+            "date": 1767984656
         },
         {
             "title": "Productive Shop: Web graphic designer",
@@ -1295,17 +1317,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer",
             "date": 1767348656
-        },
-        {
-            "title": "KFC: Sr. Software Engineer II",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/kfc-sr-software-engineer-ii",
-            "date": 1767034919
         },
         {
             "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
