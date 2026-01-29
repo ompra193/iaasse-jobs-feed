@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-29 12:18:17",
+    "generated_at": "2026-01-29 18:27:55",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Manager User Group Program 11132",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-user-group-program-11132-coupa-software-inc-1129853",
+            "date": 1769608880
+        },
+        {
+            "title": "Customer Success Manager Brazil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-brazil-zimperium-1129852",
+            "date": 1769608862
+        },
+        {
+            "title": "Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-openrouter-1129851",
+            "date": 1769608856
+        },
+        {
+            "title": "Developer Relations Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-developer-relations-lead-openrouter-1129850",
+            "date": 1769608850
+        },
         {
             "title": "Zora",
             "company": "RemoteOK",
@@ -1076,50 +1120,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-specialist-healthcare-data-analytics-visualization-interwell-health-1129743",
             "date": 1769234554
-        },
-        {
-            "title": "Copilot & Power Platform Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-copilot-power-platform-architect-nimble-gravity-1129742",
-            "date": 1769234544
-        },
-        {
-            "title": "Manager Parcel Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-parcel-operations-shipmonk-1129741",
-            "date": 1769234534
-        },
-        {
-            "title": "Auditor Safety Security and Compliance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auditor-safety-security-and-compliance-aero-1129740",
-            "date": 1769234523
-        },
-        {
-            "title": "Proposal Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-proposal-manager-cai-1129739",
-            "date": 1769234516
         },
         {
             "title": "Truv: Web Designer",
