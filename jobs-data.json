@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-30 00:16:26",
+    "generated_at": "2026-01-30 07:32:24",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Bookkeeper",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-distro-1129859",
+            "date": 1769666419
+        },
+        {
+            "title": "Personal Executive Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-personal-executive-virtual-assistant-assist-world-1129858",
+            "date": 1769666401
+        },
+        {
+            "title": "Request for Proposal Policy review on Brazil\u00e2\u0080\u0099s Vessel Data Reporting",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-request-for-proposal-policy-review-on-brazils-vessel-data-reporting-global-fishing-watch-1129857",
+            "date": 1769655607
+        },
+        {
+            "title": "Search Engine Optimisation Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-search-engine-optimisation-intern-sprinto-1129856",
+            "date": 1769648404
+        },
         {
             "title": "Senior Engineer Confluent Marketplace Partner Applied Solution",
             "company": "RemoteOK",
@@ -1074,50 +1122,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-channel-account-manager-hvac-northeast-palmetto-clean-technology-1129751",
             "date": 1769263228
-        },
-        {
-            "title": "Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-circle-so-1129750",
-            "date": 1769263205
-        },
-        {
-            "title": "X Memes and Headline Commentary Tutor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-x-memes-and-headline-commentary-tutor-xai-1129749",
-            "date": 1769256004
-        },
-        {
-            "title": "Solutions Engineering Channel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineering-channel-geotab-1129747",
-            "date": 1769238007
-        },
-        {
-            "title": "Job 27144 Mid Level Fullstack Developer Brazil",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27144-mid-level-fullstack-developer-brazil-ciampt-1129745",
-            "date": 1769234570
         },
         {
             "title": "Truv: Web Designer",
