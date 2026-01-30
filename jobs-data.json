@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-30 07:32:24",
-    "total_jobs": 121,
+    "generated_at": "2026-01-30 12:20:25",
+    "total_jobs": 122,
     "jobs": [
         {
             "title": "Bookkeeper",
@@ -1043,6 +1043,19 @@
             "date": 1769378407
         },
         {
+            "title": "Customer Service Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-assistant-best-estimate-pro-1129764",
+            "date": 1769366887
+        },
+        {
             "title": "$1k Weekly Work from Home Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1052,8 +1065,8 @@
                 "assistant"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-1k-weekly-work-from-home-assistant-best-estimate-pro-1129764",
-            "date": 1769366887
+            "link": "https://remoteOK.com/remote-jobs/remote-1k-weekly-work-from-home-assistant-best-estimate-pro-1129763",
+            "date": 1769364520
         },
         {
             "title": "Technical Support Engineer",
