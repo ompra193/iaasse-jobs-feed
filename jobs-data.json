@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-30 12:20:25",
+    "generated_at": "2026-01-30 18:25:54",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-commonlit-1129861",
+            "date": 1769695201
+        },
         {
             "title": "Bookkeeper",
             "company": "RemoteOK",
@@ -1124,17 +1135,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-api-runway-1129752",
             "date": 1769281204
-        },
-        {
-            "title": "Channel Account Manager HVAC Northeast",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-channel-account-manager-hvac-northeast-palmetto-clean-technology-1129751",
-            "date": 1769263228
         },
         {
             "title": "Truv: Web Designer",
