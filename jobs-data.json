@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-31 12:09:16",
+    "generated_at": "2026-01-31 18:18:12",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "DAO Community Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dao-community-manager-1inch-1129875",
+            "date": 1769792403
+        },
+        {
+            "title": "Staff Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-site-reliability-engineer-achievers-1129874",
+            "date": 1769781602
+        },
         {
             "title": "Senior Social Media &amp; Digital Marketing Virtual Assistant",
             "company": "RemoteOK",
@@ -1133,28 +1155,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-financial-analyst-element-critical-1129772",
             "date": 1769439634
-        },
-        {
-            "title": "Software Engineer Manager Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-manager-marketing-bitmex-1129771",
-            "date": 1769439625
-        },
-        {
-            "title": "Senior Platform Engineer Postgres Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-postgres-specialist-tiger-data-1129770",
-            "date": 1769436038
         },
         {
             "title": "EUROPEAN DYNAMICS: Java / Web Developer with German",
