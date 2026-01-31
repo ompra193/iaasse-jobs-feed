@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-31 00:12:12",
-    "total_jobs": 123,
+    "generated_at": "2026-01-31 07:27:41",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Senior Social Media &amp; Digital Marketing Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-social-media-amp-digital-marketing-virtual-assistant-assist-world-1129873",
+            "date": 1769752805
+        },
+        {
+            "title": "Technical Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-specialist-robin-powered-1129872",
+            "date": 1769742010
+        },
+        {
+            "title": "Virtual Assistant Client Services",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-client-services-assist-world-1129871",
+            "date": 1769742001
+        },
         {
             "title": "SDE 1",
             "company": "RemoteOK",
@@ -1120,28 +1157,17 @@
             "date": 1769436038
         },
         {
-            "title": "Data Partnerships",
-            "company": "RemoteOK",
+            "title": "EUROPEAN DYNAMICS: Java / Web Developer with German",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "java"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-partnerships-clay-labs-1129769",
-            "date": 1769436031
-        },
-        {
-            "title": "Senior Sales Engineer APAC",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-apac-alpaca-1129768",
-            "date": 1769436014
+            "link": "https://weworkremotely.com/remote-jobs/european-dynamics-java-web-developer-with-german",
+            "date": 1767984656
         },
         {
             "title": "Truv: Web Designer",
@@ -1339,19 +1365,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer",
             "date": 1767348656
-        },
-        {
-            "title": "LLCU University: Senior Front-End Wordpress Developer \u2013 Tailwind Specialist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/llcu-university-senior-front-end-wordpress-developer-tailwind-specialist",
-            "date": 1760069509
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
