@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-01-31 18:18:12",
-    "total_jobs": 124,
+    "generated_at": "2026-02-01 00:03:09",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Revenue Operations Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-cobalt-1129886",
+            "date": 1769814007
+        },
+        {
+            "title": "Product Support Specialist APAC",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-support-specialist-apac-doit-1129885",
+            "date": 1769810464
+        },
+        {
+            "title": "Account Executive Enterprise",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-pure-storage-1129884",
+            "date": 1769810454
+        },
+        {
+            "title": "Product Manager API & Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-api-platform-descript-1129883",
+            "date": 1769810443
+        },
+        {
+            "title": "Analytics Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analytics-engineer-relay-1129882",
+            "date": 1769810433
+        },
+        {
+            "title": "Senior Manager Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-engineering-splice-1129881",
+            "date": 1769810422
+        },
+        {
+            "title": "SDR Manager US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sdr-manager-us-upguard-1129880",
+            "date": 1769810402
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-assist-world-1129879",
+            "date": 1769806802
+        },
+        {
+            "title": "Lead Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-fueled-1129877",
+            "date": 1769803206
+        },
         {
             "title": "DAO Community Manager",
             "company": "RemoteOK",
@@ -1041,120 +1142,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-insurance-analytics-associate-zensurance-1129783",
             "date": 1769493652
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-splash-financial-1129782",
-            "date": 1769493638
-        },
-        {
-            "title": "Telehealth Therapist Hawaii",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-telehealth-therapist-hawaii-folx-health-1129781",
-            "date": 1769493629
-        },
-        {
-            "title": "Technical Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-project-manager-game-plan-tech-1129780",
-            "date": 1769493604
-        },
-        {
-            "title": "Staff Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-the-farmers-dog-1129779",
-            "date": 1769490002
-        },
-        {
-            "title": "Program Manager 4DX",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-program-manager-4dx-mara-1129778",
-            "date": 1769486411
-        },
-        {
-            "title": "Senior Manager Social",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-social-wpp-media-1129777",
-            "date": 1769482803
-        },
-        {
-            "title": "Staff Platform Security Engineer Office of the CISO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-platform-security-engineer-office-of-the-ciso-obsidian-security-1129775",
-            "date": 1769472007
-        },
-        {
-            "title": "Manager End User Computing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-end-user-computing-precision-medicine-group-1129774",
-            "date": 1769464840
-        },
-        {
-            "title": "Support Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-support-engineer-blue-cube-services-1129773",
-            "date": 1769464823
-        },
-        {
-            "title": "Financial Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-financial-analyst-element-critical-1129772",
-            "date": 1769439634
         },
         {
             "title": "EUROPEAN DYNAMICS: Java / Web Developer with German",
