@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-01 12:20:09",
+    "generated_at": "2026-02-01 18:20:49",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Technical Writer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-writer-ahead-1129904",
+            "date": 1769882403
+        },
+        {
+            "title": "Senior Product Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-analyst-atlan-1129903",
+            "date": 1769868035
+        },
         {
             "title": "Senior Software Developer",
             "company": "RemoteOK",
@@ -1092,28 +1114,15 @@
             "date": 1769493803
         },
         {
-            "title": "Senior Manager GTM Analytics and AI",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-gtm-analytics-and-ai-cority-1129800",
-            "date": 1769493794
-        },
-        {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
+            "title": "ALIQAN Technologies: FTG Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-abbyy-1129799",
-            "date": 1769493788
+            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer",
+            "date": 1767984656
         },
         {
             "title": "EUROPEAN DYNAMICS: Java / Web Developer with German",
@@ -1311,19 +1320,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/wodboard-senior-rails-developer-1",
             "date": 1767362332
-        },
-        {
-            "title": "OnTheGoSystems: Senior Python Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer",
-            "date": 1767348656
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
