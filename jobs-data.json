@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-01 18:20:49",
-    "total_jobs": 121,
+    "generated_at": "2026-02-02 00:05:28",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-formlabs-1129908",
+            "date": 1769900402
+        },
+        {
+            "title": "Technical Writer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-saronic-1129906",
+            "date": 1769886009
+        },
+        {
+            "title": "Principal Software Engineer Dynamo",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-dynamo-2100-nvidia-usa-1129905",
+            "date": 1769886002
+        },
         {
             "title": "Senior Technical Writer",
             "company": "RemoteOK",
@@ -277,19 +312,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sdr-manager-us-upguard-1129880",
             "date": 1769810402
-        },
-        {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-assist-world-1129879",
-            "date": 1769806802
         },
         {
             "title": "Lead Product Designer",
@@ -1077,41 +1099,15 @@
             "date": 1769493824
         },
         {
-            "title": "Robotic Sales Representative Japan",
-            "company": "RemoteOK",
+            "title": "Edgewater Federal Solutions: .Net Junior-level Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-robotic-sales-representative-japan-procept-biorobotics-1129803",
-            "date": 1769493817
-        },
-        {
-            "title": "AI Game Tech Technical Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-game-tech-technical-director-skydance-1129802",
-            "date": 1769493810
-        },
-        {
-            "title": "AI Training Experts Gda\u00c5\u0084sk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-training-experts-gdansk-prolific-1129801",
-            "date": 1769493803
+            "link": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-net-junior-level-software-engineer",
+            "date": 1767984706
         },
         {
             "title": "ALIQAN Technologies: FTG Engineer",
@@ -1307,19 +1303,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jiga-full-stack-product-engineer",
             "date": 1767513969
-        },
-        {
-            "title": "WodBoard: Senior Rails developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wodboard-senior-rails-developer-1",
-            "date": 1767362332
         },
         {
             "title": "Zencastr: Senior Fullstack Developer",
