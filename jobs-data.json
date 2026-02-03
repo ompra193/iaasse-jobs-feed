@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-03 00:13:19",
-    "total_jobs": 107,
+    "generated_at": "2026-02-03 07:38:08",
+    "total_jobs": 108,
     "jobs": [
+        {
+            "title": "Senior Full Stack Software Engineer ClickPipes Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-clickpipes-platform-clickhouse-1129992",
+            "date": 1770019204
+        },
+        {
+            "title": "Car Partnerships Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-car-partnerships-manager-soum-1129991",
+            "date": 1770012076
+        },
+        {
+            "title": "Senior Machine Learning Engineer AI Foundry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-machine-learning-engineer-ai-foundry-kraken-1129990",
+            "date": 1770012068
+        },
+        {
+            "title": "Sales Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-manager-inspira-education-1129989",
+            "date": 1770004960
+        },
+        {
+            "title": "Business Development Representative USA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-usa-storyblok-1129988",
+            "date": 1770001211
+        },
         {
             "title": "Senior Technical Writer",
             "company": "RemoteOK",
@@ -893,48 +950,15 @@
             "date": 1769835616
         },
         {
-            "title": "Middle Full Stack Software Engineer",
-            "company": "RemoteOK",
+            "title": "Vituity: Senior Web Applications Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-middle-full-stack-software-engineer-exadel-1129890",
-            "date": 1769835606
-        },
-        {
-            "title": "Software Engineer I Secret Clearance Required On site Colorado Springs CO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-i-secret-clearance-required-on-site-colorado-springs-co-trace3-1129887",
-            "date": 1769821205
-        },
-        {
-            "title": "Revenue Operations Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-cobalt-1129886",
-            "date": 1769814007
-        },
-        {
-            "title": "Product Support Specialist APAC",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-support-specialist-apac-doit-1129885",
-            "date": 1769810464
+            "link": "https://weworkremotely.com/remote-jobs/vituity-senior-web-applications-developer",
+            "date": 1767984706
         },
         {
             "title": "Cotiviti: Sdet",
@@ -1163,17 +1187,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer",
             "date": 1754693731
-        },
-        {
-            "title": "Zencastr: Senior Backend Engineer - Full Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
-            "date": 1754510489
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
