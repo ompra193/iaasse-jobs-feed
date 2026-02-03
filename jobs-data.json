@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-03 18:30:40",
-    "total_jobs": 108,
+    "generated_at": "2026-02-04 00:26:45",
+    "total_jobs": 107,
     "jobs": [
+        {
+            "title": "Head of Customer Success Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-customer-success-engineering-hightouch-1130014",
+            "date": 1770076804
+        },
+        {
+            "title": "Hardcore Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hardcore-software-engineer-dualentry-1130013",
+            "date": 1770069639
+        },
+        {
+            "title": "Google Cloud Platform Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-google-cloud-platform-engineer-lightfeather-io-llc-1130011",
+            "date": 1770066056
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-extenteam-client-roles-1130009",
+            "date": 1770062409
+        },
+        {
+            "title": "Junior Crypto Analyst & Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-elemental-terra-1130008",
+            "date": 1770060362
+        },
+        {
+            "title": "Senior Cloud Platform Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-platform-engineer-mx-technologies-inc-1130007",
+            "date": 1770058847
+        },
         {
             "title": "Product Designer II Design Systems",
             "company": "RemoteOK",
@@ -781,17 +851,6 @@
             "date": 1769950825
         },
         {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-spark-advisors-1129925",
-            "date": 1769950810
-        },
-        {
             "title": "Director Sales",
             "company": "RemoteOK",
             "company_logo": null,
@@ -882,74 +941,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-operations-recruiter-metropolis-1129914",
             "date": 1769925615
-        },
-        {
-            "title": "IT Security Engineer III",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-security-engineer-iii-floqast-1129912",
-            "date": 1769922002
-        },
-        {
-            "title": "Financial Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-financial-analyst-element-critical-1129910",
-            "date": 1769911209
-        },
-        {
-            "title": "Senior DevOps Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-architect-2100-nvidia-usa-1129909",
-            "date": 1769911201
-        },
-        {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-formlabs-1129908",
-            "date": 1769900402
-        },
-        {
-            "title": "Technical Writer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-saronic-1129906",
-            "date": 1769886009
-        },
-        {
-            "title": "Principal Software Engineer Dynamo",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-dynamo-2100-nvidia-usa-1129905",
-            "date": 1769886002
         },
         {
             "title": "DevSelect: Senior Web Application Architect",
