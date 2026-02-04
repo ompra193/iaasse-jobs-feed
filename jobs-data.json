@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-04 12:23:16",
+    "generated_at": "2026-02-04 18:29:43",
     "total_jobs": 111,
     "jobs": [
+        {
+            "title": "Finance Expert Crypto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-finance-expert-crypto-xai-1130045",
+            "date": 1770138012
+        },
+        {
+            "title": "Sales Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-representative-infstones-1130044",
+            "date": 1770138002
+        },
+        {
+            "title": "Recruiting Operations Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recruiting-operations-coordinator-jerry-ai-1130041",
+            "date": 1770127261
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-n2-1130040",
+            "date": 1770127254
+        },
+        {
+            "title": "Licensed Professional Counselor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-licensed-professional-counselor-brave-health-1130039",
+            "date": 1770127241
+        },
+        {
+            "title": "Staff Frontend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-frontend-engineer-alpaca-1130038",
+            "date": 1770127207
+        },
+        {
+            "title": "Product Director Cards",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-director-cards-crypto-com-1130037",
+            "date": 1770123603
+        },
         {
             "title": "Software Engineer",
             "company": "RemoteOK",
@@ -908,85 +987,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-bolt-new-1129944",
             "date": 1769961616
-        },
-        {
-            "title": "Associate Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-product-designer-life360-1129943",
-            "date": 1769961606
-        },
-        {
-            "title": "Customer Success Manager Foundation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-foundation-goguardian-1129941",
-            "date": 1769958045
-        },
-        {
-            "title": "Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-manager-kimball-equipment-company-1129940",
-            "date": 1769958035
-        },
-        {
-            "title": "Software Engineer Sandboxing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-sandboxing-anthropic-1129938",
-            "date": 1769958016
-        },
-        {
-            "title": "Senior Recruiter GTM & Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-recruiter-gtm-sales-human-interest-1129937",
-            "date": 1769958006
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-point72-1129936",
-            "date": 1769954463
-        },
-        {
-            "title": "Data Engineering Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-engineering-manager-built-technologies-1129935",
-            "date": 1769954452
         },
         {
             "title": "DexCom: Sr Web Applications Developer - eCommerce",
