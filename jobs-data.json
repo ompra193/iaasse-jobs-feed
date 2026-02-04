@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-04 18:29:43",
-    "total_jobs": 111,
+    "generated_at": "2026-02-05 00:21:51",
+    "total_jobs": 110,
     "jobs": [
+        {
+            "title": "Sales Solution Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-solution-engineer-flowfuse-1130049",
+            "date": 1770156026
+        },
+        {
+            "title": "Senior Python Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-python-software-engineer-bloomreach-1130047",
+            "date": 1770156007
+        },
+        {
+            "title": "Implementation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-karbon-1130046",
+            "date": 1770148806
+        },
         {
             "title": "Finance Expert Crypto",
             "company": "RemoteOK",
@@ -943,52 +978,6 @@
             "date": 1769961655
         },
         {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-zenbusiness-inc-1129947",
-            "date": 1769961642
-        },
-        {
-            "title": "Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-aspire-1129946",
-            "date": 1769961633
-        },
-        {
-            "title": "Customer Support Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-representative-civitas-learning-1129945",
-            "date": 1769961624
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-bolt-new-1129944",
-            "date": 1769961616
-        },
-        {
             "title": "DexCom: Sr Web Applications Developer - eCommerce",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1228,6 +1217,17 @@
             "date": 1767737979
         },
         {
+            "title": "CodeSignal: Software Engineer, Business Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
+            "date": 1762937762
+        },
+        {
             "title": "Zencastr: Senior Fullstack Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1237,17 +1237,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-fullstack-developer",
             "date": 1754693731
-        },
-        {
-            "title": "Speechify Inc: Software Engineer, iOS Core Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-            "date": 1752075311
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
