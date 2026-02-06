@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-06 18:29:32",
+    "generated_at": "2026-02-07 00:21:50",
     "total_jobs": 113,
     "jobs": [
+        {
+            "title": "Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-padsplit-1130100",
+            "date": 1770321602
+        },
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-restaurant365-1130099",
+            "date": 1770318001
+        },
         {
             "title": "QA Analyst",
             "company": "RemoteOK",
@@ -987,26 +1011,15 @@
             "date": 1770037219
         },
         {
-            "title": "Senior Full Stack Software Engineer ClickPipes Platform",
-            "company": "RemoteOK",
+            "title": "Divergent NG: Web Development Intern",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "govt",
+            "employment": "internship",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-clickpipes-platform-clickhouse-1129992",
-            "date": 1770019204
-        },
-        {
-            "title": "Car Partnerships Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-car-partnerships-manager-soum-1129991",
-            "date": 1770012076
+            "link": "https://weworkremotely.com/remote-jobs/divergent-ng-web-development-intern",
+            "date": 1768412397
         },
         {
             "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
@@ -1285,19 +1298,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
             "date": 1747425814
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
