@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-06 12:25:23",
-    "total_jobs": 114,
+    "generated_at": "2026-02-06 18:29:32",
+    "total_jobs": 113,
     "jobs": [
+        {
+            "title": "QA Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-qa-analyst-proof-of-play-1130098",
+            "date": 1770300037
+        },
+        {
+            "title": "Sales Director Enterprise Central",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-director-enterprise-central-voxel-1130097",
+            "date": 1770300030
+        },
         {
             "title": "Solutions Engineer",
             "company": "RemoteOK",
@@ -11,8 +33,8 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-gather-ai-1130095",
-            "date": 1770274806
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-lumana-1130096",
+            "date": 1770300024
         },
         {
             "title": "Senior Full Stack Software Engineer .NET Angular",
@@ -987,39 +1009,15 @@
             "date": 1770012076
         },
         {
-            "title": "Senior Machine Learning Engineer AI Foundry",
-            "company": "RemoteOK",
+            "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-machine-learning-engineer-ai-foundry-kraken-1129990",
-            "date": 1770012068
-        },
-        {
-            "title": "Sales Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-manager-inspira-education-1129989",
-            "date": 1770004960
-        },
-        {
-            "title": "Business Development Representative USA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-usa-storyblok-1129988",
-            "date": 1770001211
+            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer",
+            "date": 1768412397
         },
         {
             "title": "Planning Center: Full Stack Engineer - Ruby on Rails and React",
@@ -1265,17 +1263,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/superplane-inc-lead-frontend-engineer",
             "date": 1767883616
-        },
-        {
-            "title": "Speechify Inc: Software Engineer, macOS Core Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product",
-            "date": 1767789467
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
