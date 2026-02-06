@@ -1,8 +1,122 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-06 00:18:24",
-    "total_jobs": 113,
+    "generated_at": "2026-02-06 07:34:21",
+    "total_jobs": 114,
     "jobs": [
+        {
+            "title": "Solutions Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-gather-ai-1130095",
+            "date": 1770274806
+        },
+        {
+            "title": "Senior Full Stack Software Engineer .NET Angular",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-net-angular-ubiminds-1130094",
+            "date": 1770271234
+        },
+        {
+            "title": "Senior Automation Engineer Java",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-automation-engineer-java-ubiminds-1130093",
+            "date": 1770271226
+        },
+        {
+            "title": "Staff Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-acquia-1130091",
+            "date": 1770267606
+        },
+        {
+            "title": "Implementation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-roofr-1130090",
+            "date": 1770264040
+        },
+        {
+            "title": "Security Engineer ISSO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-isso-accenture-federal-services-1130089",
+            "date": 1770264030
+        },
+        {
+            "title": "Application Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-application-security-engineer-anthropic-1130088",
+            "date": 1770264018
+        },
+        {
+            "title": "GenAI Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-genai-security-engineer-point72-1130087",
+            "date": 1770264007
+        },
+        {
+            "title": "Implementation Specialist Spanish Speaking",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-spanish-speaking-roofr-1130086",
+            "date": 1770260407
+        },
+        {
+            "title": "DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-higher-logic-1130083",
+            "date": 1770253205
+        },
         {
             "title": "Senior Angular Software Engineer",
             "company": "RemoteOK",
@@ -351,17 +465,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-python-software-engineer-bloomreach-1130047",
             "date": 1770156007
-        },
-        {
-            "title": "Implementation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-karbon-1130046",
-            "date": 1770148806
         },
         {
             "title": "Sales Representative",
@@ -919,96 +1022,35 @@
             "date": 1770001211
         },
         {
-            "title": "Senior Technical Writer",
-            "company": "RemoteOK",
+            "title": "Planning Center: Full Stack Engineer - Ruby on Rails and React",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react",
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-writer-prophecy-1129986",
-            "date": 1769979640
+            "link": "https://weworkremotely.com/remote-jobs/planning-center-full-stack-engineer-ruby-on-rails-and-react",
+            "date": 1768409685
         },
         {
-            "title": "Associate Business Development Representative",
-            "company": "RemoteOK",
+            "title": "Lemon.io: Senior PHP Full-stack Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "php"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-business-development-representative-mx-technologies-inc-1129985",
-            "date": 1769979628
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer",
+            "date": 1768398365
         },
         {
-            "title": "Software Engineer Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-intern-anduril-industries-1129984",
-            "date": 1769979618
-        },
-        {
-            "title": "Senior Enterprise Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-enterprise-customer-success-manager-signifyd-1129983",
-            "date": 1769979605
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-2u-alumni-job-board-1129982",
-            "date": 1769976095
-        },
-        {
-            "title": "Product Designer Mobile",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-mobile-esri-1129981",
-            "date": 1769976085
-        },
-        {
-            "title": "QA Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-qa-engineer-mrbeast-1129980",
-            "date": 1769976074
-        },
-        {
-            "title": "Hardware Infrastructure Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hardware-infrastructure-site-reliability-engineer-spacex-1129979",
-            "date": 1769976064
-        },
-        {
-            "title": "Senior Database Engineer",
-            "company": "RemoteOK",
+            "title": "Sanctuary Computer: Senior Data Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1016,8 +1058,79 @@
                 "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-database-engineer-netdocuments-1129978",
-            "date": 1769976053
+            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-data-engineer",
+            "date": 1768396918
+        },
+        {
+            "title": "Lemon.io: Senior Full-stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-7",
+            "date": 1768390330
+        },
+        {
+            "title": "Semaphore Technologies: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/semaphore-technologies-senior-software-engineer",
+            "date": 1768380592
+        },
+        {
+            "title": "OpsFlow: Senior Software Engineer (.NET, Node.js, React)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react",
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/opsflow-senior-software-engineer-net-node-js-react",
+            "date": 1768228390
+        },
+        {
+            "title": "Karmah: Full Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/karmah-full-stack-developer",
+            "date": 1768222367
+        },
+        {
+            "title": "Proxify AB: Senior Next.js Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-4",
+            "date": 1768216198
+        },
+        {
+            "title": "DRT FM - Humble Echo LLC: Low-Ego \u2022 High-Impact Junior Developer For AI Company",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/drt-fm-humble-echo-llc-low-ego-high-impact-junior-developer-for-ai-company",
+            "date": 1768202722
         },
         {
             "title": "DexCom: Sr Web Applications Developer - eCommerce",
@@ -1163,100 +1276,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product",
             "date": 1767789467
-        },
-        {
-            "title": "Applied Imagination: Ba/Qa",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/applied-imagination-ba-qa",
-            "date": 1767738013
-        },
-        {
-            "title": "EBG: PHP Web Application Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer",
-            "date": 1767738013
-        },
-        {
-            "title": "ImFusion: Backend / Web Application Developer (Cloud & SaaS)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/imfusion-backend-web-application-developer-cloud-saas",
-            "date": 1767738013
-        },
-        {
-            "title": "Azumo: Project Manager - Latin America",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/azumo-project-manager-latin-america",
-            "date": 1767738013
-        },
-        {
-            "title": "AHU Technologies: Sales Representative \u2013 Fire Protection Inspections - Columbus, GA",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-sales-representative-fire-protection-inspections-columbus-ga",
-            "date": 1767737979
-        },
-        {
-            "title": "AHU Technologies: Senior Trainer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-trainer",
-            "date": 1767737979
-        },
-        {
-            "title": "Sangoma: Web Developer (Remote- Canada and/or United States )",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sangoma-web-developer-remote-canada-and-or-united-states",
-            "date": 1767737979
-        },
-        {
-            "title": "Perry Homes: Website Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/perry-homes-website-developer",
-            "date": 1767737979
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
