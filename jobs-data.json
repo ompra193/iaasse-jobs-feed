@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-07 18:19:29",
+    "generated_at": "2026-02-08 00:05:48",
     "total_jobs": 112,
     "jobs": [
+        {
+            "title": "Systems Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-systems-engineer-goat-group-1130115",
+            "date": 1770411606
+        },
+        {
+            "title": "GTM Automation Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114",
+            "date": 1770408015
+        },
+        {
+            "title": "Customer Support Representative West Coast Hours",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-representative-west-coast-hours-comply-1130113",
+            "date": 1770408001
+        },
         {
             "title": "Senior Full Stack AI Engineer",
             "company": "RemoteOK",
@@ -971,37 +1004,28 @@
             "date": 1770058828
         },
         {
-            "title": "Associate Security Researcher",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Data Analyst",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "data"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-security-researcher-cobalt-1130004",
-            "date": 1770058818
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-1",
+            "date": 1768412397
         },
         {
-            "title": "Software Engineer II",
-            "company": "RemoteOK",
+            "title": "ProSidian Consulting: Systems Engineer - Senior -- Web Development | IT Effectiveness - Software Engineering & Web Applications [NPS035040]",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-noonlight-1130003",
-            "date": 1770058807
-        },
-        {
-            "title": "Staff Software Engineer Frontend",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-frontend-sigma-computing-1130002",
-            "date": 1770055265
+            "link": "https://weworkremotely.com/remote-jobs/prosidian-consulting-systems-engineer-senior-web-development-it-effectiveness-software-engineering",
+            "date": 1768412397
         },
         {
             "title": "Divergent NG: Web Development Intern",
@@ -1247,28 +1271,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-curam-business-analyst",
             "date": 1767984656
-        },
-        {
-            "title": "SuperPlane Inc.: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/superplane-inc-senior-software-engineer",
-            "date": 1767884516
-        },
-        {
-            "title": "SuperPlane Inc.: Lead Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/superplane-inc-lead-frontend-engineer",
-            "date": 1767883616
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
