@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-07 00:21:50",
-    "total_jobs": 113,
+    "generated_at": "2026-02-07 07:30:11",
+    "total_jobs": 112,
     "jobs": [
+        {
+            "title": "Senior Full Stack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-microventures-1130107",
+            "date": 1770361202
+        },
+        {
+            "title": "Pessoa Engenheira de Machine Learning Senior",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pessoa-engenheira-de-machine-learning-senior-banco-bv-1130106",
+            "date": 1770357635
+        },
+        {
+            "title": "Tech Product Manager Data Plataform Products",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tech-product-manager-data-plataform-products-neon-pagamentos-1130105",
+            "date": 1770357624
+        },
+        {
+            "title": "Video Marketing Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-video-marketing-intern-omniscient-1130104",
+            "date": 1770357617
+        },
+        {
+            "title": "Senior Site Reliability Engineer Senior Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-senior-manager-accenture-federal-services-1130102",
+            "date": 1770350408
+        },
         {
             "title": "Product Designer",
             "company": "RemoteOK",
@@ -943,72 +1000,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-ad-mission-the-new-york-times-1130000",
             "date": 1770055247
-        },
-        {
-            "title": "Senior Software Engineer Frontend",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-frontend-sigma-computing-1129999",
-            "date": 1770055225
-        },
-        {
-            "title": "Senior Product Manager Client Growth",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-client-growth-betterhelp-1129998",
-            "date": 1770055215
-        },
-        {
-            "title": "Entry Level Business Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-business-development-representative-bisnow-1129997",
-            "date": 1770055203
-        },
-        {
-            "title": "Product Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-crypto-com-1129996",
-            "date": 1770044404
-        },
-        {
-            "title": "Product Designer II Actions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-ii-actions-datadog-1129995",
-            "date": 1770037228
-        },
-        {
-            "title": "Program Manager Community Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-program-manager-community-support-airbnb-1129994",
-            "date": 1770037219
         },
         {
             "title": "Divergent NG: Web Development Intern",
