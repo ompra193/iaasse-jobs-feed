@@ -1,8 +1,34 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-07 12:12:18",
+    "generated_at": "2026-02-07 18:19:29",
     "total_jobs": 112,
     "jobs": [
+        {
+            "title": "Senior Full Stack AI Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-ai-engineer-askvinny-1130110",
+            "date": 1770398391
+        },
+        {
+            "title": "Civil Development Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "civil"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-civil-development-engineer-intersect-1130109",
+            "date": 1770386426
+        },
         {
             "title": "Senior Full Stack Developer",
             "company": "RemoteOK",
@@ -976,30 +1002,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-frontend-sigma-computing-1130002",
             "date": 1770055265
-        },
-        {
-            "title": "Data & Technology Program Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-technology-program-manager-cottingham-butler-1130001",
-            "date": 1770055257
-        },
-        {
-            "title": "Senior Product Designer Ad Mission",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-ad-mission-the-new-york-times-1130000",
-            "date": 1770055247
         },
         {
             "title": "Divergent NG: Web Development Intern",
