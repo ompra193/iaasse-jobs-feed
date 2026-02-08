@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-08 12:20:29",
+    "generated_at": "2026-02-08 18:20:52",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Growth Marketing Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketing-lead-gaia-family-inc-1130138",
+            "date": 1770472821
+        },
         {
             "title": "Social Media Specialist",
             "company": "RemoteOK",
@@ -1020,17 +1031,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-analyst-platform-digital-media-management-1130029",
             "date": 1770098564
-        },
-        {
-            "title": "B2B Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-b2b-marketing-manager-ajax-systems-1130028",
-            "date": 1770098544
         },
         {
             "title": "AHU Technologies: Data Analyst",
