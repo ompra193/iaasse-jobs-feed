@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-09 12:34:24",
+    "generated_at": "2026-02-09 18:39:30",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Matillion Enterprise Account Executive Saudi Arabia",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-matillion-enterprise-account-executive-saudi-arabia-matillion-1130144",
+            "date": 1770559253
+        },
+        {
+            "title": "Wing Assistant Sales & Onboarding Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-wing-assistant-sales-onboarding-specialist-wing-1130143",
+            "date": 1770559244
+        },
+        {
+            "title": "Partner Sales Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-acceldata-1130142",
+            "date": 1770559234
+        },
+        {
+            "title": "Carrier Messaging Compliance Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-carrier-messaging-compliance-lead-eztexting-1130141",
+            "date": 1770559225
+        },
+        {
+            "title": "Launch Operations Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-launch-operations-lead-arketa-1130140",
+            "date": 1770559218
+        },
         {
             "title": "Senior DevOps Engineer",
             "company": "RemoteOK",
@@ -974,63 +1031,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-job-27268-mid-level-ddl-dml-developer-brazil-ciampt-1130035",
             "date": 1770098611
-        },
-        {
-            "title": "Social Media Manager Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-platform-digital-media-management-1130034",
-            "date": 1770098603
-        },
-        {
-            "title": "Social Media Manager Temporary",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-temporary-digital-media-management-1130033",
-            "date": 1770098593
-        },
-        {
-            "title": "Job 27246 DevOps Strategy &amp; Culture Lead Brazil",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27246-devops-strategy-amp-culture-lead-brazil-ciampt-1130032",
-            "date": 1770098586
-        },
-        {
-            "title": "Pre Sales Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pre-sales-engineer-ajax-systems-1130031",
-            "date": 1770098579
-        },
-        {
-            "title": "Senior Full Stack Engineer Ruby React",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-ruby-react-ubiminds-1130030",
-            "date": 1770098571
         },
         {
             "title": "OnTheGoSystems: PHP Developer (Spanish, French or German speakers)",
