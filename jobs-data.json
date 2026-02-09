@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-09 00:07:28",
+    "generated_at": "2026-02-09 07:41:35",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-anduril-industries-1130139",
+            "date": 1770516007
+        },
         {
             "title": "Growth Marketing Lead",
             "company": "RemoteOK",
@@ -1022,15 +1033,107 @@
             "date": 1770098571
         },
         {
-            "title": "Social Media Analyst Platform",
-            "company": "RemoteOK",
+            "title": "OnTheGoSystems: PHP Developer (Spanish, French or German speakers)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers",
+            "date": 1768574000
+        },
+        {
+            "title": "Lemon.io: Senior Python & LLM /AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python",
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer",
+            "date": 1768554061
+        },
+        {
+            "title": "Proxify AB: Senior Fullstack Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-1",
+            "date": 1768480397
+        },
+        {
+            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-1",
+            "date": 1768480283
+        },
+        {
+            "title": "Proxify AB: Senior Fullstack Developer (Vue.js & Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-vue-js-python",
+            "date": 1768479956
+        },
+        {
+            "title": "Proxify AB: Senior Backend Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-6",
+            "date": 1768478162
+        },
+        {
+            "title": "Great Good: Contract Software Engineer (AI x Biology)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/great-good-contract-software-engineer-ai-x-biology",
+            "date": 1768476832
+        },
+        {
+            "title": "vSplash Techlabs: Manager \u2013 WordPress Delivery",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-analyst-platform-digital-media-management-1130029",
-            "date": 1770098564
+            "link": "https://weworkremotely.com/remote-jobs/vsplash-techlabs-manager-wordpress-delivery",
+            "date": 1768412397
         },
         {
             "title": "AHU Technologies: Data Analyst",
@@ -1190,118 +1293,6 @@
             "date": 1768202722
         },
         {
-            "title": "DexCom: Sr Web Applications Developer - eCommerce",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dexcom-sr-web-applications-developer-ecommerce",
-            "date": 1767984706
-        },
-        {
-            "title": "DevSelect: Senior Web Application Architect",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/devselect-senior-web-application-architect",
-            "date": 1767984706
-        },
-        {
-            "title": "Vituity: Senior Web Applications Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vituity-senior-web-applications-developer",
-            "date": 1767984706
-        },
-        {
-            "title": "Cotiviti: Sdet",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cotiviti-sdet",
-            "date": 1767984706
-        },
-        {
-            "title": "Edgewater Federal Solutions: .Net Junior-level Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/edgewater-federal-solutions-net-junior-level-software-engineer",
-            "date": 1767984706
-        },
-        {
-            "title": "ALIQAN Technologies: FTG Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-ftg-engineer",
-            "date": 1767984656
-        },
-        {
-            "title": "EUROPEAN DYNAMICS: Java / Web Developer with German",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/european-dynamics-java-web-developer-with-german",
-            "date": 1767984656
-        },
-        {
-            "title": "Truv: Web Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/truv-web-designer",
-            "date": 1767984656
-        },
-        {
-            "title": "Productive Shop: Web graphic designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/productive-shop-web-graphic-designer",
-            "date": 1767984656
-        },
-        {
-            "title": "AHU Technologies: Curam Business Analyst",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-curam-business-analyst",
-            "date": 1767984656
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1313,6 +1304,17 @@
             "date": 1762937762
         },
         {
+            "title": "DynamiCare Health: Full-Stack Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
+            "date": 1755535001
+        },
+        {
             "title": "Mobena: Frontend Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1322,6 +1324,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
             "date": 1747425814
+        },
+        {
+            "title": "Proton.ai: Senior Backend Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
+            "date": 1737590397
         }
     ]
 }
