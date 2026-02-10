@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-10 00:42:19",
+    "generated_at": "2026-02-10 11:21:05",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Account Executive Southeast Region DroneSense",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-southeast-region-dronesense-versaterm-1130150",
+            "date": 1770616838
+        },
+        {
+            "title": "Business Development Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-executive-halter-1130149",
+            "date": 1770616829
+        },
+        {
+            "title": "Customer Success Manager DroneSense",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-dronesense-versaterm-1130148",
+            "date": 1770616823
+        },
+        {
+            "title": "DevSecOps Engineer DroneSense",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devsecops-engineer-dronesense-versaterm-1130147",
+            "date": 1770616814
+        },
         {
             "title": "Matillion Enterprise Account Executive Saudi Arabia",
             "company": "RemoteOK",
@@ -987,50 +1031,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-licensed-professional-counselor-brave-health-1130039",
             "date": 1770127241
-        },
-        {
-            "title": "Staff Frontend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-frontend-engineer-alpaca-1130038",
-            "date": 1770127207
-        },
-        {
-            "title": "Product Director Cards",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-director-cards-crypto-com-1130037",
-            "date": 1770123603
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-onestudyteam-1130036",
-            "date": 1770102007
-        },
-        {
-            "title": "Job 27268 Mid level DDL DML Developer Brazil",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27268-mid-level-ddl-dml-developer-brazil-ciampt-1130035",
-            "date": 1770098611
         },
         {
             "title": "OnTheGoSystems: PHP Developer (Spanish, French or German speakers)",
