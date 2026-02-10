@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-10 12:34:23",
+    "generated_at": "2026-02-10 18:44:02",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Talent Development Manager CDD",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-talent-development-manager-cdd-pennylane-1130151",
+            "date": 1770645637
+        },
         {
             "title": "Account Executive Southeast Region DroneSense",
             "company": "RemoteOK",
@@ -1022,15 +1033,15 @@
             "date": 1770127254
         },
         {
-            "title": "Licensed Professional Counselor",
-            "company": "RemoteOK",
+            "title": "SerpNames: Passionate Full-Stack Engineer (SEO-Focused Company)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "govt",
+            "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-licensed-professional-counselor-brave-health-1130039",
-            "date": 1770127241
+            "link": "https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company",
+            "date": 1768810708
         },
         {
             "title": "OnTheGoSystems: PHP Developer (Spanish, French or German speakers)",
@@ -1291,17 +1302,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/drt-fm-humble-echo-llc-low-ego-high-impact-junior-developer-for-ai-company",
             "date": 1768202722
-        },
-        {
-            "title": "CodeSignal: Software Engineer, Business Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
-            "date": 1762937762
         },
         {
             "title": "DynamiCare Health: Full-Stack Engineer",
