@@ -1,8 +1,100 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-10 18:44:02",
-    "total_jobs": 115,
+    "generated_at": "2026-02-11 00:35:41",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior Software Engineer India",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-india-alpaca-1130162",
+            "date": 1770685264
+        },
+        {
+            "title": "Finance Expert",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-finance-expert-xai-1130160",
+            "date": 1770685235
+        },
+        {
+            "title": "Retention Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-retention-specialist-constant-contact-1130159",
+            "date": 1770685224
+        },
+        {
+            "title": "Brand Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-tailscale-1130158",
+            "date": 1770685213
+        },
+        {
+            "title": "GL Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-gl-accountant-teamshares-1130157",
+            "date": 1770685201
+        },
+        {
+            "title": "Head of Strategic Accounts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-strategic-accounts-mesh-1130155",
+            "date": 1770681607
+        },
+        {
+            "title": "Senior Full stack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-lemon-io-1130153",
+            "date": 1770678017
+        },
+        {
+            "title": "BD Partnerships & Outreach Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bd-partnerships-outreach-lead-nope-1130152",
+            "date": 1770667176
+        },
         {
             "title": "Talent Development Manager CDD",
             "company": "RemoteOK",
@@ -432,17 +524,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-civil-development-engineer-intersect-1130109",
             "date": 1770386426
-        },
-        {
-            "title": "Senior Full Stack Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-microventures-1130107",
-            "date": 1770361202
         },
         {
             "title": "Pessoa Engenheira de Machine Learning Senior",
@@ -985,52 +1066,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sales-solution-engineer-flowfuse-1130049",
             "date": 1770156026
-        },
-        {
-            "title": "Senior Python Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-python-software-engineer-bloomreach-1130047",
-            "date": 1770156007
-        },
-        {
-            "title": "Sales Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-representative-infstones-1130044",
-            "date": 1770138002
-        },
-        {
-            "title": "Recruiting Operations Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recruiting-operations-coordinator-jerry-ai-1130041",
-            "date": 1770127261
-        },
-        {
-            "title": "Senior Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-n2-1130040",
-            "date": 1770127254
         },
         {
             "title": "SerpNames: Passionate Full-Stack Engineer (SEO-Focused Company)",
