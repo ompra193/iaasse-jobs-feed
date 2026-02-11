@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-11 00:35:41",
+    "generated_at": "2026-02-11 07:54:38",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Advocate Federal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-advocate-federal-figma-1130166",
+            "date": 1770706806
+        },
+        {
+            "title": "Senior Director Customer Success Product Portfolio Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-customer-success-product-portfolio-management-veeam-software-1130165",
+            "date": 1770703272
+        },
+        {
+            "title": "Senior Software Engineer DevProd",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-devprod-temporal-technologies-1130164",
+            "date": 1770703264
+        },
+        {
+            "title": "Senior Staff Platform Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-platform-engineer-veeam-software-1130163",
+            "date": 1770696006
+        },
         {
             "title": "Senior Software Engineer India",
             "company": "RemoteOK",
@@ -1022,50 +1066,17 @@
             "date": 1770184833
         },
         {
-            "title": "Bilingual Care Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-care-coordinator-pair-team-1130053",
-            "date": 1770184822
-        },
-        {
-            "title": "Finance Expert Crypto",
-            "company": "RemoteOK",
+            "title": "SuperPlane Inc.: Applied AI Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "finance"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-finance-expert-crypto-xai-1130051",
-            "date": 1770177605
-        },
-        {
-            "title": "Manager Web Project Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-web-project-management-gofundme-1130050",
-            "date": 1770166806
-        },
-        {
-            "title": "Sales Solution Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-solution-engineer-flowfuse-1130049",
-            "date": 1770156026
+            "link": "https://weworkremotely.com/remote-jobs/superplane-inc-applied-ai-engineer",
+            "date": 1768826228
         },
         {
             "title": "SerpNames: Passionate Full-Stack Engineer (SEO-Focused Company)",
@@ -1348,17 +1359,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
             "date": 1755535001
-        },
-        {
-            "title": "Mobena: Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
-            "date": 1747425814
         },
         {
             "title": "Proton.ai: Senior Backend Engineer",
