@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-11 07:54:38",
-    "total_jobs": 118,
+    "generated_at": "2026-02-11 12:31:22",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Staff Software Engineer Distributed Simulation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-distributed-simulation-anduril-industries-1130167",
+            "date": 1770717610
+        },
         {
             "title": "Advocate Federal",
             "company": "RemoteOK",
@@ -809,17 +820,6 @@
             "date": 1770228007
         },
         {
-            "title": "Staff Software Engineer Distributed Simulation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-distributed-simulation-anduril-industries-1130076",
-            "date": 1770213609
-        },
-        {
             "title": "Systems Engineer Enterprise Middleware",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1051,19 +1051,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-data-analyst-big-health-1130055",
             "date": 1770184840
-        },
-        {
-            "title": "Complaint Analyst USA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-complaint-analyst-usa-calyxo-1130054",
-            "date": 1770184833
         },
         {
             "title": "SuperPlane Inc.: Applied AI Engineer",
