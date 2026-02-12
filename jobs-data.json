@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-12 00:33:49",
-    "total_jobs": 117,
+    "generated_at": "2026-02-12 07:41:21",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-c3-integrated-solutions-1130193",
+            "date": 1770789670
+        },
+        {
+            "title": "Senior Account Manager Feb 2026",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-manager-feb-2026-zocalo-health-1130192",
+            "date": 1770789659
+        },
+        {
+            "title": "VP National Accounts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-national-accounts-integrated-specialty-coverages-llc-1130191",
+            "date": 1770789645
+        },
+        {
+            "title": "Senior Talent Acquisition Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-talent-acquisition-manager-greenhouse-1130190",
+            "date": 1770789635
+        },
+        {
+            "title": "Senior Technical Program Manager Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-program-manager-infrastructure-planet-1130189",
+            "date": 1770775237
+        },
         {
             "title": "Web Program Manager",
             "company": "RemoteOK",
@@ -1011,39 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-angular-software-engineer-aiwyn-1130082",
             "date": 1770242492
-        },
-        {
-            "title": "Machine Learning Engineer II Ad Forecasting",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-ii-ad-forecasting-spotify-1130081",
-            "date": 1770242483
-        },
-        {
-            "title": "Copy Writer Advertising Agency",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-copy-writer-advertising-agency-affinitiv-1130079",
-            "date": 1770228007
-        },
-        {
-            "title": "Systems Engineer Enterprise Middleware",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-systems-engineer-enterprise-middleware-spry-methods-1130075",
-            "date": 1770185037
         },
         {
             "title": "Zappier: Sr. Engineer, Frontend (UX Eng)",
