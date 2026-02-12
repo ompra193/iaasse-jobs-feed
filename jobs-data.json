@@ -1,8 +1,98 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-12 12:32:12",
+    "generated_at": "2026-02-12 18:38:03",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Fullstack Automation Engineer Delivery Automation Team",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fullstack-automation-engineer-delivery-automation-team-hostinger-1130201",
+            "date": 1770836408
+        },
+        {
+            "title": "Founding Marketer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-founding-marketer-wing-assistant-1130200",
+            "date": 1770836401
+        },
+        {
+            "title": "Software Development Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-i-quillbot-1130199",
+            "date": 1770832805
+        },
+        {
+            "title": "Business Development Representative UK EU",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-uk-eu-alpaca-1130198",
+            "date": 1770825613
+        },
+        {
+            "title": "Senior Software Engineer Web",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-web-bitmex-1130197",
+            "date": 1770822006
+        },
+        {
+            "title": "Data Analyst 3",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-3-skyslope-1130196",
+            "date": 1770818429
+        },
+        {
+            "title": "Developer Relations Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-developer-relations-engineer-horizen-labs-1130195",
+            "date": 1770818420
+        },
+        {
+            "title": "Forward Deployed Engineer DevOps",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-devops-parloa-1130194",
+            "date": 1770818410
+        },
         {
             "title": "Business Development Representative",
             "company": "RemoteOK",
@@ -978,96 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-automation-engineer-java-ubiminds-1130093",
             "date": 1770271226
-        },
-        {
-            "title": "Staff Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-acquia-1130091",
-            "date": 1770267606
-        },
-        {
-            "title": "Implementation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-roofr-1130090",
-            "date": 1770264040
-        },
-        {
-            "title": "Security Engineer ISSO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-isso-accenture-federal-services-1130089",
-            "date": 1770264030
-        },
-        {
-            "title": "Application Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-application-security-engineer-anthropic-1130088",
-            "date": 1770264018
-        },
-        {
-            "title": "GenAI Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-genai-security-engineer-point72-1130087",
-            "date": 1770264007
-        },
-        {
-            "title": "Implementation Specialist Spanish Speaking",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-spanish-speaking-roofr-1130086",
-            "date": 1770260407
-        },
-        {
-            "title": "DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-higher-logic-1130083",
-            "date": 1770253205
-        },
-        {
-            "title": "Senior Angular Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-angular-software-engineer-aiwyn-1130082",
-            "date": 1770242492
         },
         {
             "title": "Zappier: Sr. Engineer, Frontend (UX Eng)",
