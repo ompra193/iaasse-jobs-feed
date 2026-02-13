@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-13 12:29:43",
-    "total_jobs": 122,
+    "generated_at": "2026-02-13 18:29:44",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Content Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-manager-savvynomad-1130223",
+            "date": 1770921813
+        },
+        {
+            "title": "Principal Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-security-engineer-auros-1130222",
+            "date": 1770908403
+        },
+        {
+            "title": "State Engagement Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-state-engagement-manager-radiant-1130221",
+            "date": 1770904852
+        },
+        {
+            "title": "Staff Product Security Engineer Customer Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-security-engineer-customer-platform-valon-tech-1130220",
+            "date": 1770904840
+        },
+        {
+            "title": "Legal Operations Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-legal-operations-specialist-boulevard-1130219",
+            "date": 1770904834
+        },
+        {
+            "title": "Security Operations Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-operations-engineer-alpaca-1130218",
+            "date": 1770904805
+        },
         {
             "title": "Senior Software Engineer Trading Infrastructure",
             "company": "RemoteOK",
@@ -1040,52 +1106,8 @@
             "date": 1770440403
         },
         {
-            "title": "Game Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-game-product-manager-mob-entertainment-1130117",
-            "date": 1770426015
-        },
-        {
-            "title": "Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-systems-engineer-goat-group-1130115",
-            "date": 1770411606
-        },
-        {
-            "title": "GTM Automation Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-gtm-automation-engineer-postscript-1130114",
-            "date": 1770408015
-        },
-        {
-            "title": "Customer Support Representative West Coast Hours",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-representative-west-coast-hours-comply-1130113",
-            "date": 1770408001
-        },
-        {
-            "title": "Senior Full Stack AI Engineer",
-            "company": "RemoteOK",
+            "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1093,8 +1115,19 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-ai-engineer-askvinny-1130110",
-            "date": 1770398391
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer",
+            "date": 1769187589
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
+            "date": 1769089549
         },
         {
             "title": "Zappier: Sr. Engineer, Frontend (UX Eng)",
@@ -1328,28 +1361,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer",
             "date": 1768398365
-        },
-        {
-            "title": "Lemon.io: Senior Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-developer-7",
-            "date": 1768390330
-        },
-        {
-            "title": "Semaphore Technologies: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/semaphore-technologies-senior-software-engineer",
-            "date": 1768380592
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
