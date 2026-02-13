@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-13 18:29:44",
+    "generated_at": "2026-02-14 00:20:45",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "SAP Data Migration Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sap-data-migration-architect-csci-consulting-1130234",
+            "date": 1770933710
+        },
+        {
+            "title": "Senior Software Engineer Frontend",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-frontend-blacklane-1130233",
+            "date": 1770933701
+        },
+        {
+            "title": "Supplier Quality Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supplier-quality-specialist-spacex-1130232",
+            "date": 1770933689
+        },
+        {
+            "title": "SOC Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-soc-analyst-keyrock-1130231",
+            "date": 1770933680
+        },
+        {
+            "title": "Lead Digital Media Buyer Latin America",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-digital-media-buyer-latin-america-bluelight-consulting-1130230",
+            "date": 1770933672
+        },
+        {
+            "title": "Licensed Life Insurance Agent Position with Growth",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-licensed-life-insurance-agent-position-with-growth-ao-garcia-agency-1130229",
+            "date": 1770933658
+        },
+        {
+            "title": "Staff Product Manager Personalization Foundations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-personalization-foundations-headspace-1130228",
+            "date": 1770933651
+        },
+        {
+            "title": "Permit Specialist work",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-permit-specialist-work-taxvalet-1130227",
+            "date": 1770933641
+        },
+        {
+            "title": "Manager Customer Success Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-customer-success-operations-federato-1130224",
+            "date": 1770930004
+        },
         {
             "title": "Content Manager",
             "company": "RemoteOK",
@@ -1005,105 +1106,72 @@
             "date": 1770444110
         },
         {
-            "title": "KIP Summer 2026 Operations Intern Foundation for Economic Education",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-kip-summer-2026-operations-intern-foundation-for-economic-education-stand-together-1130126",
-            "date": 1770444103
-        },
-        {
-            "title": "Associate Preconstruction Project Engineer Battery Storage",
-            "company": "RemoteOK",
+            "title": "Activate Talent: Head of Web Dev",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-preconstruction-project-engineer-battery-storage-plus-power-1130125",
-            "date": 1770444095
+            "link": "https://weworkremotely.com/remote-jobs/activate-talent-head-of-web-dev",
+            "date": 1769449178
         },
         {
-            "title": "Partner",
-            "company": "RemoteOK",
+            "title": "Jobgether: Marketing Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-partner-convergent-research-1130124",
-            "date": 1770444086
+            "link": "https://weworkremotely.com/remote-jobs/jobgether-marketing-web-developer",
+            "date": 1769449178
         },
         {
-            "title": "KIP Summer 2026 Social Media Intern Foundation for Economic Education",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-kip-summer-2026-social-media-intern-foundation-for-economic-education-stand-together-1130123",
-            "date": 1770444079
-        },
-        {
-            "title": "Senior Manager Advertising Analytics",
-            "company": "RemoteOK",
+            "title": "QinetiQ US: Full Stack Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-advertising-analytics-spreetail-1130122",
-            "date": 1770444072
+            "link": "https://weworkremotely.com/remote-jobs/qinetiq-us-full-stack-developer",
+            "date": 1769449177
         },
         {
-            "title": "Solution CAD Engineer III",
-            "company": "RemoteOK",
+            "title": "WeVote: Product Marketing Lead",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solution-cad-engineer-iii-unlimited-technology-1130121",
-            "date": 1770444040
+            "link": "https://weworkremotely.com/remote-jobs/wevote-product-marketing-lead",
+            "date": 1769449177
         },
         {
-            "title": "Account Executive",
-            "company": "RemoteOK",
+            "title": "ONeil Interactive: Optimization Specialist",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-guidepoint-security-1130120",
-            "date": 1770444025
+            "link": "https://weworkremotely.com/remote-jobs/oneil-interactive-optimization-specialist",
+            "date": 1769449177
         },
         {
-            "title": "Senior Cloud Software Engineer Assist",
-            "company": "RemoteOK",
+            "title": "Details: Senior Web Application Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [
-                "cloud"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-software-engineer-assist-stack-av-1130119",
-            "date": 1770444012
-        },
-        {
-            "title": "Web Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-web-developer-epoch-ai-1130118",
-            "date": 1770440403
+            "link": "https://weworkremotely.com/remote-jobs/details-senior-web-application-developer",
+            "date": 1769449177
         },
         {
             "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
@@ -1279,88 +1347,17 @@
             "date": 1768476832
         },
         {
-            "title": "vSplash Techlabs: Manager \u2013 WordPress Delivery",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vsplash-techlabs-manager-wordpress-delivery",
-            "date": 1768412397
-        },
-        {
-            "title": "AHU Technologies: Data Analyst",
+            "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "react"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-1",
-            "date": 1768412397
-        },
-        {
-            "title": "ProSidian Consulting: Systems Engineer - Senior -- Web Development | IT Effectiveness - Software Engineering & Web Applications [NPS035040]",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/prosidian-consulting-systems-engineer-senior-web-development-it-effectiveness-software-engineering",
-            "date": 1768412397
-        },
-        {
-            "title": "Divergent NG: Web Development Intern",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/divergent-ng-web-development-intern",
-            "date": 1768412397
-        },
-        {
-            "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer",
-            "date": 1768412397
-        },
-        {
-            "title": "Planning Center: Full Stack Engineer - Ruby on Rails and React",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/planning-center-full-stack-engineer-ruby-on-rails-and-react",
-            "date": 1768409685
-        },
-        {
-            "title": "Lemon.io: Senior PHP Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-php-full-stack-developer",
-            "date": 1768398365
+            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
+            "date": 1764083919
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
