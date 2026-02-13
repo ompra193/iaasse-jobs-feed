@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-13 07:43:40",
-    "total_jobs": 121,
+    "generated_at": "2026-02-13 12:29:43",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Trading Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-trading-infrastructure-gauntlet-1130217",
+            "date": 1770897610
+        },
+        {
+            "title": "Software Engineer Apps",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-apps-headout-1130216",
+            "date": 1770897604
+        },
         {
             "title": "Associate Manager Digital Media",
             "company": "RemoteOK",
@@ -1073,19 +1095,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-ai-engineer-askvinny-1130110",
             "date": 1770398391
-        },
-        {
-            "title": "Civil Development Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "civil"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-civil-development-engineer-intersect-1130109",
-            "date": 1770386426
         },
         {
             "title": "Zappier: Sr. Engineer, Frontend (UX Eng)",
