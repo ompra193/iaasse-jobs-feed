@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-14 18:19:20",
+    "generated_at": "2026-02-15 00:05:18",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Senior Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-scientist-weedmaps-1130254",
+            "date": 1771027203
+        },
+        {
+            "title": "Director Community & Developer Advocacy",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-community-developer-advocacy-tines-1130252",
+            "date": 1771020091
+        },
+        {
+            "title": "Senior Software Engineer I Puppet",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-i-puppet-perforce-1130251",
+            "date": 1771020075
+        },
+        {
+            "title": "Senior Manager Customer Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-customer-operations-may-mobility-1130250",
+            "date": 1771020062
+        },
+        {
+            "title": "Founding Paralegal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-founding-paralegal-eudia-1130249",
+            "date": 1771020054
+        },
+        {
+            "title": "Channel Business Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-channel-business-manager-10x-genomics-1130248",
+            "date": 1771020032
+        },
         {
             "title": "Application Engineer CNC & Sheet Metal",
             "company": "RemoteOK",
@@ -1038,72 +1106,15 @@
             "date": 1770559253
         },
         {
-            "title": "Wing Assistant Sales & Onboarding Specialist",
-            "company": "RemoteOK",
+            "title": "Madeo: Web Developer (Contract)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-wing-assistant-sales-onboarding-specialist-wing-1130143",
-            "date": 1770559244
-        },
-        {
-            "title": "Partner Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "contract",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-acceldata-1130142",
-            "date": 1770559234
-        },
-        {
-            "title": "Carrier Messaging Compliance Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-carrier-messaging-compliance-lead-eztexting-1130141",
-            "date": 1770559225
-        },
-        {
-            "title": "Launch Operations Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-launch-operations-lead-arketa-1130140",
-            "date": 1770559218
-        },
-        {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-anduril-industries-1130139",
-            "date": 1770516007
-        },
-        {
-            "title": "Growth Marketing Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketing-lead-gaia-family-inc-1130138",
-            "date": 1770472821
+            "link": "https://weworkremotely.com/remote-jobs/madeo-web-developer-contract",
+            "date": 1769718773
         },
         {
             "title": "SlideSpeak: AI Software Engineer",
@@ -1367,17 +1378,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "DynamiCare Health: Full-Stack Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dynamicare-health-full-stack-engineer",
-            "date": 1755535001
         },
         {
             "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
