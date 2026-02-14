@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-14 12:14:32",
+    "generated_at": "2026-02-14 18:19:20",
     "total_jobs": 123,
     "jobs": [
         {
@@ -1106,6 +1106,67 @@
             "date": 1770472821
         },
         {
+            "title": "SlideSpeak: AI Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer",
+            "date": 1769691214
+        },
+        {
+            "title": "Mindrift: Freelance Agent Evaluation Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer",
+            "date": 1769513983
+        },
+        {
+            "title": "Mindrift: Freelance Senior Python Developer / Functional Test Frameworks",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks",
+            "date": 1769511290
+        },
+        {
+            "title": "Clerk: Senior Software Engineer, Growth",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/clerk-senior-software-engineer-growth",
+            "date": 1769449963
+        },
+        {
+            "title": "Hex Technologies: Web Designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hex-technologies-web-designer",
+            "date": 1769449178
+        },
+        {
             "title": "Activate Talent: Head of Web Dev",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1280,71 +1341,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer",
             "date": 1768554061
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-1",
-            "date": 1768480397
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-1",
-            "date": 1768480283
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (Vue.js & Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-vue-js-python",
-            "date": 1768479956
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-6",
-            "date": 1768478162
-        },
-        {
-            "title": "Great Good: Contract Software Engineer (AI x Biology)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/great-good-contract-software-engineer-ai-x-biology",
-            "date": 1768476832
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
