@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-15 18:21:57",
+    "generated_at": "2026-02-16 00:06:44",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Implementation Specialist Spanish Speaking",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-spanish-speaking-roofr-1130298",
+            "date": 1771113604
+        },
+        {
+            "title": "Senior Frontend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-roofr-1130297",
+            "date": 1771110003
+        },
+        {
+            "title": "Community Engagement Manager Feb 2026",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-community-engagement-manager-feb-2026-zocalo-health-1130296",
+            "date": 1771106452
+        },
+        {
+            "title": "Senior Member Growth Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-member-growth-manager-omada-health-1130295",
+            "date": 1771106442
+        },
         {
             "title": "Lead Engineer Provider Engineering",
             "company": "RemoteOK",
@@ -1081,50 +1125,17 @@
             "date": 1770789659
         },
         {
-            "title": "VP National Accounts",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: Data Engineer (M/W/D)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "internship",
             "skills": [
-                "accounts"
+                "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-national-accounts-integrated-specialty-coverages-llc-1130191",
-            "date": 1770789645
-        },
-        {
-            "title": "Senior Talent Acquisition Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-talent-acquisition-manager-greenhouse-1130190",
-            "date": 1770789635
-        },
-        {
-            "title": "Senior Technical Program Manager Infrastructure",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-program-manager-infrastructure-planet-1130189",
-            "date": 1770775237
-        },
-        {
-            "title": "Web Program Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-web-program-manager-huntress-1130188",
-            "date": 1770771650
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-data-engineer-m-w-d",
+            "date": 1769798952
         },
         {
             "title": "JetBrains: JetBrains Web Developer Advocate (Developer Advocacy)",
@@ -1359,19 +1370,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company",
             "date": 1768810708
-        },
-        {
-            "title": "OnTheGoSystems: PHP Developer (Spanish, French or German speakers)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers",
-            "date": 1768574000
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
