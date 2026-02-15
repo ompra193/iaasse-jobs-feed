@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-15 12:22:41",
+    "generated_at": "2026-02-15 18:21:57",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Lead Engineer Provider Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-engineer-provider-engineering-humata-health-inc-1130294",
+            "date": 1771077637
+        },
+        {
+            "title": "Regulatory & Product Counsel",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regulatory-product-counsel-lucid-software-1130293",
+            "date": 1771077630
+        },
         {
             "title": "Audience Writer",
             "company": "RemoteOK",
@@ -1105,26 +1127,28 @@
             "date": 1770771650
         },
         {
-            "title": "Senior Program Manager Workforce Planning",
-            "company": "RemoteOK",
+            "title": "JetBrains: JetBrains Web Developer Advocate (Developer Advocacy)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-program-manager-workforce-planning-fluxon-1130187",
-            "date": 1770771626
+            "link": "https://weworkremotely.com/remote-jobs/jetbrains-jetbrains-web-developer-advocate-developer-advocacy",
+            "date": 1769798952
         },
         {
-            "title": "Senior Principal SEO GEO & Search Systems",
-            "company": "RemoteOK",
+            "title": "WALTER: Senior Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-principal-seo-geo-search-systems-workwize-1130186",
-            "date": 1770764414
+            "link": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
+            "date": 1769720776
         },
         {
             "title": "Madeo: Web Developer (Contract)",
@@ -1149,17 +1173,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer",
             "date": 1769691214
-        },
-        {
-            "title": "Mindrift: Freelance Agent Evaluation Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-agent-evaluation-engineer",
-            "date": 1769513983
         },
         {
             "title": "Mindrift: Freelance Senior Python Developer / Functional Test Frameworks",
@@ -1359,20 +1372,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-php-developer-spanish-french-or-german-speakers",
             "date": 1768574000
-        },
-        {
-            "title": "Lemon.io: Senior Python & LLM /AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-python-llm-ai-engineer",
-            "date": 1768554061
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
