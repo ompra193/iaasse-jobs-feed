@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-16 18:33:38",
+    "generated_at": "2026-02-17 00:12:48",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Enterprise Opener Canada",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-opener-canada-brafton-1130305",
+            "date": 1771192835
+        },
+        {
+            "title": "Manager Software Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-software-engineering-chainguard-1130304",
+            "date": 1771192806
+        },
         {
             "title": "Senior Software Engineer",
             "company": "RemoteOK",
@@ -1101,30 +1123,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-web-bitmex-1130197",
             "date": 1770822006
-        },
-        {
-            "title": "Data Analyst 3",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-3-skyslope-1130196",
-            "date": 1770818429
-        },
-        {
-            "title": "Developer Relations Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-developer-relations-engineer-horizen-labs-1130195",
-            "date": 1770818420
         },
         {
             "title": "Anexia Internetdienstleistungs: Data Engineer (M/W/D)",
