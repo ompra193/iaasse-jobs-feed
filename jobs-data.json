@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-16 00:06:44",
+    "generated_at": "2026-02-16 07:39:07",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-fleetworthy-1130302",
+            "date": 1771124404
+        },
+        {
+            "title": "Cloud Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-accenture-federal-services-1130301",
+            "date": 1771120806
+        },
+        {
+            "title": "Implementation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-roofr-1130300",
+            "date": 1771117203
+        },
         {
             "title": "Implementation Specialist Spanish Speaking",
             "company": "RemoteOK",
@@ -1090,39 +1125,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-developer-relations-engineer-horizen-labs-1130195",
             "date": 1770818420
-        },
-        {
-            "title": "Forward Deployed Engineer DevOps",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-devops-parloa-1130194",
-            "date": 1770818410
-        },
-        {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-c3-integrated-solutions-1130193",
-            "date": 1770789670
-        },
-        {
-            "title": "Senior Account Manager Feb 2026",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-manager-feb-2026-zocalo-health-1130192",
-            "date": 1770789659
         },
         {
             "title": "Anexia Internetdienstleistungs: Data Engineer (M/W/D)",
