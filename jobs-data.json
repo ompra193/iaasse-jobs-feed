@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-17 00:12:48",
+    "generated_at": "2026-02-17 07:36:23",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Performance Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-liveflow-1130311",
+            "date": 1771221643
+        },
+        {
+            "title": "HR Business Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-business-partner-missionwired-1130310",
+            "date": 1771221636
+        },
+        {
+            "title": "Lead Power Systems Engineer Data Centers",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-power-systems-engineer-data-centers-energy-vault-1130309",
+            "date": 1771221629
+        },
         {
             "title": "Enterprise Opener Canada",
             "company": "RemoteOK",
@@ -1092,37 +1129,17 @@
             "date": 1770836401
         },
         {
-            "title": "Software Development Engineer I",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: Ai/Ml Engineer \u2013 LLM Systems (M/W/D)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-i-quillbot-1130199",
-            "date": 1770832805
-        },
-        {
-            "title": "Business Development Representative UK EU",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-uk-eu-alpaca-1130198",
-            "date": 1770825613
-        },
-        {
-            "title": "Senior Software Engineer Web",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-web-bitmex-1130197",
-            "date": 1770822006
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d",
+            "date": 1769798952
         },
         {
             "title": "Anexia Internetdienstleistungs: Data Engineer (M/W/D)",
@@ -1409,19 +1426,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
-        },
-        {
-            "title": "Proton.ai: Senior Backend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
-            "date": 1737590397
         }
     ]
 }
