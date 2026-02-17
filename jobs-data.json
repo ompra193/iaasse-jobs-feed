@@ -1,8 +1,59 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-17 12:29:31",
-    "total_jobs": 124,
+    "generated_at": "2026-02-17 18:33:44",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Executive Assistant the CEO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-sparrow-1130323",
+            "date": 1771268419
+        },
+        {
+            "title": "Global Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-global-graphic-designer-goodway-group-1130322",
+            "date": 1771268404
+        },
+        {
+            "title": "Certified Medical Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-certified-medical-assistant-midi-health-1130315",
+            "date": 1771257607
+        },
+        {
+            "title": "Staff Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-analyst-weedmaps-1130314",
+            "date": 1771254004
+        },
         {
             "title": "Performance Marketing Manager",
             "company": "RemoteOK",
@@ -545,19 +596,6 @@
             "date": 1771045223
         },
         {
-            "title": "Staff Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-analyst-weedmaps-1130258",
-            "date": 1771045214
-        },
-        {
             "title": "YouTube Editor Freelance",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1083,50 +1121,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-cybersecurity-engineer-accenture-federal-services-1130205",
             "date": 1770868828
-        },
-        {
-            "title": "Customer Service Hospitality Reservations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-hospitality-reservations-destination-knot-1130204",
-            "date": 1770868811
-        },
-        {
-            "title": "Senior Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-engineer-logos-1130203",
-            "date": 1770868804
-        },
-        {
-            "title": "Fullstack Automation Engineer Delivery Automation Team",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-fullstack-automation-engineer-delivery-automation-team-hostinger-1130201",
-            "date": 1770836408
-        },
-        {
-            "title": "Founding Marketer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-founding-marketer-wing-assistant-1130200",
-            "date": 1770836401
         },
         {
             "title": "Anexia Internetdienstleistungs: Ai/Ml Engineer \u2013 LLM Systems (M/W/D)",
