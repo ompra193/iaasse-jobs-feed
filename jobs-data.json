@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-18 07:39:57",
+    "generated_at": "2026-02-18 12:31:37",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Social Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-content-creator-heygen-1130344",
+            "date": 1771329603
+        },
+        {
+            "title": "Software Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-i-bloomreach-1130343",
+            "date": 1771322412
+        },
         {
             "title": "Concepteur.trice produits UX UI",
             "company": "RemoteOK",
@@ -1071,28 +1093,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-permit-specialist-work-taxvalet-1130227",
             "date": 1770933641
-        },
-        {
-            "title": "Manager Customer Success Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-customer-success-operations-federato-1130224",
-            "date": 1770930004
-        },
-        {
-            "title": "Content Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-manager-savvynomad-1130223",
-            "date": 1770921813
         },
         {
             "title": "Anexia Internetdienstleistungs: Ai/Ml Engineer \u2013 LLM Systems (M/W/D)",
