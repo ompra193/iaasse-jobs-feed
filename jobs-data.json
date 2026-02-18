@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-18 12:31:37",
+    "generated_at": "2026-02-18 18:34:34",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Growth Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-marketing-manager-infstones-1130345",
+            "date": 1771351202
+        },
         {
             "title": "Social Content Creator",
             "company": "RemoteOK",
@@ -1084,15 +1095,28 @@
             "date": 1770933651
         },
         {
-            "title": "Permit Specialist work",
-            "company": "RemoteOK",
+            "title": "ServiceTitan: Manager, Web Development",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-permit-specialist-work-taxvalet-1130227",
-            "date": 1770933641
+            "link": "https://weworkremotely.com/remote-jobs/servicetitan-manager-web-development",
+            "date": 1769799050
+        },
+        {
+            "title": "Codekeeper: Full Stack Developer (Javascript)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/codekeeper-full-stack-developer-javascript",
+            "date": 1769799050
         },
         {
             "title": "Anexia Internetdienstleistungs: Ai/Ml Engineer \u2013 LLM Systems (M/W/D)",
@@ -1329,30 +1353,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/fonio-senior-software-engineer",
             "date": 1768992616
-        },
-        {
-            "title": "SuperPlane Inc.: Applied AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/superplane-inc-applied-ai-engineer",
-            "date": 1768826228
-        },
-        {
-            "title": "SerpNames: Passionate Full-Stack Engineer (SEO-Focused Company)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/serpnames-passionate-full-stack-engineer-seo-focused-company",
-            "date": 1768810708
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
