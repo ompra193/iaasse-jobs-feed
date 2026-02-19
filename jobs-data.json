@@ -1,8 +1,91 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-19 18:35:52",
-    "total_jobs": 120,
+    "generated_at": "2026-02-20 00:21:36",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-exadel-1130396",
+            "date": 1771452093
+        },
+        {
+            "title": "Automation Sales Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-automation-sales-manager-formic-1130395",
+            "date": 1771452081
+        },
+        {
+            "title": "Bilingual Legal Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-legal-assistant-distro-1130394",
+            "date": 1771452070
+        },
+        {
+            "title": "Robotics Field Service Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-robotics-field-service-engineer-formic-1130393",
+            "date": 1771452063
+        },
+        {
+            "title": "Senior Lead Product Designer Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-lead-product-designer-operations-monzo-1130392",
+            "date": 1771452045
+        },
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-valtech-1130391",
+            "date": 1771452034
+        },
+        {
+            "title": "QA Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-qa-engineer-mex-digital-fze-1130390",
+            "date": 1771452018
+        },
         {
             "title": "Specialist Business Development and Projects",
             "company": "RemoteOK",
@@ -973,19 +1056,6 @@
             "date": 1771049022
         },
         {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-oowlish-technology-1130284",
-            "date": 1771049014
-        },
-        {
             "title": "Principal Data Operations &amp; Migration Lead",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1011,87 +1081,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-medical-science-liaison-xenon-pharmaceuticals-1130282",
             "date": 1771049001
-        },
-        {
-            "title": "Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-corporativo-lumston-1130281",
-            "date": 1771048994
-        },
-        {
-            "title": "Communications Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-communications-specialist-dcg-1130280",
-            "date": 1771048988
-        },
-        {
-            "title": "Data Science Intern Pricing Analytics",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-science-intern-pricing-analytics-gametime-united-1130279",
-            "date": 1771048979
-        },
-        {
-            "title": "Tech Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-tech-lead-amplemarket-1130278",
-            "date": 1771048971
-        },
-        {
-            "title": "Director of Quality Performance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-quality-performance-vanna-health-1130277",
-            "date": 1771048962
-        },
-        {
-            "title": "Technical Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-sales-manager-maxcess-international-1130276",
-            "date": 1771048954
-        },
-        {
-            "title": "Big Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-big-data-engineer-oowlish-technology-1130275",
-            "date": 1771048945
         },
         {
             "title": "NuTechs: FPGA Development Engineer",
