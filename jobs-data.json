@@ -1,8 +1,100 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-19 12:30:12",
+    "generated_at": "2026-02-19 18:35:52",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Specialist Business Development and Projects",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-specialist-business-development-and-projects-stranger-soccer-1130389",
+            "date": 1771423278
+        },
+        {
+            "title": "Field Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-cogent-security-1130388",
+            "date": 1771423273
+        },
+        {
+            "title": "Manager Paid Social and Digital Acquisition",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-paid-social-and-digital-acquisition-cogent-security-1130387",
+            "date": 1771423267
+        },
+        {
+            "title": "Regional Lead Civil Engineer Bridge & Structures",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "civil"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-lead-civil-engineer-bridge-structures-bkf-engineers-1130386",
+            "date": 1771423260
+        },
+        {
+            "title": "Senior Manager Payroll",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-payroll-compass-surgical-partners-1130385",
+            "date": 1771423254
+        },
+        {
+            "title": "Director of Product Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-product-marketing-cogent-security-1130384",
+            "date": 1771423248
+        },
+        {
+            "title": "Team Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-team-lead-32co-1130383",
+            "date": 1771423243
+        },
+        {
+            "title": "Revenue Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-easyllama-1130382",
+            "date": 1771423234
+        },
         {
             "title": "Senior Manager Site Reliability Engineer",
             "company": "RemoteOK",
@@ -485,17 +577,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-of-business-development-smartbug-media-1130337",
             "date": 1771308073
-        },
-        {
-            "title": "Senior Manager Payroll",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-payroll-compass-surgical-partners-1130336",
-            "date": 1771308058
         },
         {
             "title": "Quality Assurance Specialist",
@@ -1011,83 +1092,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-big-data-engineer-oowlish-technology-1130275",
             "date": 1771048945
-        },
-        {
-            "title": "Executive Director Safety &amp; Pharmacovigilance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-director-safety-amp-pharmacovigilance-kyverna-therapeutics-1130274",
-            "date": 1771048937
-        },
-        {
-            "title": "Product Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-lumivero-1130273",
-            "date": 1771048931
-        },
-        {
-            "title": "Junior Product Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-product-support-specialist-amplemarket-1130272",
-            "date": 1771048920
-        },
-        {
-            "title": "Head of Professional Services",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-head-of-professional-services-goodtime-1130271",
-            "date": 1771048910
-        },
-        {
-            "title": "VP Practice Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-practice-operations-form-health-1130270",
-            "date": 1771048901
-        },
-        {
-            "title": "Senior Manager RFP Response",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-rfp-response-rxsense-1130268",
-            "date": 1771048883
-        },
-        {
-            "title": "Community Specialist I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-community-specialist-i-highlevel-1130267",
-            "date": 1771048875
         },
         {
             "title": "NuTechs: FPGA Development Engineer",
