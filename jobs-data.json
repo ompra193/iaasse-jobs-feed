@@ -1,8 +1,446 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-20 00:21:36",
-    "total_jobs": 119,
+    "generated_at": "2026-02-20 07:34:58",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Job 27573 Mid Data Developer Brasil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-job-27573-mid-data-developer-brasil-ciampt-1130435",
+            "date": 1771481165
+        },
+        {
+            "title": "Job 27611 MidSenior Data Developer Brasil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-job-27611-midsenior-data-developer-brasil-ciampt-1130434",
+            "date": 1771481151
+        },
+        {
+            "title": "Job 27602 Mid level Developer NodeJS Brazil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "node"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-job-27602-mid-level-developer-nodejs-brazil-ciampt-1130433",
+            "date": 1771481144
+        },
+        {
+            "title": "Sp\u00c3\u00a9cialiste en acquisition de talents Pipeline & Sourcing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-specialiste-en-acquisition-de-talents-pipeline-sourcing-workleap-1130432",
+            "date": 1771481137
+        },
+        {
+            "title": "Social Commerce Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-commerce-strategist-power-digital-1130431",
+            "date": 1771481128
+        },
+        {
+            "title": "Mid Level DevOps Engineer CI CD Optimization",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mid-level-devops-engineer-ci-cd-optimization-ubiminds-1130430",
+            "date": 1771481119
+        },
+        {
+            "title": "Director Asset Protection NAM Retail",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-asset-protection-nam-retail-arc39teryx-1130429",
+            "date": 1771481103
+        },
+        {
+            "title": "HR Project Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-project-coordinator-xsolla-1130428",
+            "date": 1771481095
+        },
+        {
+            "title": "Senior Account Executive Western Europe",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-western-europe-1130427",
+            "date": 1771481089
+        },
+        {
+            "title": "Engineering Manager Delivery",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-delivery-mechanical-orchard-1130426",
+            "date": 1771481080
+        },
+        {
+            "title": "Senior Marketing Science Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-marketing-science-strategist-power-digital-1130425",
+            "date": 1771481074
+        },
+        {
+            "title": "Director Global Consulting & System Integrator Partnerships",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-global-consulting-system-integrator-partnerships-ada-1130424",
+            "date": 1771481065
+        },
+        {
+            "title": "Security Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-specialist-workwize-1130423",
+            "date": 1771481057
+        },
+        {
+            "title": "Backend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-dv01-1130422",
+            "date": 1771481048
+        },
+        {
+            "title": "QA Document Control Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-qa-document-control-specialist-apogee-therapeutics-1130421",
+            "date": 1771481038
+        },
+        {
+            "title": "Workday Enterprise Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-workday-enterprise-project-manager-compassx-group-1130420",
+            "date": 1771481030
+        },
+        {
+            "title": "Coupa Pay Customer Success Manager 11184",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-coupa-pay-customer-success-manager-11184-coupa-software-inc-1130419",
+            "date": 1771481023
+        },
+        {
+            "title": "Research Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-research-data-scientist-swayable-1130418",
+            "date": 1771481015
+        },
+        {
+            "title": "Project Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-coordinator-caylent-1130417",
+            "date": 1771481005
+        },
+        {
+            "title": "Regional Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-account-executive-oasis-security-1130416",
+            "date": 1771480997
+        },
+        {
+            "title": "Senior Software Engineer Data Observability",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-observability-datahub-1130415",
+            "date": 1771480988
+        },
+        {
+            "title": "US Client Accounting Advisor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-us-client-accounting-advisor-cloud-accountant-staffing-1130414",
+            "date": 1771480980
+        },
+        {
+            "title": "Marketing Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-vitable-health-1130413",
+            "date": 1771480973
+        },
+        {
+            "title": "Enterprise Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-customer-success-manager-ziprecruiter-1130412",
+            "date": 1771480965
+        },
+        {
+            "title": "Portfolio Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-portfolio-manager-engineers-gate-1130411",
+            "date": 1771480956
+        },
+        {
+            "title": "Associate Strategy Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-strategy-analyst-blytheco-1130410",
+            "date": 1771480947
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-crowdriff-1130409",
+            "date": 1771480938
+        },
+        {
+            "title": "Senior Technical Consultant Charles River Everywhere",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-consultant-charles-river-everywhere-formativgroup-1130408",
+            "date": 1771480931
+        },
+        {
+            "title": "Talent Acquisition Specialist Early Pipeline & Sourcing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-specialist-early-pipeline-sourcing-workleap-1130407",
+            "date": 1771480922
+        },
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-unlimit-1130406",
+            "date": 1771480913
+        },
+        {
+            "title": "KIP Summer 2026 Research Assistant Finance Insurance &amp; Trade Policy R Street Institute",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "assistant",
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-kip-summer-2026-research-assistant-finance-insurance-amp-trade-policy-r-street-institute-stand-together-1130405",
+            "date": 1771480906
+        },
+        {
+            "title": "Senior Content Program Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-content-program-strategist-pulley-1130404",
+            "date": 1771480899
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-itd-tech-1130403",
+            "date": 1771480889
+        },
+        {
+            "title": "Senior Manager Digital Strategy",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-digital-strategy-monks-1130402",
+            "date": 1771480882
+        },
+        {
+            "title": "Payroll Specialist Lead Germany",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-lead-germany-remote-referral-board-1130401",
+            "date": 1771480873
+        },
+        {
+            "title": "Data Entry Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-sensor-tower-1130400",
+            "date": 1771477201
+        },
+        {
+            "title": "Product & Application Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-application-security-engineer-veeam-software-1130399",
+            "date": 1771473604
+        },
+        {
+            "title": "Personality & Behavior Tutor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-personality-behavior-tutor-xai-1130398",
+            "date": 1771470004
+        },
         {
             "title": "Senior Data Engineer",
             "company": "RemoteOK",
@@ -685,402 +1123,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-owner-medical-cost-containment-jira-expertise-reliant-1130334",
             "date": 1771308043
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-jetbrains-1130333",
-            "date": 1771308034
-        },
-        {
-            "title": "Employee Relations &amp; Compliance Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-employee-relations-amp-compliance-specialist-placemakr-1130332",
-            "date": 1771308026
-        },
-        {
-            "title": "HubSpot Solutions Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hubspot-solutions-architect-smartbug-media-1130331",
-            "date": 1771308019
-        },
-        {
-            "title": "AI Specialist Liverpool English",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-specialist-liverpool-english-rws-trainai-1130329",
-            "date": 1771304403
-        },
-        {
-            "title": "Talent Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-talent-coordinator-bjak-1130327",
-            "date": 1771279249
-        },
-        {
-            "title": "Senior Software Engineer AI ML",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-ml-clickhouse-1130326",
-            "date": 1771279239
-        },
-        {
-            "title": "Full Stack Engineer Software Development",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-engineer-software-development-newglobe-1130325",
-            "date": 1771275613
-        },
-        {
-            "title": "Executive Assistant the CEO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-sparrow-1130323",
-            "date": 1771268419
-        },
-        {
-            "title": "Global Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-global-graphic-designer-goodway-group-1130322",
-            "date": 1771268404
-        },
-        {
-            "title": "Certified Medical Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-certified-medical-assistant-midi-health-1130315",
-            "date": 1771257607
-        },
-        {
-            "title": "Staff Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-analyst-weedmaps-1130314",
-            "date": 1771254004
-        },
-        {
-            "title": "Performance Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-liveflow-1130311",
-            "date": 1771221643
-        },
-        {
-            "title": "HR Business Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-business-partner-missionwired-1130310",
-            "date": 1771221636
-        },
-        {
-            "title": "Lead Power Systems Engineer Data Centers",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-power-systems-engineer-data-centers-energy-vault-1130309",
-            "date": 1771221629
-        },
-        {
-            "title": "Enterprise Opener Canada",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-opener-canada-brafton-1130305",
-            "date": 1771192835
-        },
-        {
-            "title": "Manager Software Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-software-engineering-chainguard-1130304",
-            "date": 1771192806
-        },
-        {
-            "title": "Cloud Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-accenture-federal-services-1130301",
-            "date": 1771120806
-        },
-        {
-            "title": "Implementation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-roofr-1130300",
-            "date": 1771117203
-        },
-        {
-            "title": "Implementation Specialist Spanish Speaking",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-spanish-speaking-roofr-1130298",
-            "date": 1771113604
-        },
-        {
-            "title": "Senior Frontend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-roofr-1130297",
-            "date": 1771110003
-        },
-        {
-            "title": "Community Engagement Manager Feb 2026",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-community-engagement-manager-feb-2026-zocalo-health-1130296",
-            "date": 1771106452
-        },
-        {
-            "title": "Senior Member Growth Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-member-growth-manager-omada-health-1130295",
-            "date": 1771106442
-        },
-        {
-            "title": "Lead Engineer Provider Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-engineer-provider-engineering-humata-health-inc-1130294",
-            "date": 1771077637
-        },
-        {
-            "title": "Regulatory & Product Counsel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regulatory-product-counsel-lucid-software-1130293",
-            "date": 1771077630
-        },
-        {
-            "title": "Audience Writer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-audience-writer-propublica-1130292",
-            "date": 1771056003
-        },
-        {
-            "title": "Backend Engineer Consumer Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-consumer-engineering-bedi-partnerships-1130291",
-            "date": 1771052441
-        },
-        {
-            "title": "Desarrollador Backend .NET ETL",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-desarrollador-backend-net-etl-neoris-1130290",
-            "date": 1771049059
-        },
-        {
-            "title": "Prompt Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-prompt-engineer-viseven-1130289",
-            "date": 1771049050
-        },
-        {
-            "title": "Information Security Operations Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-information-security-operations-engineer-bounteous-1130288",
-            "date": 1771049043
-        },
-        {
-            "title": "Manager Sales Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-sales-engineering-controlup-1130287",
-            "date": 1771049036
-        },
-        {
-            "title": "Security Access Management Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-access-management-lead-bounteous-1130286",
-            "date": 1771049029
-        },
-        {
-            "title": "Associate Influencer Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-influencer-marketing-doordash-usa-1130285",
-            "date": 1771049022
-        },
-        {
-            "title": "Principal Data Operations &amp; Migration Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-data-operations-amp-migration-lead-starcompliance-1130283",
-            "date": 1771049007
-        },
-        {
-            "title": "Senior Medical Science Liaison",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-medical-science-liaison-xenon-pharmaceuticals-1130282",
-            "date": 1771049001
         },
         {
             "title": "NuTechs: FPGA Development Engineer",
