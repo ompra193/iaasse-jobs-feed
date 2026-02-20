@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-20 12:26:49",
+    "generated_at": "2026-02-20 18:29:11",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Marketing Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-operations-manager-chartbeat-inc-1130441",
+            "date": 1771520405
+        },
+        {
+            "title": "2D Game Design Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-2d-game-design-intern-playpower-labs-1130440",
+            "date": 1771509647
+        },
+        {
+            "title": "Senior Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-you-com-1130439",
+            "date": 1771509641
+        },
+        {
+            "title": "QA Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-qa-engineer-mex-digital-fze-1130438",
+            "date": 1771509633
+        },
+        {
+            "title": "Mobile Growth Manager Performance Marketing + UA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mobile-growth-manager-performance-marketing-ua-phiture-gmbh-1130437",
+            "date": 1771509623
+        },
+        {
+            "title": "DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-infstones-1130436",
+            "date": 1771509602
+        },
         {
             "title": "Job 27573 Mid Data Developer Brasil",
             "company": "RemoteOK",
@@ -512,17 +578,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-valtech-1130391",
             "date": 1771452034
-        },
-        {
-            "title": "QA Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-qa-engineer-mex-digital-fze-1130390",
-            "date": 1771452018
         },
         {
             "title": "Specialist Business Development and Projects",
@@ -1067,62 +1122,15 @@
             "date": 1771308105
         },
         {
-            "title": "Talent Operations Associate",
-            "company": "RemoteOK",
+            "title": "Dealer eProcess: Regional Sales Executive (Account Manager)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-talent-operations-associate-oneimaging-1130339",
-            "date": 1771308096
-        },
-        {
-            "title": "Principal Proposal Solutions Consultant United States",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-proposal-solutions-consultant-united-states-autogenai-1130338",
-            "date": 1771308083
-        },
-        {
-            "title": "Director of Business Development",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-business-development-smartbug-media-1130337",
-            "date": 1771308073
-        },
-        {
-            "title": "Quality Assurance Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-quality-assurance-specialist-sanmar-employee-board-1130335",
-            "date": 1771308052
-        },
-        {
-            "title": "Product Owner Medical Cost Containment & JIRA Expertise",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-owner-medical-cost-containment-jira-expertise-reliant-1130334",
-            "date": 1771308043
+            "link": "https://weworkremotely.com/remote-jobs/dealer-eprocess-regional-sales-executive-account-manager-1",
+            "date": 1770044986
         },
         {
             "title": "NuTechs: FPGA Development Engineer",
@@ -1386,17 +1394,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
             "date": 1769089549
-        },
-        {
-            "title": "fonio: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/fonio-senior-software-engineer",
-            "date": 1768992616
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
