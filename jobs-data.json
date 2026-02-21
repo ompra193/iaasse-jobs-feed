@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-21 00:19:05",
-    "total_jobs": 123,
+    "generated_at": "2026-02-21 07:29:18",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "SaaS Configuration Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-saas-configuration-analyst-coderio-1130452",
+            "date": 1771567202
+        },
+        {
+            "title": "Sales Systems Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-systems-engineer-veeam-software-1130451",
+            "date": 1771560013
+        },
         {
             "title": "Manager Paid Search",
             "company": "RemoteOK",
@@ -1093,41 +1115,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-developer-mind-friend-pro-1130351",
             "date": 1771365671
-        },
-        {
-            "title": "Marketing Campaign Operations Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-campaign-operations-associate-huntress-1130350",
-            "date": 1771365659
-        },
-        {
-            "title": "Financial Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-financial-associate-ethena-labs-1130349",
-            "date": 1771365649
-        },
-        {
-            "title": "Inside Sales Representative Retention",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-inside-sales-representative-retention-aura-1130348",
-            "date": 1771365640
         },
         {
             "title": "Dealer eProcess: Regional Sales Executive (Account Manager)",
