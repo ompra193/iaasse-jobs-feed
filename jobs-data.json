@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-21 18:17:48",
-    "total_jobs": 121,
+    "generated_at": "2026-02-22 00:05:16",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Senior Partnerships Manager Spain Italy",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-partnerships-manager-spain-italy-parloa-1130475",
+            "date": 1771624887
+        },
+        {
+            "title": "Senior People Operations Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-people-operations-partner-adyen-1130474",
+            "date": 1771624878
+        },
+        {
+            "title": "3D Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-3d-designer-exadel-1130473",
+            "date": 1771624866
+        },
+        {
+            "title": "Manager of Sales PerfectScale North America",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-of-sales-perfectscale-north-america-doit-1130472",
+            "date": 1771624853
+        },
+        {
+            "title": "Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineer-sciencelogic-1130471",
+            "date": 1771624844
+        },
+        {
+            "title": "Division Manager KY WV",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-division-manager-ky-wv-juul-labs-1130470",
+            "date": 1771624831
+        },
+        {
+            "title": "College Admissions Counselor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-college-admissions-counselor-empowerly-1130469",
+            "date": 1771624818
+        },
+        {
+            "title": "Corporate Paralegal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-corporate-paralegal-1130468",
+            "date": 1771624811
+        },
+        {
+            "title": "Partner Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-partner-success-manager-moonpay-1130467",
+            "date": 1771621201
+        },
         {
             "title": "Finance Officer",
             "company": "RemoteOK",
@@ -1014,94 +1115,15 @@
             "date": 1771394559
         },
         {
-            "title": "Full Stack Software Engineer",
-            "company": "RemoteOK",
+            "title": "Webflow: Enterprise Account Executive - West",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-cala-health-1130372",
-            "date": 1771394553
-        },
-        {
-            "title": "Director of Field and Partner Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-field-and-partner-marketing-minio-1130371",
-            "date": 1771394543
-        },
-        {
-            "title": "Director PBM Product Strategy and Delivery",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-pbm-product-strategy-and-delivery-affirmedrx-pbc-1130370",
-            "date": 1771394534
-        },
-        {
-            "title": "Senior Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-manager-diversified-automation-1130369",
-            "date": 1771394525
-        },
-        {
-            "title": "Customer Success Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-technician-teleo-1130368",
-            "date": 1771394517
-        },
-        {
-            "title": "Senior Sales Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-ping-identity-1130367",
-            "date": 1771394509
-        },
-        {
-            "title": "Senior Software Engineer Angular .net",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-angular-net-3pillar-1130366",
-            "date": 1771394499
-        },
-        {
-            "title": "Real Estate Counsel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-real-estate-counsel-unison-infrastructure-1130364",
-            "date": 1771394473
+            "link": "https://weworkremotely.com/remote-jobs/webflow-enterprise-account-executive-west",
+            "date": 1770045052
         },
         {
             "title": "Dealer eProcess: Regional Sales Executive (Account Manager)",
@@ -1365,17 +1387,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer",
             "date": 1769187589
-        },
-        {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
-            "date": 1769089549
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
