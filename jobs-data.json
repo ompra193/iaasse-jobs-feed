@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-22 18:20:34",
+    "generated_at": "2026-02-23 00:05:44",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Nurse Practitioner Physician Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "nurse"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-nurse-practitioner-physician-assistant-ennoble-care-1130491",
+            "date": 1771711209
+        },
         {
             "title": "Data Analyst II",
             "company": "RemoteOK",
@@ -1073,17 +1087,15 @@
             "date": 1771423273
         },
         {
-            "title": "Manager Paid Social and Digital Acquisition",
-            "company": "RemoteOK",
+            "title": "Walker Smith: Senior Web Developer (Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-paid-social-and-digital-acquisition-cogent-security-1130387",
-            "date": 1771423267
+            "link": "https://weworkremotely.com/remote-jobs/walker-smith-senior-web-developer-remote",
+            "date": 1770045052
         },
         {
             "title": "Webflow: Enterprise Account Executive - West",
@@ -1345,19 +1357,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/details-senior-web-application-developer",
             "date": 1769449177
-        },
-        {
-            "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer",
-            "date": 1769187589
         },
         {
             "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
