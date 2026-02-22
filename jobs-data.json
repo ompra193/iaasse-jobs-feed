@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-22 12:18:46",
+    "generated_at": "2026-02-22 18:20:34",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Data Analyst II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-ii-computercare-1130490",
+            "date": 1771696801
+        },
+        {
+            "title": "Talent Acquisition Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-partner-vcluster-labs-1130489",
+            "date": 1771682407
+        },
         {
             "title": "Vice President of Engagement Transformation",
             "company": "RemoteOK",
@@ -1060,30 +1084,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-manager-paid-social-and-digital-acquisition-cogent-security-1130387",
             "date": 1771423267
-        },
-        {
-            "title": "Regional Lead Civil Engineer Bridge & Structures",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "civil"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-lead-civil-engineer-bridge-structures-bkf-engineers-1130386",
-            "date": 1771423260
-        },
-        {
-            "title": "Senior Manager Payroll",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-payroll-compass-surgical-partners-1130385",
-            "date": 1771423254
         },
         {
             "title": "Webflow: Enterprise Account Executive - West",
