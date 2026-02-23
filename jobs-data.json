@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-23 00:05:44",
-    "total_jobs": 119,
+    "generated_at": "2026-02-23 07:39:37",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Product Manager Customer Care",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-customer-care-ryz-labs-1130495",
+            "date": 1771740004
+        },
         {
             "title": "Nurse Practitioner Physician Assistant",
             "company": "RemoteOK",
@@ -1063,28 +1074,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-valtech-1130391",
             "date": 1771452034
-        },
-        {
-            "title": "Specialist Business Development and Projects",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-specialist-business-development-and-projects-stranger-soccer-1130389",
-            "date": 1771423278
-        },
-        {
-            "title": "Field Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-cogent-security-1130388",
-            "date": 1771423273
         },
         {
             "title": "Walker Smith: Senior Web Developer (Remote)",
