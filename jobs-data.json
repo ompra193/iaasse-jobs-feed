@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-23 18:35:02",
-    "total_jobs": 118,
+    "generated_at": "2026-02-24 00:32:59",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Dentist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dentist-akicita-federal-llc-1130499",
+            "date": 1771797611
+        },
+        {
+            "title": "Senior Solutions Engineer North East",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-solutions-engineer-north-east-okta-inc-1130498",
+            "date": 1771797604
+        },
         {
             "title": "Product Manager Customer Care",
             "company": "RemoteOK",
@@ -1063,17 +1085,15 @@
             "date": 1771452045
         },
         {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
+            "title": "DreamRider Productions Careers: Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "data"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-valtech-1130391",
-            "date": 1771452034
+            "link": "https://weworkremotely.com/remote-jobs/dreamrider-productions-careers-web-developer",
+            "date": 1770045052
         },
         {
             "title": "Walker Smith: Senior Web Developer (Remote)",
@@ -1346,19 +1366,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/details-senior-web-application-developer",
             "date": 1769449177
-        },
-        {
-            "title": "comparis.ch: Experienced Full-Stack Software Engineer (.NET/React), 80\u2013100% (f/m/x), fully remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-experienced-full-stack-software-engineer-net-react-80-100-f-m-x-fully-remote",
-            "date": 1764083919
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
