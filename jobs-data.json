@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-24 18:36:03",
-    "total_jobs": 119,
+    "generated_at": "2026-02-25 00:32:21",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior IT Systems Engineer Storage and Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-it-systems-engineer-storage-and-infrastructure-relativity-space-1130518",
+            "date": 1771894823
+        },
+        {
+            "title": "Senior Backend Engineer Content",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-content-onx-1130517",
+            "date": 1771894813
+        },
+        {
+            "title": "Senior Mobile iOS Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-mobile-ios-engineer-yassir-1130516",
+            "date": 1771894803
+        },
         {
             "title": "Software Engineer UI",
             "company": "RemoteOK",
@@ -1058,28 +1091,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-content-program-strategist-pulley-1130404",
             "date": 1771480899
-        },
-        {
-            "title": "Senior Manager Digital Strategy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-digital-strategy-monks-1130402",
-            "date": 1771480882
-        },
-        {
-            "title": "Payroll Specialist Lead Germany",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-lead-germany-remote-referral-board-1130401",
-            "date": 1771480873
         },
         {
             "title": "DreamRider Productions Careers: Web Developer",
