@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-24 00:32:59",
-    "total_jobs": 119,
+    "generated_at": "2026-02-24 07:36:36",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Strategic Live Casino Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-strategic-live-casino-manager-arrise-1130502",
+            "date": 1771826420
+        },
+        {
+            "title": "Implementation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-nest-veterinary-1130501",
+            "date": 1771826414
+        },
+        {
+            "title": "PointClickCare Associate Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pointclickcare-associate-data-scientist-pointclickcare-1130500",
+            "date": 1771826407
+        },
         {
             "title": "Dentist",
             "company": "RemoteOK",
@@ -1015,17 +1050,6 @@
             "date": 1771473604
         },
         {
-            "title": "Personality & Behavior Tutor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-personality-behavior-tutor-xai-1130398",
-            "date": 1771470004
-        },
-        {
             "title": "Senior Data Engineer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1048,41 +1072,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-automation-sales-manager-formic-1130395",
             "date": 1771452081
-        },
-        {
-            "title": "Bilingual Legal Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-legal-assistant-distro-1130394",
-            "date": 1771452070
-        },
-        {
-            "title": "Robotics Field Service Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-robotics-field-service-engineer-formic-1130393",
-            "date": 1771452063
-        },
-        {
-            "title": "Senior Lead Product Designer Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-lead-product-designer-operations-monzo-1130392",
-            "date": 1771452045
         },
         {
             "title": "DreamRider Productions Careers: Web Developer",
