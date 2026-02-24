@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-24 12:30:39",
-    "total_jobs": 118,
+    "generated_at": "2026-02-24 18:36:03",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Software Engineer UI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ui-brave-1130515",
+            "date": 1771869612
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-wild-alaskan-company-1130506",
+            "date": 1771855224
+        },
+        {
+            "title": "Senior Media Director Performance Media",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-media-director-performance-media-unlock-health-1130505",
+            "date": 1771855214
+        },
+        {
+            "title": "Connectivity Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-connectivity-manager-agoda-1130504",
+            "date": 1771855208
+        },
+        {
+            "title": "Social Media Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-strategist-sociallyin-1130503",
+            "date": 1771855204
+        },
         {
             "title": "Strategic Live Casino Manager",
             "company": "RemoteOK",
@@ -1023,55 +1080,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-lead-germany-remote-referral-board-1130401",
             "date": 1771480873
-        },
-        {
-            "title": "Data Entry Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-sensor-tower-1130400",
-            "date": 1771477201
-        },
-        {
-            "title": "Product & Application Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-application-security-engineer-veeam-software-1130399",
-            "date": 1771473604
-        },
-        {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-exadel-1130396",
-            "date": 1771452093
-        },
-        {
-            "title": "Automation Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-automation-sales-manager-formic-1130395",
-            "date": 1771452081
         },
         {
             "title": "DreamRider Productions Careers: Web Developer",
