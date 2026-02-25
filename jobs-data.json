@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-25 00:32:21",
-    "total_jobs": 120,
+    "generated_at": "2026-02-25 07:38:18",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Deputy Editor Future Perfect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-deputy-editor-future-perfect-vox-media-llc-1130520",
+            "date": 1771898406
+        },
         {
             "title": "Senior IT Systems Engineer Storage and Infrastructure",
             "company": "RemoteOK",
@@ -1066,31 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-unlimit-1130406",
             "date": 1771480913
-        },
-        {
-            "title": "KIP Summer 2026 Research Assistant Finance Insurance &amp; Trade Policy R Street Institute",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "assistant",
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-kip-summer-2026-research-assistant-finance-insurance-amp-trade-policy-r-street-institute-stand-together-1130405",
-            "date": 1771480906
-        },
-        {
-            "title": "Senior Content Program Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-content-program-strategist-pulley-1130404",
-            "date": 1771480899
         },
         {
             "title": "DreamRider Productions Careers: Web Developer",
