@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-25 18:34:57",
+    "generated_at": "2026-02-26 00:36:14",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Live",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-live-cast-ai-1130527",
+            "date": 1771970406
+        },
+        {
+            "title": "Senior Fullstack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-fullstack-developer-kodify-media-group-1130526",
+            "date": 1771968854
+        },
+        {
+            "title": "Subtitle Localization Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-subtitle-localization-specialist-tsmg-1130524",
+            "date": 1771966814
+        },
+        {
+            "title": "Senior Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-infuse-1130523",
+            "date": 1771963207
+        },
         {
             "title": "Deputy Editor Future Perfect",
             "company": "RemoteOK",
@@ -1035,48 +1079,77 @@
             "date": 1771480947
         },
         {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
+            "title": "Linkage Web Development: ASP.NET Developer (C#, MVC, SQL Server, JavaScript)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "java",
+                "sql"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-crowdriff-1130409",
-            "date": 1771480938
+            "link": "https://weworkremotely.com/remote-jobs/linkage-web-development-asp-net-developer-c-mvc-sql-server-javascript",
+            "date": 1770226819
         },
         {
-            "title": "Senior Technical Consultant Charles River Everywhere",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: QA Engineer (M/W/D)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "internship",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-consultant-charles-river-everywhere-formativgroup-1130408",
-            "date": 1771480931
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-qa-engineer-m-w-d",
+            "date": 1770226816
         },
         {
-            "title": "Talent Acquisition Specialist Early Pipeline & Sourcing",
-            "company": "RemoteOK",
+            "title": "Rapid Strategy: Senior Penetration Tester (WebApp and Network)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-specialist-early-pipeline-sourcing-workleap-1130407",
-            "date": 1771480922
+            "link": "https://weworkremotely.com/remote-jobs/rapid-strategy-senior-penetration-tester-webapp-and-network",
+            "date": 1770144023
         },
         {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
+            "title": "WeVote: Fundraiser, Volunteer Ambassador",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wevote-fundraiser-volunteer-ambassador",
+            "date": 1770144023
+        },
+        {
+            "title": "OnTheGoSystems: Senior PHP Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer-3",
+            "date": 1770099363
+        },
+        {
+            "title": "Cortes 23: Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-unlimit-1130406",
-            "date": 1771480913
+            "link": "https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-3",
+            "date": 1770061509
         },
         {
             "title": "DreamRider Productions Careers: Web Developer",
@@ -1270,96 +1343,26 @@
             "date": 1769511290
         },
         {
-            "title": "Clerk: Senior Software Engineer, Growth",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/clerk-senior-software-engineer-growth",
-            "date": 1769449963
-        },
-        {
-            "title": "Hex Technologies: Web Designer",
+            "title": "Zencastr: Senior Backend Engineer - Full Remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hex-technologies-web-designer",
-            "date": 1769449178
+            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
+            "date": 1754510489
         },
         {
-            "title": "Activate Talent: Head of Web Dev",
+            "title": "Speechify Inc: Software Engineer, iOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/activate-talent-head-of-web-dev",
-            "date": 1769449178
-        },
-        {
-            "title": "Jobgether: Marketing Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jobgether-marketing-web-developer",
-            "date": 1769449178
-        },
-        {
-            "title": "QinetiQ US: Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/qinetiq-us-full-stack-developer",
-            "date": 1769449177
-        },
-        {
-            "title": "WeVote: Product Marketing Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wevote-product-marketing-lead",
-            "date": 1769449177
-        },
-        {
-            "title": "ONeil Interactive: Optimization Specialist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/oneil-interactive-optimization-specialist",
-            "date": 1769449177
-        },
-        {
-            "title": "Details: Senior Web Application Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/details-senior-web-application-developer",
-            "date": 1769449177
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+            "date": 1752075311
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
