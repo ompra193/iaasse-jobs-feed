@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-26 12:30:27",
+    "generated_at": "2026-02-26 18:36:04",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Database Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-okta-inc-1130537",
+            "date": 1772028002
+        },
         {
             "title": "Senior Technical Program Manager Money Movement",
             "company": "RemoteOK",
@@ -1068,15 +1081,15 @@
             "date": 1771480965
         },
         {
-            "title": "Portfolio Manager",
-            "company": "RemoteOK",
+            "title": "Zipdev: Senior Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-portfolio-manager-engineers-gate-1130411",
-            "date": 1771480956
+            "link": "https://weworkremotely.com/remote-jobs/zipdev-senior-web-developer",
+            "date": 1770226819
         },
         {
             "title": "Linkage Web Development: ASP.NET Developer (C#, MVC, SQL Server, JavaScript)",
@@ -1328,19 +1341,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer",
             "date": 1769691214
-        },
-        {
-            "title": "Mindrift: Freelance Senior Python Developer / Functional Test Frameworks",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-senior-python-developer-functional-test-frameworks",
-            "date": 1769511290
         },
         {
             "title": "Zencastr: Senior Backend Engineer - Full Remote",
