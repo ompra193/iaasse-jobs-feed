@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-26 18:36:04",
+    "generated_at": "2026-02-27 00:22:56",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Product Designer Creators",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-creators-vrchat-1130544",
+            "date": 1772056819
+        },
+        {
+            "title": "Global Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-global-administrative-assistant-crisp-recruit-1130543",
+            "date": 1772056804
+        },
+        {
+            "title": "Chief of Staff",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-garden3d-1130542",
+            "date": 1772054139
+        },
         {
             "title": "Senior Database Reliability Engineer",
             "company": "RemoteOK",
@@ -1046,39 +1081,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-observability-datahub-1130415",
             "date": 1771480988
-        },
-        {
-            "title": "US Client Accounting Advisor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-us-client-accounting-advisor-cloud-accountant-staffing-1130414",
-            "date": 1771480980
-        },
-        {
-            "title": "Marketing Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-vitable-health-1130413",
-            "date": 1771480973
-        },
-        {
-            "title": "Enterprise Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-customer-success-manager-ziprecruiter-1130412",
-            "date": 1771480965
         },
         {
             "title": "Zipdev: Senior Web Developer",
