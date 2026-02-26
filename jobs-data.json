@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-26 00:36:14",
+    "generated_at": "2026-02-26 07:33:57",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Technical Program Manager Money Movement",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-program-manager-money-movement-human-interest-1130528",
+            "date": 1771992005
+        },
         {
             "title": "Senior Software Engineer Live",
             "company": "RemoteOK",
@@ -1066,17 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-portfolio-manager-engineers-gate-1130411",
             "date": 1771480956
-        },
-        {
-            "title": "Associate Strategy Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-strategy-analyst-blytheco-1130410",
-            "date": 1771480947
         },
         {
             "title": "Linkage Web Development: ASP.NET Developer (C#, MVC, SQL Server, JavaScript)",
