@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-27 00:22:56",
-    "total_jobs": 119,
+    "generated_at": "2026-02-27 07:33:11",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior 3D Artist Monopoly GO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-3d-artist-monopoly-go-scopely-1130551",
+            "date": 1772089205
+        },
+        {
+            "title": "Senior User Experience Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-user-experience-designer-virtru-1130547",
+            "date": 1772078404
+        },
         {
             "title": "Product Designer Creators",
             "company": "RemoteOK",
@@ -1070,17 +1092,15 @@
             "date": 1771481005
         },
         {
-            "title": "Senior Software Engineer Data Observability",
-            "company": "RemoteOK",
+            "title": "Uncanny Owl: WordPress Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "data"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-observability-datahub-1130415",
-            "date": 1771480988
+            "link": "https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer",
+            "date": 1770242267
         },
         {
             "title": "Zipdev: Senior Web Developer",
@@ -1343,17 +1363,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer",
             "date": 1769691214
-        },
-        {
-            "title": "Zencastr: Senior Backend Engineer - Full Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zencastr-senior-backend-engineer-full-remote",
-            "date": 1754510489
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
