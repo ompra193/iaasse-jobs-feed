@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-27 12:24:32",
-    "total_jobs": 120,
+    "generated_at": "2026-02-27 18:29:13",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-nansen-ai-1130555",
+            "date": 1772128806
+        },
+        {
+            "title": "Product Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-engineer-fronted-as-1130554",
+            "date": 1772127700
+        },
         {
             "title": "Senior 3D Artist Monopoly GO",
             "company": "RemoteOK",
@@ -827,17 +849,6 @@
             "date": 1771509647
         },
         {
-            "title": "Senior Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-you-com-1130439",
-            "date": 1771509641
-        },
-        {
             "title": "QA Engineer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1066,30 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-coupa-pay-customer-success-manager-11184-coupa-software-inc-1130419",
             "date": 1771481023
-        },
-        {
-            "title": "Research Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-research-data-scientist-swayable-1130418",
-            "date": 1771481015
-        },
-        {
-            "title": "Project Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-coordinator-caylent-1130417",
-            "date": 1771481005
         },
         {
             "title": "Uncanny Owl: WordPress Developer",
