@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-27 18:29:13",
-    "total_jobs": 119,
+    "generated_at": "2026-02-28 00:12:49",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "AI Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-i-sezzle-1130557",
+            "date": 1772150403
+        },
         {
             "title": "Senior Security Engineer",
             "company": "RemoteOK",
@@ -1055,28 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-qa-document-control-specialist-apogee-therapeutics-1130421",
             "date": 1771481038
-        },
-        {
-            "title": "Workday Enterprise Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-workday-enterprise-project-manager-compassx-group-1130420",
-            "date": 1771481030
-        },
-        {
-            "title": "Coupa Pay Customer Success Manager 11184",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-coupa-pay-customer-success-manager-11184-coupa-software-inc-1130419",
-            "date": 1771481023
         },
         {
             "title": "Uncanny Owl: WordPress Developer",
