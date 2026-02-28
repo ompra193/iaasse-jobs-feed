@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-28 12:08:40",
+    "generated_at": "2026-02-28 18:15:44",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Prime",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prime-alpaca-1130563",
+            "date": 1772200807
+        },
+        {
+            "title": "Technical Writer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-allen-control-systems-1130562",
+            "date": 1772197205
+        },
         {
             "title": "Lead VFX Artist",
             "company": "RemoteOK",
@@ -1046,28 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-delivery-mechanical-orchard-1130426",
             "date": 1771481080
-        },
-        {
-            "title": "Senior Marketing Science Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-marketing-science-strategist-power-digital-1130425",
-            "date": 1771481074
-        },
-        {
-            "title": "Director Global Consulting & System Integrator Partnerships",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-global-consulting-system-integrator-partnerships-ada-1130424",
-            "date": 1771481065
         },
         {
             "title": "Uncanny Owl: WordPress Developer",
