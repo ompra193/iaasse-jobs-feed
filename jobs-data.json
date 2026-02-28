@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-28 07:23:17",
+    "generated_at": "2026-02-28 12:08:40",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Lead VFX Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-vfx-artist-insomniac-games-1130561",
+            "date": 1772193607
+        },
+        {
+            "title": "Senior Facial Character TD",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-facial-character-td-insomniac-games-1130560",
+            "date": 1772190004
+        },
         {
             "title": "Social Media Video Creator Intern",
             "company": "RemoteOK",
@@ -1046,28 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-global-consulting-system-integrator-partnerships-ada-1130424",
             "date": 1771481065
-        },
-        {
-            "title": "Security Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-specialist-workwize-1130423",
-            "date": 1771481057
-        },
-        {
-            "title": "Backend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-dv01-1130422",
-            "date": 1771481048
         },
         {
             "title": "Uncanny Owl: WordPress Developer",
