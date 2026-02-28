@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-28 00:12:49",
+    "generated_at": "2026-02-28 07:23:17",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Social Media Video Creator Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-video-creator-intern-cathoven-1130559",
+            "date": 1772168414
+        },
         {
             "title": "AI Engineer I",
             "company": "RemoteOK",
@@ -1057,17 +1068,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-dv01-1130422",
             "date": 1771481048
-        },
-        {
-            "title": "QA Document Control Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-qa-document-control-specialist-apogee-therapeutics-1130421",
-            "date": 1771481038
         },
         {
             "title": "Uncanny Owl: WordPress Developer",
