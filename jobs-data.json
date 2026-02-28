@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-02-28 18:15:44",
+    "generated_at": "2026-03-01 00:03:34",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Growth Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-engineer-bitmex-1130564",
+            "date": 1772222404
+        },
         {
             "title": "Senior Software Engineer Prime",
             "company": "RemoteOK",
@@ -1059,15 +1070,15 @@
             "date": 1771481089
         },
         {
-            "title": "Engineering Manager Delivery",
-            "company": "RemoteOK",
+            "title": "Startupz.com: Front End Developer (HTML & CSS)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-delivery-mechanical-orchard-1130426",
-            "date": 1771481080
+            "link": "https://weworkremotely.com/remote-jobs/startupz-com-front-end-developer-html-css",
+            "date": 1770310818
         },
         {
             "title": "Uncanny Owl: WordPress Developer",
@@ -1328,19 +1339,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/madeo-web-developer-contract",
             "date": 1769718773
-        },
-        {
-            "title": "SlideSpeak: AI Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/slidespeak-ai-software-engineer",
-            "date": 1769691214
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
