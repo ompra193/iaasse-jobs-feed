@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-01 12:15:49",
-    "total_jobs": 117,
+    "generated_at": "2026-03-01 18:19:20",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Program Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-program-manager-nava-1130574",
+            "date": 1772301601
+        },
+        {
+            "title": "AI Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-i-sezzle-1130573",
+            "date": 1772294410
+        },
         {
             "title": "Senior Backend Engineer Grafana k6 UK",
             "company": "RemoteOK",
@@ -112,19 +136,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-video-creator-intern-cathoven-1130559",
             "date": 1772168414
-        },
-        {
-            "title": "AI Engineer I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-i-sezzle-1130557",
-            "date": 1772150403
         },
         {
             "title": "Senior Security Engineer",
@@ -1031,28 +1042,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-job-27602-mid-level-developer-nodejs-brazil-ciampt-1130433",
             "date": 1771481144
-        },
-        {
-            "title": "Sp\u00c3\u00a9cialiste en acquisition de talents Pipeline & Sourcing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-specialiste-en-acquisition-de-talents-pipeline-sourcing-workleap-1130432",
-            "date": 1771481137
-        },
-        {
-            "title": "Social Commerce Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-commerce-strategist-power-digital-1130431",
-            "date": 1771481128
         },
         {
             "title": "Engineering Comfort Solutions: Web Developer",
