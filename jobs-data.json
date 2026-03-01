@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-01 18:19:20",
+    "generated_at": "2026-03-02 00:04:16",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Engineering Manager International",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-international-justworks-1130575",
+            "date": 1772305206
+        },
         {
             "title": "Program Manager",
             "company": "RemoteOK",
@@ -1029,19 +1040,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-job-27611-midsenior-data-developer-brasil-ciampt-1130434",
             "date": 1771481151
-        },
-        {
-            "title": "Job 27602 Mid level Developer NodeJS Brazil",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27602-mid-level-developer-nodejs-brazil-ciampt-1130433",
-            "date": 1771481144
         },
         {
             "title": "Engineering Comfort Solutions: Web Developer",
