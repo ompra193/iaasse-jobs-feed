@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-01 00:03:34",
-    "total_jobs": 118,
+    "generated_at": "2026-03-01 07:52:35",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Technical Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-arize-ai-1130568",
+            "date": 1772254820
+        },
+        {
+            "title": "Middle Project Manager Internal Systems and Processes",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-middle-project-manager-internal-systems-and-processes-infuse-1130567",
+            "date": 1772254804
+        },
+        {
+            "title": "Early Career Software Engineer Warfighter Systems",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565",
+            "date": 1772240404
+        },
         {
             "title": "Growth Engineer",
             "company": "RemoteOK",
@@ -709,17 +742,6 @@
             "date": 1771596065
         },
         {
-            "title": "Technical Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-lavendo-1130461",
-            "date": 1771596059
-        },
-        {
             "title": "UI UX Designer for Career Services Company",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1033,41 +1055,26 @@
             "date": 1771481119
         },
         {
-            "title": "Director Asset Protection NAM Retail",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-asset-protection-nam-retail-arc39teryx-1130429",
-            "date": 1771481103
-        },
-        {
-            "title": "HR Project Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-project-coordinator-xsolla-1130428",
-            "date": 1771481095
-        },
-        {
-            "title": "Senior Account Executive Western Europe",
-            "company": "RemoteOK",
+            "title": "Engineering Comfort Solutions: Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-western-europe-1130427",
-            "date": 1771481089
+            "link": "https://weworkremotely.com/remote-jobs/engineering-comfort-solutions-web-developer",
+            "date": 1770310818
+        },
+        {
+            "title": "Gentia: Estrategista Comercial (Inside Sales)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gentia-estrategista-comercial-inside-sales",
+            "date": 1770310818
         },
         {
             "title": "Startupz.com: Front End Developer (HTML & CSS)",
@@ -1317,28 +1324,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jetbrains-jetbrains-web-developer-advocate-developer-advocacy",
             "date": 1769798952
-        },
-        {
-            "title": "WALTER: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
-            "date": 1769720776
-        },
-        {
-            "title": "Madeo: Web Developer (Contract)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/madeo-web-developer-contract",
-            "date": 1769718773
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
