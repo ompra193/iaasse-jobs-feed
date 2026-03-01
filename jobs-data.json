@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-01 07:52:35",
+    "generated_at": "2026-03-01 12:15:49",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Backend Engineer Grafana k6 UK",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-grafana-k6-uk-1130569",
+            "date": 1772276412
+        },
         {
             "title": "Technical Product Manager",
             "company": "RemoteOK",
@@ -1042,17 +1053,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-commerce-strategist-power-digital-1130431",
             "date": 1771481128
-        },
-        {
-            "title": "Mid Level DevOps Engineer CI CD Optimization",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mid-level-devops-engineer-ci-cd-optimization-ubiminds-1130430",
-            "date": 1771481119
         },
         {
             "title": "Engineering Comfort Solutions: Web Developer",
