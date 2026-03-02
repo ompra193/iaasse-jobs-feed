@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-02 00:04:16",
+    "generated_at": "2026-03-02 07:36:34",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Junior Live Ops Game Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-live-ops-game-designer-a-thinking-ape-1130577",
+            "date": 1772334014
+        },
+        {
+            "title": "Senior Game Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-game-designer-mob-entertainment-1130576",
+            "date": 1772334004
+        },
         {
             "title": "Engineering Manager International",
             "company": "RemoteOK",
@@ -1016,30 +1038,50 @@
             "date": 1771509602
         },
         {
-            "title": "Job 27573 Mid Data Developer Brasil",
-            "company": "RemoteOK",
+            "title": "GoFasti: Product Designer (UI/UX \u2013 Web Application)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
+            "employment": "govt",
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27573-mid-data-developer-brasil-ciampt-1130435",
-            "date": 1771481165
+            "link": "https://weworkremotely.com/remote-jobs/gofasti-product-designer-ui-ux-web-application",
+            "date": 1770393445
         },
         {
-            "title": "Job 27611 MidSenior Data Developer Brasil",
-            "company": "RemoteOK",
+            "title": "KOSATEC Empowering Global Innovation: Web Entwickler mit Schwerpunkt PHP (m/w/d)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "php"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-job-27611-midsenior-data-developer-brasil-ciampt-1130434",
-            "date": 1771481151
+            "link": "https://weworkremotely.com/remote-jobs/kosatec-empowering-global-innovation-web-entwickler-mit-schwerpunkt-php-m-w-d",
+            "date": 1770393445
+        },
+        {
+            "title": "Subscript: Software Engineer - Test",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-test",
+            "date": 1770321438
+        },
+        {
+            "title": "Anexia Internetdienstleistungs: 2Nd Level Support - Virtualization Stack (M/W/D)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-2nd-level-support-virtualization-stack-m-w-d",
+            "date": 1770310818
         },
         {
             "title": "Engineering Comfort Solutions: Web Developer",
@@ -1250,67 +1292,15 @@
             "date": 1770044986
         },
         {
-            "title": "ServiceTitan: Manager, Web Development",
+            "title": "Speechify Inc: Software Engineer, macOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/servicetitan-manager-web-development",
-            "date": 1769799050
-        },
-        {
-            "title": "Codekeeper: Full Stack Developer (Javascript)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codekeeper-full-stack-developer-javascript",
-            "date": 1769799050
-        },
-        {
-            "title": "Anexia Internetdienstleistungs: Ai/Ml Engineer \u2013 LLM Systems (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-ai-ml-engineer-llm-systems-m-w-d",
-            "date": 1769798952
-        },
-        {
-            "title": "Anexia Internetdienstleistungs: Data Engineer (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-data-engineer-m-w-d",
-            "date": 1769798952
-        },
-        {
-            "title": "JetBrains: JetBrains Web Developer Advocate (Developer Advocacy)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jetbrains-jetbrains-web-developer-advocate-developer-advocacy",
-            "date": 1769798952
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product",
+            "date": 1767789467
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
