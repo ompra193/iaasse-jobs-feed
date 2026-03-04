@@ -1,8 +1,176 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-04 18:26:46",
-    "total_jobs": 116,
+    "generated_at": "2026-03-05 00:22:03",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "AI Data Specialist Chinese Simplified",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-data-specialist-chinese-simplified-rws-trainai-1130618",
+            "date": 1772582440
+        },
+        {
+            "title": "AI Data Specialist Polish",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-data-specialist-polish-rws-trainai-1130617",
+            "date": 1772582421
+        },
+        {
+            "title": "Salesforce Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-administrator-givewell-1130616",
+            "date": 1772582412
+        },
+        {
+            "title": "Business Development Manager 3 months renewable",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-3-months-renewable-coin-market-cap-ltd-1130615",
+            "date": 1772582401
+        },
+        {
+            "title": "Senior Frontend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-level-1130614",
+            "date": 1772580889
+        },
+        {
+            "title": "Technical Support Engineer EMEA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-emea-chainguard-1130613",
+            "date": 1772578817
+        },
+        {
+            "title": "Senior Engineering Manager Data Pipeline",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-data-pipeline-bloomreach-1130612",
+            "date": 1772578808
+        },
+        {
+            "title": "ParaView Expert",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paraview-expert-weekday-ai-1130610",
+            "date": 1772575239
+        },
+        {
+            "title": "Staff Engineer Software Release and Packaging RISC V",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-engineer-software-release-and-packaging-risc-v-tenstorrent-1130609",
+            "date": 1772575231
+        },
+        {
+            "title": "Partnerships Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-partnerships-success-manager-simplyinsured-1130608",
+            "date": 1772575220
+        },
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-federato-1130607",
+            "date": 1772575217
+        },
+        {
+            "title": "Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-mento-1130606",
+            "date": 1772575207
+        },
+        {
+            "title": "Senior Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-xxix-1130605",
+            "date": 1772575145
+        },
+        {
+            "title": "Crypto Market Operations Trainee",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-market-operations-trainee-begini-1130604",
+            "date": 1772566257
+        },
         {
             "title": "Product Design Intern",
             "company": "RemoteOK",
@@ -921,109 +1089,65 @@
             "date": 1771596082
         },
         {
-            "title": "Clinical Informaticist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-clinical-informaticist-mcg-health-1130463",
-            "date": 1771596073
-        },
-        {
-            "title": "Administrative Business Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-business-partner-openai-1130462",
-            "date": 1771596065
-        },
-        {
-            "title": "UI UX Designer for Career Services Company",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ui-ux-designer-for-career-services-company-paired-1130460",
-            "date": 1771596052
-        },
-        {
-            "title": "Technical Architect AUS Company",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-architect-aus-company-anypear-1130457",
-            "date": 1771596027
-        },
-        {
-            "title": "Senior Full Stack Software Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-developer-judi-health-1130456",
-            "date": 1771596020
-        },
-        {
-            "title": "Senior Engineering Manager Cloud Enablement",
-            "company": "RemoteOK",
+            "title": "SKYCATCHFIRE: Senior Python Backend Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "cloud"
+                "python"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-cloud-enablement-temporal-technologies-1130455",
-            "date": 1771596012
+            "link": "https://weworkremotely.com/remote-jobs/skycatchfire-senior-python-backend-developer",
+            "date": 1770413509
         },
         {
-            "title": "Social Media Lead",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: Senior Network Automation Engineer (M/W/D)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-senior-network-automation-engineer-m-w-d",
+            "date": 1770393485
+        },
+        {
+            "title": "Publix Super Markets: SR. Sitecore Front End Web Developer - Publix.com (Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-lead-opensea-1130454",
-            "date": 1771596001
+            "link": "https://weworkremotely.com/remote-jobs/publix-super-markets-sr-sitecore-front-end-web-developer-publix-com-remote",
+            "date": 1770393485
         },
         {
-            "title": "SaaS Configuration Analyst",
-            "company": "RemoteOK",
+            "title": "Adoreal: Senior Web Developer - Figma & Webflow Expertise",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-saas-configuration-analyst-coderio-1130452",
-            "date": 1771567202
+            "link": "https://weworkremotely.com/remote-jobs/adoreal-senior-web-developer-figma-webflow-expertise",
+            "date": 1770393485
         },
         {
-            "title": "Sales Systems Engineer",
-            "company": "RemoteOK",
+            "title": "ONeil Interactive: Digital Designer - Web & UI/UX",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-systems-engineer-veeam-software-1130451",
-            "date": 1771560013
+            "link": "https://weworkremotely.com/remote-jobs/oneil-interactive-digital-designer-web-ui-ux",
+            "date": 1770393445
         },
         {
-            "title": "Manager Paid Search",
-            "company": "RemoteOK",
+            "title": "WeVote: Outreach Manager, Political Campaigns",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1031,8 +1155,8 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-paid-search-wpp-media-1130449",
-            "date": 1771538551
+            "link": "https://weworkremotely.com/remote-jobs/wevote-outreach-manager-political-campaigns",
+            "date": 1770393445
         },
         {
             "title": "RealPage: QA Engineer III (Selenium/Playwright)",
@@ -1220,86 +1344,6 @@
             "date": 1770061509
         },
         {
-            "title": "DreamRider Productions Careers: Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dreamrider-productions-careers-web-developer",
-            "date": 1770045052
-        },
-        {
-            "title": "Walker Smith: Senior Web Developer (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/walker-smith-senior-web-developer-remote",
-            "date": 1770045052
-        },
-        {
-            "title": "Webflow: Enterprise Account Executive - West",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/webflow-enterprise-account-executive-west",
-            "date": 1770045052
-        },
-        {
-            "title": "Dealer eProcess: Regional Sales Executive (Account Manager)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dealer-eprocess-regional-sales-executive-account-manager-1",
-            "date": 1770044986
-        },
-        {
-            "title": "NuTechs: FPGA Development Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/nutechs-fpga-development-engineer",
-            "date": 1770044986
-        },
-        {
-            "title": "ALIQAN Technologies: Commerce Tools + Node JS + Cloud",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node",
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-commerce-tools-node-js-cloud",
-            "date": 1770044986
-        },
-        {
-            "title": "Eran Group: Senior Back-End Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/eran-group-senior-back-end-web-developer",
-            "date": 1770044986
-        },
-        {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1320,6 +1364,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
             "date": 1752075311
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         }
     ]
 }
