@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-04 07:31:47",
+    "generated_at": "2026-03-04 12:18:11",
     "total_jobs": 116,
     "jobs": [
         {
@@ -1036,6 +1036,17 @@
             "date": 1771538495
         },
         {
+            "title": "RealPage: QA Engineer III (Selenium/Playwright)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/realpage-qa-engineer-iii-selenium-playwright",
+            "date": 1770393445
+        },
+        {
             "title": "GoFasti: Product Designer (UI/UX \u2013 Web Application)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1310,17 +1321,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
             "date": 1752075311
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
