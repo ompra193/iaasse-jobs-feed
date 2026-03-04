@@ -1,8 +1,85 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-04 00:18:05",
+    "generated_at": "2026-03-04 07:31:47",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Engineering Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-energyhub-1130596",
+            "date": 1772517669
+        },
+        {
+            "title": "Senior Human Resources Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-human-resources-manager-flatiron-energy-1130595",
+            "date": 1772517653
+        },
+        {
+            "title": "Inbound Sales Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-inbound-sales-agent-storage360-1130594",
+            "date": 1772517642
+        },
+        {
+            "title": "Director Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-sales-parachute-health-1130593",
+            "date": 1772517631
+        },
+        {
+            "title": "Account Executive Alcohol",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-alcohol-swiftly-1130592",
+            "date": 1772517621
+        },
+        {
+            "title": "Associate Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-investorflow-1130591",
+            "date": 1772517613
+        },
+        {
+            "title": "Sales Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-account-executive-rewards-network-1130590",
+            "date": 1772517606
+        },
         {
             "title": "Junior Live Ops Game Designer",
             "company": "RemoteOK",
@@ -808,17 +885,6 @@
             "date": 1771596052
         },
         {
-            "title": "Engineering Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-sharebite-1130459",
-            "date": 1771596046
-        },
-        {
             "title": "Technical Architect AUS Company",
             "company": "RemoteOK",
             "company_logo": null,
@@ -968,74 +1034,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-lead-devops-nearform-1130443",
             "date": 1771538495
-        },
-        {
-            "title": "Data & Market Insights Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-market-insights-associate-elemental-terra-1130442",
-            "date": 1771536701
-        },
-        {
-            "title": "Marketing Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-operations-manager-chartbeat-inc-1130441",
-            "date": 1771520405
-        },
-        {
-            "title": "2D Game Design Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2d-game-design-intern-playpower-labs-1130440",
-            "date": 1771509647
-        },
-        {
-            "title": "QA Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-qa-engineer-mex-digital-fze-1130438",
-            "date": 1771509633
-        },
-        {
-            "title": "Mobile Growth Manager Performance Marketing + UA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mobile-growth-manager-performance-marketing-ua-phiture-gmbh-1130437",
-            "date": 1771509623
-        },
-        {
-            "title": "DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-infstones-1130436",
-            "date": 1771509602
         },
         {
             "title": "GoFasti: Product Designer (UI/UX \u2013 Web Application)",
