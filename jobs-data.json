@@ -1,8 +1,159 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-05 00:22:03",
-    "total_jobs": 120,
+    "generated_at": "2026-03-05 07:35:01",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "VP Data and Analytics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-data-and-analytics-cobalt-service-partners-1130633",
+            "date": 1772604102
+        },
+        {
+            "title": "Growth Customer Success Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-growth-customer-success-lead-embrace-1130632",
+            "date": 1772604091
+        },
+        {
+            "title": "Senior Sales Enablement Program Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-enablement-program-manager-chownow-1130631",
+            "date": 1772604080
+        },
+        {
+            "title": "Relationship Manager Northeast",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-relationship-manager-northeast-palmetto-clean-technology-1130630",
+            "date": 1772604072
+        },
+        {
+            "title": "Project Manager Cloud Migrations and Partner Programs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-manager-cloud-migrations-and-partner-programs-striim-inc-1130629",
+            "date": 1772604061
+        },
+        {
+            "title": "Senior Open Source Intelligence Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-open-source-intelligence-analyst-concentric-advisors-1130628",
+            "date": 1772604042
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-pomelo-care-1130627",
+            "date": 1772604029
+        },
+        {
+            "title": "Senior Cloud Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-kunai-1130626",
+            "date": 1772604017
+        },
+        {
+            "title": "Loan Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-loan-officer-figure-1130625",
+            "date": 1772604008
+        },
+        {
+            "title": "Senior Sound Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sound-designer-eleventh-hour-games-1130624",
+            "date": 1772596826
+        },
+        {
+            "title": "Lead VFX Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-vfx-artist-eleventh-hour-games-1130623",
+            "date": 1772596812
+        },
+        {
+            "title": "Cloud Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cloud-architect-accenture-federal-services-1130620",
+            "date": 1772593219
+        },
+        {
+            "title": "Contract Senior Gameplay Animator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-contract-senior-gameplay-animator-arenanet-1130619",
+            "date": 1772593206
+        },
         {
             "title": "AI Data Specialist Chinese Simplified",
             "company": "RemoteOK",
@@ -450,17 +601,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-allen-control-systems-1130562",
             "date": 1772197205
-        },
-        {
-            "title": "Lead VFX Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-vfx-artist-insomniac-games-1130561",
-            "date": 1772193607
         },
         {
             "title": "Senior Facial Character TD",
@@ -942,151 +1082,15 @@
             "date": 1771653604
         },
         {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
+            "title": "OnTheGoSystems: Senior RoR Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-galileo-financial-technologies-1130478",
-            "date": 1771635609
-        },
-        {
-            "title": "Senior Partnerships Manager Spain Italy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-partnerships-manager-spain-italy-parloa-1130475",
-            "date": 1771624887
-        },
-        {
-            "title": "Senior People Operations Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-people-operations-partner-adyen-1130474",
-            "date": 1771624878
-        },
-        {
-            "title": "3D Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-3d-designer-exadel-1130473",
-            "date": 1771624866
-        },
-        {
-            "title": "Manager of Sales PerfectScale North America",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-of-sales-perfectscale-north-america-doit-1130472",
-            "date": 1771624853
-        },
-        {
-            "title": "Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineer-sciencelogic-1130471",
-            "date": 1771624844
-        },
-        {
-            "title": "Division Manager KY WV",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-division-manager-ky-wv-juul-labs-1130470",
-            "date": 1771624831
-        },
-        {
-            "title": "College Admissions Counselor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-college-admissions-counselor-empowerly-1130469",
-            "date": 1771624818
-        },
-        {
-            "title": "Corporate Paralegal",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-corporate-paralegal-1130468",
-            "date": 1771624811
-        },
-        {
-            "title": "Partner Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-partner-success-manager-moonpay-1130467",
-            "date": 1771621201
-        },
-        {
-            "title": "Finance Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-finance-officer-goal-uganda-1130466",
-            "date": 1771596102
-        },
-        {
-            "title": "IT Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-officer-goal-uganda-1130465",
-            "date": 1771596091
-        },
-        {
-            "title": "SAP WalkMe Development Senior Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sap-walkme-development-senior-consultant-new-era-technology-1130464",
-            "date": 1771596082
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-developer",
+            "date": 1770635361
         },
         {
             "title": "SKYCATCHFIRE: Senior Python Backend Developer",
@@ -1331,17 +1335,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-php-developer-3",
             "date": 1770099363
-        },
-        {
-            "title": "Cortes 23: Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-3",
-            "date": 1770061509
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
