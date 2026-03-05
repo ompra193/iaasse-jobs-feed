@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-05 12:22:57",
-    "total_jobs": 119,
+    "generated_at": "2026-03-05 18:30:42",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-cybrid-1130635",
+            "date": 1772632821
+        },
         {
             "title": "VP Data and Analytics",
             "company": "RemoteOK",
