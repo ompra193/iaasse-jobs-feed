@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-05 18:30:42",
+    "generated_at": "2026-03-06 00:46:28",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Tech lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tech-lead-ringbook-1130639",
+            "date": 1772669594
+        },
+        {
+            "title": "DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-memx-1130637",
+            "date": 1772665205
+        },
+        {
+            "title": "Lab Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lab-technician-iceye-1130636",
+            "date": 1772661604
+        },
         {
             "title": "Senior Full Stack Engineer",
             "company": "RemoteOK",
@@ -1058,39 +1093,29 @@
             "date": 1771653634
         },
         {
-            "title": "Legal Project & Operations Manager",
-            "company": "RemoteOK",
+            "title": "Leobit: Senior Ruby Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-legal-project-operations-manager-cohere-health-1130481",
-            "date": 1771653622
+            "link": "https://weworkremotely.com/remote-jobs/leobit-senior-ruby-engineer",
+            "date": 1770658841
         },
         {
-            "title": "Regional Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-account-executive-amarok-1130480",
-            "date": 1771653614
-        },
-        {
-            "title": "Data Scientist",
-            "company": "RemoteOK",
+            "title": "Codvo.ai: GIS Web Developer - Esri/React Specialist (Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "react",
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-solera-health-1130479",
-            "date": 1771653604
+            "link": "https://weworkremotely.com/remote-jobs/codvo-ai-gis-web-developer-esri-react-specialist-remote",
+            "date": 1770658841
         },
         {
             "title": "RebelCode: Software Engineer (WordPress Developer)",
@@ -1320,30 +1345,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-qa-engineer-m-w-d",
             "date": 1770226816
-        },
-        {
-            "title": "Rapid Strategy: Senior Penetration Tester (WebApp and Network)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/rapid-strategy-senior-penetration-tester-webapp-and-network",
-            "date": 1770144023
-        },
-        {
-            "title": "WeVote: Fundraiser, Volunteer Ambassador",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wevote-fundraiser-volunteer-ambassador",
-            "date": 1770144023
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
