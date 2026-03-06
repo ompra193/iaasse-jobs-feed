@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-06 12:20:32",
+    "generated_at": "2026-03-06 18:26:20",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Sales Enablement Analyst Broker API",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-enablement-analyst-broker-api-alpaca-1130642",
+            "date": 1772730007
+        },
         {
             "title": "Account Manager",
             "company": "RemoteOK",
@@ -1080,17 +1091,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-life-sciences-scileads-1130484",
             "date": 1771653654
-        },
-        {
-            "title": "Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-goodtime-1130483",
-            "date": 1771653643
         },
         {
             "title": "Leobit: Senior Ruby Engineer",
