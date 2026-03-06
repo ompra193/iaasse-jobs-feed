@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-06 00:46:28",
+    "generated_at": "2026-03-06 07:34:50",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-manager-datakind-1130641",
+            "date": 1772679605
+        },
         {
             "title": "Tech lead",
             "company": "RemoteOK",
@@ -1080,17 +1091,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-goodtime-1130483",
             "date": 1771653643
-        },
-        {
-            "title": "Business Development Manager Vocational",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-vocational-geotab-1130482",
-            "date": 1771653634
         },
         {
             "title": "Leobit: Senior Ruby Engineer",
