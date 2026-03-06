@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-06 18:26:20",
+    "generated_at": "2026-03-07 00:15:36",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Software Engineer React",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-react-creative-chaos-1130645",
+            "date": 1772748014
+        },
+        {
+            "title": "Mandarin Interpreter S",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mandarin-interpreter-s-two95-international-inc-1130644",
+            "date": 1772748007
+        },
+        {
+            "title": "Communications Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-communications-manager-certik-1130643",
+            "date": 1772744404
+        },
         {
             "title": "Sales Enablement Analyst Broker API",
             "company": "RemoteOK",
@@ -1058,39 +1093,37 @@
             "date": 1771653682
         },
         {
-            "title": "Director AI Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-ai-engineering-lantern-1130486",
-            "date": 1771653673
-        },
-        {
-            "title": "Full Stack Software Engineer II",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Network Engineer - Tallahassee, FL",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-software-engineer-ii-technergetics-1130485",
-            "date": 1771653664
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl",
+            "date": 1770741624
         },
         {
-            "title": "Senior Product Manager Platform Life Sciences",
-            "company": "RemoteOK",
+            "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-1",
+            "date": 1770658841
+        },
+        {
+            "title": "Smartbug Media: HubSpot Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-life-sciences-scileads-1130484",
-            "date": 1771653654
+            "link": "https://weworkremotely.com/remote-jobs/smartbug-media-hubspot-developer",
+            "date": 1770658841
         },
         {
             "title": "Leobit: Senior Ruby Engineer",
@@ -1311,42 +1344,6 @@
             "date": 1770242267
         },
         {
-            "title": "Zipdev: Senior Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zipdev-senior-web-developer",
-            "date": 1770226819
-        },
-        {
-            "title": "Linkage Web Development: ASP.NET Developer (C#, MVC, SQL Server, JavaScript)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java",
-                "sql"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/linkage-web-development-asp-net-developer-c-mvc-sql-server-javascript",
-            "date": 1770226819
-        },
-        {
-            "title": "Anexia Internetdienstleistungs: QA Engineer (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-qa-engineer-m-w-d",
-            "date": 1770226816
-        },
-        {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1358,15 +1355,15 @@
             "date": 1767789467
         },
         {
-            "title": "Speechify Inc: Software Engineer, iOS Core Product",
+            "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-            "date": 1752075311
+            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
+            "date": 1762937762
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
