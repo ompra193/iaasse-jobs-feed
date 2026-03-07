@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-07 18:17:13",
-    "total_jobs": 121,
+    "generated_at": "2026-03-08 00:04:14",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Intern Procurement",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-intern-procurement-wealthsimple-technologies-1130664",
+            "date": 1772834419
+        },
+        {
+            "title": "Lead Native Android Developer LATAM Workstate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-native-android-developer-latam-workstate-workstate-1130663",
+            "date": 1772834411
+        },
+        {
+            "title": "AI Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-product-manager-tether-operations-limited-1130662",
+            "date": 1772834403
+        },
         {
             "title": "Senior Manager Platform Architecture",
             "company": "RemoteOK",
@@ -1066,37 +1101,37 @@
             "date": 1771855208
         },
         {
-            "title": "Social Media Strategist",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Senior Directory Infrastructure engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-strategist-sociallyin-1130503",
-            "date": 1771855204
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-directory-infrastructure-engineer",
+            "date": 1770762045
         },
         {
-            "title": "Strategic Live Casino Manager",
-            "company": "RemoteOK",
+            "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategic-live-casino-manager-arrise-1130502",
-            "date": 1771826420
+            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-2",
+            "date": 1770741624
         },
         {
-            "title": "Implementation Specialist",
-            "company": "RemoteOK",
+            "title": "Hatch Innovations Canada: Full Stack Web Developer - Electronic Arts [EA260130]",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-nest-veterinary-1130501",
-            "date": 1771826414
+            "link": "https://weworkremotely.com/remote-jobs/hatch-innovations-canada-full-stack-web-developer-electronic-arts-ea260130",
+            "date": 1770741624
         },
         {
             "title": "AHU Technologies: QA/Scrum Master",
@@ -1119,17 +1154,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl",
             "date": 1770741624
-        },
-        {
-            "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-1",
-            "date": 1770658841
         },
         {
             "title": "Smartbug Media: HubSpot Developer",
@@ -1306,50 +1330,6 @@
             "date": 1770321438
         },
         {
-            "title": "Anexia Internetdienstleistungs: 2Nd Level Support - Virtualization Stack (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-2nd-level-support-virtualization-stack-m-w-d",
-            "date": 1770310818
-        },
-        {
-            "title": "Engineering Comfort Solutions: Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/engineering-comfort-solutions-web-developer",
-            "date": 1770310818
-        },
-        {
-            "title": "Gentia: Estrategista Comercial (Inside Sales)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/gentia-estrategista-comercial-inside-sales",
-            "date": 1770310818
-        },
-        {
-            "title": "Startupz.com: Front End Developer (HTML & CSS)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/startupz-com-front-end-developer-html-css",
-            "date": 1770310818
-        },
-        {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1370,6 +1350,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
             "date": 1762937762
+        },
+        {
+            "title": "Mobena: Frontend Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
+            "date": 1747425814
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
