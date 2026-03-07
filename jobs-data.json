@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-07 00:15:36",
-    "total_jobs": 120,
+    "generated_at": "2026-03-07 07:27:12",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-analyst-velir-1130650",
+            "date": 1772773228
+        },
+        {
+            "title": "Staff Full Stack Engineer Contacts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-full-stack-engineer-contacts-calendly-1130649",
+            "date": 1772773214
+        },
+        {
+            "title": "UX UI Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-the-real-deal-1130648",
+            "date": 1772770481
+        },
+        {
+            "title": "Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-accountant-hologram-1130647",
+            "date": 1772762407
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-accountant-1uphealth-1130646",
+            "date": 1772758805
+        },
         {
             "title": "Senior Software Engineer React",
             "company": "RemoteOK",
@@ -1044,53 +1101,15 @@
             "date": 1771740004
         },
         {
-            "title": "Nurse Practitioner Physician Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "nurse"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-nurse-practitioner-physician-assistant-ennoble-care-1130491",
-            "date": 1771711209
-        },
-        {
-            "title": "Data Analyst II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-ii-computercare-1130490",
-            "date": 1771696801
-        },
-        {
-            "title": "Talent Acquisition Partner",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: QA/Scrum Master",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-partner-vcluster-labs-1130489",
-            "date": 1771682407
-        },
-        {
-            "title": "Vice President of Engagement Transformation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-engagement-transformation-solera-health-1130487",
-            "date": 1771653682
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-qa-scrum-master",
+            "date": 1770741624
         },
         {
             "title": "AHU Technologies: Network Engineer - Tallahassee, FL",
@@ -1331,17 +1350,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/startupz-com-front-end-developer-html-css",
             "date": 1770310818
-        },
-        {
-            "title": "Uncanny Owl: WordPress Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer",
-            "date": 1770242267
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
