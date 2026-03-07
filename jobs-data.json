@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-07 12:10:52",
+    "generated_at": "2026-03-07 18:17:13",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Manager Platform Architecture",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-platform-architecture-temporal-technologies-1130656",
+            "date": 1772805615
+        },
+        {
+            "title": "Jr Social Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-jr-social-media-manager-keywords-studios-1130655",
+            "date": 1772805604
+        },
+        {
+            "title": "Forward Deployed Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-runpod-inc-1130654",
+            "date": 1772802006
+        },
         {
             "title": "Backend Developer",
             "company": "RemoteOK",
@@ -1064,41 +1097,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-nest-veterinary-1130501",
             "date": 1771826414
-        },
-        {
-            "title": "PointClickCare Associate Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pointclickcare-associate-data-scientist-pointclickcare-1130500",
-            "date": 1771826407
-        },
-        {
-            "title": "Dentist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-dentist-akicita-federal-llc-1130499",
-            "date": 1771797611
-        },
-        {
-            "title": "Senior Solutions Engineer North East",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-solutions-engineer-north-east-okta-inc-1130498",
-            "date": 1771797604
         },
         {
             "title": "AHU Technologies: QA/Scrum Master",
