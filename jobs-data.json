@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-07 07:27:12",
+    "generated_at": "2026-03-07 12:10:52",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Backend Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-backend-developer-autods-1130651",
+            "date": 1772784012
+        },
         {
             "title": "Senior Data Analyst",
             "company": "RemoteOK",
@@ -1088,17 +1099,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-solutions-engineer-north-east-okta-inc-1130498",
             "date": 1771797604
-        },
-        {
-            "title": "Product Manager Customer Care",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-customer-care-ryz-labs-1130495",
-            "date": 1771740004
         },
         {
             "title": "AHU Technologies: QA/Scrum Master",
