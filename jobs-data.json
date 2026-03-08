@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-08 18:19:44",
-    "total_jobs": 119,
+    "generated_at": "2026-03-09 00:04:53",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Engineering Manager Accelerator Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-accelerator-platform-anthropic-1130676",
+            "date": 1772910012
+        },
         {
             "title": "Senior DevOps Engineer",
             "company": "RemoteOK",
@@ -1092,6 +1103,111 @@
             "date": 1771963207
         },
         {
+            "title": "Varicent: Web Application Engineer (Remote - Mexico Only)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/varicent-web-application-engineer-remote-mexico-only",
+            "date": 1770934130
+        },
+        {
+            "title": "Agility Technologies: Web Developer (React/Angular|Responsive & Accessible Web Application)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/agility-technologies-web-developer-react-angular-responsive-accessible-web-application",
+            "date": 1770934130
+        },
+        {
+            "title": "Cyberpuerta: Frontend Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cyberpuerta-frontend-web-developer",
+            "date": 1770910838
+        },
+        {
+            "title": "Digital Resource: Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/digital-resource-web-developer",
+            "date": 1770910838
+        },
+        {
+            "title": "Steady Vision: Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/steady-vision-web-developer",
+            "date": 1770910838
+        },
+        {
+            "title": "Lemon.io: Senior Java Full-stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer",
+            "date": 1770901929
+        },
+        {
+            "title": "Proxify AB: Senior Next.js Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-5",
+            "date": 1770895112
+        },
+        {
+            "title": "Sanctuary Computer: Senior Data Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-data-engineer-1",
+            "date": 1770820166
+        },
+        {
+            "title": "Coin Market Cap: Senior Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coin-market-cap-senior-web-developer",
+            "date": 1770762045
+        },
+        {
             "title": "AHU Technologies: CNC Operator - King of Prussia, PA",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1240,98 +1356,6 @@
             "date": 1770413509
         },
         {
-            "title": "Anexia Internetdienstleistungs: Senior Network Automation Engineer (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-senior-network-automation-engineer-m-w-d",
-            "date": 1770393485
-        },
-        {
-            "title": "Publix Super Markets: SR. Sitecore Front End Web Developer - Publix.com (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/publix-super-markets-sr-sitecore-front-end-web-developer-publix-com-remote",
-            "date": 1770393485
-        },
-        {
-            "title": "Adoreal: Senior Web Developer - Figma & Webflow Expertise",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/adoreal-senior-web-developer-figma-webflow-expertise",
-            "date": 1770393485
-        },
-        {
-            "title": "ONeil Interactive: Digital Designer - Web & UI/UX",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/oneil-interactive-digital-designer-web-ui-ux",
-            "date": 1770393445
-        },
-        {
-            "title": "WeVote: Outreach Manager, Political Campaigns",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wevote-outreach-manager-political-campaigns",
-            "date": 1770393445
-        },
-        {
-            "title": "RealPage: QA Engineer III (Selenium/Playwright)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/realpage-qa-engineer-iii-selenium-playwright",
-            "date": 1770393445
-        },
-        {
-            "title": "GoFasti: Product Designer (UI/UX \u2013 Web Application)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/gofasti-product-designer-ui-ux-web-application",
-            "date": 1770393445
-        },
-        {
-            "title": "KOSATEC Empowering Global Innovation: Web Entwickler mit Schwerpunkt PHP (m/w/d)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/kosatec-empowering-global-innovation-web-entwickler-mit-schwerpunkt-php-m-w-d",
-            "date": 1770393445
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1352,19 +1376,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
             "date": 1747425814
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
