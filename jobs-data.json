@@ -1,8 +1,100 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-08 00:04:14",
-    "total_jobs": 120,
+    "generated_at": "2026-03-08 07:36:41",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-chownow-1130673",
+            "date": 1772863293
+        },
+        {
+            "title": "Associate Vice President Direct Mail Content",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-vice-president-direct-mail-content-missionwired-1130672",
+            "date": 1772863281
+        },
+        {
+            "title": "Staff Revenue Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-revenue-manager-wheelhouse-1130671",
+            "date": 1772863270
+        },
+        {
+            "title": "Senior Actuary Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-actuary-analyst-imagine-pediatrics-1130670",
+            "date": 1772863256
+        },
+        {
+            "title": "Product Manager of Integrated Care",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-of-integrated-care-sleep-doctor-1130669",
+            "date": 1772863247
+        },
+        {
+            "title": "Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-attune-1130668",
+            "date": 1772863235
+        },
+        {
+            "title": "Referral Coordinator Health Systems Partnerships",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-referral-coordinator-health-systems-partnerships-midi-health-1130667",
+            "date": 1772863220
+        },
+        {
+            "title": "Engineering Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-instride-health-1130666",
+            "date": 1772863208
+        },
         {
             "title": "Intern Procurement",
             "company": "RemoteOK",
@@ -631,17 +723,6 @@
             "date": 1772542802
         },
         {
-            "title": "Engineering Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-energyhub-1130596",
-            "date": 1772517669
-        },
-        {
             "title": "Senior Human Resources Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1011,94 +1092,15 @@
             "date": 1771963207
         },
         {
-            "title": "Deputy Editor Future Perfect",
-            "company": "RemoteOK",
+            "title": "Mole Street: Consultant",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-deputy-editor-future-perfect-vox-media-llc-1130520",
-            "date": 1771898406
-        },
-        {
-            "title": "Senior IT Systems Engineer Storage and Infrastructure",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-it-systems-engineer-storage-and-infrastructure-relativity-space-1130518",
-            "date": 1771894823
-        },
-        {
-            "title": "Senior Backend Engineer Content",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-content-onx-1130517",
-            "date": 1771894813
-        },
-        {
-            "title": "Senior Mobile iOS Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-mobile-ios-engineer-yassir-1130516",
-            "date": 1771894803
-        },
-        {
-            "title": "Software Engineer UI",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ui-brave-1130515",
-            "date": 1771869612
-        },
-        {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-wild-alaskan-company-1130506",
-            "date": 1771855224
-        },
-        {
-            "title": "Senior Media Director Performance Media",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-media-director-performance-media-unlock-health-1130505",
-            "date": 1771855214
-        },
-        {
-            "title": "Connectivity Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-connectivity-manager-agoda-1130504",
-            "date": 1771855208
+            "link": "https://weworkremotely.com/remote-jobs/mole-street-consultant",
+            "date": 1770762045
         },
         {
             "title": "AHU Technologies: Senior Directory Infrastructure engineer",
@@ -1317,17 +1319,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/kosatec-empowering-global-innovation-web-entwickler-mit-schwerpunkt-php-m-w-d",
             "date": 1770393445
-        },
-        {
-            "title": "Subscript: Software Engineer - Test",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/subscript-software-engineer-test",
-            "date": 1770321438
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
