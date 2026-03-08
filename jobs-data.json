@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-08 12:12:22",
+    "generated_at": "2026-03-08 18:19:44",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1092,6 +1092,17 @@
             "date": 1771963207
         },
         {
+            "title": "AHU Technologies: CNC Operator - King of Prussia, PA",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-cnc-operator-king-of-prussia-pa",
+            "date": 1770762045
+        },
+        {
             "title": "Mole Street: Consultant",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1319,17 +1330,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/kosatec-empowering-global-innovation-web-entwickler-mit-schwerpunkt-php-m-w-d",
             "date": 1770393445
-        },
-        {
-            "title": "Speechify Inc: Software Engineer, macOS Core Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product",
-            "date": 1767789467
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
