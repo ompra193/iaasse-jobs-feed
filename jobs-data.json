@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-09 00:04:53",
+    "generated_at": "2026-03-09 07:38:01",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Staff DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-crunchyroll-llc-1130679",
+            "date": 1772935219
+        },
+        {
+            "title": "Cloud Systems Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cloud-systems-engineer-accenture-federal-services-1130678",
+            "date": 1772935208
+        },
         {
             "title": "Engineering Manager Accelerator Platform",
             "company": "RemoteOK",
@@ -1081,26 +1105,17 @@
             "date": 1771968854
         },
         {
-            "title": "Subtitle Localization Specialist",
-            "company": "RemoteOK",
+            "title": "Akamai: Senior Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-subtitle-localization-specialist-tsmg-1130524",
-            "date": 1771966814
-        },
-        {
-            "title": "Senior Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-infuse-1130523",
-            "date": 1771963207
+            "link": "https://weworkremotely.com/remote-jobs/akamai-senior-software-engineer",
+            "date": 1770934130
         },
         {
             "title": "Varicent: Web Application Engineer (Remote - Mexico Only)",
@@ -1341,19 +1356,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-developer",
             "date": 1770635361
-        },
-        {
-            "title": "SKYCATCHFIRE: Senior Python Backend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/skycatchfire-senior-python-backend-developer",
-            "date": 1770413509
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
