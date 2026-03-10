@@ -1,8 +1,44 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-10 18:30:54",
+    "generated_at": "2026-03-11 00:18:42",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Python Django PostgreSQL and Vue.js",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python",
+                "sql"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-python-django-postgresql-and-vue-js-ghx-1130694",
+            "date": 1773100823
+        },
+        {
+            "title": "Head of Forward Deployment Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-forward-deployment-engineering-parloa-1130693",
+            "date": 1773100806
+        },
+        {
+            "title": "Customer Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-cofactr-1130692",
+            "date": 1773097206
+        },
         {
             "title": "Executive Brand Operations",
             "company": "RemoteOK",
@@ -1070,39 +1106,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-engineer-fronted-as-1130554",
             "date": 1772127700
-        },
-        {
-            "title": "Senior 3D Artist Monopoly GO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-3d-artist-monopoly-go-scopely-1130551",
-            "date": 1772089205
-        },
-        {
-            "title": "Senior User Experience Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-user-experience-designer-virtru-1130547",
-            "date": 1772078404
-        },
-        {
-            "title": "Product Designer Creators",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-creators-vrchat-1130544",
-            "date": 1772056819
         },
         {
             "title": "Akamai: Senior Software Engineer",
