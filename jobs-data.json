@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-10 12:20:59",
+    "generated_at": "2026-03-10 18:30:54",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Executive Brand Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-brand-operations-gate-1130691",
+            "date": 1773079202
+        },
+        {
+            "title": "Senior Python Backend Engineer Mission Critical",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-python-backend-engineer-mission-critical-amstar-curacao-1130690",
+            "date": 1773074068
+        },
+        {
+            "title": "Frontend Engineer II Core Product",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-ii-core-product-pulley-1130687",
+            "date": 1773068404
+        },
+        {
+            "title": "Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-exodus-movement-inc-1130686",
+            "date": 1773064805
+        },
+        {
+            "title": "Training & Assessment Assessor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-training-assessment-assessor-hunt-st-1130685",
+            "date": 1773064803
+        },
+        {
+            "title": "Product Operations Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-operations-lead-alpaca-1130684",
+            "date": 1773061207
+        },
         {
             "title": "Staff DevOps Engineer",
             "company": "RemoteOK",
@@ -1033,76 +1103,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-designer-creators-vrchat-1130544",
             "date": 1772056819
-        },
-        {
-            "title": "Global Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-global-administrative-assistant-crisp-recruit-1130543",
-            "date": 1772056804
-        },
-        {
-            "title": "Chief of Staff",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-garden3d-1130542",
-            "date": 1772054139
-        },
-        {
-            "title": "Senior Database Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-okta-inc-1130537",
-            "date": 1772028002
-        },
-        {
-            "title": "Senior Technical Program Manager Money Movement",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-program-manager-money-movement-human-interest-1130528",
-            "date": 1771992005
-        },
-        {
-            "title": "Senior Software Engineer Live",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-live-cast-ai-1130527",
-            "date": 1771970406
-        },
-        {
-            "title": "Senior Fullstack Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-fullstack-developer-kodify-media-group-1130526",
-            "date": 1771968854
         },
         {
             "title": "Akamai: Senior Software Engineer",
