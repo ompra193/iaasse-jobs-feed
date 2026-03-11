@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-11 18:30:31",
-    "total_jobs": 123,
+    "generated_at": "2026-03-12 00:23:25",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-omada-health-1130714",
+            "date": 1773180007
+        },
+        {
+            "title": "Territory Sales Representative Green Grass Southeast",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-representative-green-grass-southeast-trackman-a-s-1130713",
+            "date": 1773180004
+        },
         {
             "title": "Customer Service Representative Member Care",
             "company": "RemoteOK",
@@ -1121,26 +1143,54 @@
             "date": 1772334004
         },
         {
-            "title": "Engineering Manager International",
-            "company": "RemoteOK",
+            "title": "Yoko Co: Development Contractors (Full Stack, Front-End, Back-End)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "internship",
+            "employment": "contract",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-international-justworks-1130575",
-            "date": 1772305206
+            "link": "https://weworkremotely.com/remote-jobs/yoko-co-development-contractors-full-stack-front-end-back-end",
+            "date": 1771013205
         },
         {
-            "title": "Program Manager",
-            "company": "RemoteOK",
+            "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-program-manager-nava-1130574",
-            "date": 1772301601
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1",
+            "date": 1771000279
+        },
+        {
+            "title": "ORGA-SOFT: Senior Frontend Software Developer (m/w/d) - React, GraphQL & Progressive Web Apps (PWA)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/orga-soft-senior-frontend-software-developer-m-w-d-react-graphql-progressive-web-apps-pwa",
+            "date": 1770934135
+        },
+        {
+            "title": "EBG: PHP Web Application Developer (API)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ebg-php-web-application-developer-api",
+            "date": 1770934135
         },
         {
             "title": "WeVote: Donor Communications Specialist",
@@ -1358,42 +1408,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl",
             "date": 1770741624
-        },
-        {
-            "title": "Smartbug Media: HubSpot Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/smartbug-media-hubspot-developer",
-            "date": 1770658841
-        },
-        {
-            "title": "Leobit: Senior Ruby Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/leobit-senior-ruby-engineer",
-            "date": 1770658841
-        },
-        {
-            "title": "Codvo.ai: GIS Web Developer - Esri/React Specialist (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codvo-ai-gis-web-developer-esri-react-specialist-remote",
-            "date": 1770658841
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
