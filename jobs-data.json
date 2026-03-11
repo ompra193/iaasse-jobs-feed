@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-11 07:30:08",
+    "generated_at": "2026-03-11 12:24:17",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Director of Community",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-community-alx-africa-1130705",
+            "date": 1773144023
+        },
         {
             "title": "Data Scientist IV",
             "company": "RemoteOK",
@@ -1130,17 +1141,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565",
             "date": 1772240404
-        },
-        {
-            "title": "Growth Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-growth-engineer-bitmex-1130564",
-            "date": 1772222404
         },
         {
             "title": "Akamai: Senior Software Engineer",
