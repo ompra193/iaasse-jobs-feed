@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-11 12:24:17",
+    "generated_at": "2026-03-11 18:30:31",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Customer Service Representative Member Care",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-member-care-sidecar-health-1130711",
+            "date": 1773169204
+        },
+        {
+            "title": "Design Intern Summer 2026",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-design-intern-summer-2026-betterhelp-1130710",
+            "date": 1773158406
+        },
+        {
+            "title": "Restaurant Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-restaurant-account-manager-sharebite-1130709",
+            "date": 1773154806
+        },
+        {
+            "title": "Journeyperson Electrician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-journeyperson-electrician-rising-edge-group-1130708",
+            "date": 1773151217
+        },
+        {
+            "title": "Solutions Analytics Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-analytics-data-scientist-sentilink-1130707",
+            "date": 1773151211
+        },
         {
             "title": "Director of Community",
             "company": "RemoteOK",
@@ -1086,61 +1143,26 @@
             "date": 1772301601
         },
         {
-            "title": "AI Engineer I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-engineer-i-sezzle-1130573",
-            "date": 1772294410
-        },
-        {
-            "title": "Senior Backend Engineer Grafana k6 UK",
-            "company": "RemoteOK",
+            "title": "WeVote: Donor Communications Specialist",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-grafana-k6-uk-1130569",
-            "date": 1772276412
+            "link": "https://weworkremotely.com/remote-jobs/wevote-donor-communications-specialist",
+            "date": 1770934135
         },
         {
-            "title": "Technical Product Manager",
-            "company": "RemoteOK",
+            "title": "Cotiviti: Sdet",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-arize-ai-1130568",
-            "date": 1772254820
-        },
-        {
-            "title": "Middle Project Manager Internal Systems and Processes",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-middle-project-manager-internal-systems-and-processes-infuse-1130567",
-            "date": 1772254804
-        },
-        {
-            "title": "Early Career Software Engineer Warfighter Systems",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-early-career-software-engineer-warfighter-systems-anduril-industries-1130565",
-            "date": 1772240404
+            "link": "https://weworkremotely.com/remote-jobs/cotiviti-sdet-1",
+            "date": 1770934130
         },
         {
             "title": "Akamai: Senior Software Engineer",
@@ -1372,28 +1394,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codvo-ai-gis-web-developer-esri-react-specialist-remote",
             "date": 1770658841
-        },
-        {
-            "title": "RebelCode: Software Engineer (WordPress Developer)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/rebelcode-software-engineer-wordpress-developer",
-            "date": 1770638963
-        },
-        {
-            "title": "OnTheGoSystems: Senior RoR Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ror-developer",
-            "date": 1770635361
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
