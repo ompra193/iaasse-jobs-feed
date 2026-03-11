@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-11 00:18:42",
-    "total_jobs": 120,
+    "generated_at": "2026-03-11 07:30:08",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Data Scientist IV",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-iv-goguardian-1130703",
+            "date": 1773122474
+        },
+        {
+            "title": "Senior Sales Engineer Majors West",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-majors-west-datadog-1130702",
+            "date": 1773122464
+        },
+        {
+            "title": "Director Product Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-product-management-orasure-technologies-inc-1130701",
+            "date": 1773122456
+        },
+        {
+            "title": "Senior Configuration Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-configuration-analyst-gravie-1130700",
+            "date": 1773122449
+        },
+        {
+            "title": "Manager Strategic Partnerships",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-strategic-partnerships-mural-health-1130699",
+            "date": 1773122442
+        },
+        {
+            "title": "Staff Automation Engineer Internal Audit",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-automation-engineer-internal-audit-ionq-1130698",
+            "date": 1773122427
+        },
+        {
+            "title": "Temp Clinical Product Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-temp-clinical-product-lead-headspace-1130697",
+            "date": 1773122418
+        },
+        {
+            "title": "Security Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-intern-ezcater-inc-1130696",
+            "date": 1773122406
+        },
+        {
+            "title": "Rigging Technical Artist NBA 2K",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-rigging-technical-artist-nba-2k-2k-1130695",
+            "date": 1773115213
+        },
         {
             "title": "Senior Software Engineer Python Django PostgreSQL and Vue.js",
             "company": "RemoteOK",
@@ -1040,72 +1141,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-growth-engineer-bitmex-1130564",
             "date": 1772222404
-        },
-        {
-            "title": "Senior Software Engineer Prime",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prime-alpaca-1130563",
-            "date": 1772200807
-        },
-        {
-            "title": "Technical Writer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-allen-control-systems-1130562",
-            "date": 1772197205
-        },
-        {
-            "title": "Senior Facial Character TD",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-facial-character-td-insomniac-games-1130560",
-            "date": 1772190004
-        },
-        {
-            "title": "Social Media Video Creator Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-video-creator-intern-cathoven-1130559",
-            "date": 1772168414
-        },
-        {
-            "title": "Senior Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-nansen-ai-1130555",
-            "date": 1772128806
-        },
-        {
-            "title": "Product Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-engineer-fronted-as-1130554",
-            "date": 1772127700
         },
         {
             "title": "Akamai: Senior Software Engineer",
