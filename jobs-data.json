@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-12 12:26:35",
+    "generated_at": "2026-03-12 18:30:16",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Assistant Pricing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-pricing-manager-restaurant-supply-1130724",
+            "date": 1773237611
+        },
         {
             "title": "AI Training for Igbo Writers",
             "company": "RemoteOK",
@@ -1133,18 +1146,17 @@
             "date": 1772546403
         },
         {
-            "title": "Virtual Assistant Admin Social Media &amp; Brand Support for Luxury Jewelry Retail",
-            "company": "RemoteOK",
+            "title": "Blockchain & Climate Institute: UNPAID VOLUNTEER - Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai",
-                "assistant"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-admin-social-media-amp-brand-support-for-luxury-jewelry-retail-assist-world-1130597",
-            "date": 1772542802
+            "link": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-unpaid-volunteer-web-developer",
+            "date": 1771020099
         },
         {
             "title": "Yoko Co: Development Contractors (Full Stack, Front-End, Back-End)",
@@ -1412,17 +1424,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl",
             "date": 1770741624
-        },
-        {
-            "title": "CodeSignal: Software Engineer, Business Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
-            "date": 1762937762
         },
         {
             "title": "Mobena: Frontend Engineer",
