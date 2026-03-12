@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-12 07:36:29",
-    "total_jobs": 123,
+    "generated_at": "2026-03-12 12:26:35",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "AI Training for Igbo Writers",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-training-for-igbo-writers-remotasks-1130723",
+            "date": 1773230404
+        },
         {
             "title": "Staff Threat Intelligence Researcher",
             "company": "RemoteOK",
