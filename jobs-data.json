@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-12 00:23:25",
-    "total_jobs": 124,
+    "generated_at": "2026-03-12 07:36:29",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Staff Threat Intelligence Researcher",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-threat-intelligence-researcher-lookout-inc-1130722",
+            "date": 1773208826
+        },
+        {
+            "title": "CHW Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chw-manager-zocalo-health-1130721",
+            "date": 1773208808
+        },
+        {
+            "title": "Lead Level Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-level-designer-eleventh-hour-games-1130720",
+            "date": 1773201645
+        },
+        {
+            "title": "Senior Level Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-eleventh-hour-games-1130719",
+            "date": 1773201635
+        },
+        {
+            "title": "Narrative and World Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-narrative-and-world-lead-eleventh-hour-games-1130718",
+            "date": 1773201625
+        },
+        {
+            "title": "Procurement Specialist Hardware",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-hardware-blueprint-1130717",
+            "date": 1773201612
+        },
+        {
+            "title": "Lead Animator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-animator-eleventh-hour-games-1130715",
+            "date": 1773198017
+        },
         {
             "title": "Senior Software Engineer",
             "company": "RemoteOK",
@@ -1053,94 +1132,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-admin-social-media-amp-brand-support-for-luxury-jewelry-retail-assist-world-1130597",
             "date": 1772542802
-        },
-        {
-            "title": "Senior Human Resources Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-human-resources-manager-flatiron-energy-1130595",
-            "date": 1772517653
-        },
-        {
-            "title": "Inbound Sales Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-inbound-sales-agent-storage360-1130594",
-            "date": 1772517642
-        },
-        {
-            "title": "Director Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-sales-parachute-health-1130593",
-            "date": 1772517631
-        },
-        {
-            "title": "Account Executive Alcohol",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-alcohol-swiftly-1130592",
-            "date": 1772517621
-        },
-        {
-            "title": "Associate Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-investorflow-1130591",
-            "date": 1772517613
-        },
-        {
-            "title": "Sales Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-account-executive-rewards-network-1130590",
-            "date": 1772517606
-        },
-        {
-            "title": "Junior Live Ops Game Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-live-ops-game-designer-a-thinking-ape-1130577",
-            "date": 1772334014
-        },
-        {
-            "title": "Senior Game Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-game-designer-mob-entertainment-1130576",
-            "date": 1772334004
         },
         {
             "title": "Yoko Co: Development Contractors (Full Stack, Front-End, Back-End)",
