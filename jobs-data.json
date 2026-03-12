@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-12 18:30:16",
+    "generated_at": "2026-03-13 00:24:26",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Infrastructure Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-infrastructure-manager-andromeda-cluster-1130725",
+            "date": 1773266403
+        },
         {
             "title": "Assistant Pricing Manager",
             "company": "RemoteOK",
@@ -1135,15 +1146,54 @@
             "date": 1772546413
         },
         {
-            "title": "Freelance Creative Operations",
-            "company": "RemoteOK",
+            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "contract",
+            "employment": "full-time",
+            "skills": [
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-2",
+            "date": 1771240395
+        },
+        {
+            "title": "Proxify AB: Senior Fullstack Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2",
+            "date": 1771240286
+        },
+        {
+            "title": "Dusk Labs: Test Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-creative-operations-shook-1130598",
-            "date": 1772546403
+            "link": "https://weworkremotely.com/remote-jobs/dusk-labs-test-engineer",
+            "date": 1771219671
+        },
+        {
+            "title": "ALIQAN Technologies: Data Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-data-engineer",
+            "date": 1771020099
         },
         {
             "title": "Blockchain & Climate Institute: UNPAID VOLUNTEER - Web Developer",
@@ -1380,50 +1430,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-directory-infrastructure-engineer",
             "date": 1770762045
-        },
-        {
-            "title": "Everest Clinical Research: Clinical Trial Web Application Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-clinical-trial-web-application-developer-2",
-            "date": 1770741624
-        },
-        {
-            "title": "Hatch Innovations Canada: Full Stack Web Developer - Electronic Arts [EA260130]",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hatch-innovations-canada-full-stack-web-developer-electronic-arts-ea260130",
-            "date": 1770741624
-        },
-        {
-            "title": "AHU Technologies: QA/Scrum Master",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-qa-scrum-master",
-            "date": 1770741624
-        },
-        {
-            "title": "AHU Technologies: Network Engineer - Tallahassee, FL",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-network-engineer-tallahassee-fl",
-            "date": 1770741624
         },
         {
             "title": "Mobena: Frontend Engineer",
