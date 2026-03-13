@@ -1,8 +1,67 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-13 18:28:49",
+    "generated_at": "2026-03-14 00:12:34",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Senior Software Engineer Ruby on Rails",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ruby-on-rails-versapay-1130745",
+            "date": 1773356402
+        },
+        {
+            "title": "BPM LLP AI ML Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bpm-llp-ai-ml-engineer-bpm-llp-1130744",
+            "date": 1773352826
+        },
+        {
+            "title": "Work From Home Client Support Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-client-support-manager-global-elite-empire-consultants-1130743",
+            "date": 1773352818
+        },
+        {
+            "title": "Senior Software Engineer Karpenter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-karpenter-cast-ai-1130741",
+            "date": 1773342002
+        },
+        {
+            "title": "Senior Software Engineer Reporting",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-reporting-cast-ai-1130742",
+            "date": 1773342002
+        },
         {
             "title": "CFO",
             "company": "RemoteOK",
@@ -1085,65 +1144,15 @@
             "date": 1772593219
         },
         {
-            "title": "Contract Senior Gameplay Animator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-contract-senior-gameplay-animator-arenanet-1130619",
-            "date": 1772593206
-        },
-        {
-            "title": "AI Data Specialist Chinese Simplified",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-data-specialist-chinese-simplified-rws-trainai-1130618",
-            "date": 1772582440
-        },
-        {
-            "title": "AI Data Specialist Polish",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-data-specialist-polish-rws-trainai-1130617",
-            "date": 1772582421
-        },
-        {
-            "title": "Salesforce Administrator",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-administrator-givewell-1130616",
-            "date": 1772582412
-        },
-        {
-            "title": "Business Development Manager 3 months renewable",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-3-months-renewable-coin-market-cap-ltd-1130615",
-            "date": 1772582401
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-sr-project-manager-in-continuous-improvement-with-health-experience",
+            "date": 1771366798
         },
         {
             "title": "Magic: Web Development & Coding Specialist - Freelance, Remote",
@@ -1421,19 +1430,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-5",
             "date": 1770895112
-        },
-        {
-            "title": "Sanctuary Computer: Senior Data Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-data-engineer-1",
-            "date": 1770820166
         },
         {
             "title": "Proton.ai: Senior Backend Engineer",
