@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-13 12:24:18",
+    "generated_at": "2026-03-13 18:28:49",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "CFO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cfo-marathon-talent-1130739",
+            "date": 1773324015
+        },
+        {
+            "title": "Senior Backend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-pavago-1130738",
+            "date": 1773324009
+        },
+        {
+            "title": "UK Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-uk-support-specialist-substack-1130737",
+            "date": 1773324003
+        },
         {
             "title": "Human Resources Engagement Partner",
             "company": "RemoteOK",
@@ -1111,41 +1144,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-3-months-renewable-coin-market-cap-ltd-1130615",
             "date": 1772582401
-        },
-        {
-            "title": "Senior Frontend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-level-1130614",
-            "date": 1772580889
-        },
-        {
-            "title": "Technical Support Engineer EMEA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-emea-chainguard-1130613",
-            "date": 1772578817
-        },
-        {
-            "title": "Senior Engineering Manager Data Pipeline",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineering-manager-data-pipeline-bloomreach-1130612",
-            "date": 1772578808
         },
         {
             "title": "Magic: Web Development & Coding Specialist - Freelance, Remote",
