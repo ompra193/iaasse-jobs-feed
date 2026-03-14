@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-14 07:31:41",
+    "generated_at": "2026-03-14 12:15:49",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "AI Specialist Haitian Creole",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-specialist-haitian-creole-rws-trainai-1130752",
+            "date": 1773396002
+        },
         {
             "title": "CI&T 27985 Senior AI Engineer Brazil",
             "company": "RemoteOK",
@@ -1129,17 +1142,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-project-manager-cloud-migrations-and-partner-programs-striim-inc-1130629",
             "date": 1772604061
-        },
-        {
-            "title": "Senior Open Source Intelligence Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-open-source-intelligence-analyst-concentric-advisors-1130628",
-            "date": 1772604042
         },
         {
             "title": "AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience",
