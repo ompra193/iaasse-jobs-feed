@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-14 18:22:22",
+    "generated_at": "2026-03-15 00:08:38",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Principal VC & Startup Ecosystem Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-vc-startup-ecosystem-lead-ashby-1130762",
+            "date": 1773439203
+        },
+        {
+            "title": "Senior Firmware Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-firmware-engineer-sanctuary-computer-1130761",
+            "date": 1773432107
+        },
         {
             "title": "Full Stack Developer",
             "company": "RemoteOK",
@@ -1124,28 +1146,28 @@
             "date": 1772669594
         },
         {
-            "title": "DevOps Engineer",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Business Analyst- Chicago, IL",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-devops-engineer-memx-1130637",
-            "date": 1772665205
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-business-analyst-chicago-il",
+            "date": 1771452057
         },
         {
-            "title": "Lab Technician",
-            "company": "RemoteOK",
+            "title": "BHFT: Market Data Engineering Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "technician"
+                "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lab-technician-iceye-1130636",
-            "date": 1772661604
+            "link": "https://weworkremotely.com/remote-jobs/bhft-market-data-engineering-manager",
+            "date": 1771433201
         },
         {
             "title": "Jobgether: Remote Website Developer",
@@ -1390,50 +1412,30 @@
             "date": 1770934130
         },
         {
-            "title": "Cyberpuerta: Frontend Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cyberpuerta-frontend-web-developer",
-            "date": 1770910838
-        },
-        {
-            "title": "Digital Resource: Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/digital-resource-web-developer",
-            "date": 1770910838
-        },
-        {
-            "title": "Steady Vision: Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/steady-vision-web-developer",
-            "date": 1770910838
-        },
-        {
-            "title": "Lemon.io: Senior Java Full-stack Developer",
+            "title": "Stellar AI: Senior Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "java"
+                "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer",
-            "date": 1770901929
+            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
+            "date": 1761075386
+        },
+        {
+            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+            "date": 1753281114
         },
         {
             "title": "Proton.ai: Senior Backend Engineer",
