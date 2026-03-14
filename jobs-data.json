@@ -1,8 +1,82 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-14 12:15:49",
+    "generated_at": "2026-03-14 18:22:22",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Full Stack Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-electe-s-r-l-1130760",
+            "date": 1773425725
+        },
+        {
+            "title": "Entry Level Crypto Market Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-elemental-terra-1130759",
+            "date": 1773411780
+        },
+        {
+            "title": "Senior Developer Experience Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-developer-experience-engineer-galaxy-1130758",
+            "date": 1773410437
+        },
+        {
+            "title": "Cloud Security Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cloud-security-architect-altium-1130757",
+            "date": 1773410411
+        },
+        {
+            "title": "Go To Market Strategist AI Trainer Freelance 8 20 hrs week",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-go-to-market-strategist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130756",
+            "date": 1773410409
+        },
+        {
+            "title": "Migration Specialist AI Trainer Freelance 8 20 hrs week",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-migration-specialist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130755",
+            "date": 1773410403
+        },
         {
             "title": "AI Specialist Haitian Creole",
             "company": "RemoteOK",
@@ -1074,19 +1148,19 @@
             "date": 1772661604
         },
         {
-            "title": "Senior Full Stack Engineer",
-            "company": "RemoteOK",
+            "title": "Jobgether: Remote Website Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-cybrid-1130635",
-            "date": 1772632821
+            "link": "https://weworkremotely.com/remote-jobs/jobgether-remote-website-developer",
+            "date": 1771366798
         },
         {
-            "title": "VP Data and Analytics",
-            "company": "RemoteOK",
+            "title": "Soltech: MDM Data Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1094,54 +1168,8 @@
                 "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-data-and-analytics-cobalt-service-partners-1130633",
-            "date": 1772604102
-        },
-        {
-            "title": "Growth Customer Success Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-growth-customer-success-lead-embrace-1130632",
-            "date": 1772604091
-        },
-        {
-            "title": "Senior Sales Enablement Program Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-enablement-program-manager-chownow-1130631",
-            "date": 1772604080
-        },
-        {
-            "title": "Relationship Manager Northeast",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-relationship-manager-northeast-palmetto-clean-technology-1130630",
-            "date": 1772604072
-        },
-        {
-            "title": "Project Manager Cloud Migrations and Partner Programs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-manager-cloud-migrations-and-partner-programs-striim-inc-1130629",
-            "date": 1772604061
+            "link": "https://weworkremotely.com/remote-jobs/soltech-mdm-data-engineer",
+            "date": 1771366798
         },
         {
             "title": "AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience",
@@ -1164,19 +1192,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/magic-web-development-coding-specialist-freelance-remote",
             "date": 1771366798
-        },
-        {
-            "title": "Shado Ventures: Senior ML Engineer - AI Document Intelligence (Remote, $15K Contract)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/shado-ventures-senior-ml-engineer-ai-document-intelligence-remote-15k-contract",
-            "date": 1771339021
         },
         {
             "title": "Dusk Labs: Security Engineer  - Research & Test",
@@ -1419,17 +1434,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-full-stack-developer",
             "date": 1770901929
-        },
-        {
-            "title": "Proxify AB: Senior Next.js Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-next-js-developer-5",
-            "date": 1770895112
         },
         {
             "title": "Proton.ai: Senior Backend Engineer",
