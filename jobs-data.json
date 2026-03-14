@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-14 00:12:34",
+    "generated_at": "2026-03-14 07:31:41",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "CI&T 27985 Senior AI Engineer Brazil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cit-27985-senior-ai-engineer-brazil-cit-1130751",
+            "date": 1773381615
+        },
+        {
+            "title": "Client Partner Enterprise Platform Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-partner-enterprise-platform-sales-aera-technology-1130750",
+            "date": 1773381604
+        },
+        {
+            "title": "Lead 3D Environment Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-3d-environment-artist-eleventh-hour-games-1130749",
+            "date": 1773374408
+        },
+        {
+            "title": "Principal 3D Character Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-3d-character-artist-eleventh-hour-games-1130748",
+            "date": 1773370806
+        },
+        {
+            "title": "Senior IT Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-it-project-manager-precision-medicine-group-1130747",
+            "date": 1773367206
+        },
+        {
+            "title": "Technical Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-launchbrightly-1130746",
+            "date": 1773364592
+        },
         {
             "title": "Senior Software Engineer Ruby on Rails",
             "company": "RemoteOK",
@@ -1072,76 +1140,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-open-source-intelligence-analyst-concentric-advisors-1130628",
             "date": 1772604042
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-pomelo-care-1130627",
-            "date": 1772604029
-        },
-        {
-            "title": "Senior Cloud Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-engineer-kunai-1130626",
-            "date": 1772604017
-        },
-        {
-            "title": "Loan Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-loan-officer-figure-1130625",
-            "date": 1772604008
-        },
-        {
-            "title": "Senior Sound Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sound-designer-eleventh-hour-games-1130624",
-            "date": 1772596826
-        },
-        {
-            "title": "Lead VFX Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-vfx-artist-eleventh-hour-games-1130623",
-            "date": 1772596812
-        },
-        {
-            "title": "Cloud Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-architect-accenture-federal-services-1130620",
-            "date": 1772593219
         },
         {
             "title": "AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience",
