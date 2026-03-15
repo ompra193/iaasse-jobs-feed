@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-15 18:23:32",
-    "total_jobs": 123,
+    "generated_at": "2026-03-16 00:08:59",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "VP Corporate Marketing Brand & Communications",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-corporate-marketing-brand-communications-blackpoint-cyber-1130780",
+            "date": 1773525604
+        },
+        {
+            "title": "Engineering Manager Workload Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-workload-management-graphcore-1130779",
+            "date": 1773514803
+        },
         {
             "title": "C C++ Linux developer",
             "company": "RemoteOK",
@@ -1102,39 +1124,15 @@
             "date": 1772863208
         },
         {
-            "title": "Intern Procurement",
-            "company": "RemoteOK",
+            "title": "Media Cause: Front-End Website Developer (Contract / Freelance)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "internship",
+            "employment": "contract",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-intern-procurement-wealthsimple-technologies-1130664",
-            "date": 1772834419
-        },
-        {
-            "title": "Lead Native Android Developer LATAM Workstate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-native-android-developer-latam-workstate-workstate-1130663",
-            "date": 1772834411
-        },
-        {
-            "title": "AI Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-product-manager-tether-operations-limited-1130662",
-            "date": 1772834403
+            "link": "https://weworkremotely.com/remote-jobs/media-cause-front-end-website-developer-contract-freelance",
+            "date": 1771517154
         },
         {
             "title": "The Global Talent Co.: Marketing Web Developer",
@@ -1386,19 +1384,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yoko-co-development-contractors-full-stack-front-end-back-end",
             "date": 1771013205
-        },
-        {
-            "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-1",
-            "date": 1771000279
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
