@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-16 18:42:53",
+    "generated_at": "2026-03-17 00:31:22",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Sales Engineer Data & AI Security",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-data-ai-security-veeam-software-1130787",
+            "date": 1773612007
+        },
         {
             "title": "Electrical Engineer",
             "company": "RemoteOK",
@@ -1091,17 +1105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-staff-revenue-manager-wheelhouse-1130671",
             "date": 1772863270
-        },
-        {
-            "title": "Senior Actuary Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-actuary-analyst-imagine-pediatrics-1130670",
-            "date": 1772863256
         },
         {
             "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
