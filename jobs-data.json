@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-16 00:08:59",
-    "total_jobs": 122,
+    "generated_at": "2026-03-16 07:57:42",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Data Center Site Start Up Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-center-site-start-up-manager-serverfarm-1130785",
+            "date": 1773554404
+        },
+        {
+            "title": "Staff DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-life360-1130783",
+            "date": 1773543604
+        },
         {
             "title": "VP Corporate Marketing Brand & Communications",
             "company": "RemoteOK",
@@ -997,17 +1021,6 @@
             "date": 1773061207
         },
         {
-            "title": "Staff DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-crunchyroll-llc-1130679",
-            "date": 1772935219
-        },
-        {
             "title": "Cloud Systems Engineer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1089,8 +1102,8 @@
             "date": 1772863247
         },
         {
-            "title": "Data Scientist",
-            "company": "RemoteOK",
+            "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1098,30 +1111,30 @@
                 "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-attune-1130668",
-            "date": 1772863235
+            "link": "https://weworkremotely.com/remote-jobs/netflix-data-scientist-l5-content-promotion-discovery-performance",
+            "date": 1771537660
         },
         {
-            "title": "Referral Coordinator Health Systems Partnerships",
-            "company": "RemoteOK",
+            "title": "Mozilla: Senior Software Engineer (Localization)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-referral-coordinator-health-systems-partnerships-midi-health-1130667",
-            "date": 1772863220
+            "link": "https://weworkremotely.com/remote-jobs/mozilla-senior-software-engineer-localization",
+            "date": 1771536971
         },
         {
-            "title": "Engineering Manager",
-            "company": "RemoteOK",
+            "title": "Mendix: Enterprise Account Executive \u2013 Mendix + RapidMiner  - Automotive",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-instride-health-1130666",
-            "date": 1772863208
+            "link": "https://weworkremotely.com/remote-jobs/mendix-enterprise-account-executive-mendix-rapidminer-automotive",
+            "date": 1771517154
         },
         {
             "title": "Media Cause: Front-End Website Developer (Contract / Freelance)",
@@ -1347,43 +1360,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dusk-labs-test-engineer",
             "date": 1771219671
-        },
-        {
-            "title": "ALIQAN Technologies: Data Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-data-engineer",
-            "date": 1771020099
-        },
-        {
-            "title": "Blockchain & Climate Institute: UNPAID VOLUNTEER - Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/blockchain-climate-institute-unpaid-volunteer-web-developer",
-            "date": 1771020099
-        },
-        {
-            "title": "Yoko Co: Development Contractors (Full Stack, Front-End, Back-End)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yoko-co-development-contractors-full-stack-front-end-back-end",
-            "date": 1771013205
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
