@@ -1,8 +1,110 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-17 18:42:32",
+    "generated_at": "2026-03-18 00:32:02",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Strategic Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-strategic-support-specialist-datacor-1130803",
+            "date": 1773709247
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-datacor-1130802",
+            "date": 1773709239
+        },
+        {
+            "title": "Technical Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-ping-identity-1130801",
+            "date": 1773709229
+        },
+        {
+            "title": "Senior Software Engineer Identity",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-identity-peregrine-technologies-1130800",
+            "date": 1773709215
+        },
+        {
+            "title": "DevOps Database Assistant Vice President",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devops-database-assistant-vice-president-icapital-1130799",
+            "date": 1773709204
+        },
+        {
+            "title": "Senior Design Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-design-engineer-loancrate-1130798",
+            "date": 1773703106
+        },
+        {
+            "title": "Senior Platform Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-loancrate-1130797",
+            "date": 1773699409
+        },
+        {
+            "title": "Senior Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-loancrate-1130795",
+            "date": 1773690798
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-loancrate-1130794",
+            "date": 1773688973
+        },
         {
             "title": "Senior Sales Systems Engineer",
             "company": "RemoteOK",
@@ -786,17 +888,6 @@
             "date": 1773198017
         },
         {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-omada-health-1130714",
-            "date": 1773180007
-        },
-        {
             "title": "Territory Sales Representative Green Grass Southeast",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1011,100 +1102,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-cofactr-1130692",
             "date": 1773097206
-        },
-        {
-            "title": "Executive Brand Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-brand-operations-gate-1130691",
-            "date": 1773079202
-        },
-        {
-            "title": "Senior Python Backend Engineer Mission Critical",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-python-backend-engineer-mission-critical-amstar-curacao-1130690",
-            "date": 1773074068
-        },
-        {
-            "title": "Frontend Engineer II Core Product",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-ii-core-product-pulley-1130687",
-            "date": 1773068404
-        },
-        {
-            "title": "Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-exodus-movement-inc-1130686",
-            "date": 1773064805
-        },
-        {
-            "title": "Training & Assessment Assessor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-training-assessment-assessor-hunt-st-1130685",
-            "date": 1773064803
-        },
-        {
-            "title": "Product Operations Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-operations-lead-alpaca-1130684",
-            "date": 1773061207
-        },
-        {
-            "title": "Cloud Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-systems-engineer-accenture-federal-services-1130678",
-            "date": 1772935208
-        },
-        {
-            "title": "Engineering Manager Accelerator Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-accelerator-platform-anthropic-1130676",
-            "date": 1772910012
         },
         {
             "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
