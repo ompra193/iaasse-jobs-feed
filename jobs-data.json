@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-17 00:31:22",
+    "generated_at": "2026-03-17 07:36:45",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Benefits Advisor Leadership Training Program",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-benefits-advisor-leadership-training-program-fisher-agencies-1130788",
+            "date": 1773640803
+        },
         {
             "title": "Senior Sales Engineer Data & AI Security",
             "company": "RemoteOK",
@@ -1094,17 +1107,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-associate-vice-president-direct-mail-content-missionwired-1130672",
             "date": 1772863281
-        },
-        {
-            "title": "Staff Revenue Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-revenue-manager-wheelhouse-1130671",
-            "date": 1772863270
         },
         {
             "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
