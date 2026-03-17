@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-17 12:34:38",
+    "generated_at": "2026-03-17 18:42:32",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Sales Systems Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-systems-engineer-veeam-software-1130793",
+            "date": 1773684004
+        },
+        {
+            "title": "Lead Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-circle-so-1130791",
+            "date": 1773680404
+        },
         {
             "title": "Benefits Advisor Leadership Training Program",
             "company": "RemoteOK",
@@ -1083,30 +1105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-accelerator-platform-anthropic-1130676",
             "date": 1772910012
-        },
-        {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-chownow-1130673",
-            "date": 1772863293
-        },
-        {
-            "title": "Associate Vice President Direct Mail Content",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-vice-president-direct-mail-content-missionwired-1130672",
-            "date": 1772863281
         },
         {
             "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
