@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-18 18:42:31",
+    "generated_at": "2026-03-19 00:29:10",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "AD Vehicle Integration Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ad-vehicle-integration-manager-moia-1130812",
+            "date": 1773788417
+        },
+        {
+            "title": "V&V Specialist V&V Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vv-specialist-vv-manager-moia-1130811",
+            "date": 1773788405
+        },
+        {
+            "title": "Junior Crypto Analyst & Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-begini-1130809",
+            "date": 1773783069
+        },
         {
             "title": "Chief Software Engineer Head of Edge Systems & Fleet Management",
             "company": "RemoteOK",
@@ -1057,37 +1090,15 @@
             "date": 1773122427
         },
         {
-            "title": "Temp Clinical Product Lead",
-            "company": "RemoteOK",
+            "title": "Betu: Front End Web Developer - BetU",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-temp-clinical-product-lead-headspace-1130697",
-            "date": 1773122418
-        },
-        {
-            "title": "Security Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-intern-ezcater-inc-1130696",
-            "date": 1773122406
-        },
-        {
-            "title": "Rigging Technical Artist NBA 2K",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-rigging-technical-artist-nba-2k-2k-1130695",
-            "date": 1773115213
+            "link": "https://weworkremotely.com/remote-jobs/betu-front-end-web-developer-betu",
+            "date": 1771627300
         },
         {
             "title": "WeVote: Director of Outreach",
@@ -1134,30 +1145,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-technical-project-manager-atlanta-ga",
             "date": 1771603666
-        },
-        {
-            "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/netflix-data-scientist-l5-content-promotion-discovery-performance",
-            "date": 1771537660
-        },
-        {
-            "title": "Mozilla: Senior Software Engineer (Localization)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mozilla-senior-software-engineer-localization",
-            "date": 1771536971
         },
         {
             "title": "Mendix: Enterprise Account Executive \u2013 Mendix + RapidMiner  - Automotive",
@@ -1344,6 +1331,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dusk-labs-security-engineer-research-test",
             "date": 1771270548
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
+            "date": 1769089549
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
