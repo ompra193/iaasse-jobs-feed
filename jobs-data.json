@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-18 07:40:40",
+    "generated_at": "2026-03-18 12:32:20",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Chief Software Engineer Head of Edge Systems & Fleet Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-software-engineer-head-of-edge-systems-fleet-management-anduril-industries-1130806",
+            "date": 1773741615
+        },
         {
             "title": "Customer Support Agent",
             "company": "RemoteOK",
@@ -1079,18 +1090,15 @@
             "date": 1773115213
         },
         {
-            "title": "Senior Software Engineer Python Django PostgreSQL and Vue.js",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Technical Project Manager - Atlanta, GA",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "python",
-                "sql"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-python-django-postgresql-and-vue-js-ghx-1130694",
-            "date": 1773100823
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-technical-project-manager-atlanta-ga",
+            "date": 1771603666
         },
         {
             "title": "Netflix : Data Scientist (L5) - Content Promotion & Discovery Performance",
@@ -1340,17 +1348,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2",
             "date": 1771240286
-        },
-        {
-            "title": "Dusk Labs: Test Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dusk-labs-test-engineer",
-            "date": 1771219671
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
