@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-18 12:32:20",
+    "generated_at": "2026-03-18 18:42:31",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1090,6 +1090,41 @@
             "date": 1773115213
         },
         {
+            "title": "WeVote: Director of Outreach",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wevote-director-of-outreach",
+            "date": 1771627299
+        },
+        {
+            "title": "TKO: Intern - Product Management (Web Applications), On Location",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/tko-intern-product-management-web-applications-on-location",
+            "date": 1771627299
+        },
+        {
+            "title": "AHU Technologies: Senior Trainer  DC",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-trainer-dc",
+            "date": 1771603666
+        },
+        {
             "title": "AHU Technologies: Technical Project Manager - Atlanta, GA",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1309,45 +1344,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dusk-labs-security-engineer-research-test",
             "date": 1771270548
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-7",
-            "date": 1771240639
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-2",
-            "date": 1771240395
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-2",
-            "date": 1771240286
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
