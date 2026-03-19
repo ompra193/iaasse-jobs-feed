@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-19 00:29:10",
+    "generated_at": "2026-03-19 07:41:41",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Product Manager AI Products",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-ai-products-boostlingo-1130815",
+            "date": 1773813610
+        },
+        {
+            "title": "SaaS Platform Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-saas-platform-architect-legion-1130814",
+            "date": 1773802805
+        },
         {
             "title": "AD Vehicle Integration Manager",
             "company": "RemoteOK",
@@ -1068,26 +1092,28 @@
             "date": 1773122449
         },
         {
-            "title": "Manager Strategic Partnerships",
-            "company": "RemoteOK",
+            "title": "Miratech: Testing / QA Lead (IVR & Web Applications)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/miratech-testing-qa-lead-ivr-web-applications",
+            "date": 1771862455
+        },
+        {
+            "title": "Summedd: Full Stack Engineer with AI Coding expertise for SaaS Platform",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-strategic-partnerships-mural-health-1130699",
-            "date": 1773122442
-        },
-        {
-            "title": "Staff Automation Engineer Internal Audit",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-automation-engineer-internal-audit-ionq-1130698",
-            "date": 1773122427
+            "link": "https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform",
+            "date": 1771733914
         },
         {
             "title": "Betu: Front End Web Developer - BetU",
@@ -1322,17 +1348,6 @@
             "date": 1771366798
         },
         {
-            "title": "Dusk Labs: Security Engineer  - Research & Test",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dusk-labs-security-engineer-research-test",
-            "date": 1771270548
-        },
-        {
             "title": "Sticker Mule: Software engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1368,19 +1383,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
-        },
-        {
-            "title": "Proton.ai: Senior Backend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proton-ai-senior-backend-engineer",
-            "date": 1737590397
         }
     ]
 }
