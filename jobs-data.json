@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-19 12:28:43",
+    "generated_at": "2026-03-19 18:35:11",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Developer Advocate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-developer-advocate-shotstack-1130818",
+            "date": 1773849425
+        },
+        {
+            "title": "Software Engineer Reliability",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-reliability-openai-1130817",
+            "date": 1773842406
+        },
         {
             "title": "Senior Product Manager AI Products",
             "company": "RemoteOK",
@@ -1068,28 +1090,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-majors-west-datadog-1130702",
             "date": 1773122464
-        },
-        {
-            "title": "Director Product Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-product-management-orasure-technologies-inc-1130701",
-            "date": 1773122456
-        },
-        {
-            "title": "Senior Configuration Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-configuration-analyst-gravie-1130700",
-            "date": 1773122449
         },
         {
             "title": "Miratech: Testing / QA Lead (IVR & Web Applications)",
