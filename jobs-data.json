@@ -1,8 +1,89 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-19 18:35:11",
+    "generated_at": "2026-03-20 00:29:07",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Director MedEcon",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-medecon-waymark-1130825",
+            "date": 1773871267
+        },
+        {
+            "title": "Data Scientist Subscriptions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-subscriptions-spotify-1130824",
+            "date": 1773871257
+        },
+        {
+            "title": "Junior Manual QA Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823",
+            "date": 1773871248
+        },
+        {
+            "title": "Customer Service Booking Hotels We Will Train You",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-booking-hotels-we-will-train-you-destination-knot-1130822",
+            "date": 1773871235
+        },
+        {
+            "title": "Compliance Program Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-compliance-program-specialist-machinify-1130821",
+            "date": 1773871218
+        },
+        {
+            "title": "Business Development Representative East Coast Only",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-east-coast-only-qualio-1130820",
+            "date": 1773871208
+        },
+        {
+            "title": "Poker Room Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-poker-room-manager-bellota-labs-1130819",
+            "date": 1773871202
+        },
         {
             "title": "Developer Advocate",
             "company": "RemoteOK",
@@ -1009,87 +1090,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-member-care-sidecar-health-1130711",
             "date": 1773169204
-        },
-        {
-            "title": "Design Intern Summer 2026",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-design-intern-summer-2026-betterhelp-1130710",
-            "date": 1773158406
-        },
-        {
-            "title": "Restaurant Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-restaurant-account-manager-sharebite-1130709",
-            "date": 1773154806
-        },
-        {
-            "title": "Journeyperson Electrician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-journeyperson-electrician-rising-edge-group-1130708",
-            "date": 1773151217
-        },
-        {
-            "title": "Solutions Analytics Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-analytics-data-scientist-sentilink-1130707",
-            "date": 1773151211
-        },
-        {
-            "title": "Director of Community",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-community-alx-africa-1130705",
-            "date": 1773144023
-        },
-        {
-            "title": "Data Scientist IV",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-iv-goguardian-1130703",
-            "date": 1773122474
-        },
-        {
-            "title": "Senior Sales Engineer Majors West",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-majors-west-datadog-1130702",
-            "date": 1773122464
         },
         {
             "title": "Miratech: Testing / QA Lead (IVR & Web Applications)",
