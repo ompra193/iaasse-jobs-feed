@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-20 00:29:07",
-    "total_jobs": 119,
+    "generated_at": "2026-03-20 07:35:33",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Staff Engineer Product Security",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-engineer-product-security-faire-1130828",
+            "date": 1773900013
+        },
+        {
+            "title": "Missing Heir Specialist Estate Claim Sales Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-missing-heir-specialist-estate-claim-sales-representative-lauth-investigations-international-inc-1130827",
+            "date": 1773900004
+        },
+        {
+            "title": "Principal Machine Learning Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-machine-learning-engineer-attentive-1130826",
+            "date": 1773882003
+        },
         {
             "title": "Director MedEcon",
             "company": "RemoteOK",
@@ -1070,26 +1105,48 @@
             "date": 1773198017
         },
         {
-            "title": "Territory Sales Representative Green Grass Southeast",
-            "company": "RemoteOK",
+            "title": "Kodify Media Group: Senior Full-Stack Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-representative-green-grass-southeast-trackman-a-s-1130713",
-            "date": 1773180004
+            "link": "https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6",
+            "date": 1771946267
         },
         {
-            "title": "Customer Service Representative Member Care",
-            "company": "RemoteOK",
+            "title": "The Class Consulting Group: Marketing - Graphic and Web Designing Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-member-care-sidecar-health-1130711",
-            "date": 1773169204
+            "link": "https://weworkremotely.com/remote-jobs/the-class-consulting-group-marketing-graphic-and-web-designing-manager",
+            "date": 1771884229
+        },
+        {
+            "title": "3CIndia: Web designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/3cindia-web-designer",
+            "date": 1771884229
+        },
+        {
+            "title": "Remote VA: Website Developer/Programmer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/remote-va-website-developer-programmer",
+            "date": 1771884229
         },
         {
             "title": "Miratech: Testing / QA Lead (IVR & Web Applications)",
@@ -1300,52 +1357,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/bhft-market-data-engineering-manager",
             "date": 1771433201
-        },
-        {
-            "title": "Jobgether: Remote Website Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jobgether-remote-website-developer",
-            "date": 1771366798
-        },
-        {
-            "title": "Soltech: MDM Data Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/soltech-mdm-data-engineer",
-            "date": 1771366798
-        },
-        {
-            "title": "AHU Technologies: SR Project Manager in Continuous Improvement with Health Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-sr-project-manager-in-continuous-improvement-with-health-experience",
-            "date": 1771366798
-        },
-        {
-            "title": "Magic: Web Development & Coding Specialist - Freelance, Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/magic-web-development-coding-specialist-freelance-remote",
-            "date": 1771366798
         },
         {
             "title": "Sticker Mule: Software engineer",
