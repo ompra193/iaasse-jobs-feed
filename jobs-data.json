@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-20 12:25:59",
+    "generated_at": "2026-03-20 18:29:52",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Lead Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-alpaca-1130835",
+            "date": 1773932405
+        },
         {
             "title": "$2k Weekly Customer Service Assistant",
             "company": "RemoteOK",
@@ -345,17 +356,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-systems-engineer-veeam-software-1130793",
             "date": 1773684004
-        },
-        {
-            "title": "Lead Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-circle-so-1130791",
-            "date": 1773680404
         },
         {
             "title": "Benefits Advisor Leadership Training Program",
