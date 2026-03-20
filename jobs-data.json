@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-20 18:29:52",
+    "generated_at": "2026-03-21 00:21:04",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Customer Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-highlevel-1130837",
+            "date": 1773957601
+        },
         {
             "title": "Lead Product Designer",
             "company": "RemoteOK",
@@ -15,7 +26,29 @@
             "date": 1773932405
         },
         {
-            "title": "$2k Weekly Customer Service Assistant",
+            "title": "Go To Market Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-go-to-market-engineer-testgorilla-1130833",
+            "date": 1773920313
+        },
+        {
+            "title": "Revenue Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-testgorilla-1130832",
+            "date": 1773919049
+        },
+        {
+            "title": "$2k Weekly Customer Service Assistant USA ONLY",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
@@ -24,7 +57,7 @@
                 "assistant"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-customer-service-assistant-best-estimate-pro-1130831",
+            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-customer-service-assistant-usa-only-best-estimate-pro-1130831",
             "date": 1773919001
         },
         {
@@ -1074,37 +1107,26 @@
             "date": 1773201645
         },
         {
-            "title": "Senior Level Designer",
-            "company": "RemoteOK",
+            "title": "Ryder: Web Application Security Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-eleventh-hour-games-1130719",
-            "date": 1773201635
+            "link": "https://weworkremotely.com/remote-jobs/ryder-web-application-security-engineer",
+            "date": 1771948193
         },
         {
-            "title": "Narrative and World Lead",
-            "company": "RemoteOK",
+            "title": "Cortes 23: Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-narrative-and-world-lead-eleventh-hour-games-1130718",
-            "date": 1773201625
-        },
-        {
-            "title": "Procurement Specialist Hardware",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-hardware-blueprint-1130717",
-            "date": 1773201612
+            "link": "https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4",
+            "date": 1771947341
         },
         {
             "title": "Kodify Media Group: Senior Full-Stack Developer",
@@ -1348,19 +1370,6 @@
             "date": 1771452057
         },
         {
-            "title": "BHFT: Market Data Engineering Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bhft-market-data-engineering-manager",
-            "date": 1771433201
-        },
-        {
             "title": "Sticker Mule: Software engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1383,19 +1392,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
-            "date": 1753281114
         }
     ]
 }
