@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-21 00:21:04",
-    "total_jobs": 120,
+    "generated_at": "2026-03-21 07:29:48",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Government Underwriter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-government-underwriter-jmac-lending-1130842",
+            "date": 1773986410
+        },
+        {
+            "title": "58134729590 Marketing Operations & Execution Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-58134729590-marketing-operations-execution-lead-activate-talent-1130841",
+            "date": 1773986404
+        },
+        {
+            "title": "Forward Deployed Engineer VoIP",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-voip-parloa-1130840",
+            "date": 1773972028
+        },
+        {
+            "title": "Senior Staff Software Engineer AI Customer Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-software-engineer-ai-customer-operations-monzo-1130839",
+            "date": 1773972017
+        },
         {
             "title": "Customer Support Specialist",
             "company": "RemoteOK",
@@ -1046,65 +1092,53 @@
             "date": 1773266403
         },
         {
-            "title": "Assistant Pricing Manager",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: Java Engineer - Virtualization (M/W/D)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-java-engineer-virtualization-m-w-d",
+            "date": 1771974280
+        },
+        {
+            "title": "Jobs for Lebanon: Full Stack Web Developer (PHP/React)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "assistant"
+                "php",
+                "react"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistant-pricing-manager-restaurant-supply-1130724",
-            "date": 1773237611
+            "link": "https://weworkremotely.com/remote-jobs/jobs-for-lebanon-full-stack-web-developer-php-react",
+            "date": 1771948193
         },
         {
-            "title": "AI Training for Igbo Writers",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: Business Development Manager (M/W/D)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "employment": "internship",
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-training-for-igbo-writers-remotasks-1130723",
-            "date": 1773230404
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-business-development-manager-m-w-d",
+            "date": 1771948193
         },
         {
-            "title": "Staff Threat Intelligence Researcher",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-threat-intelligence-researcher-lookout-inc-1130722",
-            "date": 1773208826
-        },
-        {
-            "title": "CHW Manager",
-            "company": "RemoteOK",
+            "title": "Mendix: Specialized Account Executive (Jakarta, Indonesia)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chw-manager-zocalo-health-1130721",
-            "date": 1773208808
-        },
-        {
-            "title": "Lead Level Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-level-designer-eleventh-hour-games-1130720",
-            "date": 1773201645
+            "link": "https://weworkremotely.com/remote-jobs/mendix-specialized-account-executive-jakarta-indonesia",
+            "date": 1771948193
         },
         {
             "title": "Ryder: Web Application Security Engineer",
@@ -1334,42 +1368,6 @@
             "date": 1771505785
         },
         {
-            "title": "The Church of Jesus Christ of Latter-day Saints: Frontend Web Development Grader - BYU-Pathway Worldwide",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/the-church-of-jesus-christ-of-latter-day-saints-frontend-web-development-grader-byu-pathway-worldwide-1",
-            "date": 1771452058
-        },
-        {
-            "title": "Bright Vision Technologies: Front-End Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bright-vision-technologies-front-end-developer",
-            "date": 1771452058
-        },
-        {
-            "title": "AHU Technologies: Business Analyst- Chicago, IL",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-business-analyst-chicago-il",
-            "date": 1771452057
-        },
-        {
             "title": "Sticker Mule: Software engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1379,19 +1377,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
             "date": 1769089549
-        },
-        {
-            "title": "Stellar AI: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-            "date": 1761075386
         }
     ]
 }
