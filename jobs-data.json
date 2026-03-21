@@ -1,8 +1,67 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-21 12:12:54",
+    "generated_at": "2026-03-21 18:19:57",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Accounting Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-accounting-clerk-defense-holdings-inc-1130847",
+            "date": 1774015236
+        },
+        {
+            "title": "Senior 3D Cinematic Animation Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-3d-cinematic-animation-artist-thatgamecompany-1130846",
+            "date": 1774015229
+        },
+        {
+            "title": "Financial Crimes Analyst I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-financial-crimes-analyst-i-dave-1130845",
+            "date": 1774015222
+        },
+        {
+            "title": "Senior Associate Finance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-associate-finance-aksia-1130844",
+            "date": 1774015217
+        },
+        {
+            "title": "Affiliate Marketing & Partnerships Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-affiliate-marketing-partnerships-lead-material-bank-1130843",
+            "date": 1774015207
+        },
         {
             "title": "Government Underwriter",
             "company": "RemoteOK",
@@ -1033,63 +1092,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-contract-data-architect-the-motley-fool-1130730",
             "date": 1773295230
-        },
-        {
-            "title": "People Operations Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-orcrist-technologies-1130729",
-            "date": 1773295219
-        },
-        {
-            "title": "Director Planning & Analytics",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-planning-analytics-temporal-technologies-1130728",
-            "date": 1773295208
-        },
-        {
-            "title": "Senior Technical Game Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-game-designer-thats-no-moon-entertainment-1130727",
-            "date": 1773284405
-        },
-        {
-            "title": "Benefit Verification Pharmacy Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-benefit-verification-pharmacy-technician-shields-health-solutions-1130726",
-            "date": 1773277204
-        },
-        {
-            "title": "Infrastructure Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-infrastructure-manager-andromeda-cluster-1130725",
-            "date": 1773266403
         },
         {
             "title": "Anexia Internetdienstleistungs: Java Engineer - Virtualization (M/W/D)",
