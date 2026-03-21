@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-21 18:19:57",
+    "generated_at": "2026-03-22 00:06:31",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Sales & Business Development Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-business-development-director-near-foundation-1130854",
+            "date": 1774044030
+        },
+        {
+            "title": "Happiness Engineer Customer Support & Success",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-happiness-engineer-customer-support-success-automattic-careers-1130853",
+            "date": 1774044014
+        },
+        {
+            "title": "GenAI Senior Integrated Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-genai-senior-integrated-designer-brandtech-1130852",
+            "date": 1774044012
+        },
+        {
+            "title": "Product Manager Growth",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-growth-12go-asia-1130851",
+            "date": 1774044003
+        },
+        {
+            "title": "Smart Contract Engineer SVM",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-smart-contract-engineer-svm-veda-tech-labs-1130849",
+            "date": 1774033215
+        },
+        {
+            "title": "Senior Product Manager Core Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-core-infrastructure-mesh-1130848",
+            "date": 1774033204
+        },
         {
             "title": "Accounting Clerk",
             "company": "RemoteOK",
@@ -162,7 +230,7 @@
                 "assistant"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-customer-service-assistant-usa-only-best-estimate-pro-1130831",
+            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-customer-service-assistant-usa-only-mastercraft-boating-company-1130831",
             "date": 1773919001
         },
         {
@@ -1022,76 +1090,87 @@
             "date": 1773295288
         },
         {
-            "title": "Senior Software Engineer Data Platform",
-            "company": "RemoteOK",
+            "title": "Confiz: Senior Full Stack Developer (React.js + .NET)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "react"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-data-platform-zus-health-1130735",
-            "date": 1773295278
+            "link": "https://weworkremotely.com/remote-jobs/confiz-senior-full-stack-developer-react-js-net",
+            "date": 1772036077
         },
         {
-            "title": "Corporate Associate ECVC",
-            "company": "RemoteOK",
+            "title": "EBQ: Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-corporate-associate-ecvc-scale-llp-1130734",
-            "date": 1773295270
+            "link": "https://weworkremotely.com/remote-jobs/ebq-web-developer",
+            "date": 1772036015
         },
         {
-            "title": "Recruiting Coordinator",
-            "company": "RemoteOK",
+            "title": "Everest Clinical Research: Senior Clinical Trial Web Application Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/everest-clinical-research-senior-clinical-trial-web-application-developer",
+            "date": 1772036015
+        },
+        {
+            "title": "Bamboo Works: Full Stack Web Developer (Maintenance)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bamboo-works-full-stack-web-developer-maintenance",
+            "date": 1772036015
+        },
+        {
+            "title": "OnTheGoSystems: Senior Python Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer-1",
+            "date": 1772033055
+        },
+        {
+            "title": "Ackama: Business Development Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-zocalo-health-1130733",
-            "date": 1773295259
+            "link": "https://weworkremotely.com/remote-jobs/ackama-business-development-manager",
+            "date": 1771974280
         },
         {
-            "title": "Manager Revenue Accounting",
-            "company": "RemoteOK",
+            "title": "Radix: Profissional Web Designer Senior",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-revenue-accounting-boulevard-1130732",
-            "date": 1773295249
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-marketing-architects-1130731",
-            "date": 1773295238
-        },
-        {
-            "title": "Contract Data Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-contract-data-architect-the-motley-fool-1130730",
-            "date": 1773295230
+            "link": "https://weworkremotely.com/remote-jobs/radix-profissional-web-designer-senior",
+            "date": 1771974280
         },
         {
             "title": "Anexia Internetdienstleistungs: Java Engineer - Virtualization (M/W/D)",
@@ -1288,86 +1367,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-technical-project-manager-atlanta-ga",
             "date": 1771603666
-        },
-        {
-            "title": "Mendix: Enterprise Account Executive \u2013 Mendix + RapidMiner  - Automotive",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mendix-enterprise-account-executive-mendix-rapidminer-automotive",
-            "date": 1771517154
-        },
-        {
-            "title": "Media Cause: Front-End Website Developer (Contract / Freelance)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/media-cause-front-end-website-developer-contract-freelance",
-            "date": 1771517154
-        },
-        {
-            "title": "The Global Talent Co.: Marketing Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/the-global-talent-co-marketing-web-developer",
-            "date": 1771517154
-        },
-        {
-            "title": "Signet Jewelers: Web App Firewall Security Engineer (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/signet-jewelers-web-app-firewall-security-engineer-remote",
-            "date": 1771517154
-        },
-        {
-            "title": "Mobbin: UX Content Analyst",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mobbin-ux-content-analyst",
-            "date": 1771517127
-        },
-        {
-            "title": "Michael Baker International: Oracle APEX Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/michael-baker-international-oracle-apex-developer",
-            "date": 1771517127
-        },
-        {
-            "title": "DeweyLearn Inc.: Python AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/deweylearn-inc-python-ai-engineer",
-            "date": 1771505785
         },
         {
             "title": "Sticker Mule: Software engineer",
