@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-22 18:22:12",
+    "generated_at": "2026-03-23 00:07:30",
     "total_jobs": 118,
     "jobs": [
         {
@@ -1079,6 +1079,30 @@
             "date": 1773324015
         },
         {
+            "title": "Hyphen Connect Limited: AI - Leveraged Product Development Generalist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-ai-leveraged-product-development-generalist",
+            "date": 1772099166
+        },
+        {
+            "title": "WeVote: .NET Software Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wevote-net-software-developer",
+            "date": 1772036077
+        },
+        {
             "title": "Confiz: Senior Full Stack Developer (React.js + .NET)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1332,30 +1356,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/tko-intern-product-management-web-applications-on-location",
             "date": 1771627299
-        },
-        {
-            "title": "AHU Technologies: Senior Trainer  DC",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-trainer-dc",
-            "date": 1771603666
-        },
-        {
-            "title": "AHU Technologies: Technical Project Manager - Atlanta, GA",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-technical-project-manager-atlanta-ga",
-            "date": 1771603666
         },
         {
             "title": "Sticker Mule: Software engineer",
