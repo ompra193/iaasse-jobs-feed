@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-22 00:06:31",
-    "total_jobs": 119,
+    "generated_at": "2026-03-22 07:42:24",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Brand Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-vanta-1130857",
+            "date": 1774072811
+        },
+        {
+            "title": "Tech Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tech-lead-zipdev-1130856",
+            "date": 1774072805
+        },
         {
             "title": "Sales & Business Development Director",
             "company": "RemoteOK",
@@ -1055,39 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-cfo-marathon-talent-1130739",
             "date": 1773324015
-        },
-        {
-            "title": "Senior Backend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-pavago-1130738",
-            "date": 1773324009
-        },
-        {
-            "title": "UK Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-uk-support-specialist-substack-1130737",
-            "date": 1773324003
-        },
-        {
-            "title": "Human Resources Engagement Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-engagement-partner-abbyy-1130736",
-            "date": 1773295288
         },
         {
             "title": "Confiz: Senior Full Stack Developer (React.js + .NET)",
