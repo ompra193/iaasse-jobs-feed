@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-23 12:40:43",
+    "generated_at": "2026-03-23 18:38:05",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Security Engineer II Canada",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860",
+            "date": 1774188002
+        },
         {
             "title": "Brand Designer",
             "company": "RemoteOK",
@@ -1066,17 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-reporting-cast-ai-1130742",
             "date": 1773342002
-        },
-        {
-            "title": "CFO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cfo-marathon-talent-1130739",
-            "date": 1773324015
         },
         {
             "title": "Glide: Principal Software Engineer - Product / Frontend",
