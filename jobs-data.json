@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-23 18:38:05",
+    "generated_at": "2026-03-24 00:24:55",
     "total_jobs": 117,
     "jobs": [
         {
@@ -1079,6 +1079,17 @@
             "date": 1773342002
         },
         {
+            "title": "Myshell: Product Marketing",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/myshell-product-marketing",
+            "date": 1772099166
+        },
+        {
             "title": "Glide: Principal Software Engineer - Product / Frontend",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1345,17 +1356,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform",
             "date": 1771733914
-        },
-        {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
-            "date": 1769089549
         }
     ]
 }
