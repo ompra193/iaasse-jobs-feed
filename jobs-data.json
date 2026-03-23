@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-23 00:07:30",
-    "total_jobs": 118,
+    "generated_at": "2026-03-23 07:42:56",
+    "total_jobs": 117,
     "jobs": [
         {
             "title": "Brand Designer",
@@ -1079,6 +1079,28 @@
             "date": 1773324015
         },
         {
+            "title": "Glide: Principal Software Engineer - Product / Frontend",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/glide-principal-software-engineer-product-frontend",
+            "date": 1772099166
+        },
+        {
+            "title": "Sprinto: Product Security Engineer - Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sprinto-product-security-engineer-remote",
+            "date": 1772099166
+        },
+        {
             "title": "Hyphen Connect Limited: AI - Leveraged Product Development Generalist",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1323,39 +1345,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform",
             "date": 1771733914
-        },
-        {
-            "title": "Betu: Front End Web Developer - BetU",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/betu-front-end-web-developer-betu",
-            "date": 1771627300
-        },
-        {
-            "title": "WeVote: Director of Outreach",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wevote-director-of-outreach",
-            "date": 1771627299
-        },
-        {
-            "title": "TKO: Intern - Product Management (Web Applications), On Location",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tko-intern-product-management-web-applications-on-location",
-            "date": 1771627299
         },
         {
             "title": "Sticker Mule: Software engineer",
