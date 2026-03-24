@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-24 12:34:34",
+    "generated_at": "2026-03-24 18:42:04",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Marketing Manager Events FT Live",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-manager-events-ft-live-financial-times-1130861",
+            "date": 1774274407
+        },
         {
             "title": "Security Engineer II Canada",
             "company": "RemoteOK",
@@ -1065,17 +1076,6 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-karpenter-cast-ai-1130741",
-            "date": 1773342002
-        },
-        {
-            "title": "Senior Software Engineer Reporting",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-reporting-cast-ai-1130742",
             "date": 1773342002
         },
         {
