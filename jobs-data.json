@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-24 07:35:17",
-    "total_jobs": 117,
+    "generated_at": "2026-03-24 12:34:34",
+    "total_jobs": 116,
     "jobs": [
         {
             "title": "Security Engineer II Canada",
@@ -1079,6 +1079,19 @@
             "date": 1773342002
         },
         {
+            "title": "Hyphen Connect Limited: AI - Leveraged Product Development Generalist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-ai-leveraged-product-development-generalist-1",
+            "date": 1772099166
+        },
+        {
             "title": "Myshell: Product Marketing",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1109,19 +1122,6 @@
             "skills": [],
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sprinto-product-security-engineer-remote",
-            "date": 1772099166
-        },
-        {
-            "title": "Hyphen Connect Limited: AI - Leveraged Product Development Generalist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-ai-leveraged-product-development-generalist",
             "date": 1772099166
         },
         {
@@ -1343,19 +1343,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/miratech-testing-qa-lead-ivr-web-applications",
             "date": 1771862455
-        },
-        {
-            "title": "Summedd: Full Stack Engineer with AI Coding expertise for SaaS Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/summedd-full-stack-engineer-with-ai-coding-expertise-for-saas-platform",
-            "date": 1771733914
         }
     ]
 }
