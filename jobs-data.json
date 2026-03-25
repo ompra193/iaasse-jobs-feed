@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-25 00:33:19",
+    "generated_at": "2026-03-25 07:40:43",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Lead Front End Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-front-end-software-engineer-callibrity-1130866",
+            "date": 1774332014
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-accountant-blink-health-1130865",
+            "date": 1774332005
+        },
         {
             "title": "Purview Consultant",
             "company": "RemoteOK",
@@ -1053,30 +1075,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ruby-on-rails-versapay-1130745",
             "date": 1773356402
-        },
-        {
-            "title": "BPM LLP AI ML Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bpm-llp-ai-ml-engineer-bpm-llp-1130744",
-            "date": 1773352826
-        },
-        {
-            "title": "Work From Home Client Support Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-client-support-manager-global-elite-empire-consultants-1130743",
-            "date": 1773352818
         },
         {
             "title": "Hyphen Connect Limited: AI - Leveraged Product Development Generalist",
