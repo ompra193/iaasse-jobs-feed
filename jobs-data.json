@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-25 18:40:58",
+    "generated_at": "2026-03-26 00:25:56",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Research Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-research-engineer-turing-1130869",
+            "date": 1774389625
+        },
+        {
+            "title": "Enterprise Account Executive Coda",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-coda-superhuman-1130868",
+            "date": 1774389615
+        },
+        {
+            "title": "Crypto Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-elemental-terra-1130867",
+            "date": 1774384053
+        },
         {
             "title": "Lead Front End Software Engineer",
             "company": "RemoteOK",
@@ -1042,39 +1075,17 @@
             "date": 1773370806
         },
         {
-            "title": "Senior IT Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-it-project-manager-precision-medicine-group-1130747",
-            "date": 1773367206
-        },
-        {
-            "title": "Technical Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-launchbrightly-1130746",
-            "date": 1773364592
-        },
-        {
-            "title": "Senior Software Engineer Ruby on Rails",
-            "company": "RemoteOK",
+            "title": "Confidential: Electrical Design Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai"
+                "electrical"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ruby-on-rails-versapay-1130745",
-            "date": 1773356402
+            "link": "https://weworkremotely.com/remote-jobs/confidential-electrical-design-engineer",
+            "date": 1772099166
         },
         {
             "title": "Hyphen Connect Limited: AI - Leveraged Product Development Generalist",
@@ -1330,17 +1341,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/remote-va-website-developer-programmer",
             "date": 1771884229
-        },
-        {
-            "title": "Miratech: Testing / QA Lead (IVR & Web Applications)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/miratech-testing-qa-lead-ivr-web-applications",
-            "date": 1771862455
         }
     ]
 }
