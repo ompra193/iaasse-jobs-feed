@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-26 00:25:56",
-    "total_jobs": 116,
+    "generated_at": "2026-03-26 07:54:15",
+    "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Compensation Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-compensation-analyst-bhg-financial-1130874",
+            "date": 1774418454
+        },
+        {
+            "title": "Mid Market Customer Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mid-market-customer-account-manager-iterable-1130873",
+            "date": 1774418444
+        },
+        {
+            "title": "Senior Salesforce Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-salesforce-developer-boulevard-1130872",
+            "date": 1774418432
+        },
+        {
+            "title": "Senior Frontend Engineer Frontend Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-frontend-platform-vannevar-1130871",
+            "date": 1774418420
+        },
         {
             "title": "Research Engineer",
             "company": "RemoteOK",
@@ -1029,8 +1073,21 @@
             "date": 1773396002
         },
         {
-            "title": "CI&T 27985 Senior AI Engineer Brazil",
-            "company": "RemoteOK",
+            "title": "Flexport: Product Data Analyst II",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/flexport-product-data-analyst-ii",
+            "date": 1772099167
+        },
+        {
+            "title": "Hyphen Connect Limited: Product/Project Manager - AI Powered Rapid Development Lab",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1038,41 +1095,8 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cit-27985-senior-ai-engineer-brazil-cit-1130751",
-            "date": 1773381615
-        },
-        {
-            "title": "Client Partner Enterprise Platform Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-partner-enterprise-platform-sales-aera-technology-1130750",
-            "date": 1773381604
-        },
-        {
-            "title": "Lead 3D Environment Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-3d-environment-artist-eleventh-hour-games-1130749",
-            "date": 1773374408
-        },
-        {
-            "title": "Principal 3D Character Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-3d-character-artist-eleventh-hour-games-1130748",
-            "date": 1773370806
+            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-product-project-manager-ai-powered-rapid-development-lab",
+            "date": 1772099167
         },
         {
             "title": "Confidential: Electrical Design Engineer",
@@ -1308,39 +1332,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6",
             "date": 1771946267
-        },
-        {
-            "title": "The Class Consulting Group: Marketing - Graphic and Web Designing Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/the-class-consulting-group-marketing-graphic-and-web-designing-manager",
-            "date": 1771884229
-        },
-        {
-            "title": "3CIndia: Web designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/3cindia-web-designer",
-            "date": 1771884229
-        },
-        {
-            "title": "Remote VA: Website Developer/Programmer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/remote-va-website-developer-programmer",
-            "date": 1771884229
         }
     ]
 }
