@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-26 18:46:23",
-    "total_jobs": 115,
+    "generated_at": "2026-03-27 00:35:32",
+    "total_jobs": 114,
     "jobs": [
+        {
+            "title": "Lead Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
+            "date": 1774476004
+        },
         {
             "title": "Fire Protection Engineer",
             "company": "RemoteOK",
@@ -1057,18 +1068,74 @@
             "date": 1773410409
         },
         {
-            "title": "Migration Specialist AI Trainer Freelance 8 20 hrs week",
-            "company": "RemoteOK",
+            "title": "Clarity: Senior Full-Stack Developer (M\u00e9xico)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "contract",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/clarity-senior-full-stack-developer-mexico",
+            "date": 1772099203
+        },
+        {
+            "title": "Netbox Labs: Senior Customer Support Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/netbox-labs-senior-customer-support-engineer",
+            "date": 1772099199
+        },
+        {
+            "title": "Aledade: Technical Product Manager (AI/ML Research), Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
             "skills": [
-                "ai",
-                "hr"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-migration-specialist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130755",
-            "date": 1773410403
+            "link": "https://weworkremotely.com/remote-jobs/aledade-technical-product-manager-ai-ml-research-remote",
+            "date": 1772099192
+        },
+        {
+            "title": "Hyphen Connect Limited: Product/Project Manager - AI Powered Rapid Development Lab",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-product-project-manager-ai-powered-rapid-development-lab-1",
+            "date": 1772099168
+        },
+        {
+            "title": "Aledade: Senior Technical Program Manager (DevOps), Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/aledade-senior-technical-program-manager-devops-remote",
+            "date": 1772099168
+        },
+        {
+            "title": "Jalasoft: Tutor em DevOps",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/jalasoft-tutor-em-devops",
+            "date": 1772099167
         },
         {
             "title": "Flexport: Product Data Analyst II",
@@ -1081,19 +1148,6 @@
             ],
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/flexport-product-data-analyst-ii",
-            "date": 1772099167
-        },
-        {
-            "title": "Hyphen Connect Limited: Product/Project Manager - AI Powered Rapid Development Lab",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-product-project-manager-ai-powered-rapid-development-lab",
             "date": 1772099167
         },
         {
@@ -1261,75 +1315,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-java-engineer-virtualization-m-w-d",
             "date": 1771974280
-        },
-        {
-            "title": "Jobs for Lebanon: Full Stack Web Developer (PHP/React)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php",
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jobs-for-lebanon-full-stack-web-developer-php-react",
-            "date": 1771948193
-        },
-        {
-            "title": "Anexia Internetdienstleistungs: Business Development Manager (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-business-development-manager-m-w-d",
-            "date": 1771948193
-        },
-        {
-            "title": "Mendix: Specialized Account Executive (Jakarta, Indonesia)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mendix-specialized-account-executive-jakarta-indonesia",
-            "date": 1771948193
-        },
-        {
-            "title": "Ryder: Web Application Security Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ryder-web-application-security-engineer",
-            "date": 1771948193
-        },
-        {
-            "title": "Cortes 23: Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4",
-            "date": 1771947341
-        },
-        {
-            "title": "Kodify Media Group: Senior Full-Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/kodify-media-group-senior-full-stack-developer-6",
-            "date": 1771946267
         }
     ]
 }
