@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-26 12:38:40",
+    "generated_at": "2026-03-26 18:46:23",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Fire Protection Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fire-protection-engineer-skillcloud-hcm-1130875",
+            "date": 1774447203
+        },
         {
             "title": "Compensation Analyst",
             "company": "RemoteOK",
@@ -1058,19 +1069,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-migration-specialist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130755",
             "date": 1773410403
-        },
-        {
-            "title": "AI Specialist Haitian Creole",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-specialist-haitian-creole-rws-trainai-1130752",
-            "date": 1773396002
         },
         {
             "title": "Flexport: Product Data Analyst II",
