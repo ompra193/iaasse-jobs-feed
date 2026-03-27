@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-27 12:37:33",
+    "generated_at": "2026-03-27 18:36:58",
     "total_jobs": 114,
     "jobs": [
+        {
+            "title": "Commercial Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-commercial-associate-molecule-xyz-1130884",
+            "date": 1774533608
+        },
+        {
+            "title": "Ads Video Editor for DTC Group",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ads-video-editor-for-dtc-group-paired-1130883",
+            "date": 1774533602
+        },
         {
             "title": "Staff Accountant LATAM",
             "company": "RemoteOK",
@@ -1039,28 +1061,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-support-agent-descript-1130764",
             "date": 1773457204
-        },
-        {
-            "title": "Software Engineer New Grad Production Infrastructure",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-new-grad-production-infrastructure-palantir-technologies-1130763",
-            "date": 1773450001
-        },
-        {
-            "title": "Principal VC & Startup Ecosystem Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-vc-startup-ecosystem-lead-ashby-1130762",
-            "date": 1773439203
         },
         {
             "title": "M365connect: Internship AI & Automation Candidate Sourcing & Recruitment Workflow Design",
