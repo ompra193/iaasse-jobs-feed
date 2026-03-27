@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-27 00:35:32",
+    "generated_at": "2026-03-27 07:55:22",
     "total_jobs": 114,
     "jobs": [
+        {
+            "title": "Staff Accountant LATAM",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-accountant-latam-hirehawk-1130882",
+            "date": 1774504862
+        },
+        {
+            "title": "Senior Developer Backend Search CD+E",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881",
+            "date": 1774504853
+        },
+        {
+            "title": "Interior Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-interior-designer-bold-business-1130880",
+            "date": 1774504830
+        },
+        {
+            "title": "PMHNP Clinical Autonomy & Total Flexibility",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pmhnp-clinical-autonomy-total-flexibility-seasoned-recruitment-1130879",
+            "date": 1774504820
+        },
+        {
+            "title": "Senior Manager Strategic Partner Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-strategic-partner-marketing-vanta-1130878",
+            "date": 1774504809
+        },
+        {
+            "title": "Strategic Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-zip-1130877",
+            "date": 1774504802
+        },
         {
             "title": "Lead Security Engineer",
             "company": "RemoteOK",
@@ -997,75 +1063,39 @@
             "date": 1773439203
         },
         {
-            "title": "Senior Firmware Engineer",
-            "company": "RemoteOK",
+            "title": "M365connect: Internship AI & Automation Candidate Sourcing & Recruitment Workflow Design",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-firmware-engineer-sanctuary-computer-1130761",
-            "date": 1773432107
-        },
-        {
-            "title": "Full Stack Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-electe-s-r-l-1130760",
-            "date": 1773425725
-        },
-        {
-            "title": "Entry Level Crypto Market Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-elemental-terra-1130759",
-            "date": 1773411780
-        },
-        {
-            "title": "Senior Developer Experience Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-developer-experience-engineer-galaxy-1130758",
-            "date": 1773410437
-        },
-        {
-            "title": "Cloud Security Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "internship",
             "skills": [
-                "cloud"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-security-architect-altium-1130757",
-            "date": 1773410411
+            "link": "https://weworkremotely.com/remote-jobs/m365connect-internship-ai-automation-candidate-sourcing-recruitment-workflow-design",
+            "date": 1772099298
         },
         {
-            "title": "Go To Market Strategist AI Trainer Freelance 8 20 hrs week",
-            "company": "RemoteOK",
+            "title": "Wise: Senior Product Analyst - Hold Team",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai",
-                "hr"
-            ],
+            "employment": "full-time",
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-go-to-market-strategist-ai-trainer-freelance-8-20-hrs-week-10x-team-1130756",
-            "date": 1773410409
+            "link": "https://weworkremotely.com/remote-jobs/wise-senior-product-analyst-hold-team",
+            "date": 1772099275
+        },
+        {
+            "title": "Renesas Electronics: Senior Staff Product Engineer (f/m/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/renesas-electronics-senior-staff-product-engineer-f-m-d",
+            "date": 1772099240
         },
         {
             "title": "Clarity: Senior Full-Stack Developer (M\u00e9xico)",
@@ -1280,41 +1310,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-python-developer-1",
             "date": 1772033055
-        },
-        {
-            "title": "Ackama: Business Development Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ackama-business-development-manager",
-            "date": 1771974280
-        },
-        {
-            "title": "Radix: Profissional Web Designer Senior",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/radix-profissional-web-designer-senior",
-            "date": 1771974280
-        },
-        {
-            "title": "Anexia Internetdienstleistungs: Java Engineer - Virtualization (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-java-engineer-virtualization-m-w-d",
-            "date": 1771974280
         }
     ]
 }
