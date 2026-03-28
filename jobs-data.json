@@ -1,8 +1,125 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-28 18:25:32",
-    "total_jobs": 118,
+    "generated_at": "2026-03-29 00:10:56",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Engenharia Software Engineer III Golang Elixir",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engenharia-software-engineer-iii-golang-elixir-stone-1130912",
+            "date": 1774648881
+        },
+        {
+            "title": "Salesforce Technical Consultant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-technical-consultant-hunt-st-1130911",
+            "date": 1774648870
+        },
+        {
+            "title": "Nurse Practitioner Weekdays 9 00am 6 00pm PST Telehealth Primary Care",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "nurse"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-nurse-practitioner-weekdays-9-00am-6-00pm-pst-telehealth-primary-care-curai-1130910",
+            "date": 1774648863
+        },
+        {
+            "title": "Senior Software Engineer C++ Windows SDK WIN32 API",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-c-windows-sdk-win32-api-ivanti-1130909",
+            "date": 1774648854
+        },
+        {
+            "title": "Senior Backend Engineer Integrations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-integrations-arbiter-ai-1130908",
+            "date": 1774648844
+        },
+        {
+            "title": "Product Marketing Manager Ecommerce",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-ecommerce-getresponse-1130907",
+            "date": 1774648837
+        },
+        {
+            "title": "Brand & Growth Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-brand-growth-designer-fluxon-1130906",
+            "date": 1774648831
+        },
+        {
+            "title": "Scientific Director Medical Affairs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scientific-director-medical-affairs-iovance-biotherapeutics-1130905",
+            "date": 1774648821
+        },
+        {
+            "title": "VP Data Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-data-engineering-consumer-edge-1130904",
+            "date": 1774648807
+        },
+        {
+            "title": "Social Media Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-remote-chess-academy-1130903",
+            "date": 1774640719
+        },
         {
             "title": "Senior Payroll Associate Indian Payroll India",
             "company": "RemoteOK",
@@ -658,7 +775,7 @@
             "date": 1773919049
         },
         {
-            "title": "$2k Weekly Customer Service Assistant USA ONLY",
+            "title": "$2k Weekly Work From Home Assistant USA ONLY",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
@@ -667,7 +784,7 @@
                 "assistant"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-customer-service-assistant-usa-only-mastercraft-boating-company-1130831",
+            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-work-from-home-assistant-usa-only-mastercraft-boating-company-1130831",
             "date": 1773919001
         },
         {
@@ -1034,92 +1151,6 @@
             "date": 1773688973
         },
         {
-            "title": "Senior Sales Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-systems-engineer-veeam-software-1130793",
-            "date": 1773684004
-        },
-        {
-            "title": "Benefits Advisor Leadership Training Program",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-benefits-advisor-leadership-training-program-fisher-agencies-1130788",
-            "date": 1773640803
-        },
-        {
-            "title": "Senior Sales Engineer Data & AI Security",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-data-ai-security-veeam-software-1130787",
-            "date": 1773612007
-        },
-        {
-            "title": "Electrical Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "electrical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-electrical-engineer-central-moloney-1130786",
-            "date": 1773583202
-        },
-        {
-            "title": "Data Center Site Start Up Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-center-site-start-up-manager-serverfarm-1130785",
-            "date": 1773554404
-        },
-        {
-            "title": "Staff DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-life360-1130783",
-            "date": 1773543604
-        },
-        {
-            "title": "VP Corporate Marketing Brand & Communications",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-corporate-marketing-brand-communications-blackpoint-cyber-1130780",
-            "date": 1773525604
-        },
-        {
             "title": "Sanctuary Computer: Senior Firmware Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1221,22 +1252,6 @@
             "date": 1772132528
         },
         {
-            "title": "AHU Technologies: Data Analyst (Medicaid, ADF, SQL, Python)-Eden Prairie, MN",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python",
-                "sql",
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-medicaid-adf-sql-python-eden-prairie-mn",
-            "date": 1772124211
-        },
-        {
             "title": "Subscript: Software Engineer - Test",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1290,6 +1305,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
             "date": 1762937762
+        },
+        {
+            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+            "date": 1753281114
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
