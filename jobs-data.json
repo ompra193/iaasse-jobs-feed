@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-29 12:33:47",
+    "generated_at": "2026-03-29 18:26:22",
     "total_jobs": 121,
     "jobs": [
         {
@@ -52,16 +52,17 @@
             "date": 1774677609
         },
         {
-            "title": "Data Annotator",
+            "title": "AI Data Specialist",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
+                "ai",
                 "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-annotator-micro1-1130913",
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-data-specialist-micro1-1130913",
             "date": 1774664645
         },
         {
@@ -836,7 +837,7 @@
             "date": 1773919049
         },
         {
-            "title": "$2k Weekly Work From Home Assistant USA ONLY",
+            "title": "Assistant $2k Weekly + Welcome Bonus",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
@@ -845,7 +846,7 @@
                 "assistant"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2k-weekly-work-from-home-assistant-usa-only-mastercraft-boating-company-1130831",
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-2k-weekly-welcome-bonus-mastercraft-boating-company-1130831",
             "date": 1773919001
         },
         {
