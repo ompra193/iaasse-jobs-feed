@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-29 18:26:22",
-    "total_jobs": 121,
+    "generated_at": "2026-03-30 00:12:06",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Clinical Psychologist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-psychologist-lifestance-health-1130929",
+            "date": 1774735280
+        },
+        {
+            "title": "Head of Finance North America",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-finance-north-america-adyen-1130928",
+            "date": 1774735273
+        },
+        {
+            "title": "Manager of Revenue Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-of-revenue-operations-latamcent-1130927",
+            "date": 1774735259
+        },
+        {
+            "title": "Product Security Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-security-manager-moonpay-1130926",
+            "date": 1774735252
+        },
+        {
+            "title": "Applied Computational Nutrition Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-applied-computational-nutrition-scientist-wisecode-1130925",
+            "date": 1774735239
+        },
+        {
+            "title": "Staff Machine Learning Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-fullscript-1130924",
+            "date": 1774735232
+        },
+        {
+            "title": "Cloud Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cloud-security-engineer-moonpay-1130923",
+            "date": 1774735225
+        },
+        {
+            "title": "Recruiting Coordinator Temporary",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-temporary-spacex-1130922",
+            "date": 1774735217
+        },
+        {
+            "title": "Senior Security Engineer Automation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-automation-moonpay-1130921",
+            "date": 1774735206
+        },
         {
             "title": "Clinician Experience Specialist",
             "company": "RemoteOK",
@@ -1034,28 +1137,6 @@
             "date": 1773788417
         },
         {
-            "title": "V&V Specialist V&V Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vv-specialist-vv-manager-moia-1130811",
-            "date": 1773788405
-        },
-        {
-            "title": "Junior Crypto Analyst & Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-begini-1130809",
-            "date": 1773783069
-        },
-        {
             "title": "Yoko Co: WordPress Support Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1067,17 +1148,6 @@
             "date": 1773752509
         },
         {
-            "title": "Chief Software Engineer Head of Edge Systems & Fleet Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-software-engineer-head-of-edge-systems-fleet-management-anduril-industries-1130806",
-            "date": 1773741615
-        },
-        {
             "title": "Strange Loop Labs: Senior Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1087,61 +1157,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer",
             "date": 1773727535
-        },
-        {
-            "title": "Customer Support Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-alx-africa-1130805",
-            "date": 1773723619
-        },
-        {
-            "title": "Senior Strategic Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-strategic-support-specialist-datacor-1130803",
-            "date": 1773709247
-        },
-        {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-datacor-1130802",
-            "date": 1773709239
-        },
-        {
-            "title": "Technical Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-ping-identity-1130801",
-            "date": 1773709229
-        },
-        {
-            "title": "Senior Software Engineer Identity",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-identity-peregrine-technologies-1130800",
-            "date": 1773709215
         },
         {
             "title": "Rare Days: Full-Stack Engineering Lead",
