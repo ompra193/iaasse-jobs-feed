@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-30 12:57:36",
+    "generated_at": "2026-03-30 18:50:22",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Biomedical Clinical Engineer Senior",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-biomedical-clinical-engineer-senior-ibility-1130930",
+            "date": 1774792815
+        },
         {
             "title": "Clinical Psychologist",
             "company": "RemoteOK",
@@ -1124,17 +1137,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-saas-platform-architect-legion-1130814",
             "date": 1773802805
-        },
-        {
-            "title": "AD Vehicle Integration Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ad-vehicle-integration-manager-moia-1130812",
-            "date": 1773788417
         },
         {
             "title": "Yoko Co: WordPress Support Engineer",
