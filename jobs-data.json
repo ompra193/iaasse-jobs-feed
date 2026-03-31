@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-03-31 00:30:45",
+    "generated_at": "2026-03-31 07:55:56",
     "total_jobs": 122,
     "jobs": [
         {
@@ -710,6 +710,19 @@
             "date": 1774188002
         },
         {
+            "title": "Metova: Full Stack Developer (RoR/React/React Native)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/metova-full-stack-developer-ror-react-react-native",
+            "date": 1774125209
+        },
+        {
             "title": "Brand Designer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1282,17 +1295,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer",
             "date": 1770242267
-        },
-        {
-            "title": "WALTER: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
-            "date": 1769720776
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
