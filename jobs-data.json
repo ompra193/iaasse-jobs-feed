@@ -1,8 +1,66 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-01 00:31:54",
+    "generated_at": "2026-04-01 08:06:13",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Account Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-director-merge-1130936",
+            "date": 1774936851
+        },
+        {
+            "title": "Customer Program Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-program-manager-nexxa-ai-1130935",
+            "date": 1774936841
+        },
+        {
+            "title": "Data Scientist Claim Experience Analytics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-claim-experience-analytics-extend-1130934",
+            "date": 1774936835
+        },
+        {
+            "title": "Senior Software Engineer Full Stack",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-full-stack-grow-therapy-1130933",
+            "date": 1774936824
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-clover-health-1130932",
+            "date": 1774936815
+        },
         {
             "title": "Sales Executive Telecoms & Networking",
             "company": "RemoteOK",
@@ -1054,63 +1112,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-compliance-program-specialist-machinify-1130821",
             "date": 1773871218
-        },
-        {
-            "title": "Business Development Representative East Coast Only",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-east-coast-only-qualio-1130820",
-            "date": 1773871208
-        },
-        {
-            "title": "Poker Room Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-poker-room-manager-bellota-labs-1130819",
-            "date": 1773871202
-        },
-        {
-            "title": "Developer Advocate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-developer-advocate-shotstack-1130818",
-            "date": 1773849425
-        },
-        {
-            "title": "Software Engineer Reliability",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-reliability-openai-1130817",
-            "date": 1773842406
-        },
-        {
-            "title": "Senior Product Manager AI Products",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-ai-products-boostlingo-1130815",
-            "date": 1773813610
         },
         {
             "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - K\u00f6ln",
