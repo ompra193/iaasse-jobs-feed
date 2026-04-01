@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-01 12:50:48",
-    "total_jobs": 121,
+    "generated_at": "2026-04-01 18:52:12",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Associate Finance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-associate-finance-pearl-1130940",
+            "date": 1774965632
+        },
+        {
+            "title": "Program Manager Major Deployments",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-program-manager-major-deployments-skydio-1130939",
+            "date": 1774965622
+        },
+        {
+            "title": "Senior Manager of Revenue Cycle Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-of-revenue-cycle-management-answersnow-inc-1130938",
+            "date": 1774965611
+        },
+        {
+            "title": "Principal Technologist Office of the CTO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-technologist-office-of-the-cto-clover-health-1130937",
+            "date": 1774965605
+        },
         {
             "title": "Account Director",
             "company": "RemoteOK",
@@ -893,19 +939,6 @@
             "date": 1774015222
         },
         {
-            "title": "Senior Associate Finance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-associate-finance-aksia-1130844",
-            "date": 1774015217
-        },
-        {
             "title": "Affiliate Marketing & Partnerships Lead",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1064,54 +1097,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-medecon-waymark-1130825",
             "date": 1773871267
-        },
-        {
-            "title": "Data Scientist Subscriptions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-subscriptions-spotify-1130824",
-            "date": 1773871257
-        },
-        {
-            "title": "Junior Manual QA Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-manual-qa-engineer-topstep-1130823",
-            "date": 1773871248
-        },
-        {
-            "title": "Customer Service Booking Hotels We Will Train You",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-booking-hotels-we-will-train-you-destination-knot-1130822",
-            "date": 1773871235
-        },
-        {
-            "title": "Compliance Program Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-compliance-program-specialist-machinify-1130821",
-            "date": 1773871218
         },
         {
             "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - K\u00f6ln",
