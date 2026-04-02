@@ -1,8 +1,122 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-02 00:32:29",
-    "total_jobs": 120,
+    "generated_at": "2026-04-02 07:52:51",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-prove-1130955",
+            "date": 1775023282
+        },
+        {
+            "title": "Sales Operations Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-project-manager-xsolla-1130954",
+            "date": 1775023269
+        },
+        {
+            "title": "Biology AI Training Expert",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-biology-ai-training-expert-anyone-ai-1130953",
+            "date": 1775023262
+        },
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-world-golf-tour-wgt-1130952",
+            "date": 1775023256
+        },
+        {
+            "title": "Manager Site Contracts Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-site-contracts-management-precision-medicine-group-1130951",
+            "date": 1775023250
+        },
+        {
+            "title": "Bilingual Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-customer-success-manager-acuity-insights-1130950",
+            "date": 1775023241
+        },
+        {
+            "title": "People Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-people-operations-manager-charterup-1130949",
+            "date": 1775023234
+        },
+        {
+            "title": "Director of Product Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-product-marketing-medallion-1130948",
+            "date": 1775023225
+        },
+        {
+            "title": "Operations Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-project-manager-xsolla-1130947",
+            "date": 1775023215
+        },
+        {
+            "title": "WordPress Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-wordpress-developer-data-group-1130946",
+            "date": 1775021655
+        },
         {
             "title": "Sales Development Representative",
             "company": "RemoteOK",
@@ -150,17 +264,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-full-stack-grow-therapy-1130933",
             "date": 1774936824
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-clover-health-1130932",
-            "date": 1774936815
         },
         {
             "title": "Sales Executive Telecoms & Networking",
@@ -994,107 +1097,6 @@
             "date": 1774015222
         },
         {
-            "title": "Affiliate Marketing & Partnerships Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-affiliate-marketing-partnerships-lead-material-bank-1130843",
-            "date": 1774015207
-        },
-        {
-            "title": "Government Underwriter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-government-underwriter-jmac-lending-1130842",
-            "date": 1773986410
-        },
-        {
-            "title": "58134729590 Marketing Operations & Execution Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-58134729590-marketing-operations-execution-lead-activate-talent-1130841",
-            "date": 1773986404
-        },
-        {
-            "title": "Forward Deployed Engineer VoIP",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-voip-parloa-1130840",
-            "date": 1773972028
-        },
-        {
-            "title": "Senior Staff Software Engineer AI Customer Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-software-engineer-ai-customer-operations-monzo-1130839",
-            "date": 1773972017
-        },
-        {
-            "title": "Customer Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-highlevel-1130837",
-            "date": 1773957601
-        },
-        {
-            "title": "Lead Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-alpaca-1130835",
-            "date": 1773932405
-        },
-        {
-            "title": "Go To Market Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-go-to-market-engineer-testgorilla-1130833",
-            "date": 1773920313
-        },
-        {
-            "title": "Revenue Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-testgorilla-1130832",
-            "date": 1773919049
-        },
-        {
             "title": "Business-staffing-of-america-inc: Notice Design Lead (Fully Remote)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1102,8 +1104,8 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-1",
-            "date": 1772813074
+            "link": "https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-3",
+            "date": 1772813088
         },
         {
             "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - K\u00f6ln",
@@ -1338,17 +1340,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3",
             "date": 1772553219
-        },
-        {
-            "title": "Nebulab: Shopify Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/nebulab-shopify-engineer",
-            "date": 1772544852
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
