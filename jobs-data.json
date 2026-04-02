@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-02 18:44:00",
-    "total_jobs": 120,
+    "generated_at": "2026-04-03 00:27:02",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sysdig-1130967",
+            "date": 1775080822
+        },
+        {
+            "title": "Lithuanian Localization QA Tester Proofreader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lithuanian-localization-qa-tester-proofreader-welo-global-1130966",
+            "date": 1775080813
+        },
+        {
+            "title": "Call Centre Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-call-centre-manager-huzzle-1130965",
+            "date": 1775080803
+        },
+        {
+            "title": "Junior Crypto Analyst & Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1130961",
+            "date": 1775075053
+        },
         {
             "title": "Trading Technology Engineer",
             "company": "RemoteOK",
@@ -35,17 +79,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-associate-payroll-billing-specialist-g-p-1130958",
             "date": 1775052024
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-playon-1130957",
-            "date": 1775052014
         },
         {
             "title": "Payments &amp; Billing Operations Analyst",
@@ -1060,50 +1093,32 @@
             "date": 1774044030
         },
         {
-            "title": "Happiness Engineer Customer Support & Success",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-happiness-engineer-customer-support-success-automattic-careers-1130853",
-            "date": 1774044014
-        },
-        {
-            "title": "GenAI Senior Integrated Designer",
-            "company": "RemoteOK",
+            "title": "Mrp My Recruitment Partners: German speaking Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai"
+                "hr"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-genai-senior-integrated-designer-brandtech-1130852",
-            "date": 1774044012
+            "link": "https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-german-speaking-full-stack-developer-mit-erfahrung-in-shopware-6-all",
+            "date": 1772829781
         },
         {
-            "title": "Product Manager Growth",
-            "company": "RemoteOK",
+            "title": "Senex: Full Stack Developer (PHP, React, MySQL)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "php",
+                "react",
+                "sql"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-growth-12go-asia-1130851",
-            "date": 1774044003
-        },
-        {
-            "title": "Smart Contract Engineer SVM",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-smart-contract-engineer-svm-veda-tech-labs-1130849",
-            "date": 1774033215
+            "link": "https://weworkremotely.com/remote-jobs/senex-full-stack-developer-php-react-mysql",
+            "date": 1772813100
         },
         {
             "title": "Business-staffing-of-america-inc: Notice Design Lead (Fully Remote)",
@@ -1325,30 +1340,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jump-join-the-jump-product-design-talent-pool",
             "date": 1772642630
-        },
-        {
-            "title": "Level: Senior Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/level-senior-frontend-engineer",
-            "date": 1772558817
-        },
-        {
-            "title": "Lemon.io: Senior React Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-3",
-            "date": 1772553219
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
