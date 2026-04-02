@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-02 12:43:08",
-    "total_jobs": 119,
+    "generated_at": "2026-04-02 18:44:00",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Trading Technology Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-trading-technology-engineer-bitmex-1130960",
+            "date": 1775052044
+        },
+        {
+            "title": "Manager Deal Desk &amp; Order Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-deal-desk-amp-order-management-doxel-1130959",
+            "date": 1775052034
+        },
+        {
+            "title": "Associate Payroll & Billing Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-payroll-billing-specialist-g-p-1130958",
+            "date": 1775052024
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-playon-1130957",
+            "date": 1775052014
+        },
+        {
+            "title": "Payments &amp; Billing Operations Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-payments-amp-billing-operations-analyst-automatiq-1130956",
+            "date": 1775052006
+        },
         {
             "title": "Software Engineer",
             "company": "RemoteOK",
@@ -1049,52 +1104,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-smart-contract-engineer-svm-veda-tech-labs-1130849",
             "date": 1774033215
-        },
-        {
-            "title": "Senior Product Manager Core Infrastructure",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-core-infrastructure-mesh-1130848",
-            "date": 1774033204
-        },
-        {
-            "title": "Accounting Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-accounting-clerk-defense-holdings-inc-1130847",
-            "date": 1774015236
-        },
-        {
-            "title": "Senior 3D Cinematic Animation Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-3d-cinematic-animation-artist-thatgamecompany-1130846",
-            "date": 1774015229
-        },
-        {
-            "title": "Financial Crimes Analyst I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-financial-crimes-analyst-i-dave-1130845",
-            "date": 1774015222
         },
         {
             "title": "Business-staffing-of-america-inc: Notice Design Lead (Fully Remote)",
