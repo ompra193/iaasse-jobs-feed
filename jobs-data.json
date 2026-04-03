@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-03 00:27:02",
+    "generated_at": "2026-04-03 07:54:05",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Banner Consultant Student Accounts Receivable",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-banner-consultant-student-accounts-receivable-strata-information-group-1130974",
+            "date": 1775109677
+        },
+        {
+            "title": "Accounting Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-accounting-intern-specterops-1130972",
+            "date": 1775109655
+        },
+        {
+            "title": "Senior Engagement Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-engagement-manager-medallion-1130971",
+            "date": 1775109646
+        },
+        {
+            "title": "Forward deployed Engineer LatAm",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-latam-clara-1130970",
+            "date": 1775109635
+        },
+        {
+            "title": "Internship Marketing Summer 2026",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-internship-marketing-summer-2026-concentric-1130969",
+            "date": 1775109613
+        },
         {
             "title": "Senior Software Engineer",
             "company": "RemoteOK",
@@ -1036,61 +1093,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-purview-consultant-high-tech-genesis-1130862",
             "date": 1774303213
-        },
-        {
-            "title": "Marketing Manager Events FT Live",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-manager-events-ft-live-financial-times-1130861",
-            "date": 1774274407
-        },
-        {
-            "title": "Security Engineer II Canada",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-engineer-ii-canada-nerdwallet-1130860",
-            "date": 1774188002
-        },
-        {
-            "title": "Brand Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-vanta-1130857",
-            "date": 1774072811
-        },
-        {
-            "title": "Tech Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-tech-lead-zipdev-1130856",
-            "date": 1774072805
-        },
-        {
-            "title": "Sales & Business Development Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-business-development-director-near-foundation-1130854",
-            "date": 1774044030
         },
         {
             "title": "Mrp My Recruitment Partners: German speaking Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote",
