@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-03 07:54:05",
+    "generated_at": "2026-04-03 12:38:36",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1095,6 +1095,19 @@
             "date": 1774303213
         },
         {
+            "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote oder hybrid",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-2",
+            "date": 1772829782
+        },
+        {
             "title": "Mrp My Recruitment Partners: German speaking Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1353,17 +1366,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
             "date": 1752075311
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
