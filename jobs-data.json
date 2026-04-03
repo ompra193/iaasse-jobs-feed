@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-03 12:38:36",
+    "generated_at": "2026-04-03 18:34:11",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Intermediate Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-intermediate-full-stack-engineer-runn-1130979",
+            "date": 1775140570
+        },
+        {
+            "title": "Senior Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-runn-1130978",
+            "date": 1775139818
+        },
         {
             "title": "Banner Consultant Student Accounts Receivable",
             "company": "RemoteOK",
@@ -1071,28 +1093,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-lead-front-end-software-engineer-callibrity-1130866",
             "date": 1774332014
-        },
-        {
-            "title": "Senior Accountant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-accountant-blink-health-1130865",
-            "date": 1774332005
-        },
-        {
-            "title": "Purview Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-purview-consultant-high-tech-genesis-1130862",
-            "date": 1774303213
         },
         {
             "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote oder hybrid",
