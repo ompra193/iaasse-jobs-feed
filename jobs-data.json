@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-04 00:18:01",
-    "total_jobs": 118,
+    "generated_at": "2026-04-04 07:38:49",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-development-representative-huzzle-1130989",
+            "date": 1775196003
+        },
         {
             "title": "Website Maintenance",
             "company": "RemoteOK",
@@ -621,17 +632,6 @@
             "date": 1774735225
         },
         {
-            "title": "Recruiting Coordinator Temporary",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recruiting-coordinator-temporary-spacex-1130922",
-            "date": 1774735217
-        },
-        {
             "title": "Senior Security Engineer Automation",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1077,17 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-lead-security-engineer-copia-automation-1130876",
             "date": 1774476004
-        },
-        {
-            "title": "Fire Protection Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-fire-protection-engineer-skillcloud-hcm-1130875",
-            "date": 1774447203
         },
         {
             "title": "Dropbox: Staff Backend Product Software Engineer, Core Sync",
