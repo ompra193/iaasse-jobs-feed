@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-05 18:27:57",
-    "total_jobs": 117,
+    "generated_at": "2026-04-06 00:13:24",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Site Civil Engineer Land Development",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "civil"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-civil-engineer-land-development-ms-consultants-inc-1130993",
+            "date": 1775340006
+        },
         {
             "title": "Senior UX UI designer",
             "company": "RemoteOK",
@@ -1071,15 +1084,110 @@
             "date": 1774504820
         },
         {
-            "title": "Senior Manager Strategic Partner Marketing",
-            "company": "RemoteOK",
+            "title": "Master-works: Full-stack Developer (React & Node.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react",
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js",
+            "date": 1773520320
+        },
+        {
+            "title": "Sanctuary Computer: Senior Firmware Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-strategic-partner-marketing-vanta-1130878",
-            "date": 1774504809
+            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer",
+            "date": 1773407816
+        },
+        {
+            "title": "ELECTE S.R.L.: Full-Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer",
+            "date": 1773399127
+        },
+        {
+            "title": "Confluent: Senior Product Manager, Confluent Cloud Kafka",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-confluent-cloud-kafka",
+            "date": 1773261136
+        },
+        {
+            "title": "European Dynamics: .NET Full Stack Developer (Power Platform specialization)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/european-dynamics-net-full-stack-developer-power-platform-specialization",
+            "date": 1773261102
+        },
+        {
+            "title": "Microventures: Senior Full Stack Developer (Laravel + Vue.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/microventures-senior-full-stack-developer-laravel-vue-js",
+            "date": 1773261097
+        },
+        {
+            "title": "Workana: Jr Product Administrator",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/workana-jr-product-administrator",
+            "date": 1773174973
+        },
+        {
+            "title": "Dropbox: Staff Product Backend Software Engineer, Core Sync",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dropbox-staff-product-backend-software-engineer-core-sync",
+            "date": 1773174927
+        },
+        {
+            "title": "Abstrabit Technologies: Full Stack Developer Intern (AI Focus | Class of 2025 | Conversion Opportunity)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/abstrabit-technologies-full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity",
+            "date": 1773174855
         },
         {
             "title": "C4Media: Frontend Developer",
@@ -1213,105 +1321,6 @@
             "date": 1772829781
         },
         {
-            "title": "Senex: Full Stack Developer (PHP, React, MySQL)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php",
-                "react",
-                "sql"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/senex-full-stack-developer-php-react-mysql",
-            "date": 1772813100
-        },
-        {
-            "title": "Business-staffing-of-america-inc: Notice Design Lead (Fully Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/business-staffing-of-america-inc-notice-design-lead-fully-remote-3",
-            "date": 1772813088
-        },
-        {
-            "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - K\u00f6ln",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-1",
-            "date": 1772813047
-        },
-        {
-            "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders",
-            "date": 1772813019
-        },
-        {
-            "title": "Hyphen Connect Limited: Web3 Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-web3-full-stack-developer-1",
-            "date": 1772812960
-        },
-        {
-            "title": "Java & React: Full Stack Developer  Java & React (100% remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java",
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/java-react-full-stack-developer-java-react-100-remote",
-            "date": 1772812960
-        },
-        {
-            "title": "Renesas Electronics: Principal Engineer,SOC Physical Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/renesas-electronics-principal-engineer-soc-physical-design",
-            "date": 1772812950
-        },
-        {
-            "title": "Granicus: Sr. Design Services Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/granicus-sr-design-services-engineer",
-            "date": 1772812925
-        },
-        {
             "title": "Uncanny Owl: WordPress Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1334,15 +1343,26 @@
             "date": 1767789467
         },
         {
-            "title": "Speechify Inc: Software Engineer, iOS Core Product",
+            "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-            "date": 1752075311
+            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
+            "date": 1762937762
+        },
+        {
+            "title": "Mobena: Frontend Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
+            "date": 1747425814
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
