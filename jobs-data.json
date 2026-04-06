@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-06 00:13:24",
+    "generated_at": "2026-04-06 08:01:58",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Associate Forward Deployed Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-forward-deployed-engineer-symmetry-systems-1130994",
+            "date": 1775368805
+        },
         {
             "title": "Senior Site Civil Engineer Land Development",
             "company": "RemoteOK",
@@ -1073,15 +1084,48 @@
             "date": 1774504830
         },
         {
-            "title": "PMHNP Clinical Autonomy & Total Flexibility",
-            "company": "RemoteOK",
+            "title": "Yoko Co: WordPress Support Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pmhnp-clinical-autonomy-total-flexibility-seasoned-recruitment-1130879",
-            "date": 1774504820
+            "link": "https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer",
+            "date": 1773752509
+        },
+        {
+            "title": "Strange Loop Labs: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer",
+            "date": 1773727535
+        },
+        {
+            "title": "Rare Days: Full-Stack Engineering Lead",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead",
+            "date": 1773706680
+        },
+        {
+            "title": "Confluent: Senior Manager, Product-Led Growth Strategy and Operations",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations",
+            "date": 1773606712
         },
         {
             "title": "Master-works: Full-stack Developer (React & Node.js)",
@@ -1282,54 +1326,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stratum-ai-3d-product-interface-designer-contractor",
             "date": 1772916296
-        },
-        {
-            "title": "Tidal: PHL - Full-Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tidal-phl-full-stack-developer",
-            "date": 1772829784
-        },
-        {
-            "title": "Mrp My Recruitment Partners: Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote oder hybrid",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-full-stack-developer-mit-erfahrung-in-shopware-6-all-genders-2",
-            "date": 1772829782
-        },
-        {
-            "title": "Mrp My Recruitment Partners: German speaking Full Stack Developer mit Erfahrung in Shopware 6 (all genders) - 100% remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mrp-my-recruitment-partners-german-speaking-full-stack-developer-mit-erfahrung-in-shopware-6-all",
-            "date": 1772829781
-        },
-        {
-            "title": "Uncanny Owl: WordPress Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/uncanny-owl-wordpress-developer",
-            "date": 1770242267
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
