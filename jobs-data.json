@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-07 18:49:31",
+    "generated_at": "2026-04-08 00:33:30",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1086,6 +1086,21 @@
             "date": 1774504853
         },
         {
+            "title": "CloudDevs:  Java Developer - AI (Backend)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java",
+                "cloud",
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
+            "date": 1773932894
+        },
+        {
             "title": "Mangomint: Senior Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1361,19 +1376,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
             "date": 1747425814
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
