@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-07 12:47:08",
+    "generated_at": "2026-04-07 18:49:31",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1086,6 +1086,17 @@
             "date": 1774504853
         },
         {
+            "title": "Mangomint: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer",
+            "date": 1773868096
+        },
+        {
             "title": "Mesh: Director of Product Money Movement",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1328,17 +1339,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs",
             "date": 1773002761
-        },
-        {
-            "title": "Speechify Inc: Software Engineer, macOS Core Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-macos-core-product",
-            "date": 1767789467
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
