@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-07 00:29:40",
+    "generated_at": "2026-04-07 07:56:52",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "RevOps AI Analyst Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revops-ai-analyst-intern-actian-corporation-1130997",
+            "date": 1775455210
+        },
         {
             "title": "Associate Forward Deployed Engineer",
             "company": "RemoteOK",
@@ -1073,15 +1086,15 @@
             "date": 1774504853
         },
         {
-            "title": "Interior Designer",
-            "company": "RemoteOK",
+            "title": "Mesh: Director of Product Money Movement",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-interior-designer-bold-business-1130880",
-            "date": 1774504830
+            "link": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement",
+            "date": 1773779494
         },
         {
             "title": "Yoko Co: WordPress Support Engineer",
@@ -1140,6 +1153,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js",
             "date": 1773520320
+        },
+        {
+            "title": "ClickGUARD Inc.: AI Process Optimization Lead",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/clickguard-inc-ai-process-optimization-lead",
+            "date": 1773422515
         },
         {
             "title": "Sanctuary Computer: Senior Firmware Engineer",
@@ -1302,30 +1328,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs",
             "date": 1773002761
-        },
-        {
-            "title": "Dropbox: Staff Backend Product Software Engineer, Core Sync",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dropbox-staff-backend-product-software-engineer-core-sync",
-            "date": 1772916300
-        },
-        {
-            "title": "Stratum AI: 3D Product Interface Designer (Contractor)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stratum-ai-3d-product-interface-designer-contractor",
-            "date": 1772916296
         },
         {
             "title": "Speechify Inc: Software Engineer, macOS Core Product",
