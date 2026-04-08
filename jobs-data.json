@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-08 00:33:30",
-    "total_jobs": 119,
+    "generated_at": "2026-04-08 07:57:48",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Product Manager Data Management &amp; Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-data-management-amp-platform-hhaexchange-1131017",
+            "date": 1775541679
+        },
+        {
+            "title": "Client Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-support-specialist-trueml-1131016",
+            "date": 1775541672
+        },
+        {
+            "title": "English Contract Attorney",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-english-contract-attorney-contact-government-services-llc-1131014",
+            "date": 1775541654
+        },
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-pushpay-1131013",
+            "date": 1775541638
+        },
+        {
+            "title": "Fraud Waste and Abuse Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fraud-waste-and-abuse-data-analyst-hhaexchange-1131012",
+            "date": 1775541627
+        },
+        {
+            "title": "Regional Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-manager-clearway-energy-1131011",
+            "date": 1775541619
+        },
         {
             "title": "RevOps AI Analyst Intern",
             "company": "RemoteOK",
@@ -110,17 +180,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-manager-energy-storage-controls-telemetry-verse-1130985",
             "date": 1775167270
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-huzzle-1130984",
-            "date": 1775167255
         },
         {
             "title": "Senior Strategist Future of Work & AI Readiness",
@@ -1009,81 +1068,15 @@
             "date": 1774562446
         },
         {
-            "title": "Studio Manager",
-            "company": "RemoteOK",
+            "title": "Vee Technologiesorporated: Product Engineering Operations Director",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-studio-manager-vox-media-llc-1130889",
-            "date": 1774562438
-        },
-        {
-            "title": "Senior Product Manager Checkout & Post Booking",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-checkout-post-booking-tripadvisor-1130888",
-            "date": 1774562428
-        },
-        {
-            "title": "Outbound Account Executive US",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-outbound-account-executive-us-amplemarket-1130887",
-            "date": 1774562418
-        },
-        {
-            "title": "Commercial Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-commercial-associate-molecule-xyz-1130884",
-            "date": 1774533608
-        },
-        {
-            "title": "Ads Video Editor for DTC Group",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ads-video-editor-for-dtc-group-paired-1130883",
-            "date": 1774533602
-        },
-        {
-            "title": "Staff Accountant LATAM",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-accountant-latam-hirehawk-1130882",
-            "date": 1774504862
-        },
-        {
-            "title": "Senior Developer Backend Search CD+E",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-developer-backend-search-cd-e-ubiminds-1130881",
-            "date": 1774504853
+            "link": "https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director",
+            "date": 1773952289
         },
         {
             "title": "CloudDevs:  Java Developer - AI (Backend)",
@@ -1332,30 +1325,6 @@
             "date": 1773088356
         },
         {
-            "title": "Kasama: Salesforce Cloud Commerce Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/kasama-salesforce-cloud-commerce-full-stack-developer",
-            "date": 1773002761
-        },
-        {
-            "title": "Appetiser: Part-Time Full-Stack Developer (Laravel and VueJS)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/appetiser-part-time-full-stack-developer-laravel-and-vuejs",
-            "date": 1773002761
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1365,6 +1334,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
             "date": 1762937762
+        },
+        {
+            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+            "date": 1753281114
         },
         {
             "title": "Mobena: Frontend Engineer",
