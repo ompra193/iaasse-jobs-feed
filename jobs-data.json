@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-08 18:50:15",
+    "generated_at": "2026-04-09 00:46:14",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Payroll Operations and Systems Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-payroll-operations-and-systems-manager-arbor-education-1131021",
+            "date": 1775599212
+        },
+        {
+            "title": "User Acquisition Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-user-acquisition-specialist-hyperlab-1131020",
+            "date": 1775599204
+        },
+        {
+            "title": "Senior front end developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-front-end-developer-expatfile-tax-1131019",
+            "date": 1775598736
+        },
         {
             "title": "Crypto Trader",
             "company": "RemoteOK",
@@ -1031,41 +1064,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-us-west-minio-1130893",
             "date": 1774562482
-        },
-        {
-            "title": "Principal Solution Architect Professional Services Finance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-solution-architect-professional-services-finance-anaplan-1130892",
-            "date": 1774562465
-        },
-        {
-            "title": "Senior Technical Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-success-manager-new-relic-1130891",
-            "date": 1774562455
-        },
-        {
-            "title": "Senior Talent Acquisition Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-talent-acquisition-coordinator-new-relic-1130890",
-            "date": 1774562446
         },
         {
             "title": "Vee Technologiesorporated: Product Engineering Operations Director",
