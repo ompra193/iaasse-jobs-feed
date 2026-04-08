@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-08 07:57:48",
+    "generated_at": "2026-04-08 12:50:13",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Crypto Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131018",
+            "date": 1775567822
+        },
         {
             "title": "Product Manager Data Management &amp; Platform",
             "company": "RemoteOK",
@@ -1055,17 +1066,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-success-manager-new-relic-1130891",
             "date": 1774562455
-        },
-        {
-            "title": "Senior Talent Acquisition Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-talent-acquisition-coordinator-new-relic-1130890",
-            "date": 1774562446
         },
         {
             "title": "Vee Technologiesorporated: Product Engineering Operations Director",
