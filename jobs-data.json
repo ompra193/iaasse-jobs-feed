@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-09 18:57:37",
+    "generated_at": "2026-04-10 00:36:52",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Software Engineering Manager I Mobile",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-manager-i-mobile-stone-1131036",
+            "date": 1775685659
+        },
+        {
+            "title": "Team Lead Corporate Accounting",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-team-lead-corporate-accounting-lightspeed-commerce-1131035",
+            "date": 1775685648
+        },
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-thoughtworks-1131034",
+            "date": 1775685637
+        },
+        {
+            "title": "Solutions Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-smartsheet-1131033",
+            "date": 1775685616
+        },
+        {
+            "title": "Senior Implementation Consultant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-implementation-consultant-branch-1131032",
+            "date": 1775685607
+        },
         {
             "title": "Senior Backend Engineer MS050KA",
             "company": "RemoteOK",
@@ -993,62 +1050,26 @@
             "date": 1774648863
         },
         {
-            "title": "Senior Software Engineer C++ Windows SDK WIN32 API",
-            "company": "RemoteOK",
+            "title": "Phantom: Product Design (Wallet Platform)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-c-windows-sdk-win32-api-ivanti-1130909",
-            "date": 1774648854
+            "link": "https://weworkremotely.com/remote-jobs/phantom-product-design-wallet-platform",
+            "date": 1774038856
         },
         {
-            "title": "Senior Backend Engineer Integrations",
-            "company": "RemoteOK",
+            "title": "CRUX: Full Stack Developer/Senior Full Stack/Lead",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-integrations-arbiter-ai-1130908",
-            "date": 1774648844
-        },
-        {
-            "title": "Product Marketing Manager Ecommerce",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-ecommerce-getresponse-1130907",
-            "date": 1774648837
-        },
-        {
-            "title": "Brand & Growth Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-brand-growth-designer-fluxon-1130906",
-            "date": 1774648831
-        },
-        {
-            "title": "Scientific Director Medical Affairs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-scientific-director-medical-affairs-iovance-biotherapeutics-1130905",
-            "date": 1774648821
+            "link": "https://weworkremotely.com/remote-jobs/crux-full-stack-developer-senior-full-stack-lead",
+            "date": 1774038739
         },
         {
             "title": "Creatunity Llc: Senior Full-Stack Developer (AI-Assisted Development) - Remote",
@@ -1273,28 +1294,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/abstrabit-technologies-full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity",
             "date": 1773174855
-        },
-        {
-            "title": "C4Media: Frontend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/c4media-frontend-developer",
-            "date": 1773159958
-        },
-        {
-            "title": "Ivy Tech: Full Stack Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ivy-tech-full-stack-engineer",
-            "date": 1773150770
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
