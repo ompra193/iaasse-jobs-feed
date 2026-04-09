@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-09 00:46:14",
-    "total_jobs": 117,
+    "generated_at": "2026-04-09 07:53:04",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-upguard-1131026",
+            "date": 1775628028
+        },
+        {
+            "title": "Alumni Relationship Manager Casablanca",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-alumni-relationship-manager-casablanca-alx-africa-1131025",
+            "date": 1775628021
+        },
+        {
+            "title": "Benefits Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-benefits-manager-instructure-inc-1131024",
+            "date": 1775628011
+        },
+        {
+            "title": "Staff Software Engineer CRM LATAM",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-crm-latam-luxury-presence-1131023",
+            "date": 1775628004
+        },
         {
             "title": "Payroll Operations and Systems Manager",
             "company": "RemoteOK",
@@ -81,17 +125,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-english-contract-attorney-contact-government-services-llc-1131014",
             "date": 1775541654
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-pushpay-1131013",
-            "date": 1775541638
         },
         {
             "title": "Fraud Waste and Abuse Data Analyst",
@@ -1020,50 +1053,17 @@
             "date": 1774620031
         },
         {
-            "title": "Principal Data Engineer",
-            "company": "RemoteOK",
+            "title": "Creatunity Llc: Senior Full-Stack Developer (AI-Assisted Development) - Remote",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-waymark-1130896",
-            "date": 1774620025
-        },
-        {
-            "title": "Associate Social Media Engagement Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-social-media-engagement-manager-nex-1130895",
-            "date": 1774620016
-        },
-        {
-            "title": "Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-openrouter-1130894",
-            "date": 1774620007
-        },
-        {
-            "title": "Site Reliability Engineer US West",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-us-west-minio-1130893",
-            "date": 1774562482
+            "link": "https://weworkremotely.com/remote-jobs/creatunity-llc-senior-full-stack-developer-ai-assisted-development-remote",
+            "date": 1774038716
         },
         {
             "title": "Vee Technologiesorporated: Product Engineering Operations Director",
@@ -1299,30 +1299,6 @@
             "date": 1773150770
         },
         {
-            "title": "Attio: Senior Product Engineer [Backend]",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/attio-senior-product-engineer-backend",
-            "date": 1773088392
-        },
-        {
-            "title": "Agentic Dream: Senior Full Stack Developer (Java)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/agentic-dream-senior-full-stack-developer-java",
-            "date": 1773088356
-        },
-        {
             "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1332,6 +1308,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
             "date": 1762937762
+        },
+        {
+            "title": "Stellar AI: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
+            "date": 1761075386
         },
         {
             "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
