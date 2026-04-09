@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-09 12:52:41",
+    "generated_at": "2026-04-09 18:57:37",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Senior Backend Engineer MS050KA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-ms050ka-coderio-1131031",
+            "date": 1775656853
+        },
+        {
+            "title": "Intermediate Gameplay Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-intermediate-gameplay-software-engineer-blackbird-interactive-1131030",
+            "date": 1775656845
+        },
+        {
+            "title": "Manager Product Development",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-product-development-c1-1131029",
+            "date": 1775656819
+        },
+        {
+            "title": "Staff Engineer Digital Lending",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-engineer-digital-lending-oaknorth-1131028",
+            "date": 1775656812
+        },
+        {
+            "title": "Director of Security Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-security-engineering-c1-1131027",
+            "date": 1775656804
+        },
         {
             "title": "Sales Development Representative",
             "company": "RemoteOK",
@@ -994,63 +1049,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-scientific-director-medical-affairs-iovance-biotherapeutics-1130905",
             "date": 1774648821
-        },
-        {
-            "title": "VP Data Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-data-engineering-consumer-edge-1130904",
-            "date": 1774648807
-        },
-        {
-            "title": "Senior Payroll Associate Indian Payroll India",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-payroll-associate-indian-payroll-india-deel-1130900",
-            "date": 1774620053
-        },
-        {
-            "title": "Associate Director CMC",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-director-cmc-allucent-1130899",
-            "date": 1774620047
-        },
-        {
-            "title": "Talent Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-talent-partner-cloudbeds-1130898",
-            "date": 1774620041
-        },
-        {
-            "title": "Spanish Speaking Customer Service Agent For Electronics Company Work Greece",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-spanish-speaking-customer-service-agent-for-electronics-company-work-greece-mercier-consultancy-group-1130897",
-            "date": 1774620031
         },
         {
             "title": "Creatunity Llc: Senior Full-Stack Developer (AI-Assisted Development) - Remote",
