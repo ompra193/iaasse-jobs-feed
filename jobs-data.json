@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-10 12:57:59",
+    "generated_at": "2026-04-10 18:40:43",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Creative Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-lumimeds-1131047",
+            "date": 1775743207
+        },
         {
             "title": "National Account Manager Footwear",
             "company": "RemoteOK",
@@ -1032,17 +1043,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-applied-computational-nutrition-scientist-wisecode-1130925",
             "date": 1774735239
-        },
-        {
-            "title": "Staff Machine Learning Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-machine-learning-engineer-fullscript-1130924",
-            "date": 1774735232
         },
         {
             "title": "Releaf: CRO Design Specialist",
