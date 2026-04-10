@@ -1,8 +1,124 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-10 00:36:52",
+    "generated_at": "2026-04-10 08:03:56",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "National Account Manager Footwear",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-national-account-manager-footwear-arc39teryx-1131046",
+            "date": 1775714488
+        },
+        {
+            "title": "E01 HR Compliance Specialist IV",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-e01-hr-compliance-specialist-iv-expansia-1131045",
+            "date": 1775714479
+        },
+        {
+            "title": "IT Specialist II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-it-specialist-ii-makpar-1131044",
+            "date": 1775714472
+        },
+        {
+            "title": "Senior Client Data &amp; Analytics Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-client-data-amp-analytics-lead-kraken-1131043",
+            "date": 1775714464
+        },
+        {
+            "title": "Licensed Professional Counselor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-licensed-professional-counselor-pelago-1131042",
+            "date": 1775714455
+        },
+        {
+            "title": "Senior Emulation Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-emulation-engineer-encharge-ai-1131041",
+            "date": 1775714447
+        },
+        {
+            "title": "Mixed Signal IC Layout Design Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mixed-signal-ic-layout-design-engineer-tenstorrent-1131040",
+            "date": 1775714437
+        },
+        {
+            "title": "Senior Technical Sourcer Software",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-sourcer-software-anduril-industries-1131039",
+            "date": 1775714427
+        },
+        {
+            "title": "Lead Instructor Applied AI Engineering Summer 2026",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-instructor-applied-ai-engineering-summer-2026-codepath-1131038",
+            "date": 1775714416
+        },
+        {
+            "title": "Principal Design System Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-design-system-designer-twin-health-1131037",
+            "date": 1775714408
+        },
         {
             "title": "Software Engineering Manager I Mobile",
             "company": "RemoteOK",
@@ -929,125 +1045,37 @@
             "date": 1774735232
         },
         {
-            "title": "Cloud Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-security-engineer-moonpay-1130923",
-            "date": 1774735225
-        },
-        {
-            "title": "Senior Security Engineer Automation",
-            "company": "RemoteOK",
+            "title": "Releaf: CRO Design Specialist",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-automation-moonpay-1130921",
-            "date": 1774735206
+            "link": "https://weworkremotely.com/remote-jobs/releaf-cro-design-specialist",
+            "date": 1774038903
         },
         {
-            "title": "Clinician Experience Specialist",
-            "company": "RemoteOK",
+            "title": "OrangeDot: Lead monday.com Consultant (CRM Product)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-clinician-experience-specialist-nabla-1130917",
-            "date": 1774677633
+            "link": "https://weworkremotely.com/remote-jobs/orangedot-lead-monday-com-consultant-crm-product",
+            "date": 1774038882
         },
         {
-            "title": "Content &amp; Training Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-amp-training-manager-fi-1130916",
-            "date": 1774677626
-        },
-        {
-            "title": "Staff Software Engineer Platform",
-            "company": "RemoteOK",
+            "title": "Kdci: PIM Specialist (Product Information Specialist)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-platform-smithrx-1130915",
-            "date": 1774677619
-        },
-        {
-            "title": "Senior Staff Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-staff-data-engineer-smithrx-1130914",
-            "date": 1774677609
-        },
-        {
-            "title": "AI Data Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-data-specialist-micro1-1130913",
-            "date": 1774664645
-        },
-        {
-            "title": "Engenharia Software Engineer III Golang Elixir",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engenharia-software-engineer-iii-golang-elixir-stone-1130912",
-            "date": 1774648881
-        },
-        {
-            "title": "Salesforce Technical Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-salesforce-technical-consultant-hunt-st-1130911",
-            "date": 1774648870
-        },
-        {
-            "title": "Nurse Practitioner Weekdays 9 00am 6 00pm PST Telehealth Primary Care",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "nurse"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-nurse-practitioner-weekdays-9-00am-6-00pm-pst-telehealth-primary-care-curai-1130910",
-            "date": 1774648863
+            "link": "https://weworkremotely.com/remote-jobs/kdci-pim-specialist-product-information-specialist",
+            "date": 1774038876
         },
         {
             "title": "Phantom: Product Design (Wallet Platform)",
@@ -1259,41 +1287,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/microventures-senior-full-stack-developer-laravel-vue-js",
             "date": 1773261097
-        },
-        {
-            "title": "Workana: Jr Product Administrator",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/workana-jr-product-administrator",
-            "date": 1773174973
-        },
-        {
-            "title": "Dropbox: Staff Product Backend Software Engineer, Core Sync",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dropbox-staff-product-backend-software-engineer-core-sync",
-            "date": 1773174927
-        },
-        {
-            "title": "Abstrabit Technologies: Full Stack Developer Intern (AI Focus | Class of 2025 | Conversion Opportunity)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/abstrabit-technologies-full-stack-developer-intern-ai-focus-class-of-2025-conversion-opportunity",
-            "date": 1773174855
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
