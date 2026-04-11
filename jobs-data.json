@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-11 18:27:48",
+    "generated_at": "2026-04-12 00:14:33",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Operations Engineer Kuala Lumpur",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-engineer-kuala-lumpur-xsolla-1131075",
+            "date": 1775858467
+        },
+        {
+            "title": "Senior Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-kiefer-1131074",
+            "date": 1775858430
+        },
+        {
+            "title": "Implementation Specialist Poland",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-poland-wemolo-1131073",
+            "date": 1775858423
+        },
+        {
+            "title": "Xsolla Senior Full stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-xsolla-senior-full-stack-engineer-xsolla-1131072",
+            "date": 1775858417
+        },
+        {
+            "title": "Junior Integration Manager US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-integration-manager-us-xsolla-1131071",
+            "date": 1775858408
+        },
         {
             "title": "Cyber Security Analyst",
             "company": "RemoteOK",
@@ -981,61 +1036,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-world-golf-tour-wgt-1130952",
             "date": 1775023256
-        },
-        {
-            "title": "Manager Site Contracts Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-site-contracts-management-precision-medicine-group-1130951",
-            "date": 1775023250
-        },
-        {
-            "title": "Bilingual Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-customer-success-manager-acuity-insights-1130950",
-            "date": 1775023241
-        },
-        {
-            "title": "People Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-people-operations-manager-charterup-1130949",
-            "date": 1775023234
-        },
-        {
-            "title": "Director of Product Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-product-marketing-medallion-1130948",
-            "date": 1775023225
-        },
-        {
-            "title": "Operations Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-project-manager-xsolla-1130947",
-            "date": 1775023215
         },
         {
             "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
