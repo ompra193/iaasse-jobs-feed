@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-11 12:31:04",
-    "total_jobs": 115,
+    "generated_at": "2026-04-11 18:27:48",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Cyber Security Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cyber-security-analyst-trilogy-federal-1131069",
+            "date": 1775829621
+        },
+        {
+            "title": "Engineering Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-hinge-health-1131068",
+            "date": 1775829614
+        },
+        {
+            "title": "Senior FinCrime Support Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-fincrime-support-analyst-apron-1131067",
+            "date": 1775829608
+        },
+        {
+            "title": "Staff Software Engineer Full Stack",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-full-stack-ternary-1131066",
+            "date": 1775829602
+        },
         {
             "title": "Sr Sourcer GTM Leadership",
             "company": "RemoteOK",
@@ -994,37 +1038,15 @@
             "date": 1775023215
         },
         {
-            "title": "WordPress Developer",
-            "company": "RemoteOK",
+            "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-wordpress-developer-data-group-1130946",
-            "date": 1775021655
-        },
-        {
-            "title": "Account Executive Enterprise",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-glia-1130944",
-            "date": 1774994430
-        },
-        {
-            "title": "Platform Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-platform-administrator-sharkninja-1130943",
-            "date": 1774994424
+            "link": "https://weworkremotely.com/remote-jobs/smart-working-solutions-senior-full-stack-developer-kotlin-vue-js-remote-full-time-as197",
+            "date": 1774211534
         },
         {
             "title": "Moxie: Staff product engineer (fullstack) (IC-4)",
@@ -1271,17 +1293,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer",
             "date": 1773399127
-        },
-        {
-            "title": "CodeSignal: Software Engineer, Business Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
-            "date": 1762937762
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
