@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-12 18:31:35",
-    "total_jobs": 117,
+    "generated_at": "2026-04-13 00:20:49",
+    "total_jobs": 116,
     "jobs": [
         {
             "title": "Provider Success Manager",
@@ -1038,15 +1038,30 @@
             "date": 1775075053
         },
         {
-            "title": "Trading Technology Engineer",
-            "company": "RemoteOK",
+            "title": "LeadUp AI: Full-Stack Developer (Junior)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-trading-technology-engineer-bitmex-1130960",
-            "date": 1775052044
+            "link": "https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior",
+            "date": 1774404855
+        },
+        {
+            "title": "Knack: Senior Frontend Engineer (React / Next.js) \u2014 Full-Time, Contract",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract",
+            "date": 1774380537
         },
         {
             "title": "OnTheGoSystems: Full-Stack PHP Developer",
@@ -1282,30 +1297,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js",
             "date": 1773520320
-        },
-        {
-            "title": "ClickGUARD Inc.: AI Process Optimization Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/clickguard-inc-ai-process-optimization-lead",
-            "date": 1773422515
-        },
-        {
-            "title": "Sanctuary Computer: Senior Firmware Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer",
-            "date": 1773407816
         },
         {
             "title": "Sticker Mule: Software engineer",
