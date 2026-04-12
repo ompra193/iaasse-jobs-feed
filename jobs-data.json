@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-12 12:44:22",
+    "generated_at": "2026-04-12 18:31:35",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Provider Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-provider-success-manager-regard-1131084",
+            "date": 1775916009
+        },
         {
             "title": "Senior IAM Engineer",
             "company": "RemoteOK",
@@ -689,17 +700,6 @@
             "date": 1775598736
         },
         {
-            "title": "Crypto Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131018",
-            "date": 1775567822
-        },
-        {
             "title": "Product Manager Data Management &amp; Platform",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1049,6 +1049,19 @@
             "date": 1775052044
         },
         {
+            "title": "OnTheGoSystems: Full-Stack PHP Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1",
+            "date": 1774273587
+        },
+        {
             "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1293,17 +1306,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-firmware-engineer",
             "date": 1773407816
-        },
-        {
-            "title": "ELECTE S.R.L.: Full-Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/electe-s-r-l-full-stack-developer",
-            "date": 1773399127
         },
         {
             "title": "Sticker Mule: Software engineer",
