@@ -1,8 +1,100 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-12 00:14:33",
-    "total_jobs": 116,
+    "generated_at": "2026-04-12 08:05:23",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior IAM Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-iam-engineer-ionq-1131083",
+            "date": 1775887272
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-radformation-1131082",
+            "date": 1775887261
+        },
+        {
+            "title": "Senior Engineer Platform Devops",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineer-platform-devops-cloudwalk-1131081",
+            "date": 1775887253
+        },
+        {
+            "title": "Customer Service Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-above-lending-1131080",
+            "date": 1775887246
+        },
+        {
+            "title": "Marketing Operations Specialist HR Solutions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-hr-solutions-mitratech-1131079",
+            "date": 1775887239
+        },
+        {
+            "title": "Executive Assistant The CEO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-linus-health-1131078",
+            "date": 1775887229
+        },
+        {
+            "title": "Technical Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-supplyhouse-com-1131077",
+            "date": 1775887218
+        },
+        {
+            "title": "Helpdesk Customer Support Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-helpdesk-customer-support-agent-whip-inc-1131076",
+            "date": 1775887207
+        },
         {
             "title": "Operations Engineer Kuala Lumpur",
             "company": "RemoteOK",
@@ -957,87 +1049,6 @@
             "date": 1775052044
         },
         {
-            "title": "Manager Deal Desk &amp; Order Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-deal-desk-amp-order-management-doxel-1130959",
-            "date": 1775052034
-        },
-        {
-            "title": "Associate Payroll & Billing Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-payroll-billing-specialist-g-p-1130958",
-            "date": 1775052024
-        },
-        {
-            "title": "Payments &amp; Billing Operations Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-payments-amp-billing-operations-analyst-automatiq-1130956",
-            "date": 1775052006
-        },
-        {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-prove-1130955",
-            "date": 1775023282
-        },
-        {
-            "title": "Sales Operations Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-operations-project-manager-xsolla-1130954",
-            "date": 1775023269
-        },
-        {
-            "title": "Biology AI Training Expert",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-biology-ai-training-expert-anyone-ai-1130953",
-            "date": 1775023262
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-world-golf-tour-wgt-1130952",
-            "date": 1775023256
-        },
-        {
             "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1295,6 +1306,17 @@
             "date": 1773399127
         },
         {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
+            "date": 1769089549
+        },
+        {
             "title": "Stellar AI: Senior Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1319,17 +1341,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
             "date": 1753281114
-        },
-        {
-            "title": "Mobena: Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
-            "date": 1747425814
         }
     ]
 }
