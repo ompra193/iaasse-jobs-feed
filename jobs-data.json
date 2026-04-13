@@ -1,8 +1,46 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-13 18:56:20",
+    "generated_at": "2026-04-14 00:44:00",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Senior Cloud Architect ML AI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud",
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-architect-ml-ai-doit-1131089",
+            "date": 1776031227
+        },
+        {
+            "title": "HONK Client Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-honk-client-success-manager-honk-1131088",
+            "date": 1776031217
+        },
+        {
+            "title": "Director of Strategic Accounts Food Service &amp; Alt Channels",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-strategic-accounts-food-service-amp-alt-channels-skinny-dipped-1131087",
+            "date": 1776031206
+        },
         {
             "title": "Content Operations Coordinator",
             "company": "RemoteOK",
@@ -1005,37 +1043,17 @@
             "date": 1775109613
         },
         {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
+            "title": "Aktor AI: (Senior) AI Solutions Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sysdig-1130967",
-            "date": 1775080822
-        },
-        {
-            "title": "Lithuanian Localization QA Tester Proofreader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lithuanian-localization-qa-tester-proofreader-welo-global-1130966",
-            "date": 1775080813
-        },
-        {
-            "title": "Call Centre Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-call-centre-manager-huzzle-1130965",
-            "date": 1775080803
+            "link": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
+            "date": 1774431322
         },
         {
             "title": "LeadUp AI: Full-Stack Developer (Junior)",
@@ -1261,17 +1279,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer",
             "date": 1773727535
-        },
-        {
-            "title": "Rare Days: Full-Stack Engineering Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/rare-days-full-stack-engineering-lead",
-            "date": 1773706680
         },
         {
             "title": "Confluent: Senior Manager, Product-Led Growth Strategy and Operations",
