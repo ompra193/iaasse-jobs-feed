@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-13 08:10:20",
+    "generated_at": "2026-04-13 13:33:33",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Content Operations Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-operations-coordinator-colibri-group-1131086",
+            "date": 1776002404
+        },
         {
             "title": "Provider Success Manager",
             "company": "RemoteOK",
@@ -1025,17 +1036,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-call-centre-manager-huzzle-1130965",
             "date": 1775080803
-        },
-        {
-            "title": "Junior Crypto Analyst & Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-whitebridge-ltd-1130961",
-            "date": 1775075053
         },
         {
             "title": "LeadUp AI: Full-Stack Developer (Junior)",
