@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-14 18:56:15",
-    "total_jobs": 116,
+    "generated_at": "2026-04-15 00:45:34",
+    "total_jobs": 114,
     "jobs": [
+        {
+            "title": "Principal Care Management Care Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-care-management-care-coordinator-mtc-care-1131097",
+            "date": 1776117672
+        },
+        {
+            "title": "Customer Success Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-workera-ai-1131096",
+            "date": 1776117660
+        },
+        {
+            "title": "Senior Software Engineer II Applied AI and Evaluations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-and-evaluations-smartsheet-1131095",
+            "date": 1776117647
+        },
         {
             "title": "Customer Success Manager II",
             "company": "RemoteOK",
@@ -984,63 +1019,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-strategic-core-account-executive-cpg-databricks-databricks-1130980",
             "date": 1775167206
-        },
-        {
-            "title": "Intermediate Full Stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-intermediate-full-stack-engineer-runn-1130979",
-            "date": 1775140570
-        },
-        {
-            "title": "Senior Full Stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-runn-1130978",
-            "date": 1775139818
-        },
-        {
-            "title": "Banner Consultant Student Accounts Receivable",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "accounts"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-banner-consultant-student-accounts-receivable-strata-information-group-1130974",
-            "date": 1775109677
-        },
-        {
-            "title": "Accounting Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-accounting-intern-specterops-1130972",
-            "date": 1775109655
-        },
-        {
-            "title": "Senior Engagement Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-engagement-manager-medallion-1130971",
-            "date": 1775109646
         },
         {
             "title": "Cue: Senior Software Engineer",
