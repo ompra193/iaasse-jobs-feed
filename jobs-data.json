@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-14 00:44:00",
+    "generated_at": "2026-04-14 08:03:56",
     "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Customer Success Manager II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ii-renaissance-learning-north-america-1131091",
+            "date": 1776060017
+        },
+        {
+            "title": "Inside Sales Specialist Lead Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-inside-sales-specialist-lead-manager-house-buyers-of-america-1131090",
+            "date": 1776060007
+        },
         {
             "title": "Senior Cloud Architect ML AI",
             "company": "RemoteOK",
@@ -1021,26 +1043,15 @@
             "date": 1775109646
         },
         {
-            "title": "Forward deployed Engineer LatAm",
-            "company": "RemoteOK",
+            "title": "Cue: Senior Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-latam-clara-1130970",
-            "date": 1775109635
-        },
-        {
-            "title": "Internship Marketing Summer 2026",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-internship-marketing-summer-2026-concentric-1130969",
-            "date": 1775109613
+            "link": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
+            "date": 1774470102
         },
         {
             "title": "Aktor AI: (Senior) AI Solutions Engineer",
@@ -1290,20 +1301,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations",
             "date": 1773606712
-        },
-        {
-            "title": "Master-works: Full-stack Developer (React & Node.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/master-works-full-stack-developer-react-node-js",
-            "date": 1773520320
         },
         {
             "title": "Sticker Mule: Software engineer",
