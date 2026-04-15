@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-15 13:16:14",
-    "total_jobs": 114,
+    "generated_at": "2026-04-15 18:54:27",
+    "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Operations Coordinator Clinical Trials",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-coordinator-clinical-trials-healthmatch-1131107",
+            "date": 1776175209
+        },
+        {
+            "title": "Technical Support L3 Weekends",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-l3-weekends-redis-1131106",
+            "date": 1776175203
+        },
         {
             "title": "Implementation Specialist",
             "company": "RemoteOK",
@@ -1004,17 +1026,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-legal-counsel-ai-trainer-freelance-8-20-hrs-week-10x-team-1130991",
             "date": 1775253604
-        },
-        {
-            "title": "Senior Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-development-representative-huzzle-1130989",
-            "date": 1775196003
         },
         {
             "title": "FINN: Lead Frontend Engineer",
