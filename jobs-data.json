@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-15 18:54:27",
+    "generated_at": "2026-04-16 00:48:09",
     "total_jobs": 115,
     "jobs": [
+        {
+            "title": "Culture & People Development Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-culture-people-development-specialist-ekumen-1131108",
+            "date": 1776204005
+        },
         {
             "title": "Operations Coordinator Clinical Trials",
             "company": "RemoteOK",
@@ -1012,20 +1023,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-ux-ui-designer-gomining-1130992",
             "date": 1775253612
-        },
-        {
-            "title": "Legal Counsel AI Trainer Freelance 8 20 hrs week",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai",
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-legal-counsel-ai-trainer-freelance-8-20-hrs-week-10x-team-1130991",
-            "date": 1775253604
         },
         {
             "title": "FINN: Lead Frontend Engineer",
