@@ -1,8 +1,98 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-15 00:45:34",
+    "generated_at": "2026-04-15 08:02:25",
     "total_jobs": 114,
     "jobs": [
+        {
+            "title": "Implementation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-launchbrightly-1131105",
+            "date": 1776148100
+        },
+        {
+            "title": "Sr Software Engineer B E",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sr-software-engineer-b-e-rebuy-inc-1131104",
+            "date": 1776146473
+        },
+        {
+            "title": "Senior Product Designer Product Design UX",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-product-design-ux-ubiminds-1131103",
+            "date": 1776146462
+        },
+        {
+            "title": "Engineering Manager Data Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-data-platform-trueml-1131102",
+            "date": 1776146455
+        },
+        {
+            "title": "Independent Mental Health Therapist New Mexico",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-independent-mental-health-therapist-new-mexico-ascend-healthcare-1131101",
+            "date": 1776146436
+        },
+        {
+            "title": "Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-workos-1131100",
+            "date": 1776146420
+        },
+        {
+            "title": "Vice President Client Success West",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-client-success-west-enablecomp-1131099",
+            "date": 1776146413
+        },
+        {
+            "title": "Product Manager Market Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-market-platform-voltus-1131098",
+            "date": 1776146405
+        },
         {
             "title": "Principal Care Management Care Coordinator",
             "company": "RemoteOK",
@@ -398,17 +488,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-front-end-engineer-decile-group-1131058",
             "date": 1775800820
-        },
-        {
-            "title": "Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-decile-group-1131057",
-            "date": 1775800813
         },
         {
             "title": "Consultant Restoration and Remediation",
@@ -938,87 +1017,15 @@
             "date": 1775196003
         },
         {
-            "title": "Website Maintenance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-website-maintenance-crewbloom-1130987",
-            "date": 1775167286
-        },
-        {
-            "title": "Lead Consultant Public Sector",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-consultant-public-sector-celonis-1130986",
-            "date": 1775167280
-        },
-        {
-            "title": "Product Manager Energy Storage Controls & Telemetry",
-            "company": "RemoteOK",
+            "title": "FINN: Lead Frontend Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-energy-storage-controls-telemetry-verse-1130985",
-            "date": 1775167270
-        },
-        {
-            "title": "Senior Strategist Future of Work & AI Readiness",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-strategist-future-of-work-ai-readiness-american-institutes-for-research-1130983",
-            "date": 1775167239
-        },
-        {
-            "title": "Customs Compliance Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customs-compliance-consultant-reachdesk-ltd-1130982",
-            "date": 1775167229
-        },
-        {
-            "title": "Senior Backend Engineer HyperDX",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-hyperdx-clickhouse-1130981",
-            "date": 1775167218
-        },
-        {
-            "title": "Strategic Core Account Executive CPG Databricks",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategic-core-account-executive-cpg-databricks-databricks-1130980",
-            "date": 1775167206
+            "link": "https://weworkremotely.com/remote-jobs/finn-lead-frontend-engineer",
+            "date": 1774474533
         },
         {
             "title": "Cue: Senior Software Engineer",
@@ -1268,17 +1275,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/strange-loop-labs-senior-software-engineer",
             "date": 1773727535
-        },
-        {
-            "title": "Confluent: Senior Manager, Product-Led Growth Strategy and Operations",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/confluent-senior-manager-product-led-growth-strategy-and-operations",
-            "date": 1773606712
         },
         {
             "title": "Sticker Mule: Software engineer",
