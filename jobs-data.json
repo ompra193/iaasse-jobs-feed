@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-16 13:16:30",
-    "total_jobs": 117,
+    "generated_at": "2026-04-16 19:14:12",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Director of Content Marketing &amp; Media",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-content-marketing-amp-media-luxury-presence-1131121",
+            "date": 1776261660
+        },
+        {
+            "title": "Banking Full Stack Software Developer TSCM 43657",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-banking-full-stack-software-developer-tscm-43657-eleks-1131120",
+            "date": 1776261632
+        },
+        {
+            "title": "Manager DashMart Supply Chain Strategy & Analytics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-dashmart-supply-chain-strategy-analytics-doordash-usa-1131119",
+            "date": 1776261625
+        },
+        {
+            "title": "Principal Specialist Counsel Financial Crime & Compliance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-specialist-counsel-financial-crime-compliance-agoda-1131118",
+            "date": 1776261617
+        },
+        {
+            "title": "Privacy Principal Counsel",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-privacy-principal-counsel-agoda-1131117",
+            "date": 1776261607
+        },
         {
             "title": "Software Engineer Payment Operations",
             "company": "RemoteOK",
@@ -995,50 +1052,15 @@
             "date": 1775599204
         },
         {
-            "title": "Senior front end developer",
-            "company": "RemoteOK",
+            "title": "EngagedMD: Staff Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-front-end-developer-expatfile-tax-1131019",
-            "date": 1775598736
-        },
-        {
-            "title": "Product Manager Data Management &amp; Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-data-management-amp-platform-hhaexchange-1131017",
-            "date": 1775541679
-        },
-        {
-            "title": "Client Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-support-specialist-trueml-1131016",
-            "date": 1775541672
-        },
-        {
-            "title": "English Contract Attorney",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-english-contract-attorney-contact-government-services-llc-1131014",
-            "date": 1775541654
+            "link": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
+            "date": 1774620218
         },
         {
             "title": "FINN: Lead Frontend Engineer",
@@ -1277,17 +1299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement",
             "date": 1773779494
-        },
-        {
-            "title": "Yoko Co: WordPress Support Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yoko-co-wordpress-support-engineer",
-            "date": 1773752509
         },
         {
             "title": "Cortes 23: Software Engineer",
