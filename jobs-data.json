@@ -1,8 +1,115 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-16 19:14:12",
-    "total_jobs": 118,
+    "generated_at": "2026-04-17 00:44:51",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Travel & Visa Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-travel-visa-manager-eqvilent-1131143",
+            "date": 1776290514
+        },
+        {
+            "title": "Paralegal Legal Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-legal-operations-sterlington-pllc-1131142",
+            "date": 1776290505
+        },
+        {
+            "title": "Retail Strategic Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-retail-strategic-associate-rowan-1131141",
+            "date": 1776290494
+        },
+        {
+            "title": "Service Operations Scheduler",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-service-operations-scheduler-palmetto-clean-technology-1131140",
+            "date": 1776290465
+        },
+        {
+            "title": "Regulatory Manager Senior Regulatory Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regulatory-manager-senior-regulatory-manager-precision-medicine-group-1131139",
+            "date": 1776290456
+        },
+        {
+            "title": "Manager Product Analytics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-product-analytics-pinwheel-1131138",
+            "date": 1776290447
+        },
+        {
+            "title": "Retail Store Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1131137",
+            "date": 1776290438
+        },
+        {
+            "title": "Business Development Manager Real World Data",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-manager-real-world-data-glooko-1131136",
+            "date": 1776290425
+        },
+        {
+            "title": "Piercing Studio Nurse",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "nurse"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-piercing-studio-nurse-rowan-1131135",
+            "date": 1776290414
+        },
         {
             "title": "Director of Content Marketing &amp; Media",
             "company": "RemoteOK",
@@ -964,92 +1071,15 @@
             "date": 1775656845
         },
         {
-            "title": "Manager Product Development",
-            "company": "RemoteOK",
+            "title": "Sanctuary Computer: Senior Frontend Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-product-development-c1-1131029",
-            "date": 1775656819
-        },
-        {
-            "title": "Staff Engineer Digital Lending",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-engineer-digital-lending-oaknorth-1131028",
-            "date": 1775656812
-        },
-        {
-            "title": "Director of Security Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-security-engineering-c1-1131027",
-            "date": 1775656804
-        },
-        {
-            "title": "Alumni Relationship Manager Casablanca",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-alumni-relationship-manager-casablanca-alx-africa-1131025",
-            "date": 1775628021
-        },
-        {
-            "title": "Benefits Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-benefits-manager-instructure-inc-1131024",
-            "date": 1775628011
-        },
-        {
-            "title": "Staff Software Engineer CRM LATAM",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-crm-latam-luxury-presence-1131023",
-            "date": 1775628004
-        },
-        {
-            "title": "Payroll Operations and Systems Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-payroll-operations-and-systems-manager-arbor-education-1131021",
-            "date": 1775599212
-        },
-        {
-            "title": "User Acquisition Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-user-acquisition-specialist-hyperlab-1131020",
-            "date": 1775599204
+            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-1",
+            "date": 1774628908
         },
         {
             "title": "EngagedMD: Staff Software Engineer",
@@ -1277,17 +1307,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
             "date": 1773932894
-        },
-        {
-            "title": "Mangomint: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mangomint-senior-software-engineer",
-            "date": 1773868096
         },
         {
             "title": "Mesh: Director of Product Money Movement",
