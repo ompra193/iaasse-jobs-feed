@@ -1,8 +1,96 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-17 00:44:51",
-    "total_jobs": 119,
+    "generated_at": "2026-04-17 08:04:57",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Technical Support Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-analyst-yuno-1131151",
+            "date": 1776319272
+        },
+        {
+            "title": "Director Revenue Transformation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-revenue-transformation-gong-io-1131150",
+            "date": 1776319265
+        },
+        {
+            "title": "Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-guidepoint-security-1131149",
+            "date": 1776319257
+        },
+        {
+            "title": "Partner Development Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-partner-development-director-clozd-1131148",
+            "date": 1776319249
+        },
+        {
+            "title": "Test Automation Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-test-automation-engineer-540-1131147",
+            "date": 1776319240
+        },
+        {
+            "title": "Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-lively-1131146",
+            "date": 1776319231
+        },
+        {
+            "title": "Senior Solutions Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-solutions-architect-540-1131145",
+            "date": 1776319222
+        },
+        {
+            "title": "CNAPP Security Engineer Mid Atlantic region",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144",
+            "date": 1776319206
+        },
         {
             "title": "Travel & Visa Manager",
             "company": "RemoteOK",
@@ -344,17 +432,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-independent-mental-health-therapist-new-mexico-ascend-healthcare-1131101",
             "date": 1776146436
-        },
-        {
-            "title": "Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-workos-1131100",
-            "date": 1776146420
         },
         {
             "title": "Vice President Client Success West",
@@ -981,94 +1058,15 @@
             "date": 1775714416
         },
         {
-            "title": "Principal Design System Designer",
-            "company": "RemoteOK",
+            "title": "EventMobi: Senior Front End Engineer - Remote",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-design-system-designer-twin-health-1131037",
-            "date": 1775714408
-        },
-        {
-            "title": "Software Engineering Manager I Mobile",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineering-manager-i-mobile-stone-1131036",
-            "date": 1775685659
-        },
-        {
-            "title": "Team Lead Corporate Accounting",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-team-lead-corporate-accounting-lightspeed-commerce-1131035",
-            "date": 1775685648
-        },
-        {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-thoughtworks-1131034",
-            "date": 1775685637
-        },
-        {
-            "title": "Solutions Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-architect-smartsheet-1131033",
-            "date": 1775685616
-        },
-        {
-            "title": "Senior Implementation Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-implementation-consultant-branch-1131032",
-            "date": 1775685607
-        },
-        {
-            "title": "Senior Backend Engineer MS050KA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-ms050ka-coderio-1131031",
-            "date": 1775656853
-        },
-        {
-            "title": "Intermediate Gameplay Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-intermediate-gameplay-software-engineer-blackbird-interactive-1131030",
-            "date": 1775656845
+            "link": "https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-engineer-remote-1",
+            "date": 1774631245
         },
         {
             "title": "Sanctuary Computer: Senior Frontend Developer",
@@ -1307,17 +1305,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
             "date": 1773932894
-        },
-        {
-            "title": "Mesh: Director of Product Money Movement",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mesh-director-of-product-money-movement",
-            "date": 1773779494
         },
         {
             "title": "Cortes 23: Software Engineer",
