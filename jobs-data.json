@@ -1,8 +1,113 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-17 18:50:13",
-    "total_jobs": 117,
+    "generated_at": "2026-04-18 00:30:33",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior React Native Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-react-native-developer-headway-1131173",
+            "date": 1776384982
+        },
+        {
+            "title": "Global Data Partnership Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-global-data-partnership-director-insider-one-1131171",
+            "date": 1776376873
+        },
+        {
+            "title": "PR Social Media Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pr-social-media-intern-sezzle-1131170",
+            "date": 1776376865
+        },
+        {
+            "title": "Senior Software Engineer Cloud Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cloud-platform-signifyd-1131169",
+            "date": 1776376856
+        },
+        {
+            "title": "Senior Compliance Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-compliance-manager-donorbox-1131168",
+            "date": 1776376847
+        },
+        {
+            "title": "Frontend Developer Vue.js",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-frontend-developer-vue-js-insider-one-1131167",
+            "date": 1776376835
+        },
+        {
+            "title": "Freelance Senior Full Stack Software Architect and Collateral Management Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-senior-full-stack-software-architect-and-collateral-management-specialist-wise-integration-1131166",
+            "date": 1776376828
+        },
+        {
+            "title": "Senior Software Engineer App Infra",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-app-infra-ocrolus-inc-1131164",
+            "date": 1776376811
+        },
+        {
+            "title": "Crypto Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131163",
+            "date": 1776368476
+        },
         {
             "title": "UI UX Designer UK",
             "company": "RemoteOK",
@@ -953,98 +1058,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-finance-intern-presence-1131053",
             "date": 1775772054
-        },
-        {
-            "title": "Technical Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-specialist-great-minds-1131052",
-            "date": 1775772044
-        },
-        {
-            "title": "Licensed Master Social Worker",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-licensed-master-social-worker-brave-health-1131051",
-            "date": 1775772038
-        },
-        {
-            "title": "Senior Director Field Engineering",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-field-engineering-smartsheet-1131050",
-            "date": 1775772032
-        },
-        {
-            "title": "Creative Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-lumimeds-1131047",
-            "date": 1775743207
-        },
-        {
-            "title": "National Account Manager Footwear",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-national-account-manager-footwear-arc39teryx-1131046",
-            "date": 1775714488
-        },
-        {
-            "title": "E01 HR Compliance Specialist IV",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-e01-hr-compliance-specialist-iv-expansia-1131045",
-            "date": 1775714479
-        },
-        {
-            "title": "IT Specialist II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-specialist-ii-makpar-1131044",
-            "date": 1775714472
-        },
-        {
-            "title": "Senior Client Data &amp; Analytics Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-client-data-amp-analytics-lead-kraken-1131043",
-            "date": 1775714464
         },
         {
             "title": "EventMobi: Senior Front End Engineer - Remote",
