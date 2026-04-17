@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-17 13:16:50",
-    "total_jobs": 118,
+    "generated_at": "2026-04-17 18:50:13",
+    "total_jobs": 117,
     "jobs": [
+        {
+            "title": "UI UX Designer UK",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ui-ux-designer-uk-bjak-1131158",
+            "date": 1776348044
+        },
+        {
+            "title": "Aprio PH People Operations Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-aprio-ph-people-operations-coordinator-aprio-1131157",
+            "date": 1776348038
+        },
+        {
+            "title": "Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-bjak-1131156",
+            "date": 1776348027
+        },
+        {
+            "title": "Director AI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-ai-syner-g-1131155",
+            "date": 1776348021
+        },
+        {
+            "title": "Senior Manager International Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-international-sales-bamboohr-1131154",
+            "date": 1776348011
+        },
         {
             "title": "Technical Support Analyst",
             "company": "RemoteOK",
@@ -931,17 +988,6 @@
             "date": 1775772032
         },
         {
-            "title": "Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-sharebite-1131049",
-            "date": 1775772023
-        },
-        {
             "title": "Creative Director",
             "company": "RemoteOK",
             "company_logo": null,
@@ -999,63 +1045,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-client-data-amp-analytics-lead-kraken-1131043",
             "date": 1775714464
-        },
-        {
-            "title": "Licensed Professional Counselor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-licensed-professional-counselor-pelago-1131042",
-            "date": 1775714455
-        },
-        {
-            "title": "Senior Emulation Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-emulation-engineer-encharge-ai-1131041",
-            "date": 1775714447
-        },
-        {
-            "title": "Mixed Signal IC Layout Design Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mixed-signal-ic-layout-design-engineer-tenstorrent-1131040",
-            "date": 1775714437
-        },
-        {
-            "title": "Senior Technical Sourcer Software",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-sourcer-software-anduril-industries-1131039",
-            "date": 1775714427
-        },
-        {
-            "title": "Lead Instructor Applied AI Engineering Summer 2026",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-instructor-applied-ai-engineering-summer-2026-codepath-1131038",
-            "date": 1775714416
         },
         {
             "title": "EventMobi: Senior Front End Engineer - Remote",
