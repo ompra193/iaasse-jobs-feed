@@ -1,8 +1,100 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-18 12:38:05",
-    "total_jobs": 118,
+    "generated_at": "2026-04-18 18:32:23",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Solution Expert",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solution-expert-360learning-1131192",
+            "date": 1776434467
+        },
+        {
+            "title": "VP Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-sales-unlimit-1131191",
+            "date": 1776434458
+        },
+        {
+            "title": "NEOWIZ Santa Monica Localization Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-neowiz-santa-monica-localization-manager-neowiz-1131190",
+            "date": 1776434450
+        },
+        {
+            "title": "Executive Director Regulatory Affairs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-director-regulatory-affairs-kyverna-therapeutics-1131189",
+            "date": 1776434443
+        },
+        {
+            "title": "AI Senior Fullstack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-senior-fullstack-engineer-contentsquare-1131188",
+            "date": 1776434435
+        },
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-jeeves-1131187",
+            "date": 1776434428
+        },
+        {
+            "title": "Deputy Director Non entive Programs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-deputy-director-non-entive-programs-calstart-1131186",
+            "date": 1776434411
+        },
+        {
+            "title": "Backend Engineer Rome",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-rome-air-apps-1131185",
+            "date": 1776434403
+        },
         {
             "title": "Operations Associate Payment Integrity",
             "company": "RemoteOK",
@@ -985,81 +1077,17 @@
             "date": 1775858408
         },
         {
-            "title": "Cyber Security Analyst",
-            "company": "RemoteOK",
+            "title": "The Corvus Group Inc: React Frontend Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cyber-security-analyst-trilogy-federal-1131069",
-            "date": 1775829621
-        },
-        {
-            "title": "Senior FinCrime Support Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-fincrime-support-analyst-apron-1131067",
-            "date": 1775829608
-        },
-        {
-            "title": "Staff Software Engineer Full Stack",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-full-stack-ternary-1131066",
-            "date": 1775829602
-        },
-        {
-            "title": "Sr Sourcer GTM Leadership",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sr-sourcer-gtm-leadership-obsidian-security-1131065",
-            "date": 1775800888
-        },
-        {
-            "title": "Direct Response Writer & Creative Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-direct-response-writer-creative-lead-the-motley-fool-1131064",
-            "date": 1775800878
-        },
-        {
-            "title": "Power Systems Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-power-systems-engineer-carbon-direct-1131063",
-            "date": 1775800868
-        },
-        {
-            "title": "Bilingual Licensed Mental Health Therapist North Carolina",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-licensed-mental-health-therapist-north-carolina-ascend-healthcare-1131062",
-            "date": 1775800859
+            "link": "https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer",
+            "date": 1774744047
         },
         {
             "title": "EventMobi: Senior Front End Engineer - Remote",
@@ -1283,17 +1311,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/creatunity-llc-senior-full-stack-developer-ai-assisted-development-remote",
             "date": 1774038716
-        },
-        {
-            "title": "Vee Technologiesorporated: Product Engineering Operations Director",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vee-technologiesorporated-product-engineering-operations-director",
-            "date": 1773952289
         },
         {
             "title": "CloudDevs:  Java Developer - AI (Backend)",
