@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-18 18:32:23",
+    "generated_at": "2026-04-19 00:21:53",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Purchasing Specialist III",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-purchasing-specialist-iii-lg-electronics-1131200",
+            "date": 1776463266
+        },
+        {
+            "title": "Senior Software Engineer Golang",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-insider-one-1131199",
+            "date": 1776463257
+        },
+        {
+            "title": "Sales Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-executive-onevest-1131198",
+            "date": 1776463247
+        },
+        {
+            "title": "Senior Systems Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-administrator-entersekt-1131197",
+            "date": 1776463237
+        },
+        {
+            "title": "Senior Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-fluxon-1131196",
+            "date": 1776463223
+        },
+        {
+            "title": "Master Scheduler",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-master-scheduler-defcon-ai-1131195",
+            "date": 1776463213
+        },
+        {
+            "title": "AI Transformation Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-transformation-lead-insider-one-1131194",
+            "date": 1776463204
+        },
         {
             "title": "Solution Expert",
             "company": "RemoteOK",
@@ -1000,81 +1079,17 @@
             "date": 1775887229
         },
         {
-            "title": "Technical Product Manager",
-            "company": "RemoteOK",
+            "title": "ContentJet Inc.: AI Agent Architect / Builder",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-supplyhouse-com-1131077",
-            "date": 1775887218
-        },
-        {
-            "title": "Helpdesk Customer Support Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-helpdesk-customer-support-agent-whip-inc-1131076",
-            "date": 1775887207
-        },
-        {
-            "title": "Operations Engineer Kuala Lumpur",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-engineer-kuala-lumpur-xsolla-1131075",
-            "date": 1775858467
-        },
-        {
-            "title": "Senior Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-kiefer-1131074",
-            "date": 1775858430
-        },
-        {
-            "title": "Implementation Specialist Poland",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-poland-wemolo-1131073",
-            "date": 1775858423
-        },
-        {
-            "title": "Xsolla Senior Full stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-xsolla-senior-full-stack-engineer-xsolla-1131072",
-            "date": 1775858417
-        },
-        {
-            "title": "Junior Integration Manager US",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-integration-manager-us-xsolla-1131071",
-            "date": 1775858408
+            "link": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
+            "date": 1774874993
         },
         {
             "title": "The Corvus Group Inc: React Frontend Developer",
@@ -1311,21 +1326,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/creatunity-llc-senior-full-stack-developer-ai-assisted-development-remote",
             "date": 1774038716
-        },
-        {
-            "title": "CloudDevs:  Java Developer - AI (Backend)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java",
-                "cloud",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/clouddevs-java-developer-ai-backend",
-            "date": 1773932894
         },
         {
             "title": "Cortes 23: Software Engineer",
