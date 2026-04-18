@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-18 00:30:33",
+    "generated_at": "2026-04-18 07:56:02",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Operations Associate Payment Integrity",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-associate-payment-integrity-clover-health-1131182",
+            "date": 1776405678
+        },
+        {
+            "title": "Nurse Care Manager Transitions of Care",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "nurse"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-nurse-care-manager-transitions-of-care-evergreen-nephrology-1131181",
+            "date": 1776405670
+        },
+        {
+            "title": "Content Compliance Manager OTC Supplements and Cosmetics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-compliance-manager-otc-supplements-and-cosmetics-strive-pharmacy-1131180",
+            "date": 1776405662
+        },
+        {
+            "title": "Senior Solution Consultant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-solution-consultant-highspot-1131179",
+            "date": 1776405652
+        },
+        {
+            "title": "Technical Support Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-manager-promenade-1131178",
+            "date": 1776405644
+        },
+        {
+            "title": "Creative Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-runway-1131177",
+            "date": 1776405638
+        },
+        {
+            "title": "Spanish Bilingual Certified Pharmacy Technician Refill & Medication Adherence",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-spanish-bilingual-certified-pharmacy-technician-refill-medication-adherence-shields-health-solutions-1131176",
+            "date": 1776405631
+        },
+        {
+            "title": "Manager Retention",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-retention-evolve-1131175",
+            "date": 1776405623
+        },
+        {
+            "title": "Engineering Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-calendly-1131174",
+            "date": 1776405614
+        },
         {
             "title": "Senior React Native Developer",
             "company": "RemoteOK",
@@ -893,17 +996,6 @@
             "date": 1775829621
         },
         {
-            "title": "Engineering Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-hinge-health-1131068",
-            "date": 1775829614
-        },
-        {
             "title": "Senior FinCrime Support Analyst",
             "company": "RemoteOK",
             "company_logo": null,
@@ -968,96 +1060,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-bilingual-licensed-mental-health-therapist-north-carolina-ascend-healthcare-1131062",
             "date": 1775800859
-        },
-        {
-            "title": "Director of Solar Outreach and Market and Strategy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-solar-outreach-and-market-and-strategy-energy-solutions-1131061",
-            "date": 1775800850
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-escribe-1131060",
-            "date": 1775800840
-        },
-        {
-            "title": "Senior UX Researcher & Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-ux-researcher-analyst-casechek-1131059",
-            "date": 1775800830
-        },
-        {
-            "title": "Front End Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-front-end-engineer-decile-group-1131058",
-            "date": 1775800820
-        },
-        {
-            "title": "Consultant Restoration and Remediation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-consultant-restoration-and-remediation-surefire-cyber-1131056",
-            "date": 1775800806
-        },
-        {
-            "title": "Infrastructure &amp; Capital Projects Procurement Specialist ANS",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-infrastructure-amp-capital-projects-procurement-specialist-ans-accenture-infrastructure-amp-capital-projects-llc-1131055",
-            "date": 1775772097
-        },
-        {
-            "title": "Senior Security Infrastructure Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-infrastructure-engineer-sezzle-1131054",
-            "date": 1775772067
-        },
-        {
-            "title": "Finance Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-finance-intern-presence-1131053",
-            "date": 1775772054
         },
         {
             "title": "EventMobi: Senior Front End Engineer - Remote",
