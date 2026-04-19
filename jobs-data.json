@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-19 00:21:53",
-    "total_jobs": 119,
+    "generated_at": "2026-04-19 08:10:35",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Sales Operations Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
+            "date": 1776492098
+        },
+        {
+            "title": "Certified Medical Coder",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-certified-medical-coder-cartwheel-1131209",
+            "date": 1776492088
+        },
+        {
+            "title": "Vice President Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-marketing-imagine-pediatrics-1131208",
+            "date": 1776492079
+        },
+        {
+            "title": "Local Advertising Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-local-advertising-account-executive-axios-1131207",
+            "date": 1776492069
+        },
+        {
+            "title": "Senior Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ujet-1131206",
+            "date": 1776492060
+        },
+        {
+            "title": "VP People Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-people-operations-machinify-1131205",
+            "date": 1776492047
+        },
+        {
+            "title": "Geospatial Database Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-geospatial-database-administrator-ardent-1131204",
+            "date": 1776492031
+        },
+        {
+            "title": "Product Lead Agentic Ads Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-lead-agentic-ads-platform-hightouch-1131203",
+            "date": 1776492018
+        },
+        {
+            "title": "Performance Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-komodo-health-1131202",
+            "date": 1776492007
+        },
         {
             "title": "Purchasing Specialist III",
             "company": "RemoteOK",
@@ -985,98 +1088,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-of-strategic-accounts-food-service-amp-alt-channels-skinny-dipped-1131087",
             "date": 1776031206
-        },
-        {
-            "title": "Content Operations Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-operations-coordinator-colibri-group-1131086",
-            "date": 1776002404
-        },
-        {
-            "title": "Provider Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-provider-success-manager-regard-1131084",
-            "date": 1775916009
-        },
-        {
-            "title": "Senior IAM Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-iam-engineer-ionq-1131083",
-            "date": 1775887272
-        },
-        {
-            "title": "Machine Learning Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-engineer-radformation-1131082",
-            "date": 1775887261
-        },
-        {
-            "title": "Senior Engineer Platform Devops",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-engineer-platform-devops-cloudwalk-1131081",
-            "date": 1775887253
-        },
-        {
-            "title": "Customer Service Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-above-lending-1131080",
-            "date": 1775887246
-        },
-        {
-            "title": "Marketing Operations Specialist HR Solutions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-hr-solutions-mitratech-1131079",
-            "date": 1775887239
-        },
-        {
-            "title": "Executive Assistant The CEO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-linus-health-1131078",
-            "date": 1775887229
         },
         {
             "title": "ContentJet Inc.: AI Agent Architect / Builder",
