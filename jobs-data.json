@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-19 18:31:33",
+    "generated_at": "2026-04-20 00:21:53",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Business Development Representative Enterprise",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-enterprise-spellbook-1131213",
+            "date": 1776549603
+        },
         {
             "title": "Project Manager I",
             "company": "RemoteOK",
@@ -1074,18 +1085,15 @@
             "date": 1776060007
         },
         {
-            "title": "Senior Cloud Architect ML AI",
-            "company": "RemoteOK",
+            "title": "ContentJet Inc.: Automation & Integration Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "cloud",
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-cloud-architect-ml-ai-doit-1131089",
-            "date": 1776031227
+            "link": "https://weworkremotely.com/remote-jobs/contentjet-inc-automation-integration-engineer",
+            "date": 1774875161
         },
         {
             "title": "ContentJet Inc.: AI Agent Architect / Builder",
@@ -1370,19 +1378,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
-            "date": 1753281114
         }
     ]
 }
