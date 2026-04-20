@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-20 08:11:13",
-    "total_jobs": 120,
+    "generated_at": "2026-04-20 13:37:26",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Imaging Research and Development Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-imaging-research-and-development-associate-alimentiv-1131217",
+            "date": 1776607233
+        },
+        {
+            "title": "Learning and Development Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-headlight-1131216",
+            "date": 1776607226
+        },
+        {
+            "title": "VP of Engineering",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-of-engineering-sureify-1131215",
+            "date": 1776607218
+        },
+        {
+            "title": "Licensed Mental Health Counselor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-licensed-mental-health-counselor-lifestance-health-1131214",
+            "date": 1776607207
+        },
         {
             "title": "Business Development Representative Enterprise",
             "company": "RemoteOK",
@@ -1061,28 +1105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-and-evaluations-smartsheet-1131095",
             "date": 1776117647
-        },
-        {
-            "title": "Customer Success Manager II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ii-renaissance-learning-north-america-1131091",
-            "date": 1776060017
-        },
-        {
-            "title": "Inside Sales Specialist Lead Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-inside-sales-specialist-lead-manager-house-buyers-of-america-1131090",
-            "date": 1776060007
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
