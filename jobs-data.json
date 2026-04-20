@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-20 00:21:53",
+    "generated_at": "2026-04-20 08:11:13",
     "total_jobs": 120,
     "jobs": [
         {
@@ -1085,6 +1085,67 @@
             "date": 1776060007
         },
         {
+            "title": "Reveleer: Full Stack AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+            "date": 1775162760
+        },
+        {
+            "title": "Grafana Labs: Staff Product Marketing Manager | United Kingdom | Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-united-kingdom-remote",
+            "date": 1775161878
+        },
+        {
+            "title": "Tether: AI Research Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
+            "date": 1775161739
+        },
+        {
+            "title": "Bounteous: Principal Product Lead  MarTech AI",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bounteous-principal-product-lead-martech-ai",
+            "date": 1775075494
+        },
+        {
+            "title": "EventMobi: Front End Engineer - Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/eventmobi-front-end-engineer-remote",
+            "date": 1774981728
+        },
+        {
             "title": "ContentJet Inc.: Automation & Integration Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1277,72 +1338,15 @@
             "date": 1774125090
         },
         {
-            "title": "Releaf: CRO Design Specialist",
+            "title": "Level: Senior Frontend Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/releaf-cro-design-specialist",
-            "date": 1774038903
-        },
-        {
-            "title": "OrangeDot: Lead monday.com Consultant (CRM Product)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/orangedot-lead-monday-com-consultant-crm-product",
-            "date": 1774038882
-        },
-        {
-            "title": "Kdci: PIM Specialist (Product Information Specialist)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/kdci-pim-specialist-product-information-specialist",
-            "date": 1774038876
-        },
-        {
-            "title": "Phantom: Product Design (Wallet Platform)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/phantom-product-design-wallet-platform",
-            "date": 1774038856
-        },
-        {
-            "title": "CRUX: Full Stack Developer/Senior Full Stack/Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/crux-full-stack-developer-senior-full-stack-lead",
-            "date": 1774038739
-        },
-        {
-            "title": "Creatunity Llc: Senior Full-Stack Developer (AI-Assisted Development) - Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/creatunity-llc-senior-full-stack-developer-ai-assisted-development-remote",
-            "date": 1774038716
+            "link": "https://weworkremotely.com/remote-jobs/level-senior-frontend-engineer",
+            "date": 1772558817
         },
         {
             "title": "Cortes 23: Software Engineer",
@@ -1356,6 +1360,17 @@
             "date": 1771947341
         },
         {
+            "title": "WALTER: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/walter-senior-software-engineer",
+            "date": 1769720776
+        },
+        {
             "title": "Sticker Mule: Software engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1365,19 +1380,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
             "date": 1769089549
-        },
-        {
-            "title": "Stellar AI: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-            "date": 1761075386
         }
     ]
 }
