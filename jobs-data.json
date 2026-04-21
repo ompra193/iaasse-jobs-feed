@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-21 13:20:33",
-    "total_jobs": 123,
+    "generated_at": "2026-04-21 18:56:54",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Creative Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-strategist-maneuver-marketing-1131221",
+            "date": 1776693609
+        },
         {
             "title": "Data Analyst",
             "company": "RemoteOK",
@@ -1094,30 +1105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-principal-care-management-care-coordinator-mtc-care-1131097",
             "date": 1776117672
-        },
-        {
-            "title": "Customer Success Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-workera-ai-1131096",
-            "date": 1776117660
-        },
-        {
-            "title": "Senior Software Engineer II Applied AI and Evaluations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-and-evaluations-smartsheet-1131095",
-            "date": 1776117647
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Spain | Remote",
