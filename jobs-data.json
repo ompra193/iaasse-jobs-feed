@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-21 18:56:54",
-    "total_jobs": 122,
+    "generated_at": "2026-04-22 00:42:06",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Senior Technical Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-technical-lead-calibrate-group-ai-1131230",
+            "date": 1776731936
+        },
+        {
+            "title": "Product Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-engineer-superplane-1131228",
+            "date": 1776723261
+        },
+        {
+            "title": "Interior Design Specifier",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-interior-design-specifier-bold-business-1131227",
+            "date": 1776722446
+        },
+        {
+            "title": "Software Engineer Android",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-android-superhuman-1131226",
+            "date": 1776722436
+        },
+        {
+            "title": "Product Manager Data Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-data-platform-spotify-1131225",
+            "date": 1776722429
+        },
+        {
+            "title": "Senior EDI e invoicing Integration Engineer with English and German French Italian Chinese",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-edi-e-invoicing-integration-engineer-with-english-and-german-french-italian-chinese-ecosio-1131224",
+            "date": 1776722418
+        },
+        {
+            "title": "Field Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-brandwatch-1131223",
+            "date": 1776722409
+        },
         {
             "title": "Creative Strategist",
             "company": "RemoteOK",
@@ -1037,74 +1116,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sr-software-engineer-b-e-rebuy-inc-1131104",
             "date": 1776146473
-        },
-        {
-            "title": "Senior Product Designer Product Design UX",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-product-design-ux-ubiminds-1131103",
-            "date": 1776146462
-        },
-        {
-            "title": "Engineering Manager Data Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-data-platform-trueml-1131102",
-            "date": 1776146455
-        },
-        {
-            "title": "Independent Mental Health Therapist New Mexico",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-independent-mental-health-therapist-new-mexico-ascend-healthcare-1131101",
-            "date": 1776146436
-        },
-        {
-            "title": "Vice President Client Success West",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-client-success-west-enablecomp-1131099",
-            "date": 1776146413
-        },
-        {
-            "title": "Product Manager Market Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-market-platform-voltus-1131098",
-            "date": 1776146405
-        },
-        {
-            "title": "Principal Care Management Care Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-care-management-care-coordinator-mtc-care-1131097",
-            "date": 1776117672
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Spain | Remote",
