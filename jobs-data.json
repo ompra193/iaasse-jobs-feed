@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-21 00:35:05",
-    "total_jobs": 122,
+    "generated_at": "2026-04-21 08:05:50",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-criptoro-1131219",
+            "date": 1776659744
+        },
         {
             "title": "Imaging Research and Development Associate",
             "company": "RemoteOK",
@@ -1107,6 +1120,30 @@
             "date": 1776117647
         },
         {
+            "title": "Grafana Labs: Staff Product Marketing Manager | Spain | Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-spain-remote",
+            "date": 1775248293
+        },
+        {
+            "title": "Boulevard: Staff Product Designer, Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/boulevard-staff-product-designer-platform",
+            "date": 1775248282
+        },
+        {
             "title": "Reveleer: Full Stack AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1323,43 +1360,6 @@
             "date": 1774211534
         },
         {
-            "title": "Moxie: Staff product engineer (fullstack) (IC-4)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/moxie-staff-product-engineer-fullstack-ic-4",
-            "date": 1774125111
-        },
-        {
-            "title": "Protect Democracy: Product / Engineer / Data Roles (Talent Community)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/protect-democracy-product-engineer-data-roles-talent-community",
-            "date": 1774125100
-        },
-        {
-            "title": "Virtasant: Senior Backend / Product Engineer  (AI Platform)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/virtasant-senior-backend-product-engineer-ai-platform",
-            "date": 1774125090
-        },
-        {
             "title": "Level: Senior Frontend Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1402,6 +1402,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
             "date": 1769089549
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
