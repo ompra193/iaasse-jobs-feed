@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-22 18:57:27",
+    "generated_at": "2026-04-23 00:43:15",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Senior Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-manager-keyloop-1131249",
+            "date": 1776808859
+        },
+        {
+            "title": "Manager Digital Media Strategy",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-digital-media-strategy-adswerve-inc-1131248",
+            "date": 1776808852
+        },
+        {
+            "title": "Digital Media Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-digital-media-strategist-adswerve-inc-1131247",
+            "date": 1776808834
+        },
+        {
+            "title": "Product Manager ChartCheck",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-chartcheck-radformation-1131246",
+            "date": 1776808822
+        },
         {
             "title": "Product Growth Marketer",
             "company": "RemoteOK",
@@ -1069,50 +1113,15 @@
             "date": 1776261632
         },
         {
-            "title": "Manager DashMart Supply Chain Strategy & Analytics",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-dashmart-supply-chain-strategy-analytics-doordash-usa-1131119",
-            "date": 1776261625
-        },
-        {
-            "title": "Principal Specialist Counsel Financial Crime & Compliance",
-            "company": "RemoteOK",
+            "title": "Grafana Labs: Staff Product Marketing Manager | Germany | Remote",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-specialist-counsel-financial-crime-compliance-agoda-1131118",
-            "date": 1776261617
-        },
-        {
-            "title": "Privacy Principal Counsel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-privacy-principal-counsel-agoda-1131117",
-            "date": 1776261607
-        },
-        {
-            "title": "Software Engineer Payment Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-payment-operations-wingspan-1131116",
-            "date": 1776232881
+            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-germany-remote",
+            "date": 1775248304
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Sweden | Remote",
@@ -1342,19 +1351,6 @@
             "date": 1774380537
         },
         {
-            "title": "OnTheGoSystems: Full-Stack PHP Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1",
-            "date": 1774273587
-        },
-        {
             "title": "Level: Senior Frontend Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1388,15 +1384,15 @@
             "date": 1769720776
         },
         {
-            "title": "Sticker Mule: Software engineer",
+            "title": "Speechify Inc: Software Engineer, iOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-2",
-            "date": 1769089549
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+            "date": 1752075311
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
