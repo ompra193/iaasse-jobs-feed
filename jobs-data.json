@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-22 13:16:54",
-    "total_jobs": 123,
+    "generated_at": "2026-04-22 18:57:27",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Product Growth Marketer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-growth-marketer-happily-1131244",
+            "date": 1776798033
+        },
+        {
+            "title": "Crypto Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131243",
+            "date": 1776783557
+        },
+        {
+            "title": "Software Engineer Identity & Access",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240",
+            "date": 1776780036
+        },
+        {
+            "title": "Technical Implementations Lead US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-implementations-lead-us-smile-digital-health-1131239",
+            "date": 1776780030
+        },
         {
             "title": "Manager Healthcare Data Analytics",
             "company": "RemoteOK",
@@ -751,17 +795,6 @@
             "date": 1776376811
         },
         {
-            "title": "Crypto Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131163",
-            "date": 1776368476
-        },
-        {
             "title": "UI UX Designer UK",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1080,50 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-payment-operations-wingspan-1131116",
             "date": 1776232881
-        },
-        {
-            "title": "Senior Manager Associate Director Strategy & Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-associate-director-strategy-operations-natera-1131115",
-            "date": 1776232871
-        },
-        {
-            "title": "Industry Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-industry-marketing-manager-gong-io-1131114",
-            "date": 1776232860
-        },
-        {
-            "title": "Senior Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-project-manager-unlock-health-1131113",
-            "date": 1776232851
-        },
-        {
-            "title": "Manager Growth Marketing & Content",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-growth-marketing-content-neighborhoods-com-1131112",
-            "date": 1776232842
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Sweden | Remote",
