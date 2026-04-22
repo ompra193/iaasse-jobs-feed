@@ -1,8 +1,104 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-22 00:42:06",
+    "generated_at": "2026-04-22 08:04:17",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Manager Healthcare Data Analytics",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-healthcare-data-analytics-habitat-health-1131238",
+            "date": 1776751317
+        },
+        {
+            "title": "Account Executive Collections Credit Card",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-collections-credit-card-bhg-financial-1131237",
+            "date": 1776751309
+        },
+        {
+            "title": "Sr Technical Program Manager Order Management Services",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sr-technical-program-manager-order-management-services-natera-1131236",
+            "date": 1776751298
+        },
+        {
+            "title": "Nurse Care Manager MST",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "nurse"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-nurse-care-manager-mst-evergreen-nephrology-1131235",
+            "date": 1776751287
+        },
+        {
+            "title": "Manager Care Team Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-care-team-assistant-imagine-pediatrics-1131234",
+            "date": 1776751276
+        },
+        {
+            "title": "Senior Product Manager Applied AI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-applied-ai-smartsheet-1131233",
+            "date": 1776751266
+        },
+        {
+            "title": "Revenue Specialist First Party Auto MVA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revenue-specialist-first-party-auto-mva-enablecomp-1131232",
+            "date": 1776751255
+        },
+        {
+            "title": "SVP Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-svp-sales-inmarket-1131231",
+            "date": 1776751208
+        },
         {
             "title": "Senior Technical Lead",
             "company": "RemoteOK",
@@ -1030,92 +1126,15 @@
             "date": 1776232842
         },
         {
-            "title": "Director IT & Security",
-            "company": "RemoteOK",
+            "title": "Grafana Labs: Staff Product Marketing Manager | Sweden | Remote",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-it-security-octave-1131111",
-            "date": 1776232830
-        },
-        {
-            "title": "Alignment Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-alignment-engineer-intelligent-technical-solutions-1131110",
-            "date": 1776232815
-        },
-        {
-            "title": "1068 Intake and QA expert",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-1068-intake-and-qa-expert-gofasti-1131109",
-            "date": 1776232806
-        },
-        {
-            "title": "Culture & People Development Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-culture-people-development-specialist-ekumen-1131108",
-            "date": 1776204005
-        },
-        {
-            "title": "Operations Coordinator Clinical Trials",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-coordinator-clinical-trials-healthmatch-1131107",
-            "date": 1776175209
-        },
-        {
-            "title": "Technical Support L3 Weekends",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-l3-weekends-redis-1131106",
-            "date": 1776175203
-        },
-        {
-            "title": "Implementation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-launchbrightly-1131105",
-            "date": 1776148100
-        },
-        {
-            "title": "Sr Software Engineer B E",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sr-software-engineer-b-e-rebuy-inc-1131104",
-            "date": 1776146473
+            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-sweden-remote",
+            "date": 1775248293
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Spain | Remote",
@@ -1345,17 +1364,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-full-stack-php-developer-1",
             "date": 1774273587
-        },
-        {
-            "title": "Smart Working Solutions: Senior Full Stack Developer (Kotlin, Vue.js) (Remote, Full-Time) [AS197]",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/smart-working-solutions-senior-full-stack-developer-kotlin-vue-js-remote-full-time-as197",
-            "date": 1774211534
         },
         {
             "title": "Level: Senior Frontend Engineer",
