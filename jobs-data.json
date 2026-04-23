@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-23 08:07:40",
+    "generated_at": "2026-04-23 13:23:02",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "High Paying Hourly Enrollment Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-high-paying-hourly-enrollment-specialist-vp-education-group-1131261",
+            "date": 1776861982
+        },
         {
             "title": "Search Engine Evaluation Specialist Freelance AI Trainer Project",
             "company": "RemoteOK",
@@ -1098,17 +1109,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-travel-visa-manager-eqvilent-1131143",
             "date": 1776290514
-        },
-        {
-            "title": "Paralegal Legal Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-legal-operations-sterlington-pllc-1131142",
-            "date": 1776290505
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Germany | Remote",
