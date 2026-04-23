@@ -1,8 +1,102 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-23 19:12:12",
+    "generated_at": "2026-04-24 00:38:27",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Healthcare Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-healthcare-account-executive-vonage-1131272",
+            "date": 1776895259
+        },
+        {
+            "title": "Senior CAD Backend Engineer Mechanical CAD Automation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "mechanical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cad-backend-engineer-mechanical-cad-automation-foundation-egi-1131271",
+            "date": 1776895250
+        },
+        {
+            "title": "Solution Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solution-engineer-i-onit-inc-1131270",
+            "date": 1776895243
+        },
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-capnexus-1131269",
+            "date": 1776895236
+        },
+        {
+            "title": "Senior App &amp; Frontend Developer AS233",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-app-amp-frontend-developer-as233-smart-working-solutions-1131268",
+            "date": 1776895226
+        },
+        {
+            "title": "Provider Services Analyst I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-provider-services-analyst-i-trend-health-partners-1131267",
+            "date": 1776895218
+        },
+        {
+            "title": "PPC & Amazon Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ppc-amazon-strategist-trivium-1131266",
+            "date": 1776895208
+        },
+        {
+            "title": "Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-junction-1131265",
+            "date": 1776895202
+        },
         {
             "title": "Shift Lead Downtown",
             "company": "RemoteOK",
@@ -1010,94 +1104,15 @@
             "date": 1776348027
         },
         {
-            "title": "Director AI",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-ai-syner-g-1131155",
-            "date": 1776348021
-        },
-        {
-            "title": "Senior Manager International Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-international-sales-bamboohr-1131154",
-            "date": 1776348011
-        },
-        {
-            "title": "Technical Support Analyst",
-            "company": "RemoteOK",
+            "title": "Stripe: Staff Product Manager, Link Consumer Product",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-analyst-yuno-1131151",
-            "date": 1776319272
-        },
-        {
-            "title": "Director Revenue Transformation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-revenue-transformation-gong-io-1131150",
-            "date": 1776319265
-        },
-        {
-            "title": "Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-guidepoint-security-1131149",
-            "date": 1776319257
-        },
-        {
-            "title": "Partner Development Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-partner-development-director-clozd-1131148",
-            "date": 1776319249
-        },
-        {
-            "title": "Test Automation Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-automation-engineer-540-1131147",
-            "date": 1776319240
-        },
-        {
-            "title": "Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-lively-1131146",
-            "date": 1776319231
+            "link": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product",
+            "date": 1775421093
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Germany | Remote",
@@ -1336,17 +1351,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract",
             "date": 1774380537
-        },
-        {
-            "title": "Level: Senior Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/level-senior-frontend-engineer",
-            "date": 1772558817
         },
         {
             "title": "Cortes 23: Software Engineer",
