@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-23 13:23:02",
-    "total_jobs": 122,
+    "generated_at": "2026-04-23 19:12:12",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Shift Lead Downtown",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-shift-lead-downtown-doordash-usa-1131264",
+            "date": 1776866427
+        },
+        {
+            "title": "Senior Site Reliability Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-pave-bank-1131263",
+            "date": 1776866417
+        },
+        {
+            "title": "Principal Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-oportun-1131262",
+            "date": 1776866410
+        },
         {
             "title": "High Paying Hourly Enrollment Specialist",
             "company": "RemoteOK",
@@ -528,17 +561,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-local-advertising-account-executive-axios-1131207",
             "date": 1776492069
-        },
-        {
-            "title": "Senior Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-ujet-1131206",
-            "date": 1776492060
         },
         {
             "title": "VP People Operations",
@@ -1076,39 +1098,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-manager-lively-1131146",
             "date": 1776319231
-        },
-        {
-            "title": "Senior Solutions Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-solutions-architect-540-1131145",
-            "date": 1776319222
-        },
-        {
-            "title": "CNAPP Security Engineer Mid Atlantic region",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cnapp-security-engineer-mid-atlantic-region-guidepoint-security-1131144",
-            "date": 1776319206
-        },
-        {
-            "title": "Travel & Visa Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-travel-visa-manager-eqvilent-1131143",
-            "date": 1776290514
         },
         {
             "title": "Grafana Labs: Staff Product Marketing Manager | Germany | Remote",
