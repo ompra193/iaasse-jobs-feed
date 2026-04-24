@@ -1,8 +1,107 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-24 00:38:27",
-    "total_jobs": 121,
+    "generated_at": "2026-04-24 08:08:17",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "VP Creative Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-creative-director-noodle-1131284",
+            "date": 1776924088
+        },
+        {
+            "title": "Associate Director Solutions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-director-solutions-yipitdata-alternative-1131283",
+            "date": 1776924082
+        },
+        {
+            "title": "Technical Program Manager \u00e2\u0080\u0094 Platform Migration",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-program-manager-platform-migration-cayuse-1131282",
+            "date": 1776924071
+        },
+        {
+            "title": "Principal Customer Solutions Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-customer-solutions-architect-caylent-1131281",
+            "date": 1776924057
+        },
+        {
+            "title": "Senior Security Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280",
+            "date": 1776924046
+        },
+        {
+            "title": "Business Development Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-director-connections-health-solutions-1131279",
+            "date": 1776924034
+        },
+        {
+            "title": "Insurance Verifications Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-insurance-verifications-specialist-cranial-technologies-1131278",
+            "date": 1776924025
+        },
+        {
+            "title": "Frontend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-careervillage-org-1131277",
+            "date": 1776924016
+        },
+        {
+            "title": "Senior Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-1131276",
+            "date": 1776924005
+        },
         {
             "title": "Healthcare Account Executive",
             "company": "RemoteOK",
@@ -1027,81 +1126,28 @@
             "date": 1776376856
         },
         {
-            "title": "Senior Compliance Manager",
-            "company": "RemoteOK",
+            "title": "Elevated Leads Limited: Chrome Extension Developer \u2014 iGaming Product (New Build)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build",
+            "date": 1775470800
+        },
+        {
+            "title": "8am: Product Designer | Growth",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-compliance-manager-donorbox-1131168",
-            "date": 1776376847
-        },
-        {
-            "title": "Frontend Developer Vue.js",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-frontend-developer-vue-js-insider-one-1131167",
-            "date": 1776376835
-        },
-        {
-            "title": "Freelance Senior Full Stack Software Architect and Collateral Management Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-senior-full-stack-software-architect-and-collateral-management-specialist-wise-integration-1131166",
-            "date": 1776376828
-        },
-        {
-            "title": "Senior Software Engineer App Infra",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-app-infra-ocrolus-inc-1131164",
-            "date": 1776376811
-        },
-        {
-            "title": "UI UX Designer UK",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ui-ux-designer-uk-bjak-1131158",
-            "date": 1776348044
-        },
-        {
-            "title": "Aprio PH People Operations Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-aprio-ph-people-operations-coordinator-aprio-1131157",
-            "date": 1776348038
-        },
-        {
-            "title": "Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-bjak-1131156",
-            "date": 1776348027
+            "link": "https://weworkremotely.com/remote-jobs/8am-product-designer-growth",
+            "date": 1775421098
         },
         {
             "title": "Stripe: Staff Product Manager, Link Consumer Product",
@@ -1325,32 +1371,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
             "date": 1774431322
-        },
-        {
-            "title": "LeadUp AI: Full-Stack Developer (Junior)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/leadup-ai-full-stack-developer-junior",
-            "date": 1774404855
-        },
-        {
-            "title": "Knack: Senior Frontend Engineer (React / Next.js) \u2014 Full-Time, Contract",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/knack-senior-frontend-engineer-react-next-js-full-time-contract",
-            "date": 1774380537
         },
         {
             "title": "Cortes 23: Software Engineer",
