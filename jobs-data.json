@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-24 08:08:17",
+    "generated_at": "2026-04-24 13:33:32",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Account Executive III",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-iii-sumo-logic-1131287",
+            "date": 1776952817
+        },
+        {
+            "title": "Senior Director Sales and Operations Planning",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-sales-and-operations-planning-olly-1131286",
+            "date": 1776952807
+        },
         {
             "title": "VP Creative Director",
             "company": "RemoteOK",
@@ -1100,30 +1122,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-global-data-partnership-director-insider-one-1131171",
             "date": 1776376873
-        },
-        {
-            "title": "PR Social Media Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pr-social-media-intern-sezzle-1131170",
-            "date": 1776376865
-        },
-        {
-            "title": "Senior Software Engineer Cloud Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cloud-platform-signifyd-1131169",
-            "date": 1776376856
         },
         {
             "title": "Elevated Leads Limited: Chrome Extension Developer \u2014 iGaming Product (New Build)",
