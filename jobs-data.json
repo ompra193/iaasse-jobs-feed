@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-24 13:33:32",
+    "generated_at": "2026-04-24 18:54:03",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Bookkeeper",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-vidinext-1131290",
+            "date": 1776967459
+        },
+        {
+            "title": "Mid Senior AI Video Artist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-video-artist-everai-1131288",
+            "date": 1776953506
+        },
         {
             "title": "Account Executive III",
             "company": "RemoteOK",
@@ -1098,30 +1122,17 @@
             "date": 1776405614
         },
         {
-            "title": "Senior React Native Developer",
-            "company": "RemoteOK",
+            "title": "Speechify: Software Engineer, Web Core Product & Chrome Extension",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "react"
+                "hr"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-react-native-developer-headway-1131173",
-            "date": 1776384982
-        },
-        {
-            "title": "Global Data Partnership Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-global-data-partnership-director-insider-one-1131171",
-            "date": 1776376873
+            "link": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension",
+            "date": 1775498534
         },
         {
             "title": "Elevated Leads Limited: Chrome Extension Developer \u2014 iGaming Product (New Build)",
@@ -1356,19 +1367,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
             "date": 1774470102
-        },
-        {
-            "title": "Aktor AI: (Senior) AI Solutions Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aktor-ai-senior-ai-solutions-engineer",
-            "date": 1774431322
         },
         {
             "title": "Cortes 23: Software Engineer",
