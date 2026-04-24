@@ -1,8 +1,58 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-24 18:54:03",
-    "total_jobs": 123,
+    "generated_at": "2026-04-25 00:22:25",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Applied AI Engineer Europe",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
+            "date": 1776981617
+        },
+        {
+            "title": "UX UI Designer \u00e2\u0080\u0094 AI Application",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-ai-application-0g-labs-1131295",
+            "date": 1776981611
+        },
+        {
+            "title": "Corporate Counsel",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-may-mobility-1131294",
+            "date": 1776981604
+        },
+        {
+            "title": "Senior Backend Engineer Build AI Agents",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1131292",
+            "date": 1776981601
+        },
         {
             "title": "Bookkeeper",
             "company": "RemoteOK",
@@ -1063,63 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-solution-consultant-highspot-1131179",
             "date": 1776405652
-        },
-        {
-            "title": "Technical Support Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-manager-promenade-1131178",
-            "date": 1776405644
-        },
-        {
-            "title": "Creative Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-runway-1131177",
-            "date": 1776405638
-        },
-        {
-            "title": "Spanish Bilingual Certified Pharmacy Technician Refill & Medication Adherence",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-spanish-bilingual-certified-pharmacy-technician-refill-medication-adherence-shields-health-solutions-1131176",
-            "date": 1776405631
-        },
-        {
-            "title": "Manager Retention",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-retention-evolve-1131175",
-            "date": 1776405623
-        },
-        {
-            "title": "Engineering Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-calendly-1131174",
-            "date": 1776405614
         },
         {
             "title": "Speechify: Software Engineer, Web Core Product & Chrome Extension",
