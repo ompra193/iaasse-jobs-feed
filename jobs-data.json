@@ -1,8 +1,47 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-25 12:46:43",
+    "generated_at": "2026-04-25 18:34:38",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Saint Gobain Application Sales Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-saint-gobain-application-sales-director-gml-a-s-1131307",
+            "date": 1777039229
+        },
+        {
+            "title": "Trainer EMEA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-trainer-emea-360learning-1131306",
+            "date": 1777039222
+        },
+        {
+            "title": "Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305",
+            "date": 1777039216
+        },
         {
             "title": "Overnight Neuroradiologist Partner Track 10p 7a MST 7 on 14 off",
             "company": "RemoteOK",
@@ -1074,41 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-solution-expert-360learning-1131192",
             "date": 1776434467
-        },
-        {
-            "title": "VP Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-sales-unlimit-1131191",
-            "date": 1776434458
-        },
-        {
-            "title": "NEOWIZ Santa Monica Localization Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-neowiz-santa-monica-localization-manager-neowiz-1131190",
-            "date": 1776434450
-        },
-        {
-            "title": "Executive Director Regulatory Affairs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-director-regulatory-affairs-kyverna-therapeutics-1131189",
-            "date": 1776434443
         },
         {
             "title": "Instructure: Principal Product Specialist",
