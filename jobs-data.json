@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-25 18:34:38",
+    "generated_at": "2026-04-26 00:23:43",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "B2B Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-b2b-marketing-manager-montu-uk-1131316",
+            "date": 1777068051
+        },
+        {
+            "title": "Senior Tech Lead Mobile Developer Risora",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315",
+            "date": 1777068044
+        },
+        {
+            "title": "Full Stack Product Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314",
+            "date": 1777068036
+        },
+        {
+            "title": "WorkWave Senior Data Analytics Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-workwave-senior-data-analytics-engineer-workwave-1131313",
+            "date": 1777068029
+        },
+        {
+            "title": "Paid Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-terra-1131312",
+            "date": 1777068016
+        },
+        {
+            "title": "Registered Clinical Social Work Intern Spanish Speaking",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-registered-clinical-social-work-intern-spanish-speaking-brave-health-1131311",
+            "date": 1777068008
+        },
         {
             "title": "Saint Gobain Application Sales Director",
             "company": "RemoteOK",
@@ -1047,72 +1117,17 @@
             "date": 1776463257
         },
         {
-            "title": "Sales Executive",
-            "company": "RemoteOK",
+            "title": "Celonis: Application Product Manager - Accounts Payable",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-executive-onevest-1131198",
-            "date": 1776463247
-        },
-        {
-            "title": "Senior Systems Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-systems-administrator-entersekt-1131197",
-            "date": 1776463237
-        },
-        {
-            "title": "Senior Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-product-designer-fluxon-1131196",
-            "date": 1776463223
-        },
-        {
-            "title": "Master Scheduler",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-master-scheduler-defcon-ai-1131195",
-            "date": 1776463213
-        },
-        {
-            "title": "AI Transformation Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [
-                "ai"
+                "accounts"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-transformation-lead-insider-one-1131194",
-            "date": 1776463204
-        },
-        {
-            "title": "Solution Expert",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solution-expert-360learning-1131192",
-            "date": 1776434467
+            "link": "https://weworkremotely.com/remote-jobs/celonis-application-product-manager-accounts-payable",
+            "date": 1775498588
         },
         {
             "title": "Instructure: Principal Product Specialist",
@@ -1360,17 +1375,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
             "date": 1774620218
-        },
-        {
-            "title": "Cortes 23: Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cortes-23-software-engineer-4",
-            "date": 1771947341
         },
         {
             "title": "WALTER: Senior Software Engineer",
