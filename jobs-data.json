@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-26 13:09:56",
+    "generated_at": "2026-04-26 18:36:07",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Tax AI Expert",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tax-ai-expert-weekday-1131326",
+            "date": 1777125626
+        },
+        {
+            "title": "Director of Revenue Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-revenue-operations-practice-better-1131325",
+            "date": 1777125619
+        },
+        {
+            "title": "Regional Sales Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-sales-executive-pivotal-health-1131324",
+            "date": 1777125608
+        },
         {
             "title": "Territory Account Manager",
             "company": "RemoteOK",
@@ -1093,41 +1128,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
             "date": 1776492098
-        },
-        {
-            "title": "Certified Medical Coder",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-certified-medical-coder-cartwheel-1131209",
-            "date": 1776492088
-        },
-        {
-            "title": "Vice President Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-marketing-imagine-pediatrics-1131208",
-            "date": 1776492079
-        },
-        {
-            "title": "Local Advertising Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-local-advertising-account-executive-axios-1131207",
-            "date": 1776492069
         },
         {
             "title": "Celonis: Application Product Manager - Accounts Payable",
