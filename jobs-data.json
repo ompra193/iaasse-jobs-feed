@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-26 18:36:07",
+    "generated_at": "2026-04-27 00:25:01",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Managing Director New England",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-managing-director-new-england-intrafi-1131327",
+            "date": 1777154404
+        },
         {
             "title": "Tax AI Expert",
             "company": "RemoteOK",
@@ -1119,15 +1130,39 @@
             "date": 1776520811
         },
         {
-            "title": "Senior Sales Operations Analyst",
-            "company": "RemoteOK",
+            "title": "1nce: Product Owner Frontend (all)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
-            "date": 1776492098
+            "link": "https://weworkremotely.com/remote-jobs/1nce-product-owner-frontend-all",
+            "date": 1775498662
+        },
+        {
+            "title": "Carbmee: (Senior) Product Manager (all genders) | ClimateTech",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/carbmee-senior-product-manager-all-genders-climatetech",
+            "date": 1775498604
+        },
+        {
+            "title": "Ataccama: Senior Back-End Engineer (Java) - Product Foundation",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ataccama-senior-back-end-engineer-java-product-foundation",
+            "date": 1775498588
         },
         {
             "title": "Celonis: Application Product Manager - Accounts Payable",
@@ -1355,39 +1390,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer",
             "date": 1774744047
-        },
-        {
-            "title": "EventMobi: Senior Front End Engineer - Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/eventmobi-senior-front-end-engineer-remote-1",
-            "date": 1774631245
-        },
-        {
-            "title": "Sanctuary Computer: Senior Frontend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-1",
-            "date": 1774628908
-        },
-        {
-            "title": "EngagedMD: Staff Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
-            "date": 1774620218
         },
         {
             "title": "WALTER: Senior Software Engineer",
