@@ -1,8 +1,89 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-26 00:23:43",
-    "total_jobs": 122,
+    "generated_at": "2026-04-26 08:13:42",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Territory Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
+            "date": 1777096855
+        },
+        {
+            "title": "HQ AI Enablement Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hq-ai-enablement-lead-everfield-1131322",
+            "date": 1777096849
+        },
+        {
+            "title": "Medical Director for Health Plan",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-director-for-health-plan-evry-health-1131321",
+            "date": 1777096842
+        },
+        {
+            "title": "Vice President of Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-marketing-pine-services-group-1131320",
+            "date": 1777096835
+        },
+        {
+            "title": "Technical Account Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-clariti-cloud-inc-1131319",
+            "date": 1777096828
+        },
+        {
+            "title": "Implementation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-submittable-1131318",
+            "date": 1777096816
+        },
+        {
+            "title": "Proposal Manager @Advizex",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-proposal-manager-advizex-advizex-1131317",
+            "date": 1777096807
+        },
         {
             "title": "B2B Marketing Manager",
             "company": "RemoteOK",
@@ -1047,74 +1128,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-local-advertising-account-executive-axios-1131207",
             "date": 1776492069
-        },
-        {
-            "title": "VP People Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-people-operations-machinify-1131205",
-            "date": 1776492047
-        },
-        {
-            "title": "Geospatial Database Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-geospatial-database-administrator-ardent-1131204",
-            "date": 1776492031
-        },
-        {
-            "title": "Product Lead Agentic Ads Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-lead-agentic-ads-platform-hightouch-1131203",
-            "date": 1776492018
-        },
-        {
-            "title": "Performance Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-komodo-health-1131202",
-            "date": 1776492007
-        },
-        {
-            "title": "Purchasing Specialist III",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-purchasing-specialist-iii-lg-electronics-1131200",
-            "date": 1776463266
-        },
-        {
-            "title": "Senior Software Engineer Golang",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-insider-one-1131199",
-            "date": 1776463257
         },
         {
             "title": "Celonis: Application Product Manager - Accounts Payable",
