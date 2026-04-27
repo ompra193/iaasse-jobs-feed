@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-27 00:25:01",
+    "generated_at": "2026-04-27 08:16:33",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Operations Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-associate-adventus-1131330",
+            "date": 1777183228
+        },
+        {
+            "title": "ML Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
+            "date": 1777183212
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
+            "date": 1777183205
+        },
         {
             "title": "Managing Director New England",
             "company": "RemoteOK",
@@ -1095,39 +1128,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-licensed-mental-health-counselor-lifestance-health-1131214",
             "date": 1776607207
-        },
-        {
-            "title": "Business Development Representative Enterprise",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-enterprise-spellbook-1131213",
-            "date": 1776549603
-        },
-        {
-            "title": "Project Manager I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-manager-i-teecom-1131212",
-            "date": 1776520920
-        },
-        {
-            "title": "Customer Success Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-wrike-1131211",
-            "date": 1776520811
         },
         {
             "title": "1nce: Product Owner Frontend (all)",
