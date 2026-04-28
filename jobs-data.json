@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-28 00:51:45",
+    "generated_at": "2026-04-28 08:23:43",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Network Engineer Factory Systems and Operational Technology",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-network-engineer-factory-systems-and-operational-technology-anduril-industries-1131334",
+            "date": 1777269617
+        },
+        {
+            "title": "Bookkeeping Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeping-specialist-velora-1131333",
+            "date": 1777269606
+        },
         {
             "title": "Operations Associate",
             "company": "RemoteOK",
@@ -1108,26 +1130,17 @@
             "date": 1776607226
         },
         {
-            "title": "VP of Engineering",
-            "company": "RemoteOK",
+            "title": "Veeva Systems: Data Product Manager - Link Activity Data",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "data"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-of-engineering-sureify-1131215",
-            "date": 1776607218
-        },
-        {
-            "title": "Licensed Mental Health Counselor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-licensed-mental-health-counselor-lifestance-health-1131214",
-            "date": 1776607207
+            "link": "https://weworkremotely.com/remote-jobs/veeva-systems-data-product-manager-link-activity-data",
+            "date": 1775507471
         },
         {
             "title": "1nce: Product Owner Frontend (all)",
@@ -1377,19 +1390,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
             "date": 1774874993
-        },
-        {
-            "title": "The Corvus Group Inc: React Frontend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/the-corvus-group-inc-react-frontend-developer",
-            "date": 1774744047
         },
         {
             "title": "WALTER: Senior Software Engineer",
