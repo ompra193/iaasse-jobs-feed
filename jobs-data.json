@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-28 08:23:43",
+    "generated_at": "2026-04-28 13:55:14",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Virtual Real Estate Sales Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-real-estate-sales-representative-aurelian-sovereign-1131338",
+            "date": 1777296605
+        },
         {
             "title": "Network Engineer Factory Systems and Operational Technology",
             "company": "RemoteOK",
@@ -1117,17 +1128,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-imaging-research-and-development-associate-alimentiv-1131217",
             "date": 1776607233
-        },
-        {
-            "title": "Learning and Development Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-headlight-1131216",
-            "date": 1776607226
         },
         {
             "title": "Veeva Systems: Data Product Manager - Link Activity Data",
