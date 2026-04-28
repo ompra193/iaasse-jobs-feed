@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-28 13:55:14",
+    "generated_at": "2026-04-29 01:11:26",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Senior Enablement Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-enablement-manager-brandtech-1131346",
+            "date": 1777327264
+        },
+        {
+            "title": "Engineer Software",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
+            "date": 1777327255
+        },
+        {
+            "title": "Outpatient Facility Coder",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-outpatient-facility-coder-uasi-1131344",
+            "date": 1777327244
+        },
+        {
+            "title": "Business Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-toastmasters-international-1131343",
+            "date": 1777327230
+        },
+        {
+            "title": "Sr Account Executive Commercial Accounts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-commercial-accounts-veeam-software-1131341",
+            "date": 1777327205
+        },
+        {
+            "title": "Senior Full stack React Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-react-developer-lemon-io-1131339",
+            "date": 1777304786
+        },
         {
             "title": "Virtual Real Estate Sales Representative",
             "company": "RemoteOK",
@@ -1058,76 +1128,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-android-superhuman-1131226",
             "date": 1776722436
-        },
-        {
-            "title": "Product Manager Data Platform",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-data-platform-spotify-1131225",
-            "date": 1776722429
-        },
-        {
-            "title": "Senior EDI e invoicing Integration Engineer with English and German French Italian Chinese",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-edi-e-invoicing-integration-engineer-with-english-and-german-french-italian-chinese-ecosio-1131224",
-            "date": 1776722418
-        },
-        {
-            "title": "Field Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-field-marketing-manager-brandwatch-1131223",
-            "date": 1776722409
-        },
-        {
-            "title": "Creative Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-strategist-maneuver-marketing-1131221",
-            "date": 1776693609
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-criptoro-1131219",
-            "date": 1776659744
-        },
-        {
-            "title": "Imaging Research and Development Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-imaging-research-and-development-associate-alimentiv-1131217",
-            "date": 1776607233
         },
         {
             "title": "Veeva Systems: Data Product Manager - Link Activity Data",
