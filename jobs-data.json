@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-29 19:26:31",
+    "generated_at": "2026-04-30 00:55:20",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Automation Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367",
+            "date": 1777413630
+        },
+        {
+            "title": "Pharmacy Liaison",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pharmacy-liaison-shields-health-solutions-1131366",
+            "date": 1777413616
+        },
+        {
+            "title": "Data Governance Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
+            "date": 1777413606
+        },
         {
             "title": "UX Designer II",
             "company": "RemoteOK",
@@ -1078,39 +1115,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-growth-marketer-happily-1131244",
             "date": 1776798033
-        },
-        {
-            "title": "Crypto Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-fox-global-assets-1131243",
-            "date": 1776783557
-        },
-        {
-            "title": "Software Engineer Identity & Access",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-identity-access-patreon-1131240",
-            "date": 1776780036
-        },
-        {
-            "title": "Technical Implementations Lead US",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-implementations-lead-us-smile-digital-health-1131239",
-            "date": 1776780030
         },
         {
             "title": "Trace3: Sr. Cloud Solutions Architect | DevOps (Remote)",
