@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-29 08:22:40",
-    "total_jobs": 123,
+    "generated_at": "2026-04-29 13:48:36",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "UX Designer II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ux-designer-ii-renaissance-learning-north-america-1131362",
+            "date": 1777384824
+        },
+        {
+            "title": "Account Executive Emerging Accounts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-emerging-accounts-fictiv-1131361",
+            "date": 1777384816
+        },
         {
             "title": "Senior Associate Business Development & Strategy",
             "company": "RemoteOK",
@@ -1087,41 +1111,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-implementations-lead-us-smile-digital-health-1131239",
             "date": 1776780030
-        },
-        {
-            "title": "Manager Healthcare Data Analytics",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-healthcare-data-analytics-habitat-health-1131238",
-            "date": 1776751317
-        },
-        {
-            "title": "Account Executive Collections Credit Card",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-collections-credit-card-bhg-financial-1131237",
-            "date": 1776751309
-        },
-        {
-            "title": "Sr Technical Program Manager Order Management Services",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sr-technical-program-manager-order-management-services-natera-1131236",
-            "date": 1776751298
         },
         {
             "title": "Veeva Systems: Data Product Manager - Link Activity Data",
