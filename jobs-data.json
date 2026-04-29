@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-29 13:48:36",
-    "total_jobs": 122,
+    "generated_at": "2026-04-29 19:26:31",
+    "total_jobs": 121,
     "jobs": [
         {
             "title": "UX Designer II",
@@ -1113,6 +1113,19 @@
             "date": 1776780030
         },
         {
+            "title": "Trace3: Sr. Cloud Solutions Architect | DevOps (Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/trace3-sr-cloud-solutions-architect-devops-remote",
+            "date": 1775507489
+        },
+        {
             "title": "Veeva Systems: Data Product Manager - Link Activity Data",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1122,8 +1135,8 @@
                 "data"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/veeva-systems-data-product-manager-link-activity-data",
-            "date": 1775507471
+            "link": "https://weworkremotely.com/remote-jobs/veeva-systems-data-product-manager-link-activity-data-1",
+            "date": 1775507475
         },
         {
             "title": "1nce: Product Owner Frontend (all)",
@@ -1349,30 +1362,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/eventmobi-front-end-engineer-remote",
             "date": 1774981728
-        },
-        {
-            "title": "ContentJet Inc.: Automation & Integration Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/contentjet-inc-automation-integration-engineer",
-            "date": 1774875161
-        },
-        {
-            "title": "ContentJet Inc.: AI Agent Architect / Builder",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/contentjet-inc-ai-agent-architect-builder",
-            "date": 1774874993
         },
         {
             "title": "WALTER: Senior Software Engineer",
