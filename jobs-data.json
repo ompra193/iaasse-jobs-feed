@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-30 19:24:39",
+    "generated_at": "2026-05-01 00:51:37",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Lite Controller Pathfinder Hospitality",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lite-controller-pathfinder-hospitality-pathfinder-hospitality-1131385",
+            "date": 1777502561
+        },
+        {
+            "title": "Counsel Business & Legal Affairs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-counsel-business-legal-affairs-mlb-network-1131384",
+            "date": 1777500017
+        },
+        {
+            "title": "HR Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-partner-campus-compact-1131383",
+            "date": 1777500006
+        },
         {
             "title": "Backend Engineer",
             "company": "RemoteOK",
@@ -1069,37 +1106,17 @@
             "date": 1776866427
         },
         {
-            "title": "Senior Site Reliability Engineer",
-            "company": "RemoteOK",
+            "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "cloud"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-site-reliability-engineer-pave-bank-1131263",
-            "date": 1776866417
-        },
-        {
-            "title": "Principal Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-oportun-1131262",
-            "date": 1776866410
-        },
-        {
-            "title": "High Paying Hourly Enrollment Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-high-paying-hourly-enrollment-specialist-vp-education-group-1131261",
-            "date": 1776861982
+            "link": "https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused",
+            "date": 1775581463
         },
         {
             "title": "Treehouse Job Board: Electrical Design Lead",
@@ -1353,17 +1370,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/bounteous-principal-product-lead-martech-ai",
             "date": 1775075494
-        },
-        {
-            "title": "EventMobi: Front End Engineer - Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/eventmobi-front-end-engineer-remote",
-            "date": 1774981728
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
