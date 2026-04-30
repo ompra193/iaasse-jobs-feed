@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-30 13:51:54",
+    "generated_at": "2026-04-30 19:24:39",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Backend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-paperpile-1131382",
+            "date": 1777475429
+        },
+        {
+            "title": "Senior Full Stack Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-paperpile-1131381",
+            "date": 1777474779
+        },
         {
             "title": "Senior Software Engineer",
             "company": "RemoteOK",
@@ -1078,30 +1100,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-high-paying-hourly-enrollment-specialist-vp-education-group-1131261",
             "date": 1776861982
-        },
-        {
-            "title": "Search Engine Evaluation Specialist Freelance AI Trainer Project",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-search-engine-evaluation-specialist-freelance-ai-trainer-project-invisible-agency-1131259",
-            "date": 1776837688
-        },
-        {
-            "title": "Senior Security Engineer Vulnerability & Exposure Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258",
-            "date": 1776837679
         },
         {
             "title": "Treehouse Job Board: Electrical Design Lead",
