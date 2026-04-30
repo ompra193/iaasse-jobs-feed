@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-04-30 08:23:57",
-    "total_jobs": 121,
+    "generated_at": "2026-04-30 13:51:54",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131380",
+            "date": 1777471214
+        },
         {
             "title": "Self Pay &amp; Customer Service Specialist",
             "company": "RemoteOK",
@@ -1091,28 +1102,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-vulnerability-exposure-management-bridgewater-associates-referrals-1131258",
             "date": 1776837679
-        },
-        {
-            "title": "Partner Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-prophecy-1131257",
-            "date": 1776837670
-        },
-        {
-            "title": "Associate Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-automox-1131256",
-            "date": 1776837660
         },
         {
             "title": "Treehouse Job Board: Electrical Design Lead",
