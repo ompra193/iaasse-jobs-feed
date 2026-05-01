@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-01 18:48:27",
+    "generated_at": "2026-05-02 00:41:33",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Strategic Business Development Consultant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-strategic-business-development-consultant-vonage-1131403",
+            "date": 1777586447
+        },
+        {
+            "title": "Founding Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402",
+            "date": 1777586432
+        },
+        {
+            "title": "Staff Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-engineer-imagine-pediatrics-1131401",
+            "date": 1777586426
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-garner-health-1131400",
+            "date": 1777586413
+        },
+        {
+            "title": "Sales Development Representative North America June Hiring Class",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-north-america-june-hiring-class-hostaway-1131399",
+            "date": 1777586403
+        },
+        {
+            "title": "Senior Frontend Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398",
+            "date": 1777580607
+        },
         {
             "title": "Product Marketing Lead",
             "company": "RemoteOK",
@@ -1036,72 +1104,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-program-manager-platform-migration-cayuse-1131282",
             "date": 1776924071
-        },
-        {
-            "title": "Principal Customer Solutions Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-customer-solutions-architect-caylent-1131281",
-            "date": 1776924057
-        },
-        {
-            "title": "Senior Security Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-security-engineer-bridgewater-associates-1131280",
-            "date": 1776924046
-        },
-        {
-            "title": "Business Development Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-director-connections-health-solutions-1131279",
-            "date": 1776924034
-        },
-        {
-            "title": "Insurance Verifications Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-insurance-verifications-specialist-cranial-technologies-1131278",
-            "date": 1776924025
-        },
-        {
-            "title": "Frontend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-careervillage-org-1131277",
-            "date": 1776924016
-        },
-        {
-            "title": "Senior Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-1131276",
-            "date": 1776924005
         },
         {
             "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
