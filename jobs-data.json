@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-01 08:53:41",
+    "generated_at": "2026-05-01 13:41:10",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Product Marketing Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395",
+            "date": 1777557604
+        },
         {
             "title": "Legal Data Analyst Junior Vaga Afirmativa para PCD",
             "company": "RemoteOK",
@@ -1091,17 +1102,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-1131276",
             "date": 1776924005
-        },
-        {
-            "title": "Healthcare Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-healthcare-account-executive-vonage-1131272",
-            "date": 1776895259
         },
         {
             "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
