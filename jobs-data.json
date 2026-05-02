@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-02 18:41:28",
-    "total_jobs": 121,
+    "generated_at": "2026-05-03 00:29:10",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Lead Analytics Engineer Borrowing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-analytics-engineer-borrowing-monzo-1131423",
+            "date": 1777672861
+        },
+        {
+            "title": "Maps Visual Design Relevance Rater English",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-maps-visual-design-relevance-rater-english-welo-global-1131422",
+            "date": 1777672851
+        },
+        {
+            "title": "Solutions Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-analyst-sayari-1131421",
+            "date": 1777672843
+        },
+        {
+            "title": "Account Executive Branded Merchandise Promotional Products",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-branded-merchandise-promotional-products-reachdesk-ltd-1131419",
+            "date": 1777672819
+        },
+        {
+            "title": "Patient Navigator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-patient-navigator-imagine-pediatrics-1131418",
+            "date": 1777672808
+        },
         {
             "title": "Entry Level Crypto Market Specialist",
             "company": "RemoteOK",
@@ -1038,85 +1093,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
             "date": 1777010458
-        },
-        {
-            "title": "TEST JOB",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-job-fleetio-1131302",
-            "date": 1777010452
-        },
-        {
-            "title": "Bilingual Legal Personal Injury",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-legal-personal-injury-distro-1131301",
-            "date": 1777010442
-        },
-        {
-            "title": "Controller",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-controller-missionwired-1131300",
-            "date": 1777010435
-        },
-        {
-            "title": "Neurologist TX Licensed BC PT FT Fully Virtual",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-neurologist-tx-licensed-bc-pt-ft-fully-virtual-telemed2u-1131299",
-            "date": 1777010428
-        },
-        {
-            "title": "Senior Account Executive Publishers",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-publishers-zeta-global-1131298",
-            "date": 1777010413
-        },
-        {
-            "title": "Strategy & Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategy-operations-tldr-1131297",
-            "date": 1777010403
-        },
-        {
-            "title": "Applied AI Engineer Europe",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
-            "date": 1776981617
         },
         {
             "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
