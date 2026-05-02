@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-02 13:13:58",
-    "total_jobs": 120,
+    "generated_at": "2026-05-02 18:41:28",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Entry Level Crypto Market Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-infiniti-group-1131416",
+            "date": 1777651999
+        },
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-business-wire-1131415",
+            "date": 1777644012
+        },
+        {
+            "title": "Digital Full Stack Engineer HR172",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+            "date": 1777644003
+        },
+        {
+            "title": "Full stack Staff Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-staff-engineer-join-1131413",
+            "date": 1777644002
+        },
         {
             "title": "US Payroll Administrator",
             "company": "RemoteOK",
@@ -1069,43 +1117,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-europe-amigo-1131296",
             "date": 1776981617
-        },
-        {
-            "title": "UX UI Designer \u00e2\u0080\u0094 AI Application",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-ai-application-0g-labs-1131295",
-            "date": 1776981611
-        },
-        {
-            "title": "Corporate Counsel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-may-mobility-1131294",
-            "date": 1776981604
-        },
-        {
-            "title": "Senior Backend Engineer Build AI Agents",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1131292",
-            "date": 1776981601
         },
         {
             "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
