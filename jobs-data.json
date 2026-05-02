@@ -1,8 +1,89 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-02 00:41:33",
+    "generated_at": "2026-05-02 08:11:29",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "US Payroll Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-us-payroll-administrator-lush-handmade-cosmetics-1131412",
+            "date": 1777615270
+        },
+        {
+            "title": "Vice President of Global Customer Success &amp; Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-global-customer-success-amp-support-jumpcloud-1131411",
+            "date": 1777615256
+        },
+        {
+            "title": "Data Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-success-manager-murmuration-1131410",
+            "date": 1777615250
+        },
+        {
+            "title": "Strategic Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-strategic-success-manager-benchprep-1131409",
+            "date": 1777615243
+        },
+        {
+            "title": "Senior Sales Enablement Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-enablement-manager-sugarai-1131408",
+            "date": 1777615234
+        },
+        {
+            "title": "Senior Software Developer Burnaby",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-burnaby-geotab-1131407",
+            "date": 1777615226
+        },
+        {
+            "title": "Supply Chain Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-manager-nutrafol-1131406",
+            "date": 1777615215
+        },
         {
             "title": "Strategic Business Development Consultant",
             "company": "RemoteOK",
@@ -1027,85 +1108,6 @@
             "date": 1776981601
         },
         {
-            "title": "Bookkeeper",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-vidinext-1131290",
-            "date": 1776967459
-        },
-        {
-            "title": "Mid Senior AI Video Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-video-artist-everai-1131288",
-            "date": 1776953506
-        },
-        {
-            "title": "Account Executive III",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-iii-sumo-logic-1131287",
-            "date": 1776952817
-        },
-        {
-            "title": "Senior Director Sales and Operations Planning",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-sales-and-operations-planning-olly-1131286",
-            "date": 1776952807
-        },
-        {
-            "title": "VP Creative Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-creative-director-noodle-1131284",
-            "date": 1776924088
-        },
-        {
-            "title": "Associate Director Solutions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-director-solutions-yipitdata-alternative-1131283",
-            "date": 1776924082
-        },
-        {
-            "title": "Technical Program Manager \u00e2\u0080\u0094 Platform Migration",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-program-manager-platform-migration-cayuse-1131282",
-            "date": 1776924071
-        },
-        {
             "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1359,19 +1361,6 @@
             "date": 1775161739
         },
         {
-            "title": "Bounteous: Principal Product Lead  MarTech AI",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bounteous-principal-product-lead-martech-ai",
-            "date": 1775075494
-        },
-        {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1381,6 +1370,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
             "date": 1752075311
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
