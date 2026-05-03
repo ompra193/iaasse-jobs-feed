@@ -1,8 +1,114 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-03 00:29:10",
+    "generated_at": "2026-05-03 08:23:30",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Social Media Growth Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-growth-lead-black-amp-white-zebra-1131434",
+            "date": 1777701685
+        },
+        {
+            "title": "Data Conversion Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-conversion-developer-grant-street-group-1131433",
+            "date": 1777701679
+        },
+        {
+            "title": "Director of Supply Chain",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-supply-chain-str-1131432",
+            "date": 1777701672
+        },
+        {
+            "title": "Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-blastpoint-1131431",
+            "date": 1777701662
+        },
+        {
+            "title": "Clinical Vendor Activation Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-vendor-activation-manager-care-access-1131430",
+            "date": 1777701653
+        },
+        {
+            "title": "Intelligence Collections Specialist UK",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-intelligence-collections-specialist-uk-concentric-1131429",
+            "date": 1777701643
+        },
+        {
+            "title": "Crisis Care Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crisis-care-manager-imagine-pediatrics-1131428",
+            "date": 1777701633
+        },
+        {
+            "title": "Triage Medical Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-triage-medical-assistant-apex-skin-1131427",
+            "date": 1777701622
+        },
+        {
+            "title": "GO virtual tutor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-go-virtual-tutor-go-tutor-corps-1131426",
+            "date": 1777701610
+        },
         {
             "title": "Lead Analytics Engineer Borrowing",
             "company": "RemoteOK",
@@ -986,113 +1092,48 @@
             "date": 1777068044
         },
         {
-            "title": "Full Stack Product Engineer",
-            "company": "RemoteOK",
+            "title": "31 Green Ltd: Full Stack Developer - Backend Focus",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-product-engineer-pivotal-health-1131314",
-            "date": 1777068036
+            "link": "https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus",
+            "date": 1775594086
         },
         {
-            "title": "WorkWave Senior Data Analytics Engineer",
-            "company": "RemoteOK",
+            "title": "act digital: Full-stack Developer (SP)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-workwave-senior-data-analytics-engineer-workwave-1131313",
-            "date": 1777068029
-        },
-        {
-            "title": "Paid Media Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-terra-1131312",
-            "date": 1777068016
-        },
-        {
-            "title": "Registered Clinical Social Work Intern Spanish Speaking",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-registered-clinical-social-work-intern-spanish-speaking-brave-health-1131311",
-            "date": 1777068008
+            "link": "https://weworkremotely.com/remote-jobs/act-digital-full-stack-developer-sp",
+            "date": 1775594021
         },
         {
-            "title": "Saint Gobain Application Sales Director",
-            "company": "RemoteOK",
+            "title": "Manifest Cyber Public: Senior Backend Application Engineer - Product & Platform",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "govt",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-saint-gobain-application-sales-director-gml-a-s-1131307",
-            "date": 1777039229
+            "link": "https://weworkremotely.com/remote-jobs/manifest-cyber-public-senior-backend-application-engineer-product-platform",
+            "date": 1775593972
         },
         {
-            "title": "Trainer EMEA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-trainer-emea-360learning-1131306",
-            "date": 1777039222
-        },
-        {
-            "title": "Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-engineer-pivotal-health-1131305",
-            "date": 1777039216
-        },
-        {
-            "title": "Overnight Neuroradiologist Partner Track 10p 7a MST 7 on 14 off",
-            "company": "RemoteOK",
+            "title": "Miragon: Full Stack Developer (m/w/d)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-overnight-neuroradiologist-partner-track-10p-7a-mst-7-on-14-off-diversified-radiology-1131304",
-            "date": 1777010464
-        },
-        {
-            "title": "Full Stack Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-envision-horizons-llc-1131303",
-            "date": 1777010458
+            "link": "https://weworkremotely.com/remote-jobs/miragon-full-stack-developer-m-w-d",
+            "date": 1775593863
         },
         {
             "title": "CloudDevs: Full-stack/Backend developers LLM focused.",
@@ -1311,43 +1352,6 @@
             "date": 1775248282
         },
         {
-            "title": "Reveleer: Full Stack AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-            "date": 1775162760
-        },
-        {
-            "title": "Grafana Labs: Staff Product Marketing Manager | United Kingdom | Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-united-kingdom-remote",
-            "date": 1775161878
-        },
-        {
-            "title": "Tether: AI Research Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
-            "date": 1775161739
-        },
-        {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1370,17 +1374,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
             "date": 1718559051
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
