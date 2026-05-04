@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-04 00:30:04",
+    "generated_at": "2026-05-04 08:21:12",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Junior Mid Full Stack Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-mid-full-stack-software-engineer-black-canyon-consulting-1131437",
+            "date": 1777788013
+        },
+        {
+            "title": "Work From Home Bilingual Client Services Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-bilingual-client-services-representative-global-elite-empire-consultants-1131436",
+            "date": 1777788002
+        },
         {
             "title": "Social Media Growth Lead",
             "company": "RemoteOK",
@@ -1070,26 +1092,50 @@
             "date": 1777096807
         },
         {
-            "title": "B2B Marketing Manager",
-            "company": "RemoteOK",
+            "title": "Titan Ai: Full-Stack Developer, AI Applications",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-b2b-marketing-manager-montu-uk-1131316",
-            "date": 1777068051
+            "link": "https://weworkremotely.com/remote-jobs/titan-ai-full-stack-developer-ai-applications",
+            "date": 1775680328
         },
         {
-            "title": "Senior Tech Lead Mobile Developer Risora",
-            "company": "RemoteOK",
+            "title": "Samsara: Senior Sales Strategy Manager, New Product",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-tech-lead-mobile-developer-risora-skelar-1131315",
-            "date": 1777068044
+            "link": "https://weworkremotely.com/remote-jobs/samsara-senior-sales-strategy-manager-new-product",
+            "date": 1775680320
+        },
+        {
+            "title": "Philo: Lead Backend Software Engineer (Product API)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/philo-lead-backend-software-engineer-product-api",
+            "date": 1775680263
+        },
+        {
+            "title": "Chooose: Engagement Manager (US - ET)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/chooose-engagement-manager-us-et",
+            "date": 1775635890
         },
         {
             "title": "31 Green Ltd: Full Stack Developer - Backend Focus",
@@ -1304,52 +1350,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product",
             "date": 1775421093
-        },
-        {
-            "title": "Grafana Labs: Staff Product Marketing Manager | Germany | Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-germany-remote",
-            "date": 1775248304
-        },
-        {
-            "title": "Grafana Labs: Staff Product Marketing Manager | Sweden | Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-sweden-remote",
-            "date": 1775248293
-        },
-        {
-            "title": "Grafana Labs: Staff Product Marketing Manager | Spain | Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/grafana-labs-staff-product-marketing-manager-spain-remote",
-            "date": 1775248293
-        },
-        {
-            "title": "Boulevard: Staff Product Designer, Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/boulevard-staff-product-designer-platform",
-            "date": 1775248282
         },
         {
             "title": "Speechify Inc: Software Engineer, iOS Core Product",
