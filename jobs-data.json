@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-05 00:59:09",
+    "generated_at": "2026-05-05 08:13:50",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "VFX Artist AI Training Vancouver Canada",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vfx-artist-ai-training-vancouver-canada-prolific-academic-ltd-1131439",
+            "date": 1777874409
+        },
         {
             "title": "Junior Mid Full Stack Software Engineer",
             "company": "RemoteOK",
@@ -1079,17 +1092,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-submittable-1131318",
             "date": 1777096816
-        },
-        {
-            "title": "Proposal Manager @Advizex",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-proposal-manager-advizex-advizex-1131317",
-            "date": 1777096807
         },
         {
             "title": "Titan Ai: Full-Stack Developer, AI Applications",
