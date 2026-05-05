@@ -1,8 +1,122 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-05 19:24:54",
+    "generated_at": "2026-05-06 00:50:11",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Product Marketing Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-intern-everlaw-1131454",
+            "date": 1777932087
+        },
+        {
+            "title": "AI Solutions Manager SMB",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-solutions-manager-smb-arize-ai-1131453",
+            "date": 1777932077
+        },
+        {
+            "title": "Product Manager Data Feeds",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-data-feeds-yipitdata-1131452",
+            "date": 1777932067
+        },
+        {
+            "title": "Senior Director Fulfillment Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-fulfillment-operations-shipbob-inc-1131451",
+            "date": 1777932056
+        },
+        {
+            "title": "Account Executive SLED",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-sled-everpure-1131450",
+            "date": 1777932042
+        },
+        {
+            "title": "Travel Booking Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-travel-booking-specialist-careers-in-travel-destination-planners-1131449",
+            "date": 1777932030
+        },
+        {
+            "title": "Travel Booking Specialist Hotels &amp; Resorts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-travel-booking-specialist-hotels-amp-resorts-careers-in-travel-destination-planners-1131448",
+            "date": 1777932024
+        },
+        {
+            "title": "Hotel &amp; Vacation Advisor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hotel-amp-vacation-advisor-careers-in-travel-destination-planners-1131447",
+            "date": 1777932017
+        },
+        {
+            "title": "Hotel Reservationist \u00e2\u0080\u0094 Love Travel &amp; Build Your Dream Career",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hotel-reservationist-love-travel-amp-build-your-dream-career-careers-in-travel-destination-planners-1131446",
+            "date": 1777932010
+        },
+        {
+            "title": "Destination Travel Specialist Flexible Hours",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-destination-travel-specialist-flexible-hours-careers-in-travel-destination-planners-1131445",
+            "date": 1777932003
+        },
         {
             "title": "Support Specialist",
             "company": "RemoteOK",
@@ -978,30 +1092,8 @@
             "date": 1777183212
         },
         {
-            "title": "Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-finalis-1131328",
-            "date": 1777183205
-        },
-        {
-            "title": "Managing Director New England",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-managing-director-new-england-intrafi-1131327",
-            "date": 1777154404
-        },
-        {
-            "title": "Tax AI Expert",
-            "company": "RemoteOK",
+            "title": "Brightwheel: Staff AI Product Builder",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1009,89 +1101,8 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-tax-ai-expert-weekday-1131326",
-            "date": 1777125626
-        },
-        {
-            "title": "Director of Revenue Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-revenue-operations-practice-better-1131325",
-            "date": 1777125619
-        },
-        {
-            "title": "Regional Sales Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-sales-executive-pivotal-health-1131324",
-            "date": 1777125608
-        },
-        {
-            "title": "Territory Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-territory-account-manager-tenex-ai-1131323",
-            "date": 1777096855
-        },
-        {
-            "title": "HQ AI Enablement Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hq-ai-enablement-lead-everfield-1131322",
-            "date": 1777096849
-        },
-        {
-            "title": "Medical Director for Health Plan",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-director-for-health-plan-evry-health-1131321",
-            "date": 1777096842
-        },
-        {
-            "title": "Vice President of Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-marketing-pine-services-group-1131320",
-            "date": 1777096835
-        },
-        {
-            "title": "Technical Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-clariti-cloud-inc-1131319",
-            "date": 1777096828
+            "link": "https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder",
+            "date": 1775680331
         },
         {
             "title": "Titan Ai: Full-Stack Developer, AI Applications",
@@ -1352,17 +1363,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product",
             "date": 1775421093
-        },
-        {
-            "title": "Speechify Inc: Software Engineer, iOS Core Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-            "date": 1752075311
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
