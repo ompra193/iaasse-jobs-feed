@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-05 08:13:50",
+    "generated_at": "2026-05-05 13:39:38",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-support-specialist-g-p-1131440",
+            "date": 1777903207
+        },
         {
             "title": "VFX Artist AI Training Vancouver Canada",
             "company": "RemoteOK",
@@ -1081,17 +1092,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-clariti-cloud-inc-1131319",
             "date": 1777096828
-        },
-        {
-            "title": "Implementation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-specialist-submittable-1131318",
-            "date": 1777096816
         },
         {
             "title": "Titan Ai: Full-Stack Developer, AI Applications",
