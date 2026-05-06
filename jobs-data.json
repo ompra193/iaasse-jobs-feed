@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-06 08:20:15",
+    "generated_at": "2026-05-06 13:56:51",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Business Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-contact-government-services-llc-1131467",
+            "date": 1777989625
+        },
+        {
+            "title": "Online Hotel Reservationist Fully",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservationist-fully-careers-in-travel-destination-planners-1131466",
+            "date": 1777989618
+        },
+        {
+            "title": "Product Delivery Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-delivery-coordinator-new-era-technology-1131465",
+            "date": 1777989611
+        },
         {
             "title": "Child and Adolescent Intake Therapist",
             "company": "RemoteOK",
@@ -1069,39 +1102,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-product-marketing-manager-us-smile-digital-health-1131348",
             "date": 1777356003
-        },
-        {
-            "title": "Senior Enablement Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-enablement-manager-brandtech-1131346",
-            "date": 1777327264
-        },
-        {
-            "title": "Engineer Software",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineer-software-calabrio-1131345",
-            "date": 1777327255
-        },
-        {
-            "title": "Outpatient Facility Coder",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-outpatient-facility-coder-uasi-1131344",
-            "date": 1777327244
         },
         {
             "title": "Mmdsmart Ltd: Senior Full Stack Developer (Go/React)",
