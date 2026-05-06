@@ -1,8 +1,112 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-06 00:50:11",
-    "total_jobs": 119,
+    "generated_at": "2026-05-06 08:20:15",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Child and Adolescent Intake Therapist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-child-and-adolescent-intake-therapist-blackbird-health-1131464",
+            "date": 1777960885
+        },
+        {
+            "title": "Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-avero-1131463",
+            "date": 1777960873
+        },
+        {
+            "title": "Recruiter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recruiter-airship-1131462",
+            "date": 1777960867
+        },
+        {
+            "title": "Lead AI Engineer & Technical Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-ai-engineer-technical-architect-bold-business-1131461",
+            "date": 1777960852
+        },
+        {
+            "title": "Outside Sales Consultant Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-outside-sales-consultant-account-executive-follett-software-llc-1131460",
+            "date": 1777960841
+        },
+        {
+            "title": "Manager Cost Accounting",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-cost-accounting-manscaped-1131459",
+            "date": 1777960832
+        },
+        {
+            "title": "Staff Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-accountant-uhp-unlock-human-potential-1131458",
+            "date": 1777960822
+        },
+        {
+            "title": "Software Engineer Showroom",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-showroom-higharc-1131457",
+            "date": 1777960816
+        },
+        {
+            "title": "3D Modeling & Python Specialist Freelance AI Trainer Project",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "python",
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-3d-modeling-python-specialist-freelance-ai-trainer-project-invisible-agency-1131456",
+            "date": 1777960809
+        },
         {
             "title": "Product Marketing Intern",
             "company": "RemoteOK",
@@ -1000,32 +1104,8 @@
             "date": 1777327244
         },
         {
-            "title": "Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-toastmasters-international-1131343",
-            "date": 1777327230
-        },
-        {
-            "title": "Sr Account Executive Commercial Accounts",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "accounts"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-commercial-accounts-veeam-software-1131341",
-            "date": 1777327205
-        },
-        {
-            "title": "Senior Full stack React Developer",
-            "company": "RemoteOK",
+            "title": "Mmdsmart Ltd: Senior Full Stack Developer (Go/React)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1033,63 +1113,21 @@
                 "react"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-react-developer-lemon-io-1131339",
-            "date": 1777304786
+            "link": "https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react",
+            "date": 1775766680
         },
         {
-            "title": "Virtual Real Estate Sales Representative",
-            "company": "RemoteOK",
+            "title": "Hiflylabs: Senior AI consultant/GenAI Product Owner",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-real-estate-sales-representative-aurelian-sovereign-1131338",
-            "date": 1777296605
-        },
-        {
-            "title": "Network Engineer Factory Systems and Operational Technology",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-network-engineer-factory-systems-and-operational-technology-anduril-industries-1131334",
-            "date": 1777269617
-        },
-        {
-            "title": "Bookkeeping Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeping-specialist-velora-1131333",
-            "date": 1777269606
-        },
-        {
-            "title": "Operations Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-associate-adventus-1131330",
-            "date": 1777183228
-        },
-        {
-            "title": "ML Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329",
-            "date": 1777183212
+            "link": "https://weworkremotely.com/remote-jobs/hiflylabs-senior-ai-consultant-genai-product-owner",
+            "date": 1775680423
         },
         {
             "title": "Brightwheel: Staff AI Product Builder",
@@ -1341,28 +1379,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build",
             "date": 1775470800
-        },
-        {
-            "title": "8am: Product Designer | Growth",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/8am-product-designer-growth",
-            "date": 1775421098
-        },
-        {
-            "title": "Stripe: Staff Product Manager, Link Consumer Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-staff-product-manager-link-consumer-product",
-            "date": 1775421093
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
