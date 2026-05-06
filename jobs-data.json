@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-06 13:56:51",
+    "generated_at": "2026-05-06 19:41:20",
     "total_jobs": 120,
     "jobs": [
         {
@@ -1104,6 +1104,19 @@
             "date": 1777356003
         },
         {
+            "title": "Gl\u00fcckliche G\u00e4ste: Backend Engineer (TypeScript/Node.js)  DevOps Mindset (m/w/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gluckliche-gaste-backend-engineer-typescript-node-js-devops-mindset-m-w-d",
+            "date": 1775766803
+        },
+        {
             "title": "Mmdsmart Ltd: Senior Full Stack Developer (Go/React)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1366,19 +1379,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-web-core-product-chrome-extension",
             "date": 1775498534
-        },
-        {
-            "title": "Elevated Leads Limited: Chrome Extension Developer \u2014 iGaming Product (New Build)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/elevated-leads-limited-chrome-extension-developer-igaming-product-new-build",
-            "date": 1775470800
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
