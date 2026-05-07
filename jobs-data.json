@@ -1,8 +1,112 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-07 01:16:03",
-    "total_jobs": 119,
+    "generated_at": "2026-05-07 08:21:02",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prove-1131482",
+            "date": 1778047324
+        },
+        {
+            "title": "Technical Writer & Product Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-product-engineer-thermal-works-1131481",
+            "date": 1778047305
+        },
+        {
+            "title": "Lead Instructor Aerospace Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-instructor-aerospace-technician-correlation-one-1131480",
+            "date": 1778047289
+        },
+        {
+            "title": "Senior Backend Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-akuity-1131479",
+            "date": 1778047279
+        },
+        {
+            "title": "Marketing Manager Activation New York",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-manager-activation-new-york-curaleaf-1131478",
+            "date": 1778047267
+        },
+        {
+            "title": "Central Study Coordinator Retention",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-central-study-coordinator-retention-care-access-1131477",
+            "date": 1778047248
+        },
+        {
+            "title": "Therapy Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-therapy-support-specialist-noctrix-health-1131476",
+            "date": 1778047237
+        },
+        {
+            "title": "Medical Affairs Solutions Manager UK",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-affairs-solutions-manager-uk-sorcero-1131475",
+            "date": 1778047221
+        },
+        {
+            "title": "Bilingual Associate Mental Health Therapist Arizona",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-associate-mental-health-therapist-arizona-ascend-healthcare-1131474",
+            "date": 1778047209
+        },
         {
             "title": "UI Developer",
             "company": "RemoteOK",
@@ -876,17 +980,6 @@
             "date": 1777474779
         },
         {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-interra-health-1131380",
-            "date": 1777471214
-        },
-        {
             "title": "Self Pay &amp; Customer Service Specialist",
             "company": "RemoteOK",
             "company_logo": null,
@@ -999,98 +1092,50 @@
             "date": 1777429102
         },
         {
-            "title": "Automation Engineer",
-            "company": "RemoteOK",
+            "title": "Supportyourapp: (Native Norwegian) Customer Support Consultant (remotely)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-automation-engineer-syner-g-1131367",
-            "date": 1777413630
+            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-norwegian-customer-support-consultant-remotely",
+            "date": 1775766925
         },
         {
-            "title": "Pharmacy Liaison",
-            "company": "RemoteOK",
+            "title": "Rubrik: Sales Engineering Manager, Cloud Product Line Specialists",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai"
+                "cloud"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pharmacy-liaison-shields-health-solutions-1131366",
-            "date": 1777413616
+            "link": "https://weworkremotely.com/remote-jobs/rubrik-sales-engineering-manager-cloud-product-line-specialists",
+            "date": 1775766922
         },
         {
-            "title": "Data Governance Engineer",
-            "company": "RemoteOK",
+            "title": "Wati.io: Product Support Intern",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-governance-engineer-chime-financial-inc-1131365",
-            "date": 1777413606
-        },
-        {
-            "title": "UX Designer II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "internship",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ux-designer-ii-renaissance-learning-north-america-1131362",
-            "date": 1777384824
+            "link": "https://weworkremotely.com/remote-jobs/wati-io-product-support-intern",
+            "date": 1775766911
         },
         {
-            "title": "Account Executive Emerging Accounts",
-            "company": "RemoteOK",
+            "title": "Dropbox: CX Technical Content Design Intern (Summer 2026)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "accounts"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-emerging-accounts-fictiv-1131361",
-            "date": 1777384816
-        },
-        {
-            "title": "Senior Associate Business Development & Strategy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "internship",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-associate-business-development-strategy-habitat-health-1131356",
-            "date": 1777356091
-        },
-        {
-            "title": "Regional Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-open-farm-1131355",
-            "date": 1777356077
-        },
-        {
-            "title": "Senior Transportation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-transportation-specialist-shipbob-inc-1131354",
-            "date": 1777356068
+            "link": "https://weworkremotely.com/remote-jobs/dropbox-cx-technical-content-design-intern-summer-2026",
+            "date": 1775766911
         },
         {
             "title": "Feedzai: Senior Frontend Engineer - Product",
@@ -1325,45 +1370,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/clouddevs-full-stack-backend-developers-llm-focused",
             "date": 1775581463
-        },
-        {
-            "title": "Treehouse Job Board: Electrical Design Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "electrical"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/treehouse-job-board-electrical-design-lead",
-            "date": 1775507523
-        },
-        {
-            "title": "Trace3: Sr. Cloud Solutions Architect | DevOps (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/trace3-sr-cloud-solutions-architect-devops-remote",
-            "date": 1775507489
-        },
-        {
-            "title": "Veeva Systems: Data Product Manager - Link Activity Data",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/veeva-systems-data-product-manager-link-activity-data-1",
-            "date": 1775507475
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
