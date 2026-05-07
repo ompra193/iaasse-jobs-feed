@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-07 14:03:54",
+    "generated_at": "2026-05-07 19:39:02",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Customer Success Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-representative-subbly-1131487",
+            "date": 1778095582
+        },
+        {
+            "title": "Mid Senior AI Cinematic Video Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1131485",
+            "date": 1778088434
+        },
         {
             "title": "Senior Veritas eDiscovery Platform Engineer",
             "company": "RemoteOK",
@@ -1068,28 +1092,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-cost-manager-estimator-ocmi-inc-1131372",
             "date": 1777442439
-        },
-        {
-            "title": "Lead Commercial Counsel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-commercial-counsel-specterops-1131371",
-            "date": 1777442429
-        },
-        {
-            "title": "Front End Full Stack Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-front-end-full-stack-developer-honor-foods-1131370",
-            "date": 1777442419
         },
         {
             "title": "Supportyourapp: (Native Norwegian) Customer Support Consultant (remotely)",
