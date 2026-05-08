@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-08 13:12:14",
-    "total_jobs": 122,
+    "generated_at": "2026-05-08 19:18:04",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Customer Success & Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-support-specialist-warehance-1131508",
+            "date": 1778182151
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cast-ai-1131507",
+            "date": 1778176802
+        },
+        {
+            "title": "Clinical Provider",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505",
+            "date": 1778162409
+        },
+        {
+            "title": "Senior Data Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504",
+            "date": 1778162403
+        },
         {
             "title": "Workday Payroll Consultant",
             "company": "RemoteOK",
@@ -224,17 +270,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-marketing-business-development-operator-scale-virtually-1131483",
             "date": 1778076006
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-prove-1131482",
-            "date": 1778047324
         },
         {
             "title": "Technical Writer & Product Engineer",
@@ -854,19 +889,6 @@
             "date": 1777651999
         },
         {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-business-wire-1131415",
-            "date": 1777644012
-        },
-        {
             "title": "Digital Full Stack Engineer HR172",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1073,50 +1095,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-manager-client-support-rh-boutique-partners-waterworks-1131392",
             "date": 1777528859
-        },
-        {
-            "title": "Senior Manager Clinical Biomarker Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-clinical-biomarker-operations-apogee-therapeutics-1131391",
-            "date": 1777528853
-        },
-        {
-            "title": "Executive Briefing Specialst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-briefing-specialst-new-relic-1131390",
-            "date": 1777528843
-        },
-        {
-            "title": "Integration Test Manager VHA Required",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-integration-test-manager-vha-required-ibility-1131389",
-            "date": 1777528833
-        },
-        {
-            "title": "Inside Sales Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-inside-sales-representative-renewal-by-andersen-1131388",
-            "date": 1777528825
         },
         {
             "title": "Discord: Product Design Manager, Engagement",
