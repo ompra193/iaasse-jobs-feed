@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-08 01:13:21",
-    "total_jobs": 120,
+    "generated_at": "2026-05-08 08:23:55",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Workday Payroll Consultant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-workday-payroll-consultant-meridian-partners-1131503",
+            "date": 1778133753
+        },
+        {
+            "title": "Policy Intern",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-policy-intern-hopelab-1131502",
+            "date": 1778133711
+        },
+        {
+            "title": "Solutions Engineering Post Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineering-post-sales-geotab-1131501",
+            "date": 1778133705
+        },
+        {
+            "title": "Data Entry Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-coordinator-profound-research-1131500",
+            "date": 1778133669
+        },
+        {
+            "title": "1079 Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-1079-project-manager-gofasti-1131499",
+            "date": 1778133663
+        },
+        {
+            "title": "Director of Legal Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-legal-operations-solutus-legal-search-1131498",
+            "date": 1778133624
+        },
+        {
+            "title": "Tired of Your ome Being Capped Work from Home Opportunity",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tired-of-your-ome-being-capped-work-from-home-opportunity-ao-garcia-agency-1131497",
+            "date": 1778133618
+        },
+        {
+            "title": "Customer Service Representative Hotel Reservations Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-hotel-reservations-entry-level-aisles-amp-abroad-1131496",
+            "date": 1778133612
+        },
+        {
+            "title": "Work From Home Client Services Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-client-services-associate-global-elite-empire-consultants-1131495",
+            "date": 1778133604
+        },
         {
             "title": "Business Analyst Pleno",
             "company": "RemoteOK",
@@ -1018,87 +1119,39 @@
             "date": 1777528825
         },
         {
-            "title": "VP Product",
-            "company": "RemoteOK",
+            "title": "Discord: Product Design Manager, Engagement",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-product-spark-advisors-1131387",
-            "date": 1777528818
+            "link": "https://weworkremotely.com/remote-jobs/discord-product-design-manager-engagement",
+            "date": 1775939465
         },
         {
-            "title": "Sustainability Counsel",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sustainability-counsel-axiom-1131386",
-            "date": 1777528807
-        },
-        {
-            "title": "Lite Controller Pathfinder Hospitality",
-            "company": "RemoteOK",
+            "title": "Jimdo: Head of Experience Design",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lite-controller-pathfinder-hospitality-pathfinder-hospitality-1131385",
-            "date": 1777502561
+            "link": "https://weworkremotely.com/remote-jobs/jimdo-head-of-experience-design",
+            "date": 1775853091
         },
         {
-            "title": "Counsel Business & Legal Affairs",
-            "company": "RemoteOK",
+            "title": "Ssc Hr Solutions: System Design / Solution Architect",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-counsel-business-legal-affairs-mlb-network-1131384",
-            "date": 1777500017
-        },
-        {
-            "title": "HR Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "govt",
             "skills": [
                 "hr"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-partner-campus-compact-1131383",
-            "date": 1777500006
-        },
-        {
-            "title": "Backend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-backend-engineer-paperpile-1131382",
-            "date": 1777475429
-        },
-        {
-            "title": "Senior Full Stack Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-paperpile-1131381",
-            "date": 1777474779
+            "link": "https://weworkremotely.com/remote-jobs/ssc-hr-solutions-system-design-solution-architect",
+            "date": 1775853088
         },
         {
             "title": "Sai Group Ltd: Customer Support Executive  AI Platform",
@@ -1340,59 +1393,26 @@
             "date": 1775680263
         },
         {
-            "title": "Chooose: Engagement Manager (US - ET)",
+            "title": "CodeSignal: Software Engineer, Business Experience",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/chooose-engagement-manager-us-et",
-            "date": 1775635890
+            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
+            "date": 1762937762
         },
         {
-            "title": "31 Green Ltd: Full Stack Developer - Backend Focus",
+            "title": "Mobena: Frontend Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/31-green-ltd-full-stack-developer-backend-focus",
-            "date": 1775594086
-        },
-        {
-            "title": "act digital: Full-stack Developer (SP)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/act-digital-full-stack-developer-sp",
-            "date": 1775594021
-        },
-        {
-            "title": "Manifest Cyber Public: Senior Backend Application Engineer - Product & Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/manifest-cyber-public-senior-backend-application-engineer-product-platform",
-            "date": 1775593972
-        },
-        {
-            "title": "Miragon: Full Stack Developer (m/w/d)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/miragon-full-stack-developer-m-w-d",
-            "date": 1775593863
+            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
+            "date": 1747425814
         }
     ]
 }
