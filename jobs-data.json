@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-09 13:26:53",
+    "generated_at": "2026-05-09 18:48:02",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Senior Manager Government & Industry Affairs Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-government-industry-affairs-operations-vgw-1131518",
+            "date": 1778248848
+        },
+        {
+            "title": "People Operations Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-people-operations-lead-defense-unicorns-1131517",
+            "date": 1778248834
+        },
         {
             "title": "Web Development Specialist",
             "company": "RemoteOK",
@@ -1045,30 +1069,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-burnaby-geotab-1131407",
             "date": 1777615226
-        },
-        {
-            "title": "Supply Chain Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-manager-nutrafol-1131406",
-            "date": 1777615215
-        },
-        {
-            "title": "Strategic Business Development Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategic-business-development-consultant-vonage-1131403",
-            "date": 1777586447
         },
         {
             "title": "Hitachi Vantara Corporation: Lead Full Stack Developer (UI/UX)",
