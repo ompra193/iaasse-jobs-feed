@@ -1,8 +1,96 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-09 00:47:59",
-    "total_jobs": 120,
+    "generated_at": "2026-05-09 08:19:29",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Web Development Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
+            "date": 1778223628
+        },
+        {
+            "title": "Principal Marketing Analytics Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-principal-marketing-analytics-manager-greenhouse-1131515",
+            "date": 1778220364
+        },
+        {
+            "title": "Sales Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-kiavi-1131514",
+            "date": 1778220313
+        },
+        {
+            "title": "Talent Acquisition Pipeline Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-pipeline-manager-nava-pbc-1131513",
+            "date": 1778220202
+        },
+        {
+            "title": "Analytics Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512",
+            "date": 1778220108
+        },
+        {
+            "title": "Mental Health Counselor Therapist Social Worker New York",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mental-health-counselor-therapist-social-worker-new-york-rivia-mind-mental-healthcare-1131511",
+            "date": 1778220074
+        },
+        {
+            "title": "Drug & Alcohol Counselor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-drug-alcohol-counselor-pelago-1131510",
+            "date": 1778220041
+        },
+        {
+            "title": "Tech Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509",
+            "date": 1778220003
+        },
         {
             "title": "Customer Success & Support Specialist",
             "company": "RemoteOK",
@@ -385,17 +473,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-backend-highlevel-1131472",
             "date": 1778018471
-        },
-        {
-            "title": "Change & Continuous Improvement Partner Wealth",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-change-continuous-improvement-partner-wealth-monzo-1131471",
-            "date": 1778018458
         },
         {
             "title": "Software Engineer II",
@@ -823,17 +900,6 @@
             "date": 1777701610
         },
         {
-            "title": "Lead Analytics Engineer Borrowing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-analytics-engineer-borrowing-monzo-1131423",
-            "date": 1777672861
-        },
-        {
             "title": "Maps Visual Design Relevance Rater English",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1005,96 +1071,61 @@
             "date": 1777586447
         },
         {
-            "title": "Founding Engineer",
-            "company": "RemoteOK",
+            "title": "Hitachi Vantara Corporation: Lead Full Stack Developer (UI/UX)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-founding-engineer-haast-1131402",
-            "date": 1777586432
+            "link": "https://weworkremotely.com/remote-jobs/hitachi-vantara-corporation-lead-full-stack-developer-ui-ux",
+            "date": 1776198679
         },
         {
-            "title": "Staff Data Engineer",
-            "company": "RemoteOK",
+            "title": "Nextiva: Director, Product Management (AI Agent Platform)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-data-engineer-imagine-pediatrics-1131401",
-            "date": 1777586426
+            "link": "https://weworkremotely.com/remote-jobs/nextiva-director-product-management-ai-agent-platform",
+            "date": 1776198674
         },
         {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
+            "title": "Mdn: Firefox Product Marketing Lead - Desktop",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-garner-health-1131400",
-            "date": 1777586413
+            "link": "https://weworkremotely.com/remote-jobs/mdn-firefox-product-marketing-lead-desktop",
+            "date": 1776198674
         },
         {
-            "title": "Sales Development Representative North America June Hiring Class",
-            "company": "RemoteOK",
+            "title": "Dropbox: CX Video Content Design Intern (Summer 2026)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dropbox-cx-video-content-design-intern-summer-2026",
+            "date": 1776112275
+        },
+        {
+            "title": "Yugabytedb: Senior Director, Product Management",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-north-america-june-hiring-class-hostaway-1131399",
-            "date": 1777586403
-        },
-        {
-            "title": "Senior Frontend Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-frontend-developer-sanctuary-computer-1131398",
-            "date": 1777580607
-        },
-        {
-            "title": "Product Marketing Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-lead-paragon-1131395",
-            "date": 1777557604
-        },
-        {
-            "title": "Legal Data Analyst Junior Vaga Afirmativa para PCD",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-legal-data-analyst-junior-vaga-afirmativa-para-pcd-jusbrasil-1131393",
-            "date": 1777528870
-        },
-        {
-            "title": "Manager Client Support RH Boutique Partners",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-client-support-rh-boutique-partners-waterworks-1131392",
-            "date": 1777528859
+            "link": "https://weworkremotely.com/remote-jobs/yugabytedb-senior-director-product-management",
+            "date": 1776112260
         },
         {
             "title": "Discord: Product Design Manager, Engagement",
@@ -1308,67 +1339,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react",
             "date": 1775766680
-        },
-        {
-            "title": "Hiflylabs: Senior AI consultant/GenAI Product Owner",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hiflylabs-senior-ai-consultant-genai-product-owner",
-            "date": 1775680423
-        },
-        {
-            "title": "Brightwheel: Staff AI Product Builder",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/brightwheel-staff-ai-product-builder",
-            "date": 1775680331
-        },
-        {
-            "title": "Titan Ai: Full-Stack Developer, AI Applications",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/titan-ai-full-stack-developer-ai-applications",
-            "date": 1775680328
-        },
-        {
-            "title": "Samsara: Senior Sales Strategy Manager, New Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/samsara-senior-sales-strategy-manager-new-product",
-            "date": 1775680320
-        },
-        {
-            "title": "Philo: Lead Backend Software Engineer (Product API)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/philo-lead-backend-software-engineer-product-api",
-            "date": 1775680263
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
