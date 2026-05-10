@@ -1,8 +1,85 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-10 00:31:39",
+    "generated_at": "2026-05-10 08:25:51",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Senior Software Engineer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-i-clariti-cloud-inc-1131527",
+            "date": 1778306562
+        },
+        {
+            "title": "Manager Collections &amp; Recoveries",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-collections-amp-recoveries-forbright-bank-1131526",
+            "date": 1778306536
+        },
+        {
+            "title": "Customer Success Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-cipherhealth-1131525",
+            "date": 1778306530
+        },
+        {
+            "title": "1086 Digital Marketing Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-1086-digital-marketing-specialist-gofasti-1131524",
+            "date": 1778306512
+        },
+        {
+            "title": "Asset Administration Operations Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asset-administration-operations-specialist-forge-global-1131523",
+            "date": 1778306481
+        },
+        {
+            "title": "Patient Operations Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-patient-operations-coordinator-rivia-mind-mental-healthcare-1131522",
+            "date": 1778306448
+        },
+        {
+            "title": "Fully Cruise &amp; Resort Booking Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fully-cruise-amp-resort-booking-specialist-careers-in-travel-destination-planners-1131521",
+            "date": 1778306407
+        },
         {
             "title": "Engineering Manager AI Fleet Management &amp; Honk",
             "company": "RemoteOK",
@@ -589,17 +666,6 @@
             "date": 1777960885
         },
         {
-            "title": "Customer Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-avero-1131463",
-            "date": 1777960873
-        },
-        {
             "title": "Recruiter",
             "company": "RemoteOK",
             "company_logo": null,
@@ -992,74 +1058,153 @@
             "date": 1777651999
         },
         {
-            "title": "Digital Full Stack Engineer HR172",
-            "company": "RemoteOK",
+            "title": "Spotify : Senior Machine Learning Engineer, Personalization",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/spotify-senior-machine-learning-engineer-personalization",
+            "date": 1776375572
+        },
+        {
+            "title": "Fusemachines: Applied AI Engineer (Automation)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "hr"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
-            "date": 1777644003
+            "link": "https://weworkremotely.com/remote-jobs/fusemachines-applied-ai-engineer-automation",
+            "date": 1776372741
         },
         {
-            "title": "Full stack Staff Engineer",
-            "company": "RemoteOK",
+            "title": "Zscaler: Senior Manager, Creative Design and Media",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-staff-engineer-join-1131413",
-            "date": 1777644002
+            "link": "https://weworkremotely.com/remote-jobs/zscaler-senior-manager-creative-design-and-media",
+            "date": 1776371482
         },
         {
-            "title": "US Payroll Administrator",
-            "company": "RemoteOK",
+            "title": "Housecall Pro: Senior Product Operations Manager I",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-us-payroll-administrator-lush-handmade-cosmetics-1131412",
-            "date": 1777615270
+            "link": "https://weworkremotely.com/remote-jobs/housecall-pro-senior-product-operations-manager-i",
+            "date": 1776371472
         },
         {
-            "title": "Vice President of Global Customer Success &amp; Support",
-            "company": "RemoteOK",
+            "title": "Monograph: Content Marketer (Product)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-global-customer-success-amp-support-jumpcloud-1131411",
-            "date": 1777615256
+            "link": "https://weworkremotely.com/remote-jobs/monograph-content-marketer-product",
+            "date": 1776371471
         },
         {
-            "title": "Data Success Manager",
-            "company": "RemoteOK",
+            "title": "Vanta: Senior Software Engineer, Design Systems",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
+            "date": 1776370164
+        },
+        {
+            "title": "Wallarm: Senior DevOps Engineer - Node",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "node"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-success-manager-murmuration-1131410",
-            "date": 1777615250
+            "link": "https://weworkremotely.com/remote-jobs/wallarm-senior-devops-engineer-node",
+            "date": 1776285058
         },
         {
-            "title": "Strategic Success Manager",
-            "company": "RemoteOK",
+            "title": "Consensys: Staff Product Manager - MetaMask (Networks)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategic-success-manager-benchprep-1131409",
-            "date": 1777615243
+            "link": "https://weworkremotely.com/remote-jobs/consensys-staff-product-manager-metamask-networks",
+            "date": 1776285052
+        },
+        {
+            "title": "C4Media Inc.: Mobile Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/c4media-inc-mobile-developer",
+            "date": 1776199677
+        },
+        {
+            "title": "Veriff: Senior Software Engineer (Product Platform)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/veriff-senior-software-engineer-product-platform",
+            "date": 1776198706
+        },
+        {
+            "title": "Chainguard: Staff Product Marketing Manager - Containers",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/chainguard-staff-product-marketing-manager-containers",
+            "date": 1776198696
+        },
+        {
+            "title": "Advocate: Product Engineer, Tech Ops",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/advocate-product-engineer-tech-ops",
+            "date": 1776198689
+        },
+        {
+            "title": "3pillar: AWS Certified DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/3pillar-aws-certified-devops-engineer",
+            "date": 1776198685
         },
         {
             "title": "Hitachi Vantara Corporation: Lead Full Stack Developer (UI/UX)",
@@ -1179,157 +1324,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-data-annotator",
             "date": 1775812350
-        },
-        {
-            "title": "Supportyourapp: (Native Norwegian) Customer Support Consultant (remotely)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-norwegian-customer-support-consultant-remotely",
-            "date": 1775766925
-        },
-        {
-            "title": "Rubrik: Sales Engineering Manager, Cloud Product Line Specialists",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/rubrik-sales-engineering-manager-cloud-product-line-specialists",
-            "date": 1775766922
-        },
-        {
-            "title": "Wati.io: Product Support Intern",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wati-io-product-support-intern",
-            "date": 1775766911
-        },
-        {
-            "title": "Dropbox: CX Technical Content Design Intern (Summer 2026)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dropbox-cx-technical-content-design-intern-summer-2026",
-            "date": 1775766911
-        },
-        {
-            "title": "Feedzai: Senior Frontend Engineer - Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/feedzai-senior-frontend-engineer-product",
-            "date": 1775766905
-        },
-        {
-            "title": "Instacart: Senior Product Manager, Marketing Experiences, Growth",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/instacart-senior-product-manager-marketing-experiences-growth",
-            "date": 1775766891
-        },
-        {
-            "title": "Instacart: Staff Content Designer - Model Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/instacart-staff-content-designer-model-design",
-            "date": 1775766864
-        },
-        {
-            "title": "Dragos: Staff Product Manager - Asset Management",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dragos-staff-product-manager-asset-management",
-            "date": 1775766862
-        },
-        {
-            "title": "Dragos: Senior Product Manager - Delivery Management",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dragos-senior-product-manager-delivery-management",
-            "date": 1775766862
-        },
-        {
-            "title": "Descript: Product Manager, API & Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/descript-product-manager-api-platform",
-            "date": 1775766837
-        },
-        {
-            "title": "Contentsquare: Staff Product Designer (UI-Led)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/contentsquare-staff-product-designer-ui-led",
-            "date": 1775766821
-        },
-        {
-            "title": "Gl\u00fcckliche G\u00e4ste: Backend Engineer (TypeScript/Node.js)  DevOps Mindset (m/w/d)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/gluckliche-gaste-backend-engineer-typescript-node-js-devops-mindset-m-w-d",
-            "date": 1775766803
-        },
-        {
-            "title": "Mmdsmart Ltd: Senior Full Stack Developer (Go/React)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mmdsmart-ltd-senior-full-stack-developer-go-react",
-            "date": 1775766680
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
