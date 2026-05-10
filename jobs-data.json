@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-10 08:25:51",
+    "generated_at": "2026-05-10 13:37:47",
     "total_jobs": 117,
     "jobs": [
+        {
+            "title": "Lead Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
+            "date": 1778335210
+        },
+        {
+            "title": "Marketing Copywriter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-copywriter-bis-safety-software-1131528",
+            "date": 1778335203
+        },
         {
             "title": "Senior Software Engineer I",
             "company": "RemoteOK",
@@ -1034,28 +1056,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-account-executive-branded-merchandise-promotional-products-reachdesk-ltd-1131419",
             "date": 1777672819
-        },
-        {
-            "title": "Patient Navigator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-patient-navigator-imagine-pediatrics-1131418",
-            "date": 1777672808
-        },
-        {
-            "title": "Entry Level Crypto Market Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-infiniti-group-1131416",
-            "date": 1777651999
         },
         {
             "title": "Spotify : Senior Machine Learning Engineer, Personalization",
