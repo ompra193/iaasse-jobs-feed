@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-10 18:48:38",
-    "total_jobs": 117,
+    "generated_at": "2026-05-11 00:34:15",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "CNC Machinist Milling",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cnc-machinist-milling-cx2-1131532",
+            "date": 1778364033
+        },
+        {
+            "title": "Staff Product Manager Enterprise",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-enterprise-livekit-1131531",
+            "date": 1778364024
+        },
+        {
+            "title": "Customer Support Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-representative-boom-entertainment-1131530",
+            "date": 1778364018
+        },
         {
             "title": "Lead Software Engineer",
             "company": "RemoteOK",
@@ -1034,28 +1067,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-maps-visual-design-relevance-rater-english-welo-global-1131422",
             "date": 1777672851
-        },
-        {
-            "title": "Solutions Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-analyst-sayari-1131421",
-            "date": 1777672843
-        },
-        {
-            "title": "Account Executive Branded Merchandise Promotional Products",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-branded-merchandise-promotional-products-reachdesk-ltd-1131419",
-            "date": 1777672819
         },
         {
             "title": "Toast: Senior Enterprise Process Engineer",
