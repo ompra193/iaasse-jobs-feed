@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-11 00:34:15",
+    "generated_at": "2026-05-11 09:01:49",
     "total_jobs": 118,
     "jobs": [
         {
@@ -1069,6 +1069,39 @@
             "date": 1777672851
         },
         {
+            "title": "Consensys: Senior Product Manager - MetaMask (Engagement)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/consensys-senior-product-manager-metamask-engagement",
+            "date": 1776457853
+        },
+        {
+            "title": "Chess.com: Senior ML Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/chess-com-senior-ml-engineer",
+            "date": 1776377126
+        },
+        {
+            "title": "Bjak: Senior QA Automation Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer",
+            "date": 1776376424
+        },
+        {
             "title": "Toast: Senior Enterprise Process Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1295,43 +1328,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/discord-product-design-manager-engagement",
             "date": 1775939465
-        },
-        {
-            "title": "Jimdo: Head of Experience Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jimdo-head-of-experience-design",
-            "date": 1775853091
-        },
-        {
-            "title": "Ssc Hr Solutions: System Design / Solution Architect",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ssc-hr-solutions-system-design-solution-architect",
-            "date": 1775853088
-        },
-        {
-            "title": "Sai Group Ltd: Customer Support Executive  AI Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sai-group-ltd-customer-support-executive-ai-platform",
-            "date": 1775853071
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
