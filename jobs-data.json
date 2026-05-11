@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-11 09:01:49",
-    "total_jobs": 118,
+    "generated_at": "2026-05-11 15:09:11",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Online Hospitality Services Coordinator Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-hospitality-services-coordinator-entry-level-aisles-amp-abroad-1131534",
+            "date": 1778421609
+        },
+        {
+            "title": "Account Executive Southeast",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-southeast-apollo-information-systems-1131533",
+            "date": 1778421603
+        },
         {
             "title": "CNC Machinist Milling",
             "company": "RemoteOK",
@@ -1058,15 +1080,15 @@
             "date": 1777701610
         },
         {
-            "title": "Maps Visual Design Relevance Rater English",
-            "company": "RemoteOK",
+            "title": "Rush Street Interactive: Senior Product Manager - Technology",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-maps-visual-design-relevance-rater-english-welo-global-1131422",
-            "date": 1777672851
+            "link": "https://weworkremotely.com/remote-jobs/rush-street-interactive-senior-product-manager-technology",
+            "date": 1776457862
         },
         {
             "title": "Consensys: Senior Product Manager - MetaMask (Engagement)",
@@ -1328,17 +1350,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/discord-product-design-manager-engagement",
             "date": 1775939465
-        },
-        {
-            "title": "CodeSignal: Software Engineer, Business Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
-            "date": 1762937762
         },
         {
             "title": "Mobena: Frontend Engineer",
