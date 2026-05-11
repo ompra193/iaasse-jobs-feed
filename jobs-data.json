@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-11 20:21:26",
+    "generated_at": "2026-05-12 01:17:25",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Senior Marketing Manager CRO Experience Required",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-marketing-manager-cro-experience-required-precision-medicine-group-1131536",
+            "date": 1778450426
+        },
         {
             "title": "Online Hospitality Services Coordinator Entry Level",
             "company": "RemoteOK",
@@ -281,17 +292,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-tech-lead-zensurance-1131509",
             "date": 1778220003
-        },
-        {
-            "title": "Customer Success & Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-support-specialist-warehance-1131508",
-            "date": 1778182151
         },
         {
             "title": "Senior Software Engineer",
@@ -1080,6 +1080,41 @@
             "date": 1777701610
         },
         {
+            "title": "Calibrate Group AI: Senior Technical Lead",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/calibrate-group-ai-senior-technical-lead",
+            "date": 1776708086
+        },
+        {
+            "title": "SuperPlane: Product Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer",
+            "date": 1776700682
+        },
+        {
+            "title": "Vercel: Senior Product Security Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vercel-senior-product-security-engineer",
+            "date": 1776544259
+        },
+        {
             "title": "Rush Street Interactive: Senior Product Manager - Technology",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1102,28 +1137,6 @@
             "date": 1776457853
         },
         {
-            "title": "Chess.com: Senior ML Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/chess-com-senior-ml-engineer",
-            "date": 1776377126
-        },
-        {
-            "title": "Bjak: Senior QA Automation Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bjak-senior-qa-automation-engineer",
-            "date": 1776376424
-        },
-        {
             "title": "Toast: Senior Enterprise Process Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1133,30 +1146,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toast-senior-enterprise-process-engineer",
             "date": 1776376063
-        },
-        {
-            "title": "Spotify : Senior Machine Learning Engineer, Personalization",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/spotify-senior-machine-learning-engineer-personalization",
-            "date": 1776375572
-        },
-        {
-            "title": "Fusemachines: Applied AI Engineer (Automation)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/fusemachines-applied-ai-engineer-automation",
-            "date": 1776372741
         },
         {
             "title": "Zscaler: Senior Manager, Creative Design and Media",
@@ -1352,15 +1341,30 @@
             "date": 1775939465
         },
         {
-            "title": "Mobena: Frontend Engineer",
+            "title": "Stellar AI: Senior Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
-            "date": 1747425814
+            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
+            "date": 1761075386
+        },
+        {
+            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
+            "date": 1753281114
         }
     ]
 }
