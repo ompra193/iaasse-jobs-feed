@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-12 14:10:08",
+    "generated_at": "2026-05-12 19:56:05",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Crypto Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crypto-trader-maidel-group-1131541",
+            "date": 1778526052
+        },
+        {
+            "title": "Tooling Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tooling-engineer-unikraft-1131540",
+            "date": 1778511601
+        },
         {
             "title": "Meta Ads Manager + Creative Producer AI Native",
             "company": "RemoteOK",
@@ -1066,31 +1088,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-crisis-care-manager-imagine-pediatrics-1131428",
             "date": 1777701633
-        },
-        {
-            "title": "Triage Medical Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-triage-medical-assistant-apex-skin-1131427",
-            "date": 1777701622
-        },
-        {
-            "title": "GO virtual tutor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-go-virtual-tutor-go-tutor-corps-1131426",
-            "date": 1777701610
         },
         {
             "title": "Route: Sr. Manager, Design",
