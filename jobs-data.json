@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-12 01:17:25",
-    "total_jobs": 119,
+    "generated_at": "2026-05-12 08:26:42",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Meta Ads Manager + Creative Producer AI Native",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-meta-ads-manager-creative-producer-ai-native-singularads-com-1131538",
+            "date": 1778488870
+        },
         {
             "title": "Senior Marketing Manager CRO Experience Required",
             "company": "RemoteOK",
@@ -1080,6 +1093,17 @@
             "date": 1777701610
         },
         {
+            "title": "Route: Sr. Manager, Design",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/route-sr-manager-design",
+            "date": 1776803489
+        },
+        {
             "title": "Calibrate Group AI: Senior Technical Lead",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1328,17 +1352,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yugabytedb-senior-director-product-management",
             "date": 1776112260
-        },
-        {
-            "title": "Discord: Product Design Manager, Engagement",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/discord-product-design-manager-engagement",
-            "date": 1775939465
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
