@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-13 08:56:06",
+    "generated_at": "2026-05-13 14:14:14",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Tier II III UC Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tier-ii-iii-uc-support-engineer-ttec-digital-1131561",
+            "date": 1778594516
+        },
+        {
+            "title": "Nuclear Engineer III Nuclear Safety Analysis",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-nuclear-engineer-iii-nuclear-safety-analysis-deep-fission-inc-1131560",
+            "date": 1778594510
+        },
+        {
+            "title": "Senior Director Nuclear Programs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-nuclear-programs-deep-fission-inc-1131559",
+            "date": 1778594475
+        },
+        {
+            "title": "VP of Product and Partnerships",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-of-product-and-partnerships-uconnect-1131558",
+            "date": 1778594429
+        },
+        {
+            "title": "Technical Solutions Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-solutions-analyst-varicent-1131557",
+            "date": 1778594423
+        },
         {
             "title": "VP Population Health",
             "company": "RemoteOK",
@@ -1014,63 +1069,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-ai-solutions-manager-smb-arize-ai-1131453",
             "date": 1777932077
-        },
-        {
-            "title": "Product Manager Data Feeds",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-data-feeds-yipitdata-1131452",
-            "date": 1777932067
-        },
-        {
-            "title": "Senior Director Fulfillment Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-director-fulfillment-operations-shipbob-inc-1131451",
-            "date": 1777932056
-        },
-        {
-            "title": "Account Executive SLED",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-account-executive-sled-everpure-1131450",
-            "date": 1777932042
-        },
-        {
-            "title": "Travel Booking Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-travel-booking-specialist-careers-in-travel-destination-planners-1131449",
-            "date": 1777932030
-        },
-        {
-            "title": "Travel Booking Specialist Hotels &amp; Resorts",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-travel-booking-specialist-hotels-amp-resorts-careers-in-travel-destination-planners-1131448",
-            "date": 1777932024
         },
         {
             "title": "Route: Sr. Manager, Design",
