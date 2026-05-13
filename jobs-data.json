@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-13 20:03:58",
+    "generated_at": "2026-05-14 01:24:56",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Language Quality Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-language-quality-manager-welo-global-1131565",
+            "date": 1778623314
+        },
+        {
+            "title": "Contract Mandarin Document Review Attorney",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-contract-mandarin-document-review-attorney-contact-government-services-llc-1131564",
+            "date": 1778623307
+        },
+        {
+            "title": ".NET Developer Advocate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-net-developer-advocate-jetbrains-1131563",
+            "date": 1778623286
+        },
+        {
+            "title": "Clinical Marketing Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-marketing-director-genomenon-1131562",
+            "date": 1778623219
+        },
         {
             "title": "Tier II III UC Support Engineer",
             "company": "RemoteOK",
@@ -1020,55 +1064,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-manager-cost-accounting-manscaped-1131459",
             "date": 1777960832
-        },
-        {
-            "title": "Software Engineer Showroom",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-showroom-higharc-1131457",
-            "date": 1777960816
-        },
-        {
-            "title": "3D Modeling & Python Specialist Freelance AI Trainer Project",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "python",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-3d-modeling-python-specialist-freelance-ai-trainer-project-invisible-agency-1131456",
-            "date": 1777960809
-        },
-        {
-            "title": "Product Marketing Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-marketing-intern-everlaw-1131454",
-            "date": 1777932087
-        },
-        {
-            "title": "AI Solutions Manager SMB",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-solutions-manager-smb-arize-ai-1131453",
-            "date": 1777932077
         },
         {
             "title": "Route: Sr. Manager, Design",
