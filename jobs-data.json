@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-14 19:41:43",
+    "generated_at": "2026-05-15 01:15:44",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Revenue Cycle Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-revenue-cycle-specialist-osmind-1131580",
+            "date": 1778709763
+        },
+        {
+            "title": "Chief Revenue Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-revenue-officer-continuumglobal-inc-1131579",
+            "date": 1778709756
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-centralreach-1131578",
+            "date": 1778709715
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sprinto-1131577",
+            "date": 1778709603
+        },
         {
             "title": "Senior Sales Engineer",
             "company": "RemoteOK",
@@ -105,17 +149,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-care-access-1131568",
             "date": 1778652037
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
-            "date": 1778652019
         },
         {
             "title": "Language Quality Manager",
@@ -1044,39 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-software-development-engineer-backend-highlevel-1131472",
             "date": 1778018471
-        },
-        {
-            "title": "Software Engineer II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-ii-precision-aq-1131470",
-            "date": 1778018436
-        },
-        {
-            "title": "Staff Accountant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-accountant-cybersheath-1131469",
-            "date": 1778018425
-        },
-        {
-            "title": "Senior Platform Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-saas-group-1131468",
-            "date": 1778018411
         },
         {
             "title": "Notion: Staff Frontend Engineer",
