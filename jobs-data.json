@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-14 01:24:56",
-    "total_jobs": 119,
+    "generated_at": "2026-05-14 08:56:58",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Engenharia Software Engineer III Golang",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engenharia-software-engineer-iii-golang-stone-1131575",
+            "date": 1778652169
+        },
+        {
+            "title": "Director Enterprise Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-firework-1131574",
+            "date": 1778652144
+        },
+        {
+            "title": "Recruiter GTM Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recruiter-gtm-sales-doordash-usa-1131573",
+            "date": 1778652138
+        },
+        {
+            "title": "Senior AI System Software Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
+            "date": 1778652118
+        },
+        {
+            "title": "Senior Medical Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-medical-editor-omnicom-health-1131571",
+            "date": 1778652105
+        },
+        {
+            "title": "Pricing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pricing-manager-affirmedrx-pbc-1131570",
+            "date": 1778652086
+        },
+        {
+            "title": "Director of Market Development",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-market-development-beale-infrastructure-1131569",
+            "date": 1778652060
+        },
+        {
+            "title": "Digital Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-care-access-1131568",
+            "date": 1778652037
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+            "date": 1778652019
+        },
         {
             "title": "Language Quality Manager",
             "company": "RemoteOK",
@@ -571,17 +674,6 @@
             "date": 1778220003
         },
         {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-cast-ai-1131507",
-            "date": 1778176802
-        },
-        {
             "title": "Clinical Provider",
             "company": "RemoteOK",
             "company_logo": null,
@@ -987,83 +1079,26 @@
             "date": 1777989625
         },
         {
-            "title": "Online Hotel Reservationist Fully",
-            "company": "RemoteOK",
+            "title": "Notion: Staff Frontend Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservationist-fully-careers-in-travel-destination-planners-1131466",
-            "date": 1777989618
+            "link": "https://weworkremotely.com/remote-jobs/notion-staff-frontend-engineer",
+            "date": 1776824988
         },
         {
-            "title": "Product Delivery Coordinator",
-            "company": "RemoteOK",
+            "title": "Stripe: Senior Backend Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-delivery-coordinator-new-era-technology-1131465",
-            "date": 1777989611
-        },
-        {
-            "title": "Child and Adolescent Intake Therapist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-child-and-adolescent-intake-therapist-blackbird-health-1131464",
-            "date": 1777960885
-        },
-        {
-            "title": "Recruiter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recruiter-airship-1131462",
-            "date": 1777960867
-        },
-        {
-            "title": "Lead AI Engineer & Technical Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-ai-engineer-technical-architect-bold-business-1131461",
-            "date": 1777960852
-        },
-        {
-            "title": "Outside Sales Consultant Account Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-outside-sales-consultant-account-executive-follett-software-llc-1131460",
-            "date": 1777960841
-        },
-        {
-            "title": "Manager Cost Accounting",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-cost-accounting-manscaped-1131459",
-            "date": 1777960832
+            "link": "https://weworkremotely.com/remote-jobs/stripe-senior-backend-engineer",
+            "date": 1776824988
         },
         {
             "title": "Route: Sr. Manager, Design",
@@ -1303,28 +1338,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mdn-firefox-product-marketing-lead-desktop",
             "date": 1776198674
-        },
-        {
-            "title": "Dropbox: CX Video Content Design Intern (Summer 2026)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dropbox-cx-video-content-design-intern-summer-2026",
-            "date": 1776112275
-        },
-        {
-            "title": "Yugabytedb: Senior Director, Product Management",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yugabytedb-senior-director-product-management",
-            "date": 1776112260
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
