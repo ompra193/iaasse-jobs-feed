@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-14 08:56:58",
+    "generated_at": "2026-05-14 14:07:22",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Sales Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-glia-1131576",
+            "date": 1778680824
+        },
         {
             "title": "Engenharia Software Engineer III Golang",
             "company": "RemoteOK",
@@ -1066,17 +1077,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-platform-engineer-saas-group-1131468",
             "date": 1778018411
-        },
-        {
-            "title": "Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-contact-government-services-llc-1131467",
-            "date": 1777989625
         },
         {
             "title": "Notion: Staff Frontend Engineer",
