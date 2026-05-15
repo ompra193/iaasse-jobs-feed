@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-15 09:00:29",
-    "total_jobs": 120,
+    "generated_at": "2026-05-15 14:19:07",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "IT Support Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131591",
+            "date": 1778767218
+        },
+        {
+            "title": "Account Supervisor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-account-supervisor-avalere-health-1131590",
+            "date": 1778767212
+        },
+        {
+            "title": "Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-cosuno-1131589",
+            "date": 1778767205
+        },
         {
             "title": "Staff Engineer Platform Engineering",
             "company": "RemoteOK",
@@ -1050,30 +1085,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-marketing-business-development-operator-scale-virtually-1131483",
             "date": 1778076006
-        },
-        {
-            "title": "Technical Writer & Product Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-product-engineer-thermal-works-1131481",
-            "date": 1778047305
-        },
-        {
-            "title": "Lead Instructor Aerospace Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-instructor-aerospace-technician-correlation-one-1131480",
-            "date": 1778047289
         },
         {
             "title": "Infinity: Founding Product & Engineering Lead - Radiance",
