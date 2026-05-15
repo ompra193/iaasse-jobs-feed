@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-15 14:19:07",
+    "generated_at": "2026-05-15 19:36:53",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Senior Golang Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-golang-developer-tre-altamira-srl-1131593",
+            "date": 1778788802
+        },
+        {
+            "title": "Software engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-sticker-mule-1131592",
+            "date": 1778773471
+        },
         {
             "title": "IT Support Technician",
             "company": "RemoteOK",
@@ -1063,28 +1085,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1131485",
             "date": 1778088434
-        },
-        {
-            "title": "Senior Veritas eDiscovery Platform Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484",
-            "date": 1778076013
-        },
-        {
-            "title": "Marketing & Business Development Operator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-business-development-operator-scale-virtually-1131483",
-            "date": 1778076006
         },
         {
             "title": "Infinity: Founding Product & Engineering Lead - Radiance",
