@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-15 19:36:53",
-    "total_jobs": 121,
+    "generated_at": "2026-05-16 01:08:50",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Application Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-application-support-engineer-cresta-1131596",
+            "date": 1778796113
+        },
+        {
+            "title": "Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-obsidian-security-1131595",
+            "date": 1778796082
+        },
+        {
+            "title": "DevRel Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-devrel-content-creator-superplane-1131594",
+            "date": 1778793128
+        },
         {
             "title": "Senior Golang Developer",
             "company": "RemoteOK",
@@ -13,17 +46,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-golang-developer-tre-altamira-srl-1131593",
             "date": 1778788802
-        },
-        {
-            "title": "Software engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-sticker-mule-1131592",
-            "date": 1778773471
         },
         {
             "title": "IT Support Technician",
@@ -1048,43 +1070,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-prolific-1131489",
             "date": 1778104882
-        },
-        {
-            "title": "Cloud Enablement Engineer US",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cloud-enablement-engineer-us-quanata-1131488",
-            "date": 1778104829
-        },
-        {
-            "title": "Customer Success Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-representative-subbly-1131487",
-            "date": 1778095582
-        },
-        {
-            "title": "Mid Senior AI Cinematic Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1131485",
-            "date": 1778088434
         },
         {
             "title": "Infinity: Founding Product & Engineering Lead - Radiance",
