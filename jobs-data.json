@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-16 01:08:50",
+    "generated_at": "2026-05-16 08:23:33",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Sales Development Representative Inbound",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-inbound-yuno-1131605",
+            "date": 1778824961
+        },
+        {
+            "title": "Paralegal Contract Management &amp; Legal Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-contract-management-amp-legal-operations-kyverna-therapeutics-1131604",
+            "date": 1778824955
+        },
+        {
+            "title": "Technical Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-specialist-riva-international-inc-1131603",
+            "date": 1778824948
+        },
+        {
+            "title": "Work From Home Break Free of the 9 5",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-break-free-of-the-9-5-global-elite-empire-consultants-1131602",
+            "date": 1778824927
+        },
+        {
+            "title": "Senior Accountant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-accountant-volt-1131601",
+            "date": 1778824920
+        },
+        {
+            "title": "Business Owners Freelance AI Trainer Project",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-owners-freelance-ai-trainer-project-invisible-agency-1131600",
+            "date": 1778824914
+        },
+        {
+            "title": "1090 Video Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-1090-video-editor-gofasti-1131599",
+            "date": 1778824878
+        },
+        {
+            "title": "Pre Licensed Child & Adolescent Therapist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pre-licensed-child-adolescent-therapist-instride-health-1131598",
+            "date": 1778824854
+        },
+        {
+            "title": "Senior Manager Biostatistician Consultant US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-manager-biostatistician-consultant-us-clinchoice-1131597",
+            "date": 1778824823
+        },
         {
             "title": "Application Support Engineer",
             "company": "RemoteOK",
@@ -966,110 +1067,26 @@
             "date": 1778133663
         },
         {
-            "title": "Director of Legal Operations",
-            "company": "RemoteOK",
+            "title": "Us Ada: DevOps Intern",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/us-ada-devops-intern",
+            "date": 1777062702
+        },
+        {
+            "title": "Consensys: Product Marketing Lead - MetaMask (Prediction Markets/Sports)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-legal-operations-solutus-legal-search-1131498",
-            "date": 1778133624
-        },
-        {
-            "title": "Tired of Your ome Being Capped Work from Home Opportunity",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-tired-of-your-ome-being-capped-work-from-home-opportunity-ao-garcia-agency-1131497",
-            "date": 1778133618
-        },
-        {
-            "title": "Customer Service Representative Hotel Reservations Entry Level",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-hotel-reservations-entry-level-aisles-amp-abroad-1131496",
-            "date": 1778133612
-        },
-        {
-            "title": "Work From Home Client Services Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-work-from-home-client-services-associate-global-elite-empire-consultants-1131495",
-            "date": 1778133604
-        },
-        {
-            "title": "Business Analyst Pleno",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-pleno-stone-1131493",
-            "date": 1778104991
-        },
-        {
-            "title": "Online Hotel Reservations Specialist Customer Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-hotel-reservations-specialist-customer-support-careers-in-travel-destination-planners-1131492",
-            "date": 1778104960
-        },
-        {
-            "title": "Principal Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-extend-1131491",
-            "date": 1778104953
-        },
-        {
-            "title": "Curriculum Developer Aerospace Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-curriculum-developer-aerospace-technician-correlation-one-1131490",
-            "date": 1778104912
-        },
-        {
-            "title": "Accounts Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "accounts"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-prolific-1131489",
-            "date": 1778104882
+            "link": "https://weworkremotely.com/remote-jobs/consensys-product-marketing-lead-metamask-prediction-markets-sports",
+            "date": 1777062700
         },
         {
             "title": "Infinity: Founding Product & Engineering Lead - Radiance",
@@ -1294,30 +1311,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
             "date": 1776370164
-        },
-        {
-            "title": "Wallarm: Senior DevOps Engineer - Node",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wallarm-senior-devops-engineer-node",
-            "date": 1776285058
-        },
-        {
-            "title": "Consensys: Staff Product Manager - MetaMask (Networks)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/consensys-staff-product-manager-metamask-networks",
-            "date": 1776285052
         },
         {
             "title": "Cue: Senior Software Engineer",
