@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-16 08:23:33",
+    "generated_at": "2026-05-16 13:34:53",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "US Tax Law AI Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-us-tax-law-ai-specialist-weekday-1131606",
+            "date": 1778853602
+        },
         {
             "title": "Sales Development Representative Inbound",
             "company": "RemoteOK",
@@ -1054,17 +1067,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-entry-coordinator-profound-research-1131500",
             "date": 1778133669
-        },
-        {
-            "title": "1079 Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-1079-project-manager-gofasti-1131499",
-            "date": 1778133663
         },
         {
             "title": "Us Ada: DevOps Intern",
