@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-17 00:34:48",
+    "generated_at": "2026-05-17 08:57:06",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Sr Solution Architect Consultant Sales Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sr-solution-architect-consultant-sales-engineer-cyara-1131610",
+            "date": 1778911215
+        },
+        {
+            "title": "Operations Manager A379",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-manager-a379-pearl-1131609",
+            "date": 1778911208
+        },
+        {
+            "title": "Senior CRO Manager Growth Optimization Lead for US DTC Company",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-cro-manager-growth-optimization-lead-for-us-dtc-company-paired-1131608",
+            "date": 1778911202
+        },
         {
             "title": "US Tax Law AI Specialist",
             "company": "RemoteOK",
@@ -1034,39 +1067,50 @@
             "date": 1778133753
         },
         {
-            "title": "Policy Intern",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-policy-intern-hopelab-1131502",
-            "date": 1778133711
-        },
-        {
-            "title": "Solutions Engineering Post Sales",
-            "company": "RemoteOK",
+            "title": "Glean: Product Management Lead",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineering-post-sales-geotab-1131501",
-            "date": 1778133705
+            "link": "https://weworkremotely.com/remote-jobs/glean-product-management-lead",
+            "date": 1777451625
         },
         {
-            "title": "Data Entry Coordinator",
-            "company": "RemoteOK",
+            "title": "Mytime: Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mytime-product-manager",
+            "date": 1777451625
+        },
+        {
+            "title": "ellow Talent Marketplaces Pvt: Java Full Stack Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "java"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-coordinator-profound-research-1131500",
-            "date": 1778133669
+            "link": "https://weworkremotely.com/remote-jobs/ellow-talent-marketplaces-pvt-java-full-stack-developer",
+            "date": 1777451605
+        },
+        {
+            "title": "Speechify: Software Engineer, iOS Core Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product",
+            "date": 1777451537
         },
         {
             "title": "Horizon Assset Investments: Front-End Developer (Full-Time, Remote)",
@@ -1258,50 +1302,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer",
             "date": 1776700682
-        },
-        {
-            "title": "Toast: Senior Enterprise Process Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toast-senior-enterprise-process-engineer",
-            "date": 1776376063
-        },
-        {
-            "title": "Zscaler: Senior Manager, Creative Design and Media",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zscaler-senior-manager-creative-design-and-media",
-            "date": 1776371482
-        },
-        {
-            "title": "Monograph: Content Marketer (Product)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/monograph-content-marketer-product",
-            "date": 1776371471
-        },
-        {
-            "title": "Vanta: Senior Software Engineer, Design Systems",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vanta-senior-software-engineer-design-systems",
-            "date": 1776370164
         },
         {
             "title": "EngagedMD: Staff Software Engineer",
