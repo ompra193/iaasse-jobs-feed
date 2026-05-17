@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-17 08:57:06",
-    "total_jobs": 120,
+    "generated_at": "2026-05-17 13:51:30",
+    "total_jobs": 119,
     "jobs": [
+        {
+            "title": "IT Support Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131612",
+            "date": 1778940012
+        },
+        {
+            "title": "Forward Deployed Engineer Agentic Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
+            "date": 1778940005
+        },
         {
             "title": "Sr Solution Architect Consultant Sales Engineer",
             "company": "RemoteOK",
@@ -193,19 +217,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-golang-developer-tre-altamira-srl-1131593",
             "date": 1778788802
-        },
-        {
-            "title": "IT Support Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-support-technician-avalere-health-1131591",
-            "date": 1778767218
         },
         {
             "title": "Account Supervisor",
@@ -1041,30 +1052,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-clinical-provider-intellect-1131505",
             "date": 1778162409
-        },
-        {
-            "title": "Senior Data Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-valon-mortgage-1131504",
-            "date": 1778162403
-        },
-        {
-            "title": "Workday Payroll Consultant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-workday-payroll-consultant-meridian-partners-1131503",
-            "date": 1778133753
         },
         {
             "title": "Glean: Product Management Lead",
