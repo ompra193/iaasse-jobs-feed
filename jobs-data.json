@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-17 13:51:30",
+    "generated_at": "2026-05-17 18:50:18",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1054,6 +1054,28 @@
             "date": 1778162409
         },
         {
+            "title": "Amiqus: Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/amiqus-product-manager",
+            "date": 1777451687
+        },
+        {
+            "title": "Confidential: DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/confidential-devops-engineer",
+            "date": 1777451637
+        },
+        {
             "title": "Glean: Product Management Lead",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1142,17 +1164,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/us-ada-devops-intern",
             "date": 1777062702
-        },
-        {
-            "title": "Consensys: Product Marketing Lead - MetaMask (Prediction Markets/Sports)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/consensys-product-marketing-lead-metamask-prediction-markets-sports",
-            "date": 1777062700
         },
         {
             "title": "Infinity: Founding Product & Engineering Lead - Radiance",
@@ -1254,17 +1265,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-senior-backend-engineer",
             "date": 1776824988
-        },
-        {
-            "title": "Route: Sr. Manager, Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/route-sr-manager-design",
-            "date": 1776803489
         },
         {
             "title": "Calibrate Group AI: Senior Technical Lead",
