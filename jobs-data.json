@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-18 21:02:25",
+    "generated_at": "2026-05-19 01:14:24",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1056,6 +1056,19 @@
             "date": 1778220003
         },
         {
+            "title": "Hrtx: DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hrtx-devops-engineer",
+            "date": 1777451708
+        },
+        {
             "title": "Direct Sourcing Solutions: DevOps Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1282,17 +1295,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/calibrate-group-ai-senior-technical-lead",
             "date": 1776708086
-        },
-        {
-            "title": "SuperPlane: Product Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer",
-            "date": 1776700682
         },
         {
             "title": "EngagedMD: Staff Software Engineer",
