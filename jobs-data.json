@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-18 09:10:21",
+    "generated_at": "2026-05-18 15:33:35",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1056,6 +1056,41 @@
             "date": 1778220003
         },
         {
+            "title": "Direct Sourcing Solutions: DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/direct-sourcing-solutions-devops-engineer",
+            "date": 1777451708
+        },
+        {
+            "title": "World Data Lab: DevOps Engineer (m/f/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/world-data-lab-devops-engineer-m-f-d",
+            "date": 1777451696
+        },
+        {
+            "title": "Prodevelop: Full Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/prodevelop-full-stack-developer",
+            "date": 1777451696
+        },
+        {
             "title": "Amiqus: Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1146,28 +1181,6 @@
             "date": 1777297528
         },
         {
-            "title": "Affirm: Senior Product Manager, Digital Wallets & Agentic Commerce",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/affirm-senior-product-manager-digital-wallets-agentic-commerce",
-            "date": 1777149056
-        },
-        {
-            "title": "Us Ada: DevOps Intern",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/us-ada-devops-intern",
-            "date": 1777062702
-        },
-        {
             "title": "Infinity: Founding Product & Engineering Lead - Radiance",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1201,17 +1214,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst",
             "date": 1777062672
-        },
-        {
-            "title": "Ping Identity: Senior Product and Solutions Marketing Manager, Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ping-identity-senior-product-and-solutions-marketing-manager-platform",
-            "date": 1776976283
         },
         {
             "title": "Lemon.io: Senior Full-stack Developer",
