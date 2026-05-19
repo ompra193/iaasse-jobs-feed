@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-19 15:12:20",
+    "generated_at": "2026-05-19 20:51:28",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1056,6 +1056,17 @@
             "date": 1778220003
         },
         {
+            "title": "Perforce: Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/perforce-product-manager",
+            "date": 1777451711
+        },
+        {
             "title": "Hrtx: DevOps Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1330,19 +1341,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
-            "date": 1753281114
         }
     ]
 }
