@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-19 20:51:28",
+    "generated_at": "2026-05-20 01:21:49",
     "total_jobs": 119,
     "jobs": [
         {
@@ -1056,6 +1056,17 @@
             "date": 1778220003
         },
         {
+            "title": "B12: Senior Product Designer (Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/b12-senior-product-designer-remote",
+            "date": 1777451724
+        },
+        {
             "title": "Perforce: Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1328,19 +1339,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
             "date": 1774470102
-        },
-        {
-            "title": "Stellar AI: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-            "date": 1761075386
         }
     ]
 }
