@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-20 09:04:42",
+    "generated_at": "2026-05-20 15:03:22",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Member of Technical Staff Applied ML RecSys",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-applied-ml-recsys-liquid-ai-1131627",
+            "date": 1779199208
+        },
+        {
+            "title": "Software Engineer Platform",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-software-engineer-platform-benchling-1131626",
+            "date": 1779199202
+        },
         {
             "title": "Customer Lifecycle Automation Manager @CXT Software",
             "company": "RemoteOK",
@@ -1043,28 +1065,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-kiavi-1131514",
             "date": 1778220313
-        },
-        {
-            "title": "Talent Acquisition Pipeline Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-talent-acquisition-pipeline-manager-nava-pbc-1131513",
-            "date": 1778220202
-        },
-        {
-            "title": "Analytics Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512",
-            "date": 1778220108
         },
         {
             "title": "B12: Senior Product Designer (Remote)",
