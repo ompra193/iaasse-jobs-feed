@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-20 20:50:19",
+    "generated_at": "2026-05-21 01:44:05",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Intern SD Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-intern-sd-engineer-copious-1131629",
+            "date": 1779228005
+        },
         {
             "title": "Member of Technical Staff Applied ML RecSys",
             "company": "RemoteOK",
@@ -1056,15 +1067,15 @@
             "date": 1778220364
         },
         {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
+            "title": "Unitq: Product Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-kiavi-1131514",
-            "date": 1778220313
+            "link": "https://weworkremotely.com/remote-jobs/unitq-product-manager",
+            "date": 1777494657
         },
         {
             "title": "B12: Senior Product Designer (Remote)",
@@ -1315,19 +1326,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-senior-backend-engineer",
             "date": 1776824988
-        },
-        {
-            "title": "Calibrate Group AI: Senior Technical Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/calibrate-group-ai-senior-technical-lead",
-            "date": 1776708086
         },
         {
             "title": "EngagedMD: Staff Software Engineer",
