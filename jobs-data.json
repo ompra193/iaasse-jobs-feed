@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-21 01:44:05",
+    "generated_at": "2026-05-21 09:10:44",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Senior Fraud Risk Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-fraud-risk-analyst-braviant-holdings-1131632",
+            "date": 1779256812
+        },
         {
             "title": "Intern SD Engineer",
             "company": "RemoteOK",
@@ -1054,17 +1065,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
             "date": 1778223628
-        },
-        {
-            "title": "Principal Marketing Analytics Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-principal-marketing-analytics-manager-greenhouse-1131515",
-            "date": 1778220364
         },
         {
             "title": "Unitq: Product Manager",
