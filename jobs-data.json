@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-22 01:23:20",
+    "generated_at": "2026-05-22 09:09:07",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Chief Technology Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633",
+            "date": 1779343204
+        },
         {
             "title": "Senior Fraud Risk Analyst",
             "company": "RemoteOK",
@@ -1056,15 +1067,39 @@
             "date": 1778248834
         },
         {
-            "title": "Web Development Specialist",
-            "company": "RemoteOK",
+            "title": "Kraken: Product Director",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
-            "date": 1778223628
+            "link": "https://weworkremotely.com/remote-jobs/kraken-product-director",
+            "date": 1777494688
+        },
+        {
+            "title": "Hrtx: Full Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hrtx-full-stack-developer",
+            "date": 1777494688
+        },
+        {
+            "title": "Hypervolt: Customer Support Executive",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hypervolt-customer-support-executive",
+            "date": 1777494677
         },
         {
             "title": "Unitq: Product Manager",
@@ -1293,39 +1328,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/urban-legend-backend-engineer-mid-senior",
             "date": 1776881078
-        },
-        {
-            "title": "Linear: Full Stack Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/linear-full-stack-engineer",
-            "date": 1776824989
-        },
-        {
-            "title": "Notion: Staff Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/notion-staff-frontend-engineer",
-            "date": 1776824988
-        },
-        {
-            "title": "Stripe: Senior Backend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-senior-backend-engineer",
-            "date": 1776824988
         },
         {
             "title": "EngagedMD: Staff Software Engineer",
