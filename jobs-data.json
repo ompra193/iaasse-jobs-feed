@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-25 00:46:31",
-    "total_jobs": 94,
+    "generated_at": "2026-05-25 09:19:34",
+    "total_jobs": 87,
     "jobs": [
+        {
+            "title": "Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-somewhere-1132123",
+            "date": 1779602797
+        },
+        {
+            "title": "Assistente de Sucesso do Cliente CLT Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-sucesso-do-cliente-clt-remoto-nibo-1132120",
+            "date": 1779602556
+        },
+        {
+            "title": "Investigative Journalist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-investigative-journalist-crossing-hurdles-1132064",
+            "date": 1779588097
+        },
         {
             "title": "Journalist",
             "company": "RemoteOK",
@@ -37,47 +72,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-twine-1132062",
             "date": 1779581036
-        },
-        {
-            "title": "HR Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-assistant-aisle-and-abroad-1132144",
-            "date": 1779579633
-        },
-        {
-            "title": "Data Entry Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132129",
-            "date": 1779579630
-        },
-        {
-            "title": "Email Support Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-email-support-representative-aisle-and-abroad-1132139",
-            "date": 1779579614
         },
         {
             "title": "Employers",
@@ -135,19 +129,6 @@
             "date": 1779567517
         },
         {
-            "title": "Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-aisle-and-abroad-1131986",
-            "date": 1779563232
-        },
-        {
             "title": "Docentes de licenciatura online UANE",
             "company": "RemoteOK",
             "company_logo": null,
@@ -179,30 +160,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-suporte-help-desk-n1-clt-mell-ro-1132121",
             "date": 1779562333
-        },
-        {
-            "title": "Project Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-coordinator-aisle-and-abroad-1131983",
-            "date": 1779557125
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-aisle-and-abroad-1131982",
-            "date": 1779556675
         },
         {
             "title": "FlentX",
@@ -604,17 +561,6 @@
             "date": 1779490278
         },
         {
-            "title": "Cruise &amp; Resort Reservation Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cruise-amp-resort-reservation-specialist-aisle-and-abroad-1132180",
-            "date": 1779487315
-        },
-        {
             "title": "A variety of roles",
             "company": "RemoteOK",
             "company_logo": null,
@@ -766,37 +712,48 @@
             "date": 1779459592
         },
         {
-            "title": "Monitor Operacional Cachoeirinha RS",
-            "company": "RemoteOK",
+            "title": "Exact Sourcing Ltd: Customer Support Specialist",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-monitor-operacional-cachoeirinha-rs-buscarvagas-empregos-brasil-1132125",
-            "date": 1779457158
+            "link": "https://weworkremotely.com/remote-jobs/exact-sourcing-ltd-customer-support-specialist",
+            "date": 1777494742
         },
         {
-            "title": "District Associate Manager",
-            "company": "RemoteOK",
+            "title": "Deepset: Product Marketing Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-district-associate-manager-meril-1131852",
-            "date": 1779452860
+            "link": "https://weworkremotely.com/remote-jobs/deepset-product-marketing-manager",
+            "date": 1777494733
         },
         {
-            "title": "printing press feeder",
-            "company": "RemoteOK",
+            "title": "Interop Labs: DevOps Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-printing-press-feeder-paperworks-1131750",
-            "date": 1779450919
+            "link": "https://weworkremotely.com/remote-jobs/interop-labs-devops-engineer",
+            "date": 1777494731
+        },
+        {
+            "title": "Kinsta: Product Marketing Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/kinsta-product-marketing-manager",
+            "date": 1777494730
         },
         {
             "title": "Granicus: Product Manager",
@@ -1027,41 +984,6 @@
             "date": 1777297528
         },
         {
-            "title": "Infinity: Founding Product & Engineering Lead - Radiance",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/infinity-founding-product-engineering-lead-radiance",
-            "date": 1777062700
-        },
-        {
-            "title": "Far Out Scout: Customer Support Representative (AVC - 05052602)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/far-out-scout-customer-support-representative-avc-05052602",
-            "date": 1777062682
-        },
-        {
-            "title": "Ci&t: [27408] - Data Product Analyst",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ci-t-27408-data-product-analyst",
-            "date": 1777062672
-        },
-        {
             "title": "EngagedMD: Staff Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1071,17 +993,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
             "date": 1774620218
-        },
-        {
-            "title": "Cue: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cue-senior-software-engineer",
-            "date": 1774470102
         }
     ]
 }
