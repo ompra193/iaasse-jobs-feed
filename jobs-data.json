@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-25 09:19:34",
-    "total_jobs": 87,
+    "generated_at": "2026-05-25 15:35:28",
+    "total_jobs": 73,
     "jobs": [
+        {
+            "title": "Journalist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-journalist-crossing-hurdles-1132156",
+            "date": 1779635039
+        },
+        {
+            "title": "Data Annotator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152",
+            "date": 1779617512
+        },
         {
             "title": "Administrative Assistant",
             "company": "RemoteOK",
@@ -37,17 +61,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-investigative-journalist-crossing-hurdles-1132064",
             "date": 1779588097
-        },
-        {
-            "title": "Journalist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-journalist-crossing-hurdles-1132063",
-            "date": 1779584684
         },
         {
             "title": "Maintenance",
@@ -458,6 +471,17 @@
             "date": 1779509091
         },
         {
+            "title": "Territory Sales Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132203",
+            "date": 1779507858
+        },
+        {
             "title": "Atendente de SAC",
             "company": "RemoteOK",
             "company_logo": null,
@@ -506,6 +530,19 @@
             "date": 1779498150
         },
         {
+            "title": "Required Data Entry Operator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-required-data-entry-operator-testhiring-1132207",
+            "date": 1779496200
+        },
+        {
             "title": "Customer Service Representative",
             "company": "RemoteOK",
             "company_logo": null,
@@ -515,201 +552,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-rgampt-solutions-1132174",
             "date": 1779493634
-        },
-        {
-            "title": "Staff Writer Health",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-writer-health-forbes-advisor-1131863",
-            "date": 1779493372
-        },
-        {
-            "title": "Asesor Comercial Paraguay",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asesor-comercial-paraguay-grido-1131785",
-            "date": 1779490841
-        },
-        {
-            "title": "tst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-tst-stefanini-north-america-and-apac-1131945",
-            "date": 1779490659
-        },
-        {
-            "title": "Multi Jurisdiction Accountant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-multi-jurisdiction-accountant-flag-theory-1131712",
-            "date": 1779490278
-        },
-        {
-            "title": "A variety of roles",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-a-variety-of-roles-queen-katharine-academy-1131932",
-            "date": 1779487214
-        },
-        {
-            "title": "Fraud Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-fraud-analyst-nymbus-1131693",
-            "date": 1779484088
-        },
-        {
-            "title": "Operations Staff",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-staff-blue-dart-1131691",
-            "date": 1779480963
-        },
-        {
-            "title": "Finance Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-finance-assistant-360dialog-1131689",
-            "date": 1779480217
-        },
-        {
-            "title": "Care Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-care-assistant-caremark-cambridge-amp-south-cambridgeshire-1132150",
-            "date": 1779479500
-        },
-        {
-            "title": "Postperson with Driving",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-postperson-with-driving-royal-mail-1131940",
-            "date": 1779478157
-        },
-        {
-            "title": "Asistente acad\u00c3\u00a9mico de educaci\u00c3\u00b3n continua",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-academico-de-educacion-continua-universidad-continental-1131781",
-            "date": 1779476689
-        },
-        {
-            "title": "Facilities Maintenance Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-facilities-maintenance-technician-city-of-new-westminster-1131990",
-            "date": 1779474955
-        },
-        {
-            "title": "Director of Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-operations-happily-1131638",
-            "date": 1779472959
-        },
-        {
-            "title": "Open Role",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-open-role-flent-1131650",
-            "date": 1779468973
-        },
-        {
-            "title": "Profesor a online para refuerzo escolar y preparaci\u00c3\u00b3n de ex\u00c3\u00a1menes",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-profesor-a-online-para-refuerzo-escolar-y-preparacion-de-examenes-tus-media-1131911",
-            "date": 1779466034
-        },
-        {
-            "title": "Housekeeper",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-housekeeper-quality-inn-amp-suites-downtown-charlottetown-1131759",
-            "date": 1779463451
-        },
-        {
-            "title": "2D Artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-2d-artist-rubyplay-1131918",
-            "date": 1779459592
         },
         {
             "title": "Exact Sourcing Ltd: Customer Support Specialist",
