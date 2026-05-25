@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-25 15:35:28",
-    "total_jobs": 73,
+    "generated_at": "2026-05-25 20:23:06",
+    "total_jobs": 74,
     "jobs": [
+        {
+            "title": "Freelance Pharmaceutical Proofreader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-pharmaceutical-proofreader-pickle-1132195",
+            "date": 1779654080
+        },
+        {
+            "title": "Canva Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-canva-specialist-crossing-hurdles-1132161",
+            "date": 1779652847
+        },
+        {
+            "title": "Investigative Journalist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-investigative-journalist-crossing-hurdles-1132160",
+            "date": 1779649633
+        },
         {
             "title": "Journalist",
             "company": "RemoteOK",
@@ -50,17 +83,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-sucesso-do-cliente-clt-remoto-nibo-1132120",
             "date": 1779602556
-        },
-        {
-            "title": "Investigative Journalist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-investigative-journalist-crossing-hurdles-1132064",
-            "date": 1779588097
         },
         {
             "title": "Maintenance",
@@ -427,6 +449,17 @@
             "date": 1779516000
         },
         {
+            "title": "Junior Front End Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-apac-1132221",
+            "date": 1779516000
+        },
+        {
             "title": "Jefe de Calidad Procesos",
             "company": "RemoteOK",
             "company_logo": null,
@@ -528,30 +561,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-claims-officer-nassau-coralisle-group-ltd-1132043",
             "date": 1779498150
-        },
-        {
-            "title": "Required Data Entry Operator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-required-data-entry-operator-testhiring-1132207",
-            "date": 1779496200
-        },
-        {
-            "title": "Customer Service Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-rgampt-solutions-1132174",
-            "date": 1779493634
         },
         {
             "title": "Exact Sourcing Ltd: Customer Support Specialist",
