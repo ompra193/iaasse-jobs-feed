@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-26 15:25:59",
-    "total_jobs": 74,
+    "generated_at": "2026-05-26 20:56:49",
+    "total_jobs": 76,
     "jobs": [
+        {
+            "title": "Biology Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-biology-analyst-crossing-hurdles-1132228",
+            "date": 1779743344
+        },
+        {
+            "title": "Microbiology Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-microbiology-specialist-crossing-hurdles-1132222",
+            "date": 1779740470
+        },
+        {
+            "title": "Auxiliary Labourers",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliary-labourers-city-of-new-westminster-1132310",
+            "date": 1779731302
+        },
+        {
+            "title": "Analyst Accounts Payable",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analyst-accounts-payable-cint-1132212",
+            "date": 1779730425
+        },
         {
             "title": "HR Administrative Assistant",
             "company": "RemoteOK",
@@ -232,6 +278,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152",
             "date": 1779617512
+        },
+        {
+            "title": "Asistente Virtual Estudiante de Contabilidad",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-estudiante-de-contabilidad-tu-empleo-rd-1132316",
+            "date": 1779614434
         },
         {
             "title": "Administrative Assistant",
@@ -530,37 +587,15 @@
             "date": 1779529001
         },
         {
-            "title": "Profesores de Espa\u00c3\u00b1ol como lengua extranjera",
-            "company": "RemoteOK",
+            "title": "Tenth Revolution Group: Product Manager - fully remote",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-profesores-de-espanol-como-lengua-extranjera-apprentus-1131910",
-            "date": 1779522399
-        },
-        {
-            "title": "Profesores de ELE para clases particulares",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-profesores-de-ele-para-clases-particulares-apprentus-1131998",
-            "date": 1779522368
-        },
-        {
-            "title": "Profesor y Tutor para Apoyo Escolar y Clases Particulares",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-profesor-y-tutor-para-apoyo-escolar-y-clases-particulares-apprentus-1131917",
-            "date": 1779522363
+            "link": "https://weworkremotely.com/remote-jobs/tenth-revolution-group-product-manager-fully-remote",
+            "date": 1777494746
         },
         {
             "title": "Exact Sourcing Ltd: Customer Support Specialist",
@@ -833,17 +868,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
             "date": 1777297528
-        },
-        {
-            "title": "EngagedMD: Staff Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/engagedmd-staff-software-engineer",
-            "date": 1774620218
         }
     ]
 }
