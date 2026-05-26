@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-26 01:08:47",
-    "total_jobs": 74,
+    "generated_at": "2026-05-26 09:02:15",
+    "total_jobs": 71,
     "jobs": [
+        {
+            "title": "Customer Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-crossing-hurdles-1132199",
+            "date": 1779696224
+        },
+        {
+            "title": "Videographer and Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-videographer-and-content-creator-lean-marketing-1132239",
+            "date": 1779688800
+        },
+        {
+            "title": "Atendimento ao Passageiro no Destino",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-atendimento-ao-passageiro-no-destino-panrotas-1132251",
+            "date": 1779688800
+        },
+        {
+            "title": "Sensing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sensing-pt-indofood-cbp-sukses-makmur-tbk-noodle-division-1132213",
+            "date": 1779682957
+        },
         {
             "title": "Chief Operating Officer",
             "company": "RemoteOK",
@@ -153,39 +197,6 @@
             "date": 1779570446
         },
         {
-            "title": "Word Document Specialist Fully",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-word-document-specialist-fully-mercor-1132066",
-            "date": 1779567577
-        },
-        {
-            "title": "Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-mercor-1132065",
-            "date": 1779567524
-        },
-        {
-            "title": "Curriculum Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-curriculum-developer-mercor-1132151",
-            "date": 1779567517
-        },
-        {
             "title": "Docentes de licenciatura online UANE",
             "company": "RemoteOK",
             "company_logo": null,
@@ -329,6 +340,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-asistente-negocio-select-universia-mexico-1132235",
             "date": 1779540199
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-milk-honey-1131978",
+            "date": 1779538440
         },
         {
             "title": "Content Editor",
@@ -502,61 +524,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-apac-1132221",
             "date": 1779516000
-        },
-        {
-            "title": "Jefe de Calidad Procesos",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-jefe-de-calidad-procesos-grupo-auteco-1132124",
-            "date": 1779515231
-        },
-        {
-            "title": "Gateway Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-gateway-agent-dhl-express-1132020",
-            "date": 1779510555
-        },
-        {
-            "title": "Operations Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-agent-dhl-express-1132023",
-            "date": 1779510555
-        },
-        {
-            "title": "Pessoa Desenvolvedora C C++ Embarcado Pl Meios de Pagamento",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-1169-1170-pessoa-desenvolvedora-c-c-embarcado-pl-meios-de-pagamento-venturus-1131837",
-            "date": 1779509091
-        },
-        {
-            "title": "Territory Sales Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132203",
-            "date": 1779507858
         },
         {
             "title": "Exact Sourcing Ltd: Customer Support Specialist",
