@@ -1,8 +1,115 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-26 09:02:15",
-    "total_jobs": 71,
+    "generated_at": "2026-05-26 15:25:59",
+    "total_jobs": 74,
     "jobs": [
+        {
+            "title": "HR Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-administrative-assistant-orchestrate-consulting-group-1132211",
+            "date": 1779721380
+        },
+        {
+            "title": "Project Management Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-management-specialist-crossing-hurdles-1132210",
+            "date": 1779718098
+        },
+        {
+            "title": "Range Operator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-range-operator-downer-1132245",
+            "date": 1779714090
+        },
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hire-1132215",
+            "date": 1779713910
+        },
+        {
+            "title": "Social Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-the-social-media-coach-smc-1132240",
+            "date": 1779711463
+        },
+        {
+            "title": "Field Staff",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-field-staff-rapido-1132237",
+            "date": 1779711218
+        },
+        {
+            "title": "Data Entry Specialist Assistant Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruitlytics-hire-1132217",
+            "date": 1779711180
+        },
+        {
+            "title": "Administrative & Executive Support Professionals",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-executive-support-professionals-crossing-hurdles-1132201",
+            "date": 1779707076
+        },
+        {
+            "title": "Investment Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-investment-analyst-crossing-hurdles-1132200",
+            "date": 1779703415
+        },
         {
             "title": "Customer Support Specialist",
             "company": "RemoteOK",
@@ -454,76 +561,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-profesor-y-tutor-para-apoyo-escolar-y-clases-particulares-apprentus-1131917",
             "date": 1779522363
-        },
-        {
-            "title": "Mathematical Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mathematical-analyst-crossing-hurdles-1131858",
-            "date": 1779516554
-        },
-        {
-            "title": "freelancer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelancer-testlio-1131844",
-            "date": 1779516055
-        },
-        {
-            "title": "Outbound Sales Development Representative Latin America",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-outbound-sales-development-representative-latin-america-bluelight-consulting-1131843",
-            "date": 1779516003
-        },
-        {
-            "title": "Clerk Typist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-clerk-typist-positive-behavior-steps-1132140",
-            "date": 1779516000
-        },
-        {
-            "title": "Chat Support Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chat-support-clerk-positive-behavior-steps-1132142",
-            "date": 1779516000
-        },
-        {
-            "title": "Junior Front End Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-apac-1132221",
-            "date": 1779516000
         },
         {
             "title": "Exact Sourcing Ltd: Customer Support Specialist",
