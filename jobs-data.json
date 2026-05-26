@@ -1,8 +1,79 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-26 20:56:49",
+    "generated_at": "2026-05-27 01:38:08",
     "total_jobs": 76,
     "jobs": [
+        {
+            "title": "Medical Assistant Patient Advocate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-assistant-patient-advocate-amaze-health-1132308",
+            "date": 1779758514
+        },
+        {
+            "title": "Content Writer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-writer-for-love-amp-lemons-1132307",
+            "date": 1779753969
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-crossing-hurdles-1132232",
+            "date": 1779750127
+        },
+        {
+            "title": "IT Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-it-support-specialist-remoteva-1132230",
+            "date": 1779746776
+        },
+        {
+            "title": "Luxury Massage Therapist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-luxury-massage-therapist-bolt-farm-treehouse-1132229",
+            "date": 1779746403
+        },
+        {
+            "title": "Physiotherapist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-physiotherapist-sword-health-1132249",
+            "date": 1779745489
+        },
         {
             "title": "Biology Analyst",
             "company": "RemoteOK",
@@ -471,19 +542,6 @@
             "date": 1779541386
         },
         {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-zirtual-1131882",
-            "date": 1779541226
-        },
-        {
             "title": "MEX Cajero Sucursal",
             "company": "RemoteOK",
             "company_logo": null,
@@ -526,65 +584,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-content-editor-crossing-hurdles-1131880",
             "date": 1779537691
-        },
-        {
-            "title": "Virtual Assistant Panelist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-panelist-rgampt-solutions-1131988",
-            "date": 1779536857
-        },
-        {
-            "title": "Online Focus Group Panelist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-focus-group-panelist-rgampt-solutions-1132177",
-            "date": 1779536854
-        },
-        {
-            "title": "IT Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-support-specialist-remoteva-1131875",
-            "date": 1779534485
-        },
-        {
-            "title": "Executive Assistant the CEO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-ceo-virtana-corp-1131867",
-            "date": 1779530861
-        },
-        {
-            "title": "Security Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-security-officer-buckeye-partners-1132032",
-            "date": 1779529001
         },
         {
             "title": "Tenth Revolution Group: Product Manager - fully remote",
