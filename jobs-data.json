@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-27 09:19:00",
-    "total_jobs": 78,
+    "generated_at": "2026-05-27 15:18:48",
+    "total_jobs": 82,
     "jobs": [
+        {
+            "title": "Editorial Research Journalist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-editorial-research-journalist-crossing-hurdles-1132314",
+            "date": 1779807812
+        },
         {
             "title": "Director Planning and Performance Reporting",
             "company": "RemoteOK",
@@ -94,6 +105,17 @@
             "date": 1779775200
         },
         {
+            "title": "Territory Sales Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132359",
+            "date": 1779767043
+        },
+        {
             "title": "Crew Member",
             "company": "RemoteOK",
             "company_logo": null,
@@ -117,6 +139,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-medical-assistant-patient-advocate-amaze-health-1132308",
             "date": 1779758514
+        },
+        {
+            "title": "Required Driver",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-required-driver-testhiring-1132358",
+            "date": 1779755400
         },
         {
             "title": "Content Writer",
@@ -196,6 +229,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-microbiology-specialist-crossing-hurdles-1132222",
             "date": 1779740470
+        },
+        {
+            "title": "Junior Creative Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-creative-strategist-linjer-1132385",
+            "date": 1779738389
         },
         {
             "title": "Auxiliary Labourers",
