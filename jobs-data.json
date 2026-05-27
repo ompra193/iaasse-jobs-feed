@@ -1,8 +1,109 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-27 01:38:08",
-    "total_jobs": 76,
+    "generated_at": "2026-05-27 09:19:00",
+    "total_jobs": 78,
     "jobs": [
+        {
+            "title": "Director Planning and Performance Reporting",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-planning-and-performance-reporting-queensland-government-1132332",
+            "date": 1779788821
+        },
+        {
+            "title": "Ejecutivo t\u00c3\u00a9cnico comercial Industria de alimentos",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ejecutivo-tecnico-comercial-industria-de-alimentos-universia-peru-1132253",
+            "date": 1779779914
+        },
+        {
+            "title": "Gerente de Opera\u00c3\u00a7\u00c3\u00b5es",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-gerente-de-operacoes-gra-comercio-1132254",
+            "date": 1779778261
+        },
+        {
+            "title": "MEX Cajero Dual",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132250",
+            "date": 1779777787
+        },
+        {
+            "title": "Independent PMHNP Premium Rates Telehealth",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-independent-pmhnp-premium-rates-telehealth-seasoned-recruitment-1132248",
+            "date": 1779775228
+        },
+        {
+            "title": "Insurance Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-insurance-account-executive-roamly-1132247",
+            "date": 1779775206
+        },
+        {
+            "title": "Maintenance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-road-ranger-1132327",
+            "date": 1779775200
+        },
+        {
+            "title": "Customer Service Representative Cigna Healthcare",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-cigna-healthcare-cigna-healthcare-1132353",
+            "date": 1779775200
+        },
+        {
+            "title": "Crew Member",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crew-member-chipotle-mexican-grill-1132313",
+            "date": 1779766014
+        },
         {
             "title": "Medical Assistant Patient Advocate",
             "company": "RemoteOK",
@@ -119,6 +220,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-analyst-accounts-payable-cint-1132212",
             "date": 1779730425
+        },
+        {
+            "title": "Educator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-educator-tutor-me-la-llc-1132354",
+            "date": 1779727219
         },
         {
             "title": "HR Administrative Assistant",
@@ -272,6 +384,17 @@
             "date": 1779682957
         },
         {
+            "title": "Junior Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-haystack-1132350",
+            "date": 1779682088
+        },
+        {
             "title": "Chief Operating Officer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -362,6 +485,17 @@
             "date": 1779614434
         },
         {
+            "title": "Don't See A Perfect Role Apply Anyway",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-pogo-1132351",
+            "date": 1779606047
+        },
+        {
             "title": "Administrative Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -384,19 +518,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-sucesso-do-cliente-clt-remoto-nibo-1132120",
             "date": 1779602556
-        },
-        {
-            "title": "Maintenance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-pacific-cyber-technology-pvt-ltd-1132148",
-            "date": 1779583656
         },
         {
             "title": "Junior Graphic Designer",
@@ -485,105 +606,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1132234",
             "date": 1779557187
-        },
-        {
-            "title": "FlentX",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-flentx-flent-1132145",
-            "date": 1779555369
-        },
-        {
-            "title": "Social Media Content Creator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-favoured-1131919",
-            "date": 1779548720
-        },
-        {
-            "title": "Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-gocertify-1131914",
-            "date": 1779548565
-        },
-        {
-            "title": "Directeur Audio Audio Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-directeur-audio-audio-director-side-1131884",
-            "date": 1779544804
-        },
-        {
-            "title": "Game Tester",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-game-tester-crossing-hurdles-1131883",
-            "date": 1779541386
-        },
-        {
-            "title": "MEX Cajero Sucursal",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mex-cajero-sucursal-universia-mexico-1131923",
-            "date": 1779540236
-        },
-        {
-            "title": "Asistente Negocio Select",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-negocio-select-universia-mexico-1132235",
-            "date": 1779540199
-        },
-        {
-            "title": "Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-milk-honey-1131978",
-            "date": 1779538440
-        },
-        {
-            "title": "Content Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-editor-crossing-hurdles-1131880",
-            "date": 1779537691
         },
         {
             "title": "Tenth Revolution Group: Product Manager - fully remote",
