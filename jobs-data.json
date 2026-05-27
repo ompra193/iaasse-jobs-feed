@@ -1,8 +1,89 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-27 15:18:48",
-    "total_jobs": 82,
+    "generated_at": "2026-05-27 21:10:32",
+    "total_jobs": 84,
     "jobs": [
+        {
+            "title": "Chief Operating Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-cyber-leadership-institute-1132333",
+            "date": 1779829673
+        },
+        {
+            "title": "Pest Control Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pest-control-technician-rentokil-initial-1132347",
+            "date": 1779829609
+        },
+        {
+            "title": "DOCENTE LIMPIEZA GESTI\u00c3\u0093N DE RESIDUOS Y MEDIOAMBIENTE",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-docente-limpieza-gestion-de-residuos-y-medioambiente-grupo-euroformac-1132336",
+            "date": 1779829410
+        },
+        {
+            "title": "Analista de Prospe\u00c3\u00a7\u00c3\u00a3o J\u00c3\u00banior Tempor\u00c3\u00a1rio",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-prospecao-junior-temporario-zenvia-1132321",
+            "date": 1779822645
+        },
+        {
+            "title": "Product Manager Retail Lending &amp; Enablement",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-retail-lending-amp-enablement-rbc-1132348",
+            "date": 1779821081
+        },
+        {
+            "title": "Online Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-marketing-makemytrip-1132356",
+            "date": 1779816425
+        },
+        {
+            "title": "Country Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-country-director-nothing-1132363",
+            "date": 1779815414
+        },
         {
             "title": "Editorial Research Journalist",
             "company": "RemoteOK",
@@ -102,6 +183,17 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-cigna-healthcare-cigna-healthcare-1132353",
+            "date": 1779775200
+        },
+        {
+            "title": "Entrenador a Deportivo",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entrenador-a-deportivo-apprentus-1132392",
             "date": 1779775200
         },
         {
@@ -439,17 +531,6 @@
             "date": 1779682088
         },
         {
-            "title": "Chief Operating Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-programa-nacional-para-la-reduccion-de-perdidas-1132182",
-            "date": 1779670941
-        },
-        {
             "title": "Operations Executive",
             "company": "RemoteOK",
             "company_logo": null,
@@ -597,59 +678,15 @@
             "date": 1779570446
         },
         {
-            "title": "Docentes de licenciatura online UANE",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-docentes-de-licenciatura-online-uane-lottus-education-1132155",
-            "date": 1779562819
-        },
-        {
-            "title": "Assistente Administrativo Cobran\u00c3\u00a7a CLT",
-            "company": "RemoteOK",
+            "title": "Fun.xyz: Technical Product Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-cobranca-clt-mell-ro-1132122",
-            "date": 1779562335
-        },
-        {
-            "title": "Suporte Help Desk N1 CLT",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-suporte-help-desk-n1-clt-mell-ro-1132121",
-            "date": 1779562333
-        },
-        {
-            "title": "Auxiliar Administrativo Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1132233",
-            "date": 1779557187
-        },
-        {
-            "title": "Assistente Administrativo Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1132234",
-            "date": 1779557187
+            "link": "https://weworkremotely.com/remote-jobs/fun-xyz-technical-product-manager",
+            "date": 1777494762
         },
         {
             "title": "Tenth Revolution Group: Product Manager - fully remote",
@@ -922,17 +959,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/horizon-assset-investments-front-end-developer-full-time-remote",
             "date": 1777374027
-        },
-        {
-            "title": "comparis.ch: Backend Engineer, 80-100% (f/m/x)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
-            "date": 1777297528
         }
     ]
 }
