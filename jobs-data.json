@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-27 21:10:32",
-    "total_jobs": 84,
+    "generated_at": "2026-05-28 01:47:11",
+    "total_jobs": 91,
     "jobs": [
+        {
+            "title": "Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-lbc-mortgage-1132361",
+            "date": 1779844165
+        },
+        {
+            "title": "Assistente de Recursos Humanos Trabalho Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-recursos-humanos-trabalho-remoto-bairesdev-1132401",
+            "date": 1779842349
+        },
+        {
+            "title": "Audio Producer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-audio-producer-positive-behavior-steps-1132364",
+            "date": 1779841232
+        },
+        {
+            "title": "HEALTH &amp; SAFETY OFFICER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-health-amp-safety-officer-cemex-1132346",
+            "date": 1779837265
+        },
+        {
+            "title": "Client Delivery Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-client-delivery-manager-storyteller-1132338",
+            "date": 1779836507
+        },
+        {
+            "title": "MSL CART Andaluc\u00c3\u00ada Oriental",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-msl-cart-andalucia-oriental-johnson-amp-johnson-1132395",
+            "date": 1779832377
+        },
+        {
+            "title": "Bilingual Area Manager LA&amp;C",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bilingual-area-manager-laampc-dairy-queen-1132339",
+            "date": 1779831651
+        },
         {
             "title": "Chief Operating Officer",
             "company": "RemoteOK",
@@ -138,6 +217,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132250",
             "date": 1779777787
+        },
+        {
+            "title": "Courier",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-courier-fedex-australia-1132405",
+            "date": 1779776165
         },
         {
             "title": "Independent PMHNP Premium Rates Telehealth",
@@ -366,6 +456,17 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-educator-tutor-me-la-llc-1132354",
+            "date": 1779727219
+        },
+        {
+            "title": "GP Republic of Ireland",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-gp-republic-of-ireland-healthhero-1132419",
             "date": 1779727219
         },
         {
@@ -654,28 +755,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-twine-1132062",
             "date": 1779581036
-        },
-        {
-            "title": "Employers",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-employers-trs-resourcing-1132103",
-            "date": 1779579450
-        },
-        {
-            "title": "Generalist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-generalist-crossing-hurdles-1132000",
-            "date": 1779570446
         },
         {
             "title": "Fun.xyz: Technical Product Manager",
