@@ -1,8 +1,213 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-28 09:05:25",
-    "total_jobs": 98,
+    "generated_at": "2026-05-28 15:30:14",
+    "total_jobs": 107,
     "jobs": [
+        {
+            "title": "Data Entry Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-analyst-xanitos-inc-1132396",
+            "date": 1779895510
+        },
+        {
+            "title": "Supply Planning Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-planning-analyst-growthassistant-1132388",
+            "date": 1779895250
+        },
+        {
+            "title": "Senior Vue Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383",
+            "date": 1779895177
+        },
+        {
+            "title": "Xactimate Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-xactimate-virtual-assistant-outsource-access-careers-1132378",
+            "date": 1779894602
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-somewhere-1132377",
+            "date": 1779894572
+        },
+        {
+            "title": "Financial Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-financial-data-analyst-crossing-hurdles-1132376",
+            "date": 1779894444
+        },
+        {
+            "title": "Operador de Portaria Remota Recife PE",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-buscarvagas-empregos-brasil-1132373",
+            "date": 1779889162
+        },
+        {
+            "title": "Superviseur de d\u00c3\u00a9partements",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-superviseur-de-departements-the-home-depot-canada-1132408",
+            "date": 1779887015
+        },
+        {
+            "title": "MEX Cajero Sucursal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mex-cajero-sucursal-universia-mexico-1132372",
+            "date": 1779885860
+        },
+        {
+            "title": "MEX Cajero Dual",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132371",
+            "date": 1779885796
+        },
+        {
+            "title": "Recreation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recreation-specialist-v2x-inc-1132398",
+            "date": 1779885319
+        },
+        {
+            "title": "Recreation Aide",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-recreation-aide-v2x-inc-1132399",
+            "date": 1779885319
+        },
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlyticx-hire-1132375",
+            "date": 1779885249
+        },
+        {
+            "title": "Human Resources Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruitlyticx-hire-1132381",
+            "date": 1779885194
+        },
+        {
+            "title": "Customer Assistant Administration",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-assistant-administration-recruitlyticx-hire-1132387",
+            "date": 1779882657
+        },
+        {
+            "title": "General Interest Lastwall",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-general-interest-lastwall-lastwall-1132407",
+            "date": 1779879629
+        },
+        {
+            "title": "Executive Assistant Construction",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-construction-outsource-access-careers-1132357",
+            "date": 1779876061
+        },
         {
             "title": "Associate Chief of Staff the Co Founders",
             "company": "RemoteOK",
@@ -285,17 +490,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-gerente-de-operacoes-gra-comercio-1132254",
             "date": 1779778261
-        },
-        {
-            "title": "MEX Cajero Dual",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mex-cajero-dual-universia-mexico-1132250",
-            "date": 1779777787
         },
         {
             "title": "Courier",
@@ -585,19 +779,6 @@
             "date": 1779714090
         },
         {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hire-1132215",
-            "date": 1779713910
-        },
-        {
             "title": "Social Media Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -764,76 +945,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-journalist-crossing-hurdles-1132156",
             "date": 1779635039
-        },
-        {
-            "title": "Data Annotator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152",
-            "date": 1779617512
-        },
-        {
-            "title": "Asistente Virtual Estudiante de Contabilidad",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-estudiante-de-contabilidad-tu-empleo-rd-1132316",
-            "date": 1779614434
-        },
-        {
-            "title": "Don't See A Perfect Role Apply Anyway",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-pogo-1132351",
-            "date": 1779606047
-        },
-        {
-            "title": "Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-somewhere-1132123",
-            "date": 1779602797
-        },
-        {
-            "title": "Assistente de Sucesso do Cliente CLT Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-sucesso-do-cliente-clt-remoto-nibo-1132120",
-            "date": 1779602556
-        },
-        {
-            "title": "Junior Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-twine-1132062",
-            "date": 1779581036
         },
         {
             "title": "Fun.xyz: Technical Product Manager",
