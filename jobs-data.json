@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-28 01:47:11",
-    "total_jobs": 91,
+    "generated_at": "2026-05-28 09:05:25",
+    "total_jobs": 98,
     "jobs": [
+        {
+            "title": "Associate Chief of Staff the Co Founders",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-chief-of-staff-the-co-founders-radicle-science-1132352",
+            "date": 1779866293
+        },
+        {
+            "title": "Advogado J\u00c3\u00banior Trabalhista",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-advogado-junior-trabalhista-gasparini-barbosa-e-freire-advogados-1132370",
+            "date": 1779855593
+        },
+        {
+            "title": "Community Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-community-associate-draftkings-inc-1132355",
+            "date": 1779854753
+        },
+        {
+            "title": "Supply Chain Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-specialist-crossing-hurdles-1132343",
+            "date": 1779854724
+        },
+        {
+            "title": "Freelance Digital Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-digital-content-creator-fable-england-1132390",
+            "date": 1779853612
+        },
+        {
+            "title": "Clinical Quality Improvement Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-quality-improvement-coordinator-guidehealth-1132349",
+            "date": 1779853520
+        },
+        {
+            "title": "\u00c2\u00bfQuer\u00c3\u00a9s sumarte a liderar cripto en LATAM Dejanos tu perfil \u00f0\u009f\u009a",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1779848362
+        },
         {
             "title": "Assistant",
             "company": "RemoteOK",
