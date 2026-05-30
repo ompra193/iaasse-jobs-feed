@@ -1,8 +1,85 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-30 13:57:38",
-    "total_jobs": 109,
+    "generated_at": "2026-05-30 19:07:42",
+    "total_jobs": 111,
     "jobs": [
+        {
+            "title": "Communications Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-communications-officer-international-society-of-antimicrobial-chemotherapy-1132518",
+            "date": 1780082415
+        },
+        {
+            "title": "Profesor Particular de Lengua y Literatura",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-profesor-particular-de-lengua-y-literatura-tus-media-1132568",
+            "date": 1780076465
+        },
+        {
+            "title": "Driver",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-driver-bapcor-limited-1132549",
+            "date": 1780074947
+        },
+        {
+            "title": "Paralegal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-national-legal-aid-amp-defender-association-1132521",
+            "date": 1780073261
+        },
+        {
+            "title": "\u00e8\u0091\u00a3\u00e4\u00ba\u008b\u00e9\u0095\u00bf\u00e7\u00a7\u0098\u00e4\u00b9\u00a6 \u00e5\u00b9\u00bf\u00e5\u00b7\u009e\u00e9\u009b\u0086\u00e5\u009b\u00a2\u00e5\u008a\u009e\u00e5\u0085",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1780073145
+        },
+        {
+            "title": "Interdisciplinary",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1132555",
+            "date": 1780070296
+        },
+        {
+            "title": "\u00e4\u00b8\u00ad\u00e5\u008c\u00bb\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00e8\u00ae\u00b2\u00e5\u00b8\u0088 \u00e8\u0090\u00a5\u00e5\u0085\u00bb\u00e5\u00b8\u0088\u00e8\u00ae\u00b2\u00e5\u00b8\u0088\u00ef\u00bc\u0088\u00e5\u0085\u00a8\u00e8\u0081\u008c\u00e4\u00b8\u00bb\u00e6\u0092\u00ad\u00ef\u00bc",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1780066331
+        },
         {
             "title": "Senior Backend Engineer",
             "company": "RemoteOK",
@@ -37,17 +114,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-founding-partner-capital-growth-amp-investments-young-1132516",
             "date": 1780061686
-        },
-        {
-            "title": "\u00e8\u0091\u00a3\u00e4\u00ba\u008b\u00e9\u0095\u00bf\u00e7\u00a7\u0098\u00e4\u00b9\u00a6 \u00e5\u00b9\u00bf\u00e5\u00b7\u009e\u00e9\u009b\u0086\u00e5\u009b\u00a2\u00e5\u008a\u009e\u00e5\u0085",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780059696
         },
         {
             "title": "\u00e4\u00bc\u009a\u00e8\u00ae",
@@ -105,6 +171,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/",
             "date": 1780053252
+        },
+        {
+            "title": "2025\u00e5\u00b9\u00b4\u00e5\u009c\u00a8\u00e7\u00ba\u00bf\u00e6\u00a0\u00a1\u00e6\u008b\u009b \u00e8\u00b0\u0083\u00e6\u009f\u00a5\u00e5\u008f\u008d\u00e6\u00ac\u00ba\u00e8\u00af",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1780052124
         },
         {
             "title": "Analista Junior de Recursos Humanos Trabalho Remoto",
@@ -900,65 +977,6 @@
             "date": 1779908868
         },
         {
-            "title": "Social Media &amp; Content Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-amp-content-executive-grecotel-hotels-amp-resorts-1132415",
-            "date": 1779906541
-        },
-        {
-            "title": "Data Entry Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-analyst-xanitos-inc-1132396",
-            "date": 1779895510
-        },
-        {
-            "title": "Supply Planning Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-planning-analyst-growthassistant-1132388",
-            "date": 1779895250
-        },
-        {
-            "title": "Senior Vue Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1132383",
-            "date": 1779895177
-        },
-        {
-            "title": "Xactimate Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-xactimate-virtual-assistant-outsource-access-careers-1132378",
-            "date": 1779894602
-        },
-        {
             "title": "M3usa: Senior Full Stack Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1197,17 +1215,6 @@
             "date": 1777570648
         },
         {
-            "title": "Socket: Product Design Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/socket-product-design-lead",
-            "date": 1777570618
-        },
-        {
             "title": "Infatica.io: Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1230,15 +1237,30 @@
             "date": 1777558166
         },
         {
-            "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
+            "title": "Reveleer: Full Stack AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x",
-            "date": 1777557358
+            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+            "date": 1775162760
+        },
+        {
+            "title": "Tether: AI Research Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
+            "date": 1775161739
         }
     ]
 }
