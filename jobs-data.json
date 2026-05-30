@@ -1,8 +1,116 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-30 19:07:42",
-    "total_jobs": 111,
+    "generated_at": "2026-05-31 00:45:02",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Legal Researcher",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-legal-researcher-crossing-hurdles-1132535",
+            "date": 1780099369
+        },
+        {
+            "title": "Formador A Para Aula Virtual \u00e2\u0080\u0094 Econom\u00c3\u00ada Circular",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-formador-a-para-aula-virtual-economia-circular-gabinete-de-recolocacion-industrial-1132565",
+            "date": 1780098104
+        },
+        {
+            "title": "Executive Assistant CEO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-ceo-prime-system-solutions-1132534",
+            "date": 1780096422
+        },
+        {
+            "title": "Medical Scheduler Medical Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-medical-administrative-assistant-international-sos-government-medical-services-1132544",
+            "date": 1780093782
+        },
+        {
+            "title": "HR Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-director-arete-health-pt-1132543",
+            "date": 1780092932
+        },
+        {
+            "title": "Executive Assistant Canada",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-canada-zirtual-1132542",
+            "date": 1780091010
+        },
+        {
+            "title": "Social Media Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-executive-brand-hackers-1132567",
+            "date": 1780089667
+        },
+        {
+            "title": "Project Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-analyst-moonshot-1132522",
+            "date": 1780086059
+        },
+        {
+            "title": "Assistente de Recursos Humanos Trabalho Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-recursos-humanos-trabalho-remoto-bairesdev-1132519",
+            "date": 1780085393
+        },
         {
             "title": "Communications Officer",
             "company": "RemoteOK",
@@ -278,6 +386,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-research-assistant-neuroscience-research-kennedy-krieger-institute-1132507",
             "date": 1780038699
+        },
+        {
+            "title": "Cajero Sucursal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cajero-sucursal-universia-mexico-1132609",
+            "date": 1780037129
         },
         {
             "title": "Human Resources Coordinator United States",
@@ -640,6 +759,17 @@
             "date": 1779975688
         },
         {
+            "title": "Digital Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-digital-designer-colibrix-one-1132593",
+            "date": 1779974204
+        },
+        {
             "title": "MEX Cajero Dual",
             "company": "RemoteOK",
             "company_logo": null,
@@ -909,72 +1039,53 @@
             "date": 1779918267
         },
         {
-            "title": "Safety Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-safety-officer-buckeye-partners-1132421",
-            "date": 1779917811
-        },
-        {
-            "title": "T\u00c3\u00a9l\u00c3\u00a9travail Professeur Particulier",
-            "company": "RemoteOK",
+            "title": "Praia Health Inc.: Staff Software Engineer - Data Infrastructure",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai"
+                "ai",
+                "data"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1132437",
-            "date": 1779913887
+            "link": "https://weworkremotely.com/remote-jobs/praia-health-inc-staff-software-engineer-data-infrastructure",
+            "date": 1778108950
         },
         {
-            "title": "Director of Partner Operations",
-            "company": "RemoteOK",
+            "title": "WALTER: Senior Fullstack Engineer (Ruby+React)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/walter-senior-fullstack-engineer-ruby-react",
+            "date": 1778041381
+        },
+        {
+            "title": "WALTER: Full-Stack Engineering Lead",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-partner-operations-ready-1132412",
-            "date": 1779913653
+            "link": "https://weworkremotely.com/remote-jobs/walter-full-stack-engineering-lead",
+            "date": 1778035652
         },
         {
-            "title": "Customer Support Advocate",
-            "company": "RemoteOK",
+            "title": "Jeff Murray's Programming Shop, Inc.: Experienced Software Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-advocate-taskrabbit-1132410",
-            "date": 1779912131
-        },
-        {
-            "title": "Academic Counselor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-academic-counselor-vedantu-1132444",
-            "date": 1779909652
-        },
-        {
-            "title": "Warehouse Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-warehouse-operations-manager-crossing-hurdles-1132397",
-            "date": 1779908868
+            "link": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
+            "date": 1778015966
         },
         {
             "title": "M3usa: Senior Full Stack Developer",
@@ -1171,72 +1282,6 @@
             "date": 1777581127
         },
         {
-            "title": "Visualis: Senior Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/visualis-senior-full-stack-developer",
-            "date": 1777570733
-        },
-        {
-            "title": "Stakefish: DevOps Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stakefish-devops-engineer",
-            "date": 1777570708
-        },
-        {
-            "title": "Remotely: Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/remotely-full-stack-developer",
-            "date": 1777570662
-        },
-        {
-            "title": "European Dynamics: DevOps Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/european-dynamics-devops-engineer",
-            "date": 1777570648
-        },
-        {
-            "title": "Infatica.io: Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/infatica-io-product-manager",
-            "date": 1777570602
-        },
-        {
-            "title": "Sanctuary Computer: Senior Frontend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-frontend-developer-2",
-            "date": 1777558166
-        },
-        {
             "title": "Reveleer: Full Stack AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1261,6 +1306,28 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
             "date": 1775161739
+        },
+        {
+            "title": "Speechify Inc: Software Engineer, iOS Core Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
+            "date": 1752075311
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
