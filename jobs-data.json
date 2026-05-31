@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-31 14:14:39",
+    "generated_at": "2026-05-31 19:15:20",
     "total_jobs": 111,
     "jobs": [
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-experian-1132592",
+            "date": 1780164109
+        },
         {
             "title": "Technical support",
             "company": "RemoteOK",
@@ -179,19 +192,6 @@
             "date": 1780123778
         },
         {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-rithum-1132586",
-            "date": 1780123519
-        },
-        {
             "title": "English Language Specialist",
             "company": "RemoteOK",
             "company_logo": null,
@@ -306,6 +306,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-ceo-prime-system-solutions-1132534",
             "date": 1780096422
+        },
+        {
+            "title": "Dise\u00c3\u00b1ador a Gr\u00c3\u00a1fico a",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-disenador-a-grafico-a-universia-colombia-1132645",
+            "date": 1780095016
         },
         {
             "title": "Medical Scheduler Medical Administrative Assistant",
@@ -892,6 +903,17 @@
             "date": 1780005611
         },
         {
+            "title": "Regional Sales Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-johnson-amp-johnson-medtech-1132631",
+            "date": 1780005153
+        },
+        {
             "title": "Electrician Royal Beach Club",
             "company": "RemoteOK",
             "company_logo": null,
@@ -967,28 +989,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-virtual-receptionist-venture-smarter-1132443",
             "date": 1779987907
-        },
-        {
-            "title": "Events Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-events-marketing-manager-pivotal-health-1132436",
-            "date": 1779976802
-        },
-        {
-            "title": "Speculative Application",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-speculative-application-bristol-waste-company-1132469",
-            "date": 1779976494
         },
         {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
