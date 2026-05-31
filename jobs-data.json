@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-05-31 19:15:20",
-    "total_jobs": 111,
+    "generated_at": "2026-06-01 00:46:55",
+    "total_jobs": 112,
     "jobs": [
+        {
+            "title": "Cleaner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cleaner-booker-1132626",
+            "date": 1780185656
+        },
+        {
+            "title": "Human Resources Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-peace-through-trade-ptt-coin-layer-1-pow-blockchain-1132615",
+            "date": 1780184299
+        },
+        {
+            "title": "HOH TEAM MEMBER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hoh-team-member-buffalo-wild-wings-fralich-inc-1132617",
+            "date": 1780178690
+        },
+        {
+            "title": "Video Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
+            "date": 1780171660
+        },
         {
             "title": "Executive Assistant",
             "company": "RemoteOK",
@@ -892,17 +936,6 @@
             "date": 1780005615
         },
         {
-            "title": "Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-our-hillside-1132459",
-            "date": 1780005611
-        },
-        {
             "title": "Regional Sales Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -967,28 +1000,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-cgi-visualiser-utopia-design-1132619",
             "date": 1779993569
-        },
-        {
-            "title": "AUXILIAR ADMINISTRATIVO CSC ATENDIMENTO Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-csc-atendimento-remoto-empresa-confidencial-1132454",
-            "date": 1779989244
-        },
-        {
-            "title": "Virtual Receptionist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-receptionist-venture-smarter-1132443",
-            "date": 1779987907
         },
         {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
