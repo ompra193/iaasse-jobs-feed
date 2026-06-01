@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-01 00:46:55",
-    "total_jobs": 112,
+    "generated_at": "2026-06-01 09:33:16",
+    "total_jobs": 107,
     "jobs": [
+        {
+            "title": "Equity Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-equity-partner-onside-capital-1132630",
+            "date": 1780218504
+        },
+        {
+            "title": "Skilled Baker",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-skilled-baker-british-baker-1132625",
+            "date": 1780217584
+        },
+        {
+            "title": "Vice President Sales &amp; Business Development",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-sales-amp-business-development-zeta-1132616",
+            "date": 1780207203
+        },
+        {
+            "title": "Content Tagger",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-tagger-rgampt-solutions-1132629",
+            "date": 1780206426
+        },
+        {
+            "title": "Social Media Moderator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132614",
+            "date": 1780196817
+        },
+        {
+            "title": "Customer Service Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-assistant-remoteva-1132613",
+            "date": 1780196497
+        },
         {
             "title": "Cleaner",
             "company": "RemoteOK",
@@ -24,6 +92,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-peace-through-trade-ptt-coin-layer-1-pow-blockchain-1132615",
             "date": 1780184299
+        },
+        {
+            "title": "Senior Assistant ARFF",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-assistant-arff-adani-ports-and-sez-1132650",
+            "date": 1780178850
         },
         {
             "title": "HOH TEAM MEMBER",
@@ -70,17 +151,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132578",
             "date": 1780151186
-        },
-        {
-            "title": "Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-crossing-hurdles-1132575",
-            "date": 1780149855
         },
         {
             "title": "Entry Level Junior Trader",
@@ -236,17 +306,6 @@
             "date": 1780123778
         },
         {
-            "title": "English Language Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-english-language-specialist-crossing-hurdles-1132558",
-            "date": 1780121092
-        },
-        {
             "title": "Freelance Solutions Architect Braze &amp; Iterable Experience",
             "company": "RemoteOK",
             "company_logo": null,
@@ -317,17 +376,6 @@
             "date": 1780104005
         },
         {
-            "title": "Legal Researcher",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-legal-researcher-crossing-hurdles-1132535",
-            "date": 1780099369
-        },
-        {
             "title": "Formador A Para Aula Virtual \u00e2\u0080\u0094 Econom\u00c3\u00ada Circular",
             "company": "RemoteOK",
             "company_logo": null,
@@ -375,6 +423,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-medical-administrative-assistant-international-sos-government-medical-services-1132544",
             "date": 1780093782
+        },
+        {
+            "title": "Fractional Growth &amp; Brand Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fractional-growth-amp-brand-strategist-set-amp-stones-1132659",
+            "date": 1780093642
         },
         {
             "title": "HR Director",
@@ -649,19 +708,6 @@
             "date": 1780042126
         },
         {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-crossing-hurdles-1132484",
-            "date": 1780041931
-        },
-        {
             "title": "Health &amp; Wellness Coach",
             "company": "RemoteOK",
             "company_logo": null,
@@ -901,30 +947,107 @@
             "date": 1780005667
         },
         {
-            "title": "Associate and Senior Associate roles with the Events Team",
-            "company": "RemoteOK",
+            "title": "Activate Talent: Mobile App Product Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-and-senior-associate-roles-with-the-events-team-centre-for-effective-altruism-1132452",
-            "date": 1780005642
+            "link": "https://weworkremotely.com/remote-jobs/activate-talent-mobile-app-product-manager",
+            "date": 1778963501
         },
         {
-            "title": "Customer Support & Operations Team Lead",
-            "company": "RemoteOK",
+            "title": "Mind Friend Pro: Website Admin / Design INTERNSHIP",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship",
+            "date": 1778963491
+        },
+        {
+            "title": "Hospitable: Staff UI/UX Product Designer (USA/EMEA - Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-operations-team-lead-instrumentl-1132451",
-            "date": 1780005635
+            "link": "https://weworkremotely.com/remote-jobs/hospitable-staff-ui-ux-product-designer-usa-emea-remote",
+            "date": 1778963491
         },
         {
-            "title": "Bluelight Consulting Fullstack PHP developer . Latin America",
-            "company": "RemoteOK",
+            "title": "Systabuild Software Group: Junior DevOps Engineer (m/w/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d",
+            "date": 1778963476
+        },
+        {
+            "title": "Cresta: Platform Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cresta-platform-product-manager",
+            "date": 1778963470
+        },
+        {
+            "title": "United Tech: Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/united-tech-product-manager",
+            "date": 1778963461
+        },
+        {
+            "title": "Instacart: Principal Product Manager, Agentic Commerce",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/instacart-principal-product-manager-agentic-commerce",
+            "date": 1778877098
+        },
+        {
+            "title": "Upstart: Senior Software Engineer, New Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/upstart-senior-software-engineer-new-product",
+            "date": 1778877089
+        },
+        {
+            "title": "Composio: Member of Technical Staff - Product Eng",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/composio-member-of-technical-staff-product-eng",
+            "date": 1778877061
+        },
+        {
+            "title": "Lemon.io: Senior Full-stack Angular & PHP Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -932,74 +1055,19 @@
                 "php"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bluelight-consulting-fullstack-php-developer-latin-america-bluelight-consulting-1132450",
-            "date": 1780005615
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer",
+            "date": 1778830614
         },
         {
-            "title": "Regional Sales Manager",
-            "company": "RemoteOK",
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-johnson-amp-johnson-medtech-1132631",
-            "date": 1780005153
-        },
-        {
-            "title": "Electrician Royal Beach Club",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-electrician-royal-beach-club-royal-caribbean-international-1132478",
-            "date": 1779998787
-        },
-        {
-            "title": "Lead Generator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-generator-breevy-1132473",
-            "date": 1779997532
-        },
-        {
-            "title": "Docente de idiomas ingl\u00c3\u00a9s Piura",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-docente-de-idiomas-ingles-piura-universidad-privada-antenor-orrego-1132495",
-            "date": 1779995340
-        },
-        {
-            "title": "SOLO Atenci\u00c3\u00b3n al cliente S 1400 100 por ciento Remoto NO Ventas Bonos adicionales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-solo-atencion-al-cliente-s-1400-100-por-ciento-remoto-no-ventas-bonos-adicionales-mdy-contact-center-1132494",
-            "date": 1779995317
-        },
-        {
-            "title": "CGI Visualiser",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cgi-visualiser-utopia-design-1132619",
-            "date": 1779993569
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+            "date": 1778750068
         },
         {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
@@ -1084,134 +1152,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
             "date": 1778015966
-        },
-        {
-            "title": "M3usa: Senior Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/m3usa-senior-full-stack-developer",
-            "date": 1777667570
-        },
-        {
-            "title": "Airalo: Staff Data Analyst, Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/airalo-staff-data-analyst-product",
-            "date": 1777667558
-        },
-        {
-            "title": "Stripe: Product Manager, Commerce Systems",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-product-manager-commerce-systems",
-            "date": 1777667538
-        },
-        {
-            "title": "Temporal Technologies: Senior Staff Product Marketing Manager, AI",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/temporal-technologies-senior-staff-product-marketing-manager-ai",
-            "date": 1777667535
-        },
-        {
-            "title": "Prop Firm Match Global  Fzco: Head of Graphic Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/prop-firm-match-global-fzco-head-of-graphic-design",
-            "date": 1777667512
-        },
-        {
-            "title": "Openx: Intern - Marketing Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/openx-intern-marketing-design",
-            "date": 1777667510
-        },
-        {
-            "title": "Rackspace: Azure DevOps Engineer II/III",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/rackspace-azure-devops-engineer-ii-iii",
-            "date": 1777667510
-        },
-        {
-            "title": "Stp.One: Senior Product Manager (m/f/d)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stp-one-senior-product-manager-m-f-d",
-            "date": 1777667490
-        },
-        {
-            "title": "Bounteous: Sr Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bounteous-sr-product-manager",
-            "date": 1777667484
-        },
-        {
-            "title": "Playlab: Senior Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/playlab-senior-product-manager",
-            "date": 1777667463
-        },
-        {
-            "title": "Raspberry AI: Senior Product Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/raspberry-ai-senior-product-engineer",
-            "date": 1777667463
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
