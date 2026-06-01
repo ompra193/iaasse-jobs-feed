@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-01 23:08:12",
-    "total_jobs": 101,
+    "generated_at": "2026-06-02 03:02:22",
+    "total_jobs": 99,
     "jobs": [
+        {
+            "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-oficina-general-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132649",
+            "date": 1780274594
+        },
+        {
+            "title": "Especialista En Marketing Digital Y Gesti\u00c3\u00b3n De Contenidos",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132665",
+            "date": 1780270918
+        },
         {
             "title": "\u00c2\u00bfQuer\u00c3\u00a9s sumarte a liderar cripto en LATAM Dejanos tu perfil \u00f0\u009f\u009a",
             "company": "RemoteOK",
@@ -46,17 +68,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
             "date": 1780240035
-        },
-        {
-            "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-oficina-general-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132640",
-            "date": 1780231397
         },
         {
             "title": "Asistente Virtual de Recursos Humanos Contrataci\u00c3\u00b3n Inmediata",
@@ -842,37 +853,28 @@
             "date": 1780038699
         },
         {
-            "title": "Cajero Sucursal",
-            "company": "RemoteOK",
+            "title": "S-PRO: Senior/Lead DevOps Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cajero-sucursal-universia-mexico-1132609",
-            "date": 1780037129
+            "link": "https://weworkremotely.com/remote-jobs/s-pro-senior-lead-devops-engineer",
+            "date": 1778963513
         },
         {
-            "title": "Human Resources Coordinator United States",
-            "company": "RemoteOK",
+            "title": "Vanta: Senior Product Designer, AI Platform",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-united-states-slipstream-life-sciences-1132559",
-            "date": 1780034400
-        },
-        {
-            "title": "Social Media Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-lawless-beauty-1132517",
-            "date": 1780027680
+            "link": "https://weworkremotely.com/remote-jobs/vanta-senior-product-designer-ai-platform",
+            "date": 1778963509
         },
         {
             "title": "Vanta: Staff Product Designer, AI Powered Workflows",
@@ -1071,32 +1073,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jeff-murray-s-programming-shop-inc-experienced-software-developer",
             "date": 1778015966
-        },
-        {
-            "title": "Reveleer: Full Stack AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-            "date": 1775162760
-        },
-        {
-            "title": "Tether: AI Research Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
-            "date": 1775161739
         },
         {
             "title": "CodeSignal: Software Engineer, Business Experience",
