@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-01 17:02:51",
-    "total_jobs": 102,
+    "generated_at": "2026-06-01 23:08:12",
+    "total_jobs": 101,
     "jobs": [
+        {
+            "title": "\u00c2\u00bfQuer\u00c3\u00a9s sumarte a liderar cripto en LATAM Dejanos tu perfil \u00f0\u009f\u009a",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1780255373
+        },
+        {
+            "title": "Projectpedia Team Member",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-projectpedia-team-member-projectpedia-official-page-1132651",
+            "date": 1780253775
+        },
+        {
+            "title": "Estimator II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-estimator-ii-honeywell-1132652",
+            "date": 1780250570
+        },
         {
             "title": "Social Media Moderator",
             "company": "RemoteOK",
@@ -431,6 +464,17 @@
             "date": 1780104005
         },
         {
+            "title": "Tutor De Geograf\u00c3\u00ada E Historia \u00e2\u0080\u0094 Flexible Y Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tutor-de-geografia-e-historia-flexible-y-remoto-apprentus-1132667",
+            "date": 1780098124
+        },
+        {
             "title": "Formador A Para Aula Virtual \u00e2\u0080\u0094 Econom\u00c3\u00ada Circular",
             "company": "RemoteOK",
             "company_logo": null,
@@ -831,63 +875,6 @@
             "date": 1780027680
         },
         {
-            "title": "Private Equity Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-private-equity-associate-madison-hunt-1132501",
-            "date": 1780025141
-        },
-        {
-            "title": "Data Entry Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-associate-verse-medical-1132482",
-            "date": 1780019782
-        },
-        {
-            "title": "Family Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-family-coordinator-meadow-memorials-1132622",
-            "date": 1780019779
-        },
-        {
-            "title": "Front Desk Guest Experience Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-front-desk-guest-experience-associate-truporch-homes-1132537",
-            "date": 1780019469
-        },
-        {
-            "title": "Merchandising Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-merchandising-representative-celsius-1132504",
-            "date": 1780018202
-        },
-        {
             "title": "Vanta: Staff Product Designer, AI Powered Workflows",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1037,17 +1024,6 @@
             "date": 1778178283
         },
         {
-            "title": "Clipp.com: Full-Stack Growth Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/clipp-com-full-stack-growth-engineer",
-            "date": 1778176331
-        },
-        {
             "title": "Praia Health Inc.: Staff Software Engineer - Data Infrastructure",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1154,6 +1130,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
             "date": 1747425814
+        },
+        {
+            "title": "A.Team: Senior Independent AI Engineer / Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+            "date": 1718561332
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
