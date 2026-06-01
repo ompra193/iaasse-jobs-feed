@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-01 09:33:16",
-    "total_jobs": 107,
+    "generated_at": "2026-06-01 17:02:51",
+    "total_jobs": 102,
     "jobs": [
+        {
+            "title": "Social Media Moderator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
+            "date": 1780240035
+        },
+        {
+            "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-oficina-general-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132640",
+            "date": 1780231397
+        },
+        {
+            "title": "Asistente Virtual de Recursos Humanos Contrataci\u00c3\u00b3n Inmediata",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-de-recursos-humanos-contratacion-inmediata-universia-mexico-1132634",
+            "date": 1780231390
+        },
+        {
+            "title": "Asistente Virtual de Recursos Humanos Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-de-recursos-humanos-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132638",
+            "date": 1780231390
+        },
+        {
+            "title": "Asistente Legal Corporativo y de Recursos Humanos",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asistente-legal-corporativo-y-de-recursos-humanos-universia-mexico-1132642",
+            "date": 1780231387
+        },
+        {
+            "title": "Ejecutivo de Partners y Franquicias",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ejecutivo-de-partners-y-franquicias-zenvia-1132624",
+            "date": 1780221983
+        },
         {
             "title": "Equity Partner",
             "company": "RemoteOK",
@@ -46,17 +112,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-content-tagger-rgampt-solutions-1132629",
             "date": 1780206426
-        },
-        {
-            "title": "Social Media Moderator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132614",
-            "date": 1780196817
         },
         {
             "title": "Customer Service Assistant",
@@ -833,8 +888,8 @@
             "date": 1780018202
         },
         {
-            "title": "Digital Advertising Campaign Manager",
-            "company": "RemoteOK",
+            "title": "Vanta: Staff Product Designer, AI Powered Workflows",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -842,109 +897,8 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-advertising-campaign-manager-tremendous-1132511",
-            "date": 1780017261
-        },
-        {
-            "title": "Site Reliability Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-rbc-1132479",
-            "date": 1780015457
-        },
-        {
-            "title": "Profesor A De Ele \u00e2\u0080\u0094 Ense\u00c3\u00b1anza Innovadora Horario Flexible",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-ele-ensenanza-innovadora-horario-flexible-apprentus-1132487",
-            "date": 1780011705
-        },
-        {
-            "title": "Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technician-arbury-group-1132470",
-            "date": 1780009554
-        },
-        {
-            "title": "Associate News Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-news-editor-newsweek-1132489",
-            "date": 1780008975
-        },
-        {
-            "title": "News Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-news-editor-newsweek-1132508",
-            "date": 1780008975
-        },
-        {
-            "title": "Manager Program Management GTME COE",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-program-management-gtme-coe-linkedin-1132498",
-            "date": 1780008973
-        },
-        {
-            "title": "Grid Operator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-grid-operator-bahamas-grid-company-1132477",
-            "date": 1780006607
-        },
-        {
-            "title": "Field Recruiter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-field-recruiter-hub-xyz-1132456",
-            "date": 1780006191
-        },
-        {
-            "title": "Insights Analyst Dispute Experience",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-insights-analyst-dispute-experience-chime-financial-inc-1132453",
-            "date": 1780005667
+            "link": "https://weworkremotely.com/remote-jobs/vanta-staff-product-designer-ai-powered-workflows",
+            "date": 1778963501
         },
         {
             "title": "Activate Talent: Mobile App Product Manager",
@@ -1022,17 +976,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/instacart-principal-product-manager-agentic-commerce",
             "date": 1778877098
-        },
-        {
-            "title": "Upstart: Senior Software Engineer, New Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/upstart-senior-software-engineer-new-product",
-            "date": 1778877089
         },
         {
             "title": "Composio: Member of Technical Staff - Product Eng",
