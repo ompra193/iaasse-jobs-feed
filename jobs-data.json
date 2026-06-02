@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-02 21:54:17",
+    "generated_at": "2026-06-03 02:18:46",
     "total_jobs": 101,
     "jobs": [
+        {
+            "title": "Diver I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-diver-i-amentum-1132692",
+            "date": 1780368231
+        },
+        {
+            "title": "Vice President People Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-people-operations-kipp-foundation-1132681",
+            "date": 1780365901
+        },
+        {
+            "title": "Redator J\u00c3\u00banior",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-redator-junior-canta-1132704",
+            "date": 1780361531
+        },
+        {
+            "title": "Customer Success Manager Public Sector",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-public-sector-box-1132689",
+            "date": 1780357402
+        },
         {
             "title": "Jims Jams",
             "company": "RemoteOK",
@@ -832,50 +876,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-driver-bapcor-limited-1132549",
             "date": 1780074947
-        },
-        {
-            "title": "Paralegal",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-national-legal-aid-amp-defender-association-1132521",
-            "date": 1780073261
-        },
-        {
-            "title": "\u00e8\u0091\u00a3\u00e4\u00ba\u008b\u00e9\u0095\u00bf\u00e7\u00a7\u0098\u00e4\u00b9\u00a6 \u00e5\u00b9\u00bf\u00e5\u00b7\u009e\u00e9\u009b\u0086\u00e5\u009b\u00a2\u00e5\u008a\u009e\u00e5\u0085",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780073145
-        },
-        {
-            "title": "Interdisciplinary",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-interdisciplinary-us-army-corps-of-engineers-1132555",
-            "date": 1780070296
-        },
-        {
-            "title": "\u00e4\u00b8\u00ad\u00e5\u008c\u00bb\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00e8\u00ae\u00b2\u00e5\u00b8\u0088 \u00e8\u0090\u00a5\u00e5\u0085\u00bb\u00e5\u00b8\u0088\u00e8\u00ae\u00b2\u00e5\u00b8\u0088\u00ef\u00bc\u0088\u00e5\u0085\u00a8\u00e8\u0081\u008c\u00e4\u00b8\u00bb\u00e6\u0092\u00ad\u00ef\u00bc",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780066331
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
