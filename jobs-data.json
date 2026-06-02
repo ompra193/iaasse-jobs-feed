@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-02 09:27:47",
+    "generated_at": "2026-06-02 15:52:47",
     "total_jobs": 100,
     "jobs": [
+        {
+            "title": "Expert Retoucher Renderer 210501",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-expert-retoucher-renderer-210501-aquent-1132663",
+            "date": 1780326164
+        },
+        {
+            "title": "Senior Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
+            "date": 1780322402
+        },
         {
             "title": "Submit Your Resume",
             "company": "RemoteOK",
@@ -274,6 +296,17 @@
             "date": 1780171660
         },
         {
+            "title": "Attraction Instructor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-attraction-instructor-royal-caribbean-international-1132693",
+            "date": 1780165609
+        },
+        {
             "title": "Executive Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -296,6 +329,20 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132578",
             "date": 1780151186
+        },
+        {
+            "title": "Online Data Entry Operator Data Entry Typing Data Entry Clerk Data Entry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-typing-data-entry-clerk-data-entry-impact-hr-amp-km-solutions-1132700",
+            "date": 1780149646
         },
         {
             "title": "Entry Level Junior Trader",
@@ -816,52 +863,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/",
             "date": 1780053252
-        },
-        {
-            "title": "2025\u00e5\u00b9\u00b4\u00e5\u009c\u00a8\u00e7\u00ba\u00bf\u00e6\u00a0\u00a1\u00e6\u008b\u009b \u00e8\u00b0\u0083\u00e6\u009f\u00a5\u00e5\u008f\u008d\u00e6\u00ac\u00ba\u00e8\u00af",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780052124
-        },
-        {
-            "title": "Analista Junior de Recursos Humanos Trabalho Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-junior-de-recursos-humanos-trabalho-remoto-bairesdev-1132497",
-            "date": 1780049662
-        },
-        {
-            "title": "Expressions of Interest",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-humans-of-agriculture-1132548",
-            "date": 1780042182
-        },
-        {
-            "title": "Real Estate Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-real-estate-virtual-assistant-remoteva-1132486",
-            "date": 1780042126
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
