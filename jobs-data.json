@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-02 03:02:22",
-    "total_jobs": 99,
+    "generated_at": "2026-06-02 09:27:47",
+    "total_jobs": 100,
     "jobs": [
+        {
+            "title": "Submit Your Resume",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-submit-your-resume-nelson-motors-and-equipment-1132656",
+            "date": 1780292430
+        },
+        {
+            "title": "Futuros Profesionales Trainee Automatizaci\u00c3\u00b3n de Procesos",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-futuros-profesionales-trainee-automatizacion-de-procesos-universia-argentina-1132661",
+            "date": 1780292199
+        },
+        {
+            "title": "Team Member",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-team-member-leicester-arms-1132669",
+            "date": 1780290794
+        },
+        {
+            "title": "Junior Brand Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-brand-designer-twine-1132655",
+            "date": 1780290054
+        },
         {
             "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
             "company": "RemoteOK",
@@ -818,39 +864,15 @@
             "date": 1780042126
         },
         {
-            "title": "Health &amp; Wellness Coach",
-            "company": "RemoteOK",
+            "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-health-amp-wellness-coach-revive-1132500",
-            "date": 1780041616
-        },
-        {
-            "title": "Member Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-member-support-specialist-revive-1132503",
-            "date": 1780041118
-        },
-        {
-            "title": "Research Assistant Neuroscience Research",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-research-assistant-neuroscience-research-kennedy-krieger-institute-1132507",
-            "date": 1780038699
+            "link": "https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus",
+            "date": 1778963531
         },
         {
             "title": "S-PRO: Senior/Lead DevOps Engineer",
@@ -1132,17 +1154,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
             "date": 1718559051
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
