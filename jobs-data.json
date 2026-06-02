@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-02 15:52:47",
-    "total_jobs": 100,
+    "generated_at": "2026-06-02 21:54:17",
+    "total_jobs": 101,
     "jobs": [
+        {
+            "title": "Jims Jams",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-jims-jams-lever-middleware-test-company-1132676",
+            "date": 1780349160
+        },
+        {
+            "title": "Training Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-training-specialist-playlist-1132686",
+            "date": 1780347764
+        },
+        {
+            "title": "Payroll Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-maples-group-1132694",
+            "date": 1780347217
+        },
+        {
+            "title": "Director Customer Success",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-customer-success-pencil-1132685",
+            "date": 1780340151
+        },
+        {
+            "title": "Auxiliar Administrativo Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1132701",
+            "date": 1780334802
+        },
+        {
+            "title": "Online Bidder",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-bidder-eminence-technology-1132714",
+            "date": 1780330835
+        },
         {
             "title": "Expert Retoucher Renderer 210501",
             "company": "RemoteOK",
@@ -341,8 +409,8 @@
                 "clerk"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-typing-data-entry-clerk-data-entry-impact-hr-amp-km-solutions-1132700",
-            "date": 1780149646
+            "link": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-typing-data-entry-clerk-data-entry-impact-hr-amp-km-solutions-1132721",
+            "date": 1780149648
         },
         {
             "title": "Entry Level Junior Trader",
@@ -520,6 +588,17 @@
             "date": 1780120803
         },
         {
+            "title": "Operations Staff",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-staff-blue-dart-1132712",
+            "date": 1780115348
+        },
+        {
             "title": "Designer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -601,6 +680,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-ceo-prime-system-solutions-1132534",
             "date": 1780096422
+        },
+        {
+            "title": "Business Analyst Retail",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-retail-capgemini-1132720",
+            "date": 1780095290
         },
         {
             "title": "Dise\u00c3\u00b1ador a Gr\u00c3\u00a1fico a",
@@ -784,85 +876,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/",
             "date": 1780066331
-        },
-        {
-            "title": "Senior Backend Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-gameplay-galaxy-1132512",
-            "date": 1780063212
-        },
-        {
-            "title": "Civil Service Secretary Chief Examiner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "civil"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-civil-service-secretary-chief-examiner-city-of-pullman-1132560",
-            "date": 1780062800
-        },
-        {
-            "title": "Founding Partner Capital Growth &amp; Investments",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-founding-partner-capital-growth-amp-investments-young-1132516",
-            "date": 1780061686
-        },
-        {
-            "title": "\u00e4\u00bc\u009a\u00e8\u00ae",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780057590
-        },
-        {
-            "title": "Handyperson",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-handyperson-oaks-hotels-resorts-amp-suites-1132550",
-            "date": 1780056107
-        },
-        {
-            "title": "AUXILIAR ADMINISTRATIVO BARUERI SP",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-barueri-sp-sgs-1132514",
-            "date": 1780054339
-        },
-        {
-            "title": "\u00e5\u009c\u00a8\u00e7\u00ba\u00bf\u00e5\u00ae\u00a2\u00e6\u009c\u008d \u00e7\u00ba\u00af\u00e6\u0096\u0087\u00e8\u0081\u008c \u00e5\u008f\u008c\u00e4\u00bc",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780053252
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
