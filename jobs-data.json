@@ -1,8 +1,120 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-03 16:28:41",
-    "total_jobs": 101,
+    "generated_at": "2026-06-03 22:18:19",
+    "total_jobs": 103,
     "jobs": [
+        {
+            "title": "CAMAREIRA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-camareira-samba-hospitality-group-1132739",
+            "date": 1780440260
+        },
+        {
+            "title": "Vice President People",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-people-kipp-foundation-1132733",
+            "date": 1780439398
+        },
+        {
+            "title": "Machine Learning QA Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-machine-learning-qa-engineer-derq-1132718",
+            "date": 1780437612
+        },
+        {
+            "title": "Experienced Senior 1 Acquisition Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-experienced-senior-1-acquisition-manager-360dialog-gmbh-1132717",
+            "date": 1780437606
+        },
+        {
+            "title": "Key Account Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-key-account-executive-unilever-1132735",
+            "date": 1780436681
+        },
+        {
+            "title": "Private Equity Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-private-equity-analyst-capitexai-1132716",
+            "date": 1780434225
+        },
+        {
+            "title": "Application Support Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-application-support-specialist-dart-1132746",
+            "date": 1780432220
+        },
+        {
+            "title": "Creative Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-designer-air-apps-1132755",
+            "date": 1780430835
+        },
+        {
+            "title": "Project Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-assistant-arabian-private-holdings-1132749",
+            "date": 1780430635
+        },
+        {
+            "title": "Fire Fighter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1132711",
+            "date": 1780419947
+        },
         {
             "title": "English Teacher for Children",
             "company": "RemoteOK",
@@ -48,6 +160,30 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-xml-dca-integra-1132713",
             "date": 1780398861
+        },
+        {
+            "title": "Maintenance Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-officer-department-of-education-and-training-1132770",
+            "date": 1780397296
+        },
+        {
+            "title": "Head Of People And Culture",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-people-and-culture-bloom-hr-pty-ltd-1132763",
+            "date": 1780393565
         },
         {
             "title": "British English Voice Actor Specialist Lancaster",
@@ -388,6 +524,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
             "date": 1780322402
+        },
+        {
+            "title": "Mindset and Wellbeing Facilitator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mindset-and-wellbeing-facilitator-creating-brighter-futures-1132764",
+            "date": 1780321858
         },
         {
             "title": "Submit Your Resume",
@@ -740,137 +887,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-ejecutiva-de-ventas-remoto-universia-peru-1132623",
             "date": 1780147126
-        },
-        {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytic-hr-1132580",
-            "date": 1780142140
-        },
-        {
-            "title": "Virtual Receptionist VA Fast Hiring 24 Hour Review",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-receptionist-va-fast-hiring-24-hour-review-onlinejobs-ph-1132585",
-            "date": 1780138278
-        },
-        {
-            "title": "Executive Assistant the CMO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-cmo-impact-brands-1132569",
-            "date": 1780135654
-        },
-        {
-            "title": "Est\u00c3\u00a1gio Em Recrutamento E Sele\u00c3\u00a7\u00c3\u00a3o Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-estagio-em-recrutamento-e-selecao-remoto-empresa-confidencial-1132564",
-            "date": 1780132079
-        },
-        {
-            "title": "Recepcionista",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recepcionista-bairesdev-1132562",
-            "date": 1780131866
-        },
-        {
-            "title": "Est\u00c3\u00a1gio em Desenvolvimento Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-estagio-em-desenvolvimento-remoto-atlantico-1132561",
-            "date": 1780131720
-        },
-        {
-            "title": "Ejecutivo comercial Industria de alimentos",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ejecutivo-comercial-industria-de-alimentos-universia-peru-1132563",
-            "date": 1780125527
-        },
-        {
-            "title": "Virtual Assistant PH",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-ph-core-code-io-1132581",
-            "date": 1780123789
-        },
-        {
-            "title": "Data Entry JO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-jo-core-code-io-1132584",
-            "date": 1780123789
-        },
-        {
-            "title": "Bookkeeper LB",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-lb-core-code-io-1132612",
-            "date": 1780123786
-        },
-        {
-            "title": "Data Entry PH",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-ph-core-code-io-1132579",
-            "date": 1780123778
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
