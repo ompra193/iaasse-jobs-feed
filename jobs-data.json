@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-03 22:18:19",
-    "total_jobs": 103,
+    "generated_at": "2026-06-04 02:25:07",
+    "total_jobs": 104,
     "jobs": [
+        {
+            "title": "Merchandising Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-merchandising-representative-celsius-1132734",
+            "date": 1780450622
+        },
+        {
+            "title": "Employee Drivers",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-employee-drivers-jet-delivery-inc-1132759",
+            "date": 1780448373
+        },
+        {
+            "title": "Gerente De Cuentas Madrid Espa\u00c3\u00b1a ; Andaluc\u00c3\u00ada Espa\u00c3\u00b1a; Valenci ..",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-gerente-de-cuentas-madrid-espana-andalucia-espana-valenci-sixtema-1132754",
+            "date": 1780443706
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-albo-1132744",
+            "date": 1780442499
+        },
+        {
+            "title": "Analista administrativo a del \u00c3\u00a1rea comercial",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analista-administrativo-a-del-area-comercial-universia-colombia-1132722",
+            "date": 1780440609
+        },
         {
             "title": "CAMAREIRA",
             "company": "RemoteOK",
@@ -537,6 +592,19 @@
             "date": 1780321858
         },
         {
+            "title": "Junior HR Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-hr-partner-employment-hero-1132779",
+            "date": 1780312309
+        },
+        {
             "title": "Submit Your Resume",
             "company": "RemoteOK",
             "company_logo": null,
@@ -682,6 +750,17 @@
             "date": 1780231387
         },
         {
+            "title": "Onboarding Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-onboarding-specialist-bite-1132778",
+            "date": 1780225038
+        },
+        {
             "title": "Ejecutivo de Partners y Franquicias",
             "company": "RemoteOK",
             "company_logo": null,
@@ -816,77 +895,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
             "date": 1780171660
-        },
-        {
-            "title": "Attraction Instructor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-attraction-instructor-royal-caribbean-international-1132693",
-            "date": 1780165609
-        },
-        {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-experian-1132592",
-            "date": 1780164109
-        },
-        {
-            "title": "Technical support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-litepos-1132578",
-            "date": 1780151186
-        },
-        {
-            "title": "Online Data Entry Operator Data Entry Typing Data Entry Clerk Data Entry",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-typing-data-entry-clerk-data-entry-impact-hr-amp-km-solutions-1132721",
-            "date": 1780149648
-        },
-        {
-            "title": "Entry Level Junior Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-junior-trader-infiniti-group-1132574",
-            "date": 1780149013
-        },
-        {
-            "title": "EJECUTIVA DE VENTAS REMOTO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ejecutiva-de-ventas-remoto-universia-peru-1132623",
-            "date": 1780147126
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
