@@ -1,8 +1,104 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-04 15:25:05",
-    "total_jobs": 96,
+    "generated_at": "2026-06-04 20:43:53",
+    "total_jobs": 104,
     "jobs": [
+        {
+            "title": "Vice President of Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-operations-specialty1-partners-1132775",
+            "date": 1780520406
+        },
+        {
+            "title": "Data Entry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-torentify-1132792",
+            "date": 1780519161
+        },
+        {
+            "title": "Editorial Production Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-editorial-production-assistant-missionstaff-1132773",
+            "date": 1780518176
+        },
+        {
+            "title": "Accounting Staff Position",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-accounting-staff-position-bicarakan-id-psychologist-consultation-platform-1132799",
+            "date": 1780517994
+        },
+        {
+            "title": "Data &amp; Administrative Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-amp-administrative-coordinator-patco-brands-1132777",
+            "date": 1780517590
+        },
+        {
+            "title": "Social and Content Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-and-content-lead-newhouse-1132767",
+            "date": 1780514108
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-trivium-group-1132766",
+            "date": 1780513675
+        },
+        {
+            "title": "Junior Illustrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-illustrator-twine-1132762",
+            "date": 1780506117
+        },
         {
             "title": "Molecular Biology Scientist",
             "company": "RemoteOK",
