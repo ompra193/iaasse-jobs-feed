@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-04 09:29:52",
-    "total_jobs": 95,
+    "generated_at": "2026-06-04 15:25:05",
+    "total_jobs": 96,
     "jobs": [
+        {
+            "title": "Molecular Biology Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-molecular-biology-scientist-stem-sync-ai-1132760",
+            "date": 1780499107
+        },
+        {
+            "title": "Case Coordinator Family Supports",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-case-coordinator-family-supports-von-canada-ontario-1132758",
+            "date": 1780495206
+        },
+        {
+            "title": "Clinical Research Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-research-scientist-stem-sync-ai-1132747",
+            "date": 1780491728
+        },
+        {
+            "title": "Community Kids Thornton",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-community-kids-thornton-bendigo-advertiser-1132768",
+            "date": 1780487581
+        },
+        {
+            "title": "Customer Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytics-hires-1132765",
+            "date": 1780485187
+        },
         {
             "title": "Team Member Positions Taco Bell Butler",
             "company": "RemoteOK",
@@ -155,6 +210,17 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-key-account-executive-unilever-1132735",
+            "date": 1780436681
+        },
+        {
+            "title": "Territory Sales Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1132810",
             "date": 1780436681
         },
         {
@@ -359,6 +425,19 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-bravas-1132731",
+            "date": 1780380000
+        },
+        {
+            "title": "Fresh Graduate Management Trainee Accounting Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fresh-graduate-management-trainee-accounting-associate-deliveree-on-demand-logistics-southeast-asia-1132811",
             "date": 1780380000
         },
         {
@@ -726,72 +805,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
             "date": 1780240035
-        },
-        {
-            "title": "Onboarding Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-onboarding-specialist-bite-1132778",
-            "date": 1780225038
-        },
-        {
-            "title": "Ejecutivo de Partners y Franquicias",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ejecutivo-de-partners-y-franquicias-zenvia-1132624",
-            "date": 1780221983
-        },
-        {
-            "title": "Equity Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-equity-partner-onside-capital-1132630",
-            "date": 1780218504
-        },
-        {
-            "title": "Skilled Baker",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-skilled-baker-british-baker-1132625",
-            "date": 1780217584
-        },
-        {
-            "title": "Vice President Sales &amp; Business Development",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-sales-amp-business-development-zeta-1132616",
-            "date": 1780207203
-        },
-        {
-            "title": "Content Tagger",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-tagger-rgampt-solutions-1132629",
-            "date": 1780206426
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
