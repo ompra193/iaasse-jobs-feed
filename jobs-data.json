@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-04 02:25:07",
-    "total_jobs": 104,
+    "generated_at": "2026-06-04 09:29:52",
+    "total_jobs": 95,
     "jobs": [
+        {
+            "title": "Team Member Positions Taco Bell Butler",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-team-member-positions-taco-bell-butler-taco-bell-australia-1132772",
+            "date": 1780476986
+        },
+        {
+            "title": "Assistente de Recursos Humanos Trabalho Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-recursos-humanos-trabalho-remoto-bairesdev-1132740",
+            "date": 1780470481
+        },
+        {
+            "title": "CLT Produ\u00c3\u00a7\u00c3\u00a3o Art\u00c3\u00adstico Editorial Narratrix Brasil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clt-producao-artistico-editorial-narratrix-brasil-portal-vagas-terceiro-setor-1132736",
+            "date": 1780460119
+        },
+        {
+            "title": "English Subtitle Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-english-subtitle-specialist-mrbeast-1132726",
+            "date": 1780459002
+        },
         {
             "title": "Merchandising Representative",
             "company": "RemoteOK",
@@ -195,17 +239,6 @@
             "date": 1780417853
         },
         {
-            "title": "Editora de Video Jr Mid Contenido Digital",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-editora-de-video-jr-mid-contenido-digital-universia-mexico-1132702",
-            "date": 1780404184
-        },
-        {
             "title": "XML DCA",
             "company": "RemoteOK",
             "company_logo": null,
@@ -294,17 +327,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-analista-de-service-desk-revvo-1132705",
             "date": 1780383101
-        },
-        {
-            "title": "Auxiliar de N\u00c3\u00b3minas y Administraci\u00c3\u00b3n",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-nominas-y-administracion-universia-mexico-1132703",
-            "date": 1780382583
         },
         {
             "title": "Digital Account Manager",
@@ -651,17 +673,6 @@
             "date": 1780290054
         },
         {
-            "title": "Auxiliar de Oficina General Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-oficina-general-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132649",
-            "date": 1780274594
-        },
-        {
             "title": "Especialista En Marketing Digital Y Gesti\u00c3\u00b3n De Contenidos",
             "company": "RemoteOK",
             "company_logo": null,
@@ -715,39 +726,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
             "date": 1780240035
-        },
-        {
-            "title": "Asistente Virtual de Recursos Humanos Contrataci\u00c3\u00b3n Inmediata",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-de-recursos-humanos-contratacion-inmediata-universia-mexico-1132634",
-            "date": 1780231390
-        },
-        {
-            "title": "Asistente Virtual de Recursos Humanos Modalidad Remota o H\u00c3\u00adbrida Contrataci\u00c3\u00b3n Inmediata",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-virtual-de-recursos-humanos-modalidad-remota-o-hibrida-contratacion-inmediata-universia-mexico-1132638",
-            "date": 1780231390
-        },
-        {
-            "title": "Asistente Legal Corporativo y de Recursos Humanos",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-legal-corporativo-y-de-recursos-humanos-universia-mexico-1132642",
-            "date": 1780231387
         },
         {
             "title": "Onboarding Specialist",
@@ -814,87 +792,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-content-tagger-rgampt-solutions-1132629",
             "date": 1780206426
-        },
-        {
-            "title": "Customer Service Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-assistant-remoteva-1132613",
-            "date": 1780196497
-        },
-        {
-            "title": "Cleaner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cleaner-booker-1132626",
-            "date": 1780185656
-        },
-        {
-            "title": "Abogada",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-abogada-grafton-1132751",
-            "date": 1780184500
-        },
-        {
-            "title": "Human Resources Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-peace-through-trade-ptt-coin-layer-1-pow-blockchain-1132615",
-            "date": 1780184299
-        },
-        {
-            "title": "Senior Assistant ARFF",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-assistant-arff-adani-ports-and-sez-1132650",
-            "date": 1780178850
-        },
-        {
-            "title": "HOH TEAM MEMBER",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hoh-team-member-buffalo-wild-wings-fralich-inc-1132617",
-            "date": 1780178690
-        },
-        {
-            "title": "Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-bored-panda-1132594",
-            "date": 1780171660
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
