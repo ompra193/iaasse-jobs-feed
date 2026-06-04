@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-04 20:43:53",
-    "total_jobs": 104,
+    "generated_at": "2026-06-05 01:35:22",
+    "total_jobs": 102,
     "jobs": [
+        {
+            "title": "Technical Writer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-writer-nabu-casa-1132782",
+            "date": 1780538140
+        },
+        {
+            "title": "Consultor de Cultura Organizacional",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-consultor-de-cultura-organizacional-azurian-1132794",
+            "date": 1780538061
+        },
+        {
+            "title": "Product Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-nevis-1132791",
+            "date": 1780538053
+        },
+        {
+            "title": "Asset Protection Specialist Vancouver Terminal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asset-protection-specialist-vancouver-terminal-the-home-depot-canada-1132806",
+            "date": 1780535022
+        },
+        {
+            "title": "Social Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-crowned-skin-1132790",
+            "date": 1780534716
+        },
         {
             "title": "Vice President of Operations",
             "company": "RemoteOK",
@@ -11,8 +66,79 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-operations-specialty1-partners-1132775",
-            "date": 1780520406
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-operations-specialty1-partners-1132824",
+            "date": 1780532977
+        },
+        {
+            "title": "Supply Chain Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-data-analyst-nestle-health-science-1132785",
+            "date": 1780529279
+        },
+        {
+            "title": "Molecular Biologist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-molecular-biologist-stem-sync-ai-1132774",
+            "date": 1780527828
+        },
+        {
+            "title": "Support Analyst I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-support-analyst-i-netrix-global-1132812",
+            "date": 1780525437
+        },
+        {
+            "title": "Executive Assistant CEO of Hospitality Company",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-ceo-of-hospitality-company-lambent-1132787",
+            "date": 1780525025
+        },
+        {
+            "title": "Education Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-education-specialist-innergy-1132776",
+            "date": 1780522737
+        },
+        {
+            "title": "HEAD BUILDER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-builder-muncaster-castle-amp-pennington-hotels-group-1132771",
+            "date": 1780522000
         },
         {
             "title": "Data Entry",
@@ -756,151 +882,15 @@
             "date": 1780330835
         },
         {
-            "title": "Expert Retoucher Renderer 210501",
-            "company": "RemoteOK",
+            "title": "Flosum: Senior Product Manager, Salesforce Platform",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-expert-retoucher-renderer-210501-aquent-1132663",
-            "date": 1780326164
-        },
-        {
-            "title": "Senior Software Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-atom-computing-1132662",
-            "date": 1780322402
-        },
-        {
-            "title": "Mindset and Wellbeing Facilitator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mindset-and-wellbeing-facilitator-creating-brighter-futures-1132764",
-            "date": 1780321858
-        },
-        {
-            "title": "Junior HR Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-hr-partner-employment-hero-1132779",
-            "date": 1780312309
-        },
-        {
-            "title": "Submit Your Resume",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-submit-your-resume-nelson-motors-and-equipment-1132656",
-            "date": 1780292430
-        },
-        {
-            "title": "Futuros Profesionales Trainee Automatizaci\u00c3\u00b3n de Procesos",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-futuros-profesionales-trainee-automatizacion-de-procesos-universia-argentina-1132661",
-            "date": 1780292199
-        },
-        {
-            "title": "Team Member",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-team-member-leicester-arms-1132669",
-            "date": 1780290794
-        },
-        {
-            "title": "Junior Brand Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-brand-designer-twine-1132655",
-            "date": 1780290054
-        },
-        {
-            "title": "Especialista En Marketing Digital Y Gesti\u00c3\u00b3n De Contenidos",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-especialista-en-marketing-digital-y-gestion-de-contenidos-canarias-com-1132665",
-            "date": 1780270918
-        },
-        {
-            "title": "\u00c2\u00bfQuer\u00c3\u00a9s sumarte a liderar cripto en LATAM Dejanos tu perfil \u00f0\u009f\u009a",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1780255373
-        },
-        {
-            "title": "Projectpedia Team Member",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-projectpedia-team-member-projectpedia-official-page-1132651",
-            "date": 1780253775
-        },
-        {
-            "title": "Estimator II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-estimator-ii-honeywell-1132652",
-            "date": 1780250570
-        },
-        {
-            "title": "Social Media Moderator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-moderator-remoteva-1132633",
-            "date": 1780240035
+            "link": "https://weworkremotely.com/remote-jobs/flosum-senior-product-manager-salesforce-platform",
+            "date": 1778963554
         },
         {
             "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
@@ -1145,17 +1135,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
             "date": 1762937762
-        },
-        {
-            "title": "Speechify Inc: Software Engineer, iOS Core Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-software-engineer-ios-core-product",
-            "date": 1752075311
         },
         {
             "title": "Mobena: Frontend Engineer",
