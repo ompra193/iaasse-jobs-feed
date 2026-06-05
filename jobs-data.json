@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-05 09:13:27",
-    "total_jobs": 99,
+    "generated_at": "2026-06-05 15:19:56",
+    "total_jobs": 100,
     "jobs": [
+        {
+            "title": "Venture Lending Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-venture-lending-associate-banco-covalto-1132815",
+            "date": 1780581612
+        },
+        {
+            "title": "Art Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-art-director-maker-lab-1132814",
+            "date": 1780581602
+        },
+        {
+            "title": "Mid weight Freelance Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mid-weight-freelance-graphic-designer-seamer-design-1132845",
+            "date": 1780576302
+        },
+        {
+            "title": "Architectural Drafter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-remoteva-1132809",
+            "date": 1780571700
+        },
         {
             "title": "Multiple",
             "company": "RemoteOK",
@@ -24,6 +68,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-nabu-casa-1132802",
             "date": 1780559738
+        },
+        {
+            "title": "Online Yoga Instructor Flexible Role \u00c2\u00a320 \u00c2\u00a340 hr",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-yoga-instructor-flexible-role-20-40-hr-findtutors-1132847",
+            "date": 1780558554
         },
         {
             "title": "Asset Protection Specialist",
@@ -134,6 +191,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-product-designer-nevis-1132791",
             "date": 1780538053
+        },
+        {
+            "title": "House Person",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-house-person-fairmont-hotels-amp-resorts-1132868",
+            "date": 1780537494
         },
         {
             "title": "Asset Protection Specialist Vancouver Terminal",
@@ -470,6 +538,17 @@
             "date": 1780442499
         },
         {
+            "title": "Junior Business Developer Bangalore F M X",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-business-developer-bangalore-f-m-x-littlebig-connection-1132871",
+            "date": 1780441950
+        },
+        {
             "title": "Analista administrativo a del \u00c3\u00a1rea comercial",
             "company": "RemoteOK",
             "company_logo": null,
@@ -775,74 +854,41 @@
             "date": 1780380000
         },
         {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
+            "title": "Mitek Systems: Product Owner - Machine Learning",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mitek-systems-product-owner-machine-learning",
+            "date": 1779136260
+        },
+        {
+            "title": "FairGambling: Blockchain Engineer & Researcher",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132684",
-            "date": 1780379351
+            "link": "https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher",
+            "date": 1779106553
         },
         {
-            "title": "Test Job",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-job-haufe-group-1132690",
-            "date": 1780375175
-        },
-        {
-            "title": "Vice President People Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-people-operations-kipp-foundation-1132682",
-            "date": 1780374580
-        },
-        {
-            "title": "Digital Communications Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-communications-officer-nhs-scotland-1132741",
-            "date": 1780373460
-        },
-        {
-            "title": "Key Account Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-key-account-manager-loca-loka-tequila-1132683",
-            "date": 1780373190
-        },
-        {
-            "title": "SU Admin Assistant",
-            "company": "RemoteOK",
+            "title": "Chief Rebel: Full Stack Engineer (AI-Forward)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "assistant"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-su-admin-assistant-somewhere-1132679",
-            "date": 1780373029
+            "link": "https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward",
+            "date": 1779098470
         },
         {
             "title": "Oowlish Technology: Product Manager  Growth Focused",
@@ -924,19 +970,6 @@
             "date": 1778963509
         },
         {
-            "title": "Vanta: Staff Product Designer, AI Powered Workflows",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vanta-staff-product-designer-ai-powered-workflows",
-            "date": 1778963501
-        },
-        {
             "title": "Activate Talent: Mobile App Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1001,17 +1034,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/united-tech-product-manager",
             "date": 1778963461
-        },
-        {
-            "title": "Instacart: Principal Product Manager, Agentic Commerce",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/instacart-principal-product-manager-agentic-commerce",
-            "date": 1778877098
         },
         {
             "title": "Composio: Member of Technical Staff - Product Eng",
@@ -1085,17 +1107,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/praia-health-inc-staff-software-engineer-data-infrastructure",
             "date": 1778108950
-        },
-        {
-            "title": "CodeSignal: Software Engineer, Business Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/codesignal-software-engineer-business-experience-1",
-            "date": 1762937762
         },
         {
             "title": "Mobena: Frontend Engineer",
