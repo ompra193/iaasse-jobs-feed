@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-06 14:02:54",
-    "total_jobs": 101,
+    "generated_at": "2026-06-06 19:12:24",
+    "total_jobs": 102,
     "jobs": [
+        {
+            "title": "Coordinador de Relaciones Institucionales Educaci\u00c3\u00b3n Superior",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-coordinador-de-relaciones-institucionales-educacion-superior-eadic-1132882",
+            "date": 1780687425
+        },
+        {
+            "title": "Handy Person",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-handy-person-hawaiian-1132933",
+            "date": 1780686041
+        },
+        {
+            "title": "TEAM MEMBER COLD END",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-team-member-cold-end-saint-gobain-group-in-india-1132910",
+            "date": 1780684622
+        },
+        {
+            "title": "Team Member Special Assignment",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1132936",
+            "date": 1780678413
+        },
+        {
+            "title": "Administrative Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-coordinator-uppalcorp-1132901",
+            "date": 1780674639
+        },
+        {
+            "title": "Freelance UGC Creators Wanted",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-ugc-creators-wanted-react-1132875",
+            "date": 1780670314
+        },
         {
             "title": "General Practitioner Telehealth Case Conferencing Clinic",
             "company": "RemoteOK",
@@ -176,6 +242,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-docentes-de-licenciatura-online-uane-lottus-education-1132865",
             "date": 1780643047
+        },
+        {
+            "title": "Architectural Drafter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-archinect-1132946",
+            "date": 1780639200
         },
         {
             "title": "Data Entry",
@@ -549,17 +626,6 @@
             "date": 1780576302
         },
         {
-            "title": "Architectural Drafter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-remoteva-1132809",
-            "date": 1780571700
-        },
-        {
             "title": "Multiple",
             "company": "RemoteOK",
             "company_logo": null,
@@ -807,65 +873,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-operations-staff-blue-dart-1132912",
             "date": 1780525754
-        },
-        {
-            "title": "Support Analyst I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-support-analyst-i-netrix-global-1132812",
-            "date": 1780525437
-        },
-        {
-            "title": "Executive Assistant CEO of Hospitality Company",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-ceo-of-hospitality-company-lambent-1132787",
-            "date": 1780525025
-        },
-        {
-            "title": "Education Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-education-specialist-innergy-1132776",
-            "date": 1780522737
-        },
-        {
-            "title": "HEAD BUILDER",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-head-builder-muncaster-castle-amp-pennington-hotels-group-1132771",
-            "date": 1780522000
-        },
-        {
-            "title": "Editorial Production Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-editorial-production-assistant-missionstaff-1132773",
-            "date": 1780518176
         },
         {
             "title": "Bazaarvoice: Product Marketing Manager",
