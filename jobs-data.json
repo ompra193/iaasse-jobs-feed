@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-07 09:25:11",
-    "total_jobs": 103,
+    "generated_at": "2026-06-07 14:25:37",
+    "total_jobs": 105,
     "jobs": [
+        {
+            "title": "Chief Operating Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-operating-officer-rose-klein-amp-marias-1132941",
+            "date": 1780753918
+        },
+        {
+            "title": "Don\u00e2\u0080\u0099t See a Perfect Role Apply Anyway",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dont-see-a-perfect-role-apply-anyway-reducto-1132975",
+            "date": 1780732646
+        },
+        {
+            "title": "FT PT Nanny",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ft-pt-nanny-jovie-1132976",
+            "date": 1780731718
+        },
         {
             "title": "Sourcing Specialist",
             "company": "RemoteOK",
@@ -263,6 +296,17 @@
             "date": 1780690952
         },
         {
+            "title": "Kitchen Steward",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-kitchen-steward-accor-1132974",
+            "date": 1780688231
+        },
+        {
             "title": "Coordinador de Relaciones Institucionales Educaci\u00c3\u00b3n Superior",
             "company": "RemoteOK",
             "company_logo": null,
@@ -373,6 +417,32 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-bendigo-advertiser-1132931",
             "date": 1780660390
+        },
+        {
+            "title": "Data Entry Specialist \u00e2\u0080\u0094 Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-entry-level-bendigo-advertiser-1132971",
+            "date": 1780660383
+        },
+        {
+            "title": "Admin Assistant Entry Level Flexible Hours",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-admin-assistant-entry-level-flexible-hours-bendigo-advertiser-1132972",
+            "date": 1780660381
         },
         {
             "title": "Onboarding Specialist",
@@ -837,50 +907,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-online-trading-support-rhb-banking-group-1132891",
             "date": 1780577381
-        },
-        {
-            "title": "Driving Examiner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-driving-examiner-department-of-customer-services-open-data-and-small-and-family-business-1132874",
-            "date": 1780576901
-        },
-        {
-            "title": "Mid weight Freelance Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mid-weight-freelance-graphic-designer-seamer-design-1132845",
-            "date": 1780576302
-        },
-        {
-            "title": "Multiple",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-multiple-eastern-airlines-llc-1132813",
-            "date": 1780561743
-        },
-        {
-            "title": "Digital Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-nabu-casa-1132802",
-            "date": 1780559738
         },
         {
             "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
