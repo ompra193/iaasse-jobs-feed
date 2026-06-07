@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-07 19:21:56",
+    "generated_at": "2026-06-08 00:51:33",
     "total_jobs": 104,
     "jobs": [
+        {
+            "title": "Inpatient Claims Processor I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-inpatient-claims-processor-i-moda-health-1132979",
+            "date": 1780795185
+        },
+        {
+            "title": "Administrative Coordinator US",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-coordinator-us-amgen-1132956",
+            "date": 1780787033
+        },
+        {
+            "title": "Coach Psicologo Online",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-coach-psicologo-online-serenis-1132955",
+            "date": 1780783314
+        },
         {
             "title": "Atenci\u00c3\u00b3n al cliente",
             "company": "RemoteOK",
@@ -156,6 +191,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-vice-president-people-kipp-foundation-1132957",
             "date": 1780720178
+        },
+        {
+            "title": "Associate Delivery Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-delivery-manager-nymbus-1132993",
+            "date": 1780718701
         },
         {
             "title": "Executive Assistant",
@@ -437,6 +483,28 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-general-practitioner-telehealth-case-conferencing-clinic-proactive-health-1132867",
             "date": 1780668009
+        },
+        {
+            "title": "Vendedor Externo Ipojuca Vagas em Aberto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vendedor-externo-ipojuca-vagas-em-aberto-dtel-telecom-1132992",
+            "date": 1780667518
+        },
+        {
+            "title": "Assistente de Log\u00c3\u00adstica Saquarema Rj Saquarema Quadro de Vagas",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-logistica-saquarema-rj-saquarema-quadro-de-vagas-parceiro-spot-1132991",
+            "date": 1780667160
         },
         {
             "title": "Test",
@@ -828,74 +896,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-chief-administrative-officer-thehivecareers-1132880",
             "date": 1780604619
-        },
-        {
-            "title": "Marine Interdiction Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marine-interdiction-agent-u-s-customs-and-border-protection-1132869",
-            "date": 1780603546
-        },
-        {
-            "title": "Operations Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-executive-herald-exchange-1132894",
-            "date": 1780601785
-        },
-        {
-            "title": "Analista de Atendimento J\u00c3\u00banior",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-junior-nstech-1132822",
-            "date": 1780600044
-        },
-        {
-            "title": "Asesor de Atenci\u00c3\u00b3n al Cliente \u00c2\u00a1CON O SIN Experiencia",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-con-o-sin-experiencia-partner-service-1132866",
-            "date": 1780599872
-        },
-        {
-            "title": "Relationship Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-relationship-manager-petpooja-1132982",
-            "date": 1780597985
-        },
-        {
-            "title": "Streaming Media Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-streaming-media-assistant-the-walt-disney-company-1132857",
-            "date": 1780595017
         },
         {
             "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
