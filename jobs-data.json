@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-07 14:25:37",
-    "total_jobs": 105,
+    "generated_at": "2026-06-07 19:21:56",
+    "total_jobs": 104,
     "jobs": [
+        {
+            "title": "Atenci\u00c3\u00b3n al cliente",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-atencion-al-cliente-singularu-1132966",
+            "date": 1780773744
+        },
+        {
+            "title": "Social Media Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-fuseglobal-1132948",
+            "date": 1780773057
+        },
+        {
+            "title": "Behavioral Health Care Coordinator Scheduler",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-behavioral-health-care-coordinator-scheduler-ennoble-care-1132947",
+            "date": 1780772912
+        },
+        {
+            "title": "Chief Financial Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-thisway-global-1132945",
+            "date": 1780772575
+        },
+        {
+            "title": "Operations staff",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-staff-blue-dart-1132949",
+            "date": 1780763339
+        },
         {
             "title": "Chief Operating Officer",
             "company": "RemoteOK",
@@ -819,6 +874,17 @@
             "date": 1780599872
         },
         {
+            "title": "Relationship Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-relationship-manager-petpooja-1132982",
+            "date": 1780597985
+        },
+        {
             "title": "Streaming Media Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -830,83 +896,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-streaming-media-assistant-the-walt-disney-company-1132857",
             "date": 1780595017
-        },
-        {
-            "title": "Military and Veterans",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-military-and-veterans-orano-1132842",
-            "date": 1780594154
-        },
-        {
-            "title": "Relationship Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-relationship-manager-the-chopras-1132915",
-            "date": 1780592170
-        },
-        {
-            "title": "Courier",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-courier-fedex-australia-1132873",
-            "date": 1780585690
-        },
-        {
-            "title": "JDE CNC",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-jde-cnc-ltm-1132913",
-            "date": 1780584925
-        },
-        {
-            "title": "Venture Lending Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-venture-lending-associate-banco-covalto-1132815",
-            "date": 1780581612
-        },
-        {
-            "title": "Art Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-art-director-maker-lab-1132814",
-            "date": 1780581602
-        },
-        {
-            "title": "Online Trading Support",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-online-trading-support-rhb-banking-group-1132891",
-            "date": 1780577381
         },
         {
             "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
