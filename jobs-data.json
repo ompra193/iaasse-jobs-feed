@@ -1,8 +1,79 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-08 16:24:20",
-    "total_jobs": 107,
+    "generated_at": "2026-06-08 21:21:43",
+    "total_jobs": 106,
     "jobs": [
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-hired-1132989",
+            "date": 1780866044
+        },
+        {
+            "title": "Junior Human Resources Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-executive-brezq-1132988",
+            "date": 1780862618
+        },
+        {
+            "title": "Auxiliar Administrativo Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1133000",
+            "date": 1780853309
+        },
+        {
+            "title": "Assistente Administrativo Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1133002",
+            "date": 1780853309
+        },
+        {
+            "title": "Profesor a de Dibujo Modalidad Remota",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-dibujo-modalidad-remota-tus-media-1132987",
+            "date": 1780852038
+        },
+        {
+            "title": "Online Data Entry Operator Data Entry Clerk Data Entry Typing Data Entry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-data-entry-operator-data-entry-clerk-data-entry-typing-data-entry-impact-hr-amp-km-solutions-1133017",
+            "date": 1780850895
+        },
         {
             "title": "Event Director",
             "company": "RemoteOK",
@@ -362,19 +433,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-awisee-1132902",
             "date": 1780718485
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-stior-1132903",
-            "date": 1780713406
         },
         {
             "title": "Builder Chief",
@@ -863,72 +921,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-learning-amp-development-specialist-nestle-health-science-1132856",
             "date": 1780637341
-        },
-        {
-            "title": "Influencer Marketing Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-influencer-marketing-coordinator-newhouse-1132840",
-            "date": 1780636186
-        },
-        {
-            "title": "Asst Depot Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asst-depot-manager-unilever-1132870",
-            "date": 1780631056
-        },
-        {
-            "title": "Merchandising Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-merchandising-representative-celsius-1132860",
-            "date": 1780623796
-        },
-        {
-            "title": "Paralegal",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-injective-1132859",
-            "date": 1780623204
-        },
-        {
-            "title": "Chief Executive Officer The Dollar Foundation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-executive-officer-the-dollar-foundation-coinme-1132852",
-            "date": 1780621197
-        },
-        {
-            "title": "Test Account",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-account-bot-consulting-1132911",
-            "date": 1780619400
         },
         {
             "title": "Nomad: Senior Software Engineer II",
