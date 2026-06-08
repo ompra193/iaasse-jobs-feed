@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-08 09:29:58",
+    "generated_at": "2026-06-08 16:24:20",
     "total_jobs": 107,
     "jobs": [
+        {
+            "title": "Event Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-event-director-anheuser-busch-1132980",
+            "date": 1780841195
+        },
+        {
+            "title": "Human Resources Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-representative-ross-stores-inc-1132977",
+            "date": 1780840899
+        },
+        {
+            "title": "VC Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vc-associate-toyota-research-institute-1132978",
+            "date": 1780827103
+        },
         {
             "title": "Graphic Narrator",
             "company": "RemoteOK",
@@ -656,19 +689,6 @@
             "date": 1780660390
         },
         {
-            "title": "Data Entry Specialist \u00e2\u0080\u0094 Entry Level",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-entry-level-bendigo-advertiser-1132971",
-            "date": 1780660383
-        },
-        {
             "title": "Admin Assistant Entry Level Flexible Hours",
             "company": "RemoteOK",
             "company_logo": null,
@@ -911,26 +931,15 @@
             "date": 1780619400
         },
         {
-            "title": "Junior Digital Designer",
-            "company": "RemoteOK",
+            "title": "Nomad: Senior Software Engineer II",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-digital-designer-the-big-table-group-1132848",
-            "date": 1780617009
-        },
-        {
-            "title": "National Manager A&amp;D &amp; Commercial Sales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-national-manager-aampd-amp-commercial-sales-caesarstone-ltd-corporate-1132854",
-            "date": 1780616984
+            "link": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
+            "date": 1779205554
         },
         {
             "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
@@ -1082,17 +1091,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/vanta-senior-product-designer-ai-platform",
             "date": 1778963509
-        },
-        {
-            "title": "Activate Talent: Mobile App Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/activate-talent-mobile-app-product-manager",
-            "date": 1778963501
         },
         {
             "title": "Mind Friend Pro: Website Admin / Design INTERNSHIP",
