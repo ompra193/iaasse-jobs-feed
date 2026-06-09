@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-09 15:12:39",
-    "total_jobs": 94,
+    "generated_at": "2026-06-09 20:20:15",
+    "total_jobs": 97,
     "jobs": [
+        {
+            "title": "Est\u00c3\u00a1gio de Preven\u00c3\u00a7\u00c3\u00a3o a Fraudes",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-estagio-de-prevencao-a-fraudes-meliuz-1133021",
+            "date": 1780949123
+        },
+        {
+            "title": "Assistente Jur\u00c3\u00addico",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-juridico-meliuz-1133019",
+            "date": 1780948922
+        },
+        {
+            "title": "Functional Assessor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-functional-assessor-pfas-personal-functional-assessment-services-1133049",
+            "date": 1780946454
+        },
+        {
+            "title": "Charg\u00c3\u00a9.e de formation H F",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-charge-e-de-formation-h-f-groupe-sos-solidarites-1133047",
+            "date": 1780944170
+        },
+        {
+            "title": "Architectural Drafter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-remoteva-1133016",
+            "date": 1780938597
+        },
+        {
+            "title": "Legal Document Drafting Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-legal-document-drafting-virtual-assistant-outsource-access-careers-1133014",
+            "date": 1780938153
+        },
         {
             "title": "Technical Product Manager",
             "company": "RemoteOK",
@@ -59,6 +127,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-regional-managing-director-canada-little-caesars-pizza-1133042",
             "date": 1780910974
+        },
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlyticx-hires-1133076",
+            "date": 1780910048
         },
         {
             "title": "Judicial Law Clerk",
@@ -739,50 +820,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-freelance-introducer-bonkk-1132923",
             "date": 1780690952
-        },
-        {
-            "title": "Kitchen Steward",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-kitchen-steward-accor-1132974",
-            "date": 1780688231
-        },
-        {
-            "title": "Coordinador de Relaciones Institucionales Educaci\u00c3\u00b3n Superior",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-coordinador-de-relaciones-institucionales-educacion-superior-eadic-1132882",
-            "date": 1780687425
-        },
-        {
-            "title": "Handy Person",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-handy-person-hawaiian-1132933",
-            "date": 1780686041
-        },
-        {
-            "title": "TEAM MEMBER COLD END",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-team-member-cold-end-saint-gobain-group-in-india-1132910",
-            "date": 1780684622
         },
         {
             "title": "Nomad: Senior Software Engineer II",
