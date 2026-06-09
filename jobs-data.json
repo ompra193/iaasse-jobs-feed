@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-09 01:44:53",
-    "total_jobs": 106,
+    "generated_at": "2026-06-09 09:00:05",
+    "total_jobs": 107,
     "jobs": [
+        {
+            "title": "Regional Managing Director Canada",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-managing-director-canada-little-caesars-pizza-1133042",
+            "date": 1780910974
+        },
+        {
+            "title": "Judicial Law Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-judicial-law-clerk-legaltrustai-1133008",
+            "date": 1780902419
+        },
+        {
+            "title": "Driving Examiner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-driving-examiner-department-of-customer-services-open-data-and-small-and-family-business-1133009",
+            "date": 1780900889
+        },
+        {
+            "title": "Farmer REMOTO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-farmer-remoto-advbox-1133027",
+            "date": 1780898400
+        },
+        {
+            "title": "Studio Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-studio-coordinator-rockhunter-1132998",
+            "date": 1780891592
+        },
         {
             "title": "Medical Claims Processor I",
             "company": "RemoteOK",
@@ -878,52 +935,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-associate-buyers-blueprint-1132872",
             "date": 1780653677
-        },
-        {
-            "title": "Care Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-care-coordinator-sondermind-1132858",
-            "date": 1780646411
-        },
-        {
-            "title": "Docentes de licenciatura online UANE",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-docentes-de-licenciatura-online-uane-lottus-education-1132865",
-            "date": 1780643047
-        },
-        {
-            "title": "Architectural Drafter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-archinect-1132946",
-            "date": 1780639200
-        },
-        {
-            "title": "Data Entry",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-ryz-labs-1132864",
-            "date": 1780637990
         },
         {
             "title": "Nomad: Senior Software Engineer II",
