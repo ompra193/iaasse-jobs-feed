@@ -1,8 +1,155 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-09 20:20:15",
-    "total_jobs": 97,
+    "generated_at": "2026-06-10 01:36:33",
+    "total_jobs": 104,
     "jobs": [
+        {
+            "title": "Director of Total Rewards",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-total-rewards-skims-1133085",
+            "date": 1780970543
+        },
+        {
+            "title": "Chief Financial Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-infuse-1133033",
+            "date": 1780970092
+        },
+        {
+            "title": "Social Creative Lead Real Time &amp; Reactive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-creative-lead-real-time-amp-reactive-airbnb-1133091",
+            "date": 1780969801
+        },
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-fusemachines-1133041",
+            "date": 1780969370
+        },
+        {
+            "title": "Mortgage Processor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mortgage-processor-lbc-mortgage-1133070",
+            "date": 1780969310
+        },
+        {
+            "title": "Customs Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customs-agent-fedex-1133053",
+            "date": 1780964131
+        },
+        {
+            "title": "Auxiliar de Dados REMOTO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-dados-remoto-advbox-1133028",
+            "date": 1780959972
+        },
+        {
+            "title": "Public Area Attendant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1133054",
+            "date": 1780959247
+        },
+        {
+            "title": "General Expression of Interest",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-general-expression-of-interest-the-third-floor-inc-1133034",
+            "date": 1780956365
+        },
+        {
+            "title": "Staff Software Engineer Infrastructure",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-infrastructure-docker-1133025",
+            "date": 1780956003
+        },
+        {
+            "title": "Junior Market Specialist Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-market-specialist-analyst-shumba-1133023",
+            "date": 1780952582
+        },
+        {
+            "title": "Environmental Scientists",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-environmental-scientists-stem-sync-ai-1133022",
+            "date": 1780952510
+        },
+        {
+            "title": "BACK OF HOUSE",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-back-of-house-buffalo-wild-wings-fralich-inc-1133029",
+            "date": 1780952270
+        },
         {
             "title": "Est\u00c3\u00a1gio de Preven\u00c3\u00a7\u00c3\u00a3o a Fraudes",
             "company": "RemoteOK",
@@ -211,19 +358,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-medical-claims-processor-i-moda-health-1132995",
             "date": 1780881671
-        },
-        {
-            "title": "Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-hired-1132989",
-            "date": 1780866044
         },
         {
             "title": "Junior Human Resources Executive",
@@ -475,17 +609,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-behavioral-health-care-coordinator-scheduler-ennoble-care-1132947",
             "date": 1780772912
-        },
-        {
-            "title": "Chief Financial Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-thisway-global-1132945",
-            "date": 1780772575
         },
         {
             "title": "Operations staff",
@@ -776,50 +899,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sydney-trains-full-time-and-part-time-train-cleaning-attendant-newcastle-region-sydney-trains-1132934",
             "date": 1780699585
-        },
-        {
-            "title": "Freelance Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-powerlines-1132899",
-            "date": 1780698200
-        },
-        {
-            "title": "Executive Director K12 Academic Partnerships",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-director-k12-academic-partnerships-dreamscape-learn-1132896",
-            "date": 1780696966
-        },
-        {
-            "title": "Customer Service Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-specialist-albo-1132881",
-            "date": 1780693575
-        },
-        {
-            "title": "Freelance Introducer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-introducer-bonkk-1132923",
-            "date": 1780690952
         },
         {
             "title": "Nomad: Senior Software Engineer II",
