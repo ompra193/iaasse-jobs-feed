@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-12 09:27:18",
+    "generated_at": "2026-06-12 15:42:32",
     "total_jobs": 106,
     "jobs": [
+        {
+            "title": "Junior Web Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-infuse-1133315",
+            "date": 1781193203
+        },
+        {
+            "title": "Triage Paralegal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-triage-paralegal-general-legal-yc26-1133241",
+            "date": 1781183556
+        },
+        {
+            "title": "Virtual Data Entry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-sundayy-1133240",
+            "date": 1781183469
+        },
+        {
+            "title": "Learning Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-learning-project-manager-learnlight-1133233",
+            "date": 1781179857
+        },
+        {
+            "title": "E&C Estimator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ec-estimator-shermco-industries-1133230",
+            "date": 1781175919
+        },
         {
             "title": "Administrative Assistant",
             "company": "RemoteOK",
@@ -105,6 +162,17 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-service-desk-analyst-11am-8pm-slipstream-life-sciences-1133289",
+            "date": 1781157600
+        },
+        {
+            "title": "Photographer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-photographer-university-of-florida-1133334",
             "date": 1781157600
         },
         {
@@ -857,72 +925,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sse-dutch-technology-frontiers-bv-1133125",
             "date": 1781060725
-        },
-        {
-            "title": "Caretaker",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-caretaker-mears-group-plc-1133126",
-            "date": 1781059804
-        },
-        {
-            "title": "IMAGING CALL CENTER SCHEDULER",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-imaging-call-center-scheduler-home-health-focus-ai-1133102",
-            "date": 1781057123
-        },
-        {
-            "title": "Human Resources Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-sundayy-1133100",
-            "date": 1781057003
-        },
-        {
-            "title": "Public Health Communications Professional",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-public-health-communications-professional-curasenseai-1133099",
-            "date": 1781056969
-        },
-        {
-            "title": "Clinical Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-clinical-coordinator-enable-dental-1133105",
-            "date": 1781056659
-        },
-        {
-            "title": "Brand Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-canals-1133104",
-            "date": 1781056497
         },
         {
             "title": "ShiftForce LLC: Full-Stack Developer \u2014 .NET + React + Azure \u2014 Remote (US)",
