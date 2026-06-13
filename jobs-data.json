@@ -1,8 +1,105 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-13 19:29:12",
-    "total_jobs": 105,
+    "generated_at": "2026-06-14 00:54:51",
+    "total_jobs": 111,
     "jobs": [
+        {
+            "title": "Medical Claims Support I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-claims-support-i-moda-health-1133369",
+            "date": 1781313612
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-somewhere-1133350",
+            "date": 1781312611
+        },
+        {
+            "title": "\u00c3\u0089QUIPE\u00c2\u00a0MET",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-equipe-met-the-home-depot-canada-1133386",
+            "date": 1781312611
+        },
+        {
+            "title": "Social Media Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-the-sociable-society-1133362",
+            "date": 1781306739
+        },
+        {
+            "title": "Junior Human Resources Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-assistant-helic-co-1133345",
+            "date": 1781305659
+        },
+        {
+            "title": "Paralegal",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-obelisk-support-1133352",
+            "date": 1781300724
+        },
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-activtrak-1133346",
+            "date": 1781296463
+        },
+        {
+            "title": "Trade Marketing &amp; Brand Activation Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-trade-marketing-amp-brand-activation-manager-cloetta-1133344",
+            "date": 1781295692
+        },
         {
             "title": "Copywriting Lead Freelance",
             "company": "RemoteOK",
@@ -101,19 +198,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-drug-discovery-analyst-curasenseai-1133333",
             "date": 1781273164
-        },
-        {
-            "title": "Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-the-asher-house-1133331",
-            "date": 1781272822
         },
         {
             "title": "Trustee",
@@ -264,6 +348,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-especialista-de-soporte-service-desk-remoto-horario-rotativo-canvia-1133349",
             "date": 1781248088
+        },
+        {
+            "title": "ASSISTENTE DE LOGISTICA REMOTO RESIDIR EM FORTALEZA PARA TREINAMENTO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-logistica-remoto-residir-em-fortaleza-para-treinamento-agrovale-transportes-1133390",
+            "date": 1781247162
         },
         {
             "title": "Care Specialist",
@@ -801,17 +896,6 @@
             "date": 1781156198
         },
         {
-            "title": "Social Media Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-house-of-ruh-1133236",
-            "date": 1781155152
-        },
-        {
             "title": "Associate Brand Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -901,20 +985,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-supply-amp-logistics-coordinator-nabu-casa-1133208",
             "date": 1781143118
-        },
-        {
-            "title": "Data Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-technician-gritter-francona-1133194",
-            "date": 1781138735
         },
         {
             "title": "Luxury Presence: Staff Software Engineer - AI Website Builder - US (Remote)",
