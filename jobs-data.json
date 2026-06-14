@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-14 09:33:30",
-    "total_jobs": 109,
+    "generated_at": "2026-06-14 15:03:27",
+    "total_jobs": 110,
     "jobs": [
+        {
+            "title": "Various Positions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-various-positions-northern-news-services-1133385",
+            "date": 1781351651
+        },
+        {
+            "title": "Chat Suppore",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chat-suppore-onlinejobs-ph-1133367",
+            "date": 1781347859
+        },
         {
             "title": "Junior ML Engineer",
             "company": "RemoteOK",
@@ -952,18 +974,15 @@
             "date": 1781175919
         },
         {
-            "title": "Medical Virtual Assistant",
-            "company": "RemoteOK",
+            "title": "Vinta: Senior Product Manager - Remote - 13.5-18.3k CLT",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "assistant",
-                "medical"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-virtual-assistant-virtual-rockstar-careers-1133224",
-            "date": 1781168899
+            "link": "https://weworkremotely.com/remote-jobs/vinta-senior-product-manager-remote-13-5-18-3k-clt",
+            "date": 1779393784
         },
         {
             "title": "Luxury Presence: Staff Software Engineer - AI Website Builder - US (Remote)",
@@ -1218,19 +1237,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/composio-member-of-technical-staff-product-eng",
             "date": 1778877061
-        },
-        {
-            "title": "Lemon.io: Senior Full-stack Angular & PHP Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-full-stack-angular-php-developer",
-            "date": 1778830614
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
