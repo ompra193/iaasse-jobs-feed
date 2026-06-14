@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-14 19:31:50",
+    "generated_at": "2026-06-15 00:56:11",
     "total_jobs": 110,
     "jobs": [
+        {
+            "title": "Customer Service Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
+            "date": 1781367552
+        },
         {
             "title": "Various Positions",
             "company": "RemoteOK",
@@ -645,6 +656,17 @@
             "date": 1781234767
         },
         {
+            "title": "Sheriff\u00e2\u0080\u0099s Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sheriffs-officer-attorney-generals-department-1133408",
+            "date": 1781230160
+        },
+        {
             "title": "Learning &amp; Development Specialist",
             "company": "RemoteOK",
             "company_logo": null,
@@ -950,28 +972,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-sundayy-1133240",
             "date": 1781183469
-        },
-        {
-            "title": "Learning Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-learning-project-manager-learnlight-1133233",
-            "date": 1781179857
-        },
-        {
-            "title": "E&C Estimator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ec-estimator-shermco-industries-1133230",
-            "date": 1781175919
         },
         {
             "title": "Vinta: Senior Product Manager - Remote - 13.5-18.3k CLT",
