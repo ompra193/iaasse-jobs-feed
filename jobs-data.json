@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-15 09:46:17",
-    "total_jobs": 109,
+    "generated_at": "2026-06-15 17:42:41",
+    "total_jobs": 108,
     "jobs": [
+        {
+            "title": "Production Utility",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-production-utility-fxi-1133415",
+            "date": 1781456783
+        },
         {
             "title": "Medical Scribe Female Only",
             "company": "RemoteOK",
@@ -338,6 +349,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-trade-marketing-amp-brand-activation-manager-cloetta-1133344",
             "date": 1781295692
+        },
+        {
+            "title": "Head of B2B",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-b2b-hilo-by-aktiia-1133423",
+            "date": 1781295519
         },
         {
             "title": "Horario fijo Turno Ma\u00c3\u00b1ana Solo de L a S Asesor de Ventas Con o sin Experiencia Planilla completa",
@@ -941,32 +963,6 @@
             "date": 1781208044
         },
         {
-            "title": "Medical Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-editor-synchrony-group-llc-1133291",
-            "date": 1781206953
-        },
-        {
-            "title": "Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-why-hiring-1133248",
-            "date": 1781204778
-        },
-        {
             "title": "Radix: Profissional Web Designer S\u00eanior",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1175,17 +1171,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/vanta-senior-product-designer-ai-platform",
             "date": 1778963509
-        },
-        {
-            "title": "Mind Friend Pro: Website Admin / Design INTERNSHIP",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mind-friend-pro-website-admin-design-internship",
-            "date": 1778963491
         },
         {
             "title": "Hospitable: Staff UI/UX Product Designer (USA/EMEA - Remote)",
