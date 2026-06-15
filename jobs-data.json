@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-15 17:42:41",
+    "generated_at": "2026-06-16 02:24:38",
     "total_jobs": 108,
     "jobs": [
+        {
+            "title": "Executive Assistant the Founders",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-founders-silhouette-group-inc-1133407",
+            "date": 1781471243
+        },
+        {
+            "title": "Admin Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-admin-virtual-assistant-myva-rocks-1133405",
+            "date": 1781471017
+        },
+        {
+            "title": "Social Media Marketing Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-marketing-specialist-strange-face-1133411",
+            "date": 1781469376
+        },
+        {
+            "title": "Brand Designer Project",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-project-twine-1133404",
+            "date": 1781464072
+        },
         {
             "title": "Production Utility",
             "company": "RemoteOK",
@@ -635,6 +683,17 @@
             "date": 1781248088
         },
         {
+            "title": "Asesor a call center Remoto Solo provincia",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asesor-a-call-center-remoto-solo-provincia-shalom-1133447",
+            "date": 1781247935
+        },
+        {
             "title": "ASSISTENTE DE LOGISTICA REMOTO RESIDIR EM FORTALEZA PARA TREINAMENTO",
             "company": "RemoteOK",
             "company_logo": null,
@@ -908,59 +967,107 @@
             "date": 1781210178
         },
         {
-            "title": "sadfsdf",
-            "company": "RemoteOK",
+            "title": "thehivecareers.co: Web Developer (Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sadfsdf-women-builders-council-1133261",
-            "date": 1781210157
+            "link": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote",
+            "date": 1780004305
         },
         {
-            "title": "sdsfda",
-            "company": "RemoteOK",
+            "title": "Akamai: Senior DevOps Engineer II",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sdsfda-women-builders-council-1133260",
-            "date": 1781210060
+            "link": "https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii",
+            "date": 1780004284
         },
         {
-            "title": "Customer Service Representative London",
-            "company": "RemoteOK",
+            "title": "Horizon3 AI: Webapp Offensive Security Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-london-opsarmy-careers-1133412",
-            "date": 1781209133
+            "link": "https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer",
+            "date": 1780004284
         },
         {
-            "title": "E Commerce Sales Executive",
-            "company": "RemoteOK",
+            "title": "Developex: Project and Presale Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-e-commerce-sales-executive-foodme-global-dine-palace-1133259",
-            "date": 1781208601
+            "link": "https://weworkremotely.com/remote-jobs/developex-project-and-presale-manager",
+            "date": 1780004284
         },
         {
-            "title": "Junior Software Engineer",
-            "company": "RemoteOK",
+            "title": "EngagedMD: Senior Software Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-statusneo-1133251",
-            "date": 1781208044
+            "link": "https://weworkremotely.com/remote-jobs/engagedmd-senior-software-engineer",
+            "date": 1779977656
+        },
+        {
+            "title": "Speechify Inc: Senior Software Engineer, Web",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
+            "date": 1779543839
+        },
+        {
+            "title": "Appetiser: Junior Full-Stack Developer (Laravel and VueJS)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs",
+            "date": 1779481904
+        },
+        {
+            "title": "Iungo Spa: Product Owner (m/f)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/iungo-spa-product-owner-m-f",
+            "date": 1779481892
+        },
+        {
+            "title": "Welocalize: Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/welocalize-product-manager",
+            "date": 1779481866
         },
         {
             "title": "Radix: Profissional Web Designer S\u00eanior",
@@ -1105,116 +1212,15 @@
             "date": 1779049853
         },
         {
-            "title": "Softswiss: System Engineer/DevOps - Senior",
+            "title": "comparis.ch: Backend Engineer, 80-100% (f/m/x)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/softswiss-system-engineer-devops-senior",
-            "date": 1778963568
-        },
-        {
-            "title": "Valon Tech: Staff Product Security Engineer - Customer Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/valon-tech-staff-product-security-engineer-customer-platform",
-            "date": 1778963568
-        },
-        {
-            "title": "Flosum: Senior Product Manager, Salesforce Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/flosum-senior-product-manager-salesforce-platform",
-            "date": 1778963554
-        },
-        {
-            "title": "Sprypoint: DevOps Engineer III - Transformation Focus",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sprypoint-devops-engineer-iii-transformation-focus",
-            "date": 1778963531
-        },
-        {
-            "title": "S-PRO: Senior/Lead DevOps Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/s-pro-senior-lead-devops-engineer",
-            "date": 1778963513
-        },
-        {
-            "title": "Vanta: Senior Product Designer, AI Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vanta-senior-product-designer-ai-platform",
-            "date": 1778963509
-        },
-        {
-            "title": "Hospitable: Staff UI/UX Product Designer (USA/EMEA - Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hospitable-staff-ui-ux-product-designer-usa-emea-remote",
-            "date": 1778963491
-        },
-        {
-            "title": "Systabuild Software Group: Junior DevOps Engineer (m/w/d)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/systabuild-software-group-junior-devops-engineer-m-w-d",
-            "date": 1778963476
-        },
-        {
-            "title": "Cresta: Platform Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cresta-platform-product-manager",
-            "date": 1778963470
-        },
-        {
-            "title": "United Tech: Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/united-tech-product-manager",
-            "date": 1778963461
+            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
+            "date": 1777297528
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
