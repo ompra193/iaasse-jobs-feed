@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-15 00:56:11",
-    "total_jobs": 110,
+    "generated_at": "2026-06-15 09:46:17",
+    "total_jobs": 109,
     "jobs": [
+        {
+            "title": "Medical Scribe Female Only",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-only-angel-city-va-recruitment-1133399",
+            "date": 1781424634
+        },
+        {
+            "title": "test",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-test-fluidstack-1133414",
+            "date": 1781418772
+        },
+        {
+            "title": "Illustrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-illustrator-odixcity-consulting-1133397",
+            "date": 1781417337
+        },
+        {
+            "title": "Programa Futuros Profesionales Productos Digitales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-programa-futuros-profesionales-productos-digitales-universia-argentina-1133398",
+            "date": 1781415401
+        },
         {
             "title": "Customer Service Representative",
             "company": "RemoteOK",
@@ -116,6 +162,17 @@
             "date": 1781323093
         },
         {
+            "title": "Student Success Advisor Evenings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-student-success-advisor-evenings-walden-university-1133418",
+            "date": 1781322518
+        },
+        {
             "title": "Atendimento ao cliente",
             "company": "RemoteOK",
             "company_logo": null,
@@ -187,6 +244,32 @@
             "date": 1781312611
         },
         {
+            "title": "BCCHW Trainer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bcchw-trainer-belle-1133420",
+            "date": 1781311929
+        },
+        {
+            "title": "HR Services Contact Center Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-services-contact-center-associate-the-home-depot-1133419",
+            "date": 1781308191
+        },
+        {
             "title": "Social Media Coordinator",
             "company": "RemoteOK",
             "company_logo": null,
@@ -255,6 +338,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-trade-marketing-amp-brand-activation-manager-cloetta-1133344",
             "date": 1781295692
+        },
+        {
+            "title": "Horario fijo Turno Ma\u00c3\u00b1ana Solo de L a S Asesor de Ventas Con o sin Experiencia Planilla completa",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-horario-fijo-turno-manana-solo-de-l-a-s-asesor-de-ventas-con-o-sin-experiencia-planilla-completa-netcall-group-1133410",
+            "date": 1781291083
         },
         {
             "title": "Copywriting Lead Freelance",
@@ -678,17 +772,6 @@
             "date": 1781229458
         },
         {
-            "title": "test",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-doctors-recruiter-com-1133284",
-            "date": 1781219900
-        },
-        {
             "title": "Customer Experience Manager in",
             "company": "RemoteOK",
             "company_logo": null,
@@ -825,6 +908,17 @@
             "date": 1781210060
         },
         {
+            "title": "Customer Service Representative London",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-london-opsarmy-careers-1133412",
+            "date": 1781209133
+        },
+        {
             "title": "E Commerce Sales Executive",
             "company": "RemoteOK",
             "company_logo": null,
@@ -873,105 +967,15 @@
             "date": 1781204778
         },
         {
-            "title": "Courier",
-            "company": "RemoteOK",
+            "title": "Radix: Profissional Web Designer S\u00eanior",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1133286",
-            "date": 1781201853
-        },
-        {
-            "title": "Auxiliar Administrativo Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-administrativo-remoto-empresa-confidencial-1133267",
-            "date": 1781199208
-        },
-        {
-            "title": "Assistente Administrativo Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-remoto-empresa-confidencial-1133270",
-            "date": 1781199208
-        },
-        {
-            "title": "Life Coach for Students Online Role",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-life-coach-for-students-online-role-findtutors-1133244",
-            "date": 1781197739
-        },
-        {
-            "title": "Backend Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-backend-developer-360dialog-1133242",
-            "date": 1781197257
-        },
-        {
-            "title": "Junior Web Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-infuse-1133315",
-            "date": 1781193203
-        },
-        {
-            "title": "Territory Sales Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-officer-unilever-1133364",
-            "date": 1781192431
-        },
-        {
-            "title": "Triage Paralegal",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-triage-paralegal-general-legal-yc26-1133241",
-            "date": 1781183556
-        },
-        {
-            "title": "Virtual Data Entry",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-data-entry-sundayy-1133240",
-            "date": 1781183469
+            "link": "https://weworkremotely.com/remote-jobs/radix-profissional-web-designer-senior-1",
+            "date": 1779393784
         },
         {
             "title": "Vinta: Senior Product Manager - Remote - 13.5-18.3k CLT",
@@ -1226,17 +1230,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/united-tech-product-manager",
             "date": 1778963461
-        },
-        {
-            "title": "Composio: Member of Technical Staff - Product Eng",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/composio-member-of-technical-staff-product-eng",
-            "date": 1778877061
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
