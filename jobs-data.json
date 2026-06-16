@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-16 16:39:42",
-    "total_jobs": 108,
+    "generated_at": "2026-06-16 22:21:09",
+    "total_jobs": 111,
     "jobs": [
+        {
+            "title": "Public Relation Freelance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-public-relation-freelance-tiket-com-pt-global-tiket-network-1133433",
+            "date": 1781562928
+        },
+        {
+            "title": "Water Plant Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-water-plant-coordinator-four-seasons-1133475",
+            "date": 1781561003
+        },
+        {
+            "title": "Financial Data Application Specialist Corporate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-financial-data-application-specialist-corporate-alphasense-1133432",
+            "date": 1781560827
+        },
+        {
+            "title": "TEST Australia",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-test-australia-faculty-1133486",
+            "date": 1781558294
+        },
+        {
+            "title": "Design Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-design-engineer-usb-club-1133430",
+            "date": 1781557201
+        },
+        {
+            "title": "Creative Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-project-manager-yunojuno-1133452",
+            "date": 1781557011
+        },
+        {
+            "title": "Receptionist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-receptionist-invicta-software-1133429",
+            "date": 1781553760
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-triwill-group-1133431",
+            "date": 1781547329
+        },
+        {
+            "title": "Chief of Staff Operating Partner CEO Office",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operating-partner-ceo-office-stableton-1133434",
+            "date": 1781543524
+        },
         {
             "title": "Junior Creative Strategist & UGC Co Ordinator",
             "company": "RemoteOK",
@@ -895,74 +998,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-gardener-city-of-hamilton-bermuda-1133469",
             "date": 1781241460
-        },
-        {
-            "title": "Healthcare Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-healthcare-manager-curasenseai-1133290",
-            "date": 1781237030
-        },
-        {
-            "title": "Medical Secretary",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-secretary-curasenseai-1133288",
-            "date": 1781236859
-        },
-        {
-            "title": "Confidential Search",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-confidential-search-chandos-construction-1133309",
-            "date": 1781234935
-        },
-        {
-            "title": "Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-padsplit-1133393",
-            "date": 1781234767
-        },
-        {
-            "title": "Sheriff\u00e2\u0080\u0099s Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sheriffs-officer-attorney-generals-department-1133408",
-            "date": 1781230160
-        },
-        {
-            "title": "Learning &amp; Development Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-learning-amp-development-specialist-healthcorps-1133320",
-            "date": 1781229458
         },
         {
             "title": "thehivecareers.co: Web Developer (Remote)",
