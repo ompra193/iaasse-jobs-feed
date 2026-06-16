@@ -1,8 +1,80 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-16 22:21:09",
+    "generated_at": "2026-06-17 02:19:52",
     "total_jobs": 111,
     "jobs": [
+        {
+            "title": "Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-the-fountain-group-1133453",
+            "date": 1781577982
+        },
+        {
+            "title": "Medical Scribe",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-scribe-angel-city-va-recruitment-1133442",
+            "date": 1781575339
+        },
+        {
+            "title": "Director National Accounts",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-national-accounts-recess-1133450",
+            "date": 1781575021
+        },
+        {
+            "title": "Junior Front End Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-work-force-nexus-1133435",
+            "date": 1781568300
+        },
+        {
+            "title": "Supply Chain Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-management-tava-partners-1133490",
+            "date": 1781564826
+        },
+        {
+            "title": "Lead Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-specialist-autoliv-1133485",
+            "date": 1781564188
+        },
         {
             "title": "Public Relation Freelance",
             "company": "RemoteOK",
@@ -162,6 +234,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-dti-diversified-technology-inc-1133417",
             "date": 1781514437
+        },
+        {
+            "title": "Business Analyst BFSI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-bfsi-wns-1133503",
+            "date": 1781480673
         },
         {
             "title": "Executive Assistant the Founders",
@@ -920,84 +1003,15 @@
             "date": 1781244114
         },
         {
-            "title": "Medical Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-administrative-assistant-curasenseai-1133297",
-            "date": 1781244068
-        },
-        {
-            "title": "Director of Technical Solutions",
-            "company": "RemoteOK",
+            "title": "Swanson Health: Shopify Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-technical-solutions-triple-whale-1133296",
-            "date": 1781244040
-        },
-        {
-            "title": "Chief of Staff GM Advertising",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-gm-advertising-instacart-1133295",
-            "date": 1781244024
-        },
-        {
-            "title": "Implementation Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-implementation-project-manager-intellum-inc-1133294",
-            "date": 1781244017
-        },
-        {
-            "title": "Guru Field Representative Orlando",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-guru-field-representative-orlando-brooks-running-1133293",
-            "date": 1781244003
-        },
-        {
-            "title": "Assistente de Logstica Operacional Turismo Receptivo",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-logstica-operacional-turismo-receptivo-panrotas-1133468",
-            "date": 1781244000
-        },
-        {
-            "title": "Gardener",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-gardener-city-of-hamilton-bermuda-1133469",
-            "date": 1781241460
+            "link": "https://weworkremotely.com/remote-jobs/swanson-health-shopify-developer",
+            "date": 1780004305
         },
         {
             "title": "thehivecareers.co: Web Developer (Remote)",
@@ -1232,17 +1246,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward",
             "date": 1779098470
-        },
-        {
-            "title": "Oowlish Technology: Product Manager  Growth Focused",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/oowlish-technology-product-manager-growth-focused",
-            "date": 1779049853
         },
         {
             "title": "comparis.ch: Backend Engineer, 80-100% (f/m/x)",
