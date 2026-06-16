@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-16 02:24:38",
+    "generated_at": "2026-06-16 09:35:46",
     "total_jobs": 108,
     "jobs": [
+        {
+            "title": "Learning And Development Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-dti-diversified-technology-inc-1133417",
+            "date": 1781514437
+        },
         {
             "title": "Executive Assistant the Founders",
             "company": "RemoteOK",
@@ -118,6 +129,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
             "date": 1781367552
+        },
+        {
+            "title": "Sports Events Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sports-events-coordinator-work-from-home-co-1133454",
+            "date": 1781357200
         },
         {
             "title": "Various Positions",
@@ -943,28 +965,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-general-interest-application-us-mobile-1133358",
             "date": 1781211416
-        },
-        {
-            "title": "sdf",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sdf-women-builders-council-1133263",
-            "date": 1781210607
-        },
-        {
-            "title": "asdffd",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asdffd-women-builders-council-1133262",
-            "date": 1781210178
         },
         {
             "title": "thehivecareers.co: Web Developer (Remote)",
