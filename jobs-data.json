@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-17 09:36:21",
-    "total_jobs": 111,
+    "generated_at": "2026-06-17 16:25:23",
+    "total_jobs": 112,
     "jobs": [
+        {
+            "title": "Administrator 19966",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrator-19966-somewhere-1133492",
+            "date": 1781626161
+        },
+        {
+            "title": "Customer Support Specialist Tier 1",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-tier-1-yembo-1133491",
+            "date": 1781626091
+        },
+        {
+            "title": "Expressions of Interest UK Expression of Interest",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-expressions-of-interest-uk-expression-of-interest-syos-aerospace-1133537",
+            "date": 1781607910
+        },
+        {
+            "title": "Become a Student Life Coach Flexible Role UK \u00c2\u00a320 \u00c2\u00a340 hr",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-become-a-student-life-coach-flexible-role-uk-20-40-hr-findtutors-1133462",
+            "date": 1781604497
+        },
         {
             "title": "Startup Investment & Strategy Specialist",
             "company": "RemoteOK",
@@ -90,6 +136,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-distru-1133455",
             "date": 1781589604
+        },
+        {
+            "title": "Application Support Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-application-support-associate-turningpoint-healthcare-solutions-1133534",
+            "date": 1781589600
         },
         {
             "title": "Research Analyst",
@@ -186,6 +243,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-director-national-accounts-recess-1133450",
             "date": 1781575021
+        },
+        {
+            "title": "Academic School Mentor &amp; After School Guidance &amp; Flexible Role \u00c2\u00a320 \u00c2\u00a340 hr",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-academic-school-mentor-amp-after-school-guidance-amp-flexible-role-20-40-hr-findtutors-1133528",
+            "date": 1781573696
         },
         {
             "title": "Junior Front End Developer",
@@ -943,62 +1013,28 @@
             "date": 1781279172
         },
         {
-            "title": "Sandwich artist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1133388",
-            "date": 1781279080
-        },
-        {
-            "title": "Drug Discovery Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-drug-discovery-analyst-curasenseai-1133333",
-            "date": 1781273164
-        },
-        {
-            "title": "Trustee",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-trustee-pickle-1133330",
-            "date": 1781272810
-        },
-        {
-            "title": "Experienced English Speaking Freelance Recruiter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-experienced-english-speaking-freelance-recruiter-mercier-consultancy-group-1133329",
-            "date": 1781272804
-        },
-        {
-            "title": "Healthcare Admin Assistant AI Projects",
-            "company": "RemoteOK",
+            "title": "Linkage Web Development: [Active Pooling] Lead Generation Specialist - Virtual Assistant",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai",
                 "assistant"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-healthcare-admin-assistant-ai-projects-curasenseai-1133328",
-            "date": 1781269837
+            "link": "https://weworkremotely.com/remote-jobs/linkage-web-development-active-pooling-lead-generation-specialist-virtual-assistant",
+            "date": 1780004305
+        },
+        {
+            "title": "Community Sports Partners: Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/community-sports-partners-web-developer",
+            "date": 1780004305
         },
         {
             "title": "Swanson Health: Shopify Developer",
@@ -1080,17 +1116,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
             "date": 1779543839
-        },
-        {
-            "title": "Appetiser: Junior Full-Stack Developer (Laravel and VueJS)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/appetiser-junior-full-stack-developer-laravel-and-vuejs",
-            "date": 1779481904
         },
         {
             "title": "Iungo Spa: Product Owner (m/f)",
@@ -1231,19 +1256,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher",
             "date": 1779106553
-        },
-        {
-            "title": "Chief Rebel: Full Stack Engineer (AI-Forward)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/chief-rebel-full-stack-engineer-ai-forward",
-            "date": 1779098470
         },
         {
             "title": "comparis.ch: Backend Engineer, 80-100% (f/m/x)",
