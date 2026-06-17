@@ -1,8 +1,80 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-17 16:25:23",
-    "total_jobs": 112,
+    "generated_at": "2026-06-17 20:59:21",
+    "total_jobs": 116,
     "jobs": [
+        {
+            "title": "Supply Chain Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-manager-ignite-1133497",
+            "date": 1781640392
+        },
+        {
+            "title": "Customer Service & Support Representative Customer Care Center Eastern Central Time Zones Only",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-support-representative-customer-care-center-eastern-central-time-zones-only-pnc-1133495",
+            "date": 1781633611
+        },
+        {
+            "title": "Learning & Education Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-learning-education-executive-ignite-your-success-1133494",
+            "date": 1781633206
+        },
+        {
+            "title": "Executive Assistant Fully Inside IR35",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-fully-inside-ir35-vpa-london-1133498",
+            "date": 1781630153
+        },
+        {
+            "title": "AI ML Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-ml-associate-work-force-nexus-1133493",
+            "date": 1781629861
+        },
+        {
+            "title": "Marketing &amp; Communication Lead Italy",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-amp-communication-lead-italy-base-com-1133496",
+            "date": 1781629834
+        },
         {
             "title": "Administrator 19966",
             "company": "RemoteOK",
@@ -171,6 +243,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-sleek-marketing-1133502",
             "date": 1781588094
+        },
+        {
+            "title": "Don't see the job you're applying for Apply here",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dont-see-the-job-youre-applying-for-apply-here-phillips-chevrolet-1133545",
+            "date": 1781587690
         },
         {
             "title": "Junior Business &amp; Data Analyst",
@@ -980,39 +1063,6 @@
             "date": 1781283427
         },
         {
-            "title": "Localisation Linguist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-localisation-linguist-dneg-1133336",
-            "date": 1781282399
-        },
-        {
-            "title": "Brand Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-brand-strategist-digital-1133380",
-            "date": 1781280574
-        },
-        {
-            "title": "Freelance Social Media Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-social-media-strategist-digital-1133378",
-            "date": 1781279172
-        },
-        {
             "title": "Linkage Web Development: [Active Pooling] Lead Generation Specialist - Virtual Assistant",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1245,17 +1295,15 @@
             "date": 1779136260
         },
         {
-            "title": "FairGambling: Blockchain Engineer & Researcher",
+            "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/fairgambling-blockchain-engineer-researcher",
-            "date": 1779106553
+            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x",
+            "date": 1777557358
         },
         {
             "title": "comparis.ch: Backend Engineer, 80-100% (f/m/x)",
