@@ -1,8 +1,103 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-18 15:49:50",
-    "total_jobs": 121,
+    "generated_at": "2026-06-18 20:53:35",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-designer-newsquest-media-group-1133546",
+            "date": 1781728810
+        },
+        {
+            "title": "Head of Communications",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-communications-marie-curie-uk-1133548",
+            "date": 1781727699
+        },
+        {
+            "title": "Data Entry Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-digihyre-1133558",
+            "date": 1781727518
+        },
+        {
+            "title": "Payroll &amp; HRIS Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-payroll-amp-hris-coordinator-sangoma-1133561",
+            "date": 1781725906
+        },
+        {
+            "title": "Designer Freelance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-designer-freelance-interactive-strategies-1133560",
+            "date": 1781722972
+        },
+        {
+            "title": "Clinical Research Associate II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-research-associate-ii-i-pharm-consulting-1133543",
+            "date": 1781719541
+        },
+        {
+            "title": "Junior Admin Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-admin-assistant-vita-cv-1133542",
+            "date": 1781716296
+        },
+        {
+            "title": "Care Coordinator & Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-care-coordinator-administrator-ortus-health-1133541",
+            "date": 1781716256
+        },
         {
             "title": "Entry Level Administrative Assistant",
             "company": "RemoteOK",
@@ -465,6 +560,17 @@
             "date": 1781640392
         },
         {
+            "title": "Product Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ripjar-1133665",
+            "date": 1781637959
+        },
+        {
             "title": "Janitor",
             "company": "RemoteOK",
             "company_logo": null,
@@ -496,6 +602,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-learning-education-executive-ignite-your-success-1133494",
             "date": 1781633206
+        },
+        {
+            "title": "Charg\u00c3\u00a9 de suivi des op\u00c3\u00a9rations immobili\u00c3\u00a8res H F",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-charge-de-suivi-des-operations-immobilieres-h-f-stellium-immobilier-1133664",
+            "date": 1781630520
         },
         {
             "title": "Executive Assistant Fully Inside IR35",
@@ -1031,83 +1148,15 @@
             "date": 1781550927
         },
         {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-triwill-group-1133431",
-            "date": 1781547329
-        },
-        {
-            "title": "Conseiller Immobilier neuf Montpellier",
-            "company": "RemoteOK",
+            "title": "Binance: DevOps Engineer, Futures",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-conseiller-immobilier-neuf-montpellier-papillon-patrimoine-1133595",
-            "date": 1781546905
-        },
-        {
-            "title": "Conseiller Immobilier neuf Paris",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-conseiller-immobilier-neuf-paris-papillon-patrimoine-1133594",
-            "date": 1781546904
-        },
-        {
-            "title": "Chief of Staff Operating Partner CEO Office",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-operating-partner-ceo-office-stableton-1133434",
-            "date": 1781543524
-        },
-        {
-            "title": "Junior Creative Strategist & UGC Co Ordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-creative-strategist-ugc-co-ordinator-elavate-superfoods-1133422",
-            "date": 1781532661
-        },
-        {
-            "title": "AP Operations Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ap-operations-analyst-d2b-1133421",
-            "date": 1781532004
-        },
-        {
-            "title": "Operations Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-executive-eficyent-1133424",
-            "date": 1781523816
+            "link": "https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures",
+            "date": 1780432267
         },
         {
             "title": "Lemon.io: Senior AI Engineer / Architect",
@@ -1368,19 +1417,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
             "date": 1761075386
-        },
-        {
-            "title": "Close: Senior Software Engineer - Backend/Python - USA Only (100% Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/close-senior-software-engineer-backend-python-usa-only-100-remote-1",
-            "date": 1753281114
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
