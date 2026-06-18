@@ -1,8 +1,131 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-18 09:27:42",
-    "total_jobs": 122,
+    "generated_at": "2026-06-18 15:49:50",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hires-1133566",
+            "date": 1781709839
+        },
+        {
+            "title": "Operations Support Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-support-manager-the-chartered-institute-for-securities-amp-investment-the-cisi-1133565",
+            "date": 1781708136
+        },
+        {
+            "title": "Head of Content",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-head-of-content-onthegosystems-1133539",
+            "date": 1781706630
+        },
+        {
+            "title": "Social Support Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-support-coordinator-focusrite-1133553",
+            "date": 1781704813
+        },
+        {
+            "title": "FX Dealer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fx-dealer-rbc-1133536",
+            "date": 1781700290
+        },
+        {
+            "title": "Scheduling Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-classet-1133535",
+            "date": 1781697931
+        },
+        {
+            "title": "Junior Customer Success Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-customer-success-representative-mission-inbox-1133540",
+            "date": 1781694926
+        },
+        {
+            "title": "Customer Service Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-onlinejobs-ph-1133544",
+            "date": 1781693590
+        },
+        {
+            "title": "Business Development Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-bucket-listers-1133532",
+            "date": 1781692518
+        },
+        {
+            "title": "Content & Social Media Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-social-media-executive-work-force-nexus-1133530",
+            "date": 1781690904
+        },
+        {
+            "title": "Creative Copywriter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-copywriter-deadpan-1133529",
+            "date": 1781690890
+        },
         {
             "title": "Pharmacovigilance Associate Position",
             "company": "RemoteOK",
@@ -134,6 +257,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-program-manager-pbg-1133517",
             "date": 1781660117
+        },
+        {
+            "title": "Customer Support Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-c-teleport-1133593",
+            "date": 1781659503
         },
         {
             "title": "Director of Commercial Operations",
@@ -331,6 +465,17 @@
             "date": 1781640392
         },
         {
+            "title": "Janitor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-janitor-the-shaw-group-1133629",
+            "date": 1781637890
+        },
+        {
             "title": "Customer Service & Support Representative Customer Care Center Eastern Central Time Zones Only",
             "company": "RemoteOK",
             "company_logo": null,
@@ -388,6 +533,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-marketing-amp-communication-lead-italy-base-com-1133496",
             "date": 1781629834
+        },
+        {
+            "title": "Python Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-python-developer-kindgeek-1133592",
+            "date": 1781627594
         },
         {
             "title": "Administrator 19966",
@@ -566,6 +724,20 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-research-analyst-gritter-francona-1133518",
             "date": 1781589573
+        },
+        {
+            "title": "Utility Locate Technician $22.00 $30.00 hr Springfield Nebraska",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-utility-locate-technician-22-00-30-00-hr-springfield-nebraska-elm-utility-services-1133603",
+            "date": 1781588622
         },
         {
             "title": "Marketing Assistant",
@@ -815,6 +987,17 @@
             "date": 1781557011
         },
         {
+            "title": "Handyman",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-handyman-classet-1133623",
+            "date": 1781554292
+        },
+        {
             "title": "Receptionist",
             "company": "RemoteOK",
             "company_logo": null,
@@ -837,6 +1020,17 @@
             "date": 1781551764
         },
         {
+            "title": "Porter Immediate Hire",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-porter-immediate-hire-lv-petroleum-llc-1133627",
+            "date": 1781550927
+        },
+        {
             "title": "Executive Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -848,6 +1042,28 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-triwill-group-1133431",
             "date": 1781547329
+        },
+        {
+            "title": "Conseiller Immobilier neuf Montpellier",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-conseiller-immobilier-neuf-montpellier-papillon-patrimoine-1133595",
+            "date": 1781546905
+        },
+        {
+            "title": "Conseiller Immobilier neuf Paris",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-conseiller-immobilier-neuf-paris-papillon-patrimoine-1133594",
+            "date": 1781546904
         },
         {
             "title": "Chief of Staff Operating Partner CEO Office",
@@ -894,234 +1110,17 @@
             "date": 1781523816
         },
         {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
+            "title": "Lemon.io: Senior AI Engineer / Architect",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "assistant"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hire-1133427",
-            "date": 1781523453
-        },
-        {
-            "title": "Learning And Development Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-learning-and-development-specialist-dti-diversified-technology-inc-1133417",
-            "date": 1781514437
-        },
-        {
-            "title": "Business Analyst BFSI",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-bfsi-wns-1133503",
-            "date": 1781480673
-        },
-        {
-            "title": "Executive Assistant the Founders",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-the-founders-silhouette-group-inc-1133407",
-            "date": 1781471243
-        },
-        {
-            "title": "Admin Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-admin-virtual-assistant-myva-rocks-1133405",
-            "date": 1781471017
-        },
-        {
-            "title": "Social Media Marketing Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-marketing-specialist-strange-face-1133411",
-            "date": 1781469376
-        },
-        {
-            "title": "Brand Designer Project",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-brand-designer-project-twine-1133404",
-            "date": 1781464072
-        },
-        {
-            "title": "Production Utility",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-production-utility-fxi-1133415",
-            "date": 1781456783
-        },
-        {
-            "title": "Medical Scribe Female Only",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-only-angel-city-va-recruitment-1133399",
-            "date": 1781424634
-        },
-        {
-            "title": "test",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-fluidstack-1133414",
-            "date": 1781418772
-        },
-        {
-            "title": "Illustrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-illustrator-odixcity-consulting-1133397",
-            "date": 1781417337
-        },
-        {
-            "title": "Programa Futuros Profesionales Productos Digitales",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-programa-futuros-profesionales-productos-digitales-universia-argentina-1133398",
-            "date": 1781415401
-        },
-        {
-            "title": "Customer Service Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
-            "date": 1781367552
-        },
-        {
-            "title": "Sports Events Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sports-events-coordinator-work-from-home-co-1133454",
-            "date": 1781357200
-        },
-        {
-            "title": "Various Positions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-various-positions-northern-news-services-1133385",
-            "date": 1781351651
-        },
-        {
-            "title": "Chat Suppore",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chat-suppore-onlinejobs-ph-1133367",
-            "date": 1781347859
-        },
-        {
-            "title": "Junior ML Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-ml-engineer-work-force-nexus-1133365",
-            "date": 1781341767
-        },
-        {
-            "title": "Se solicita Gestor de Cobros",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-se-solicita-gestor-de-cobros-tu-empleo-rd-1133400",
-            "date": 1781340625
-        },
-        {
-            "title": "Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-aramco-1133376",
-            "date": 1781335789
-        },
-        {
-            "title": "Template",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-template-pizza-pilgrims-1133392",
-            "date": 1781335438
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
+            "date": 1780418208
         },
         {
             "title": "Linkage Web Development: [Active Pooling] Lead Generation Specialist - Virtual Assistant",
@@ -1308,19 +1307,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
             "date": 1779205554
-        },
-        {
-            "title": "OnTheGoSystems: Senior Ruby on Rails Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2",
-            "date": 1779171981
         },
         {
             "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
