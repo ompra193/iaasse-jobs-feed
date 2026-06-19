@@ -1,8 +1,98 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-19 15:55:23",
-    "total_jobs": 121,
+    "generated_at": "2026-06-19 20:45:21",
+    "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676",
+            "date": 1781817278
+        },
+        {
+            "title": "Sales Director Dairy Ingredients",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-director-dairy-ingredients-kinisla-1133684",
+            "date": 1781816786
+        },
+        {
+            "title": "VP Strategic Customer Programs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-strategic-customer-programs-karbon-1133685",
+            "date": 1781816327
+        },
+        {
+            "title": "VP GM East &amp; Control",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vp-gm-east-amp-control-mast-jagermeister-us-inc-1133678",
+            "date": 1781815594
+        },
+        {
+            "title": "Scrum Master",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
+            "date": 1781806590
+        },
+        {
+            "title": "Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-agent-kier-group-1133662",
+            "date": 1781806334
+        },
+        {
+            "title": "Call Center Agent Quality",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-call-center-agent-quality-aljazira-bank-1133706",
+            "date": 1781798487
+        },
+        {
+            "title": "IT Infrastructure Systems Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-it-infrastructure-systems-lead-monde-nissin-corporation-1133707",
+            "date": 1781795158
+        },
         {
             "title": "Staff Product Manager Product Information Management",
             "company": "RemoteOK",
@@ -26,6 +116,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
             "date": 1781790949
+        },
+        {
+            "title": "Call Center Agent Social Media",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-call-center-agent-social-media-aljazira-bank-1133705",
+            "date": 1781788833
         },
         {
             "title": "Administrative Assistant",
@@ -177,6 +278,19 @@
             "date": 1781755390
         },
         {
+            "title": "Launch and Recovery Technician I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-launch-and-recovery-technician-i-amentum-1133701",
+            "date": 1781750702
+        },
+        {
             "title": "Interested future Corporate positions",
             "company": "RemoteOK",
             "company_logo": null,
@@ -214,6 +328,17 @@
             "date": 1781748471
         },
         {
+            "title": "Assistente Cont\u00c3\u00a1bil",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-contabil-sicoob-1133700",
+            "date": 1781748204
+        },
+        {
             "title": "Help Desk",
             "company": "RemoteOK",
             "company_logo": null,
@@ -223,17 +348,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
             "date": 1781745349
-        },
-        {
-            "title": "Scrum Master",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-siritech-solutions-corp-1133563",
-            "date": 1781745082
         },
         {
             "title": "Payroll Specialist",
@@ -986,133 +1100,17 @@
             "date": 1781643960
         },
         {
-            "title": "Supply Chain Manager",
-            "company": "RemoteOK",
+            "title": "Lemon.io: Senior React Full-stack Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "ai"
+                "react"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-manager-ignite-1133497",
-            "date": 1781640392
-        },
-        {
-            "title": "Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ripjar-1133665",
-            "date": 1781637959
-        },
-        {
-            "title": "Janitor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-janitor-the-shaw-group-1133629",
-            "date": 1781637890
-        },
-        {
-            "title": "Customer Service & Support Representative Customer Care Center Eastern Central Time Zones Only",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-support-representative-customer-care-center-eastern-central-time-zones-only-pnc-1133495",
-            "date": 1781633611
-        },
-        {
-            "title": "Learning & Education Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-learning-education-executive-ignite-your-success-1133494",
-            "date": 1781633206
-        },
-        {
-            "title": "Charg\u00c3\u00a9 de suivi des op\u00c3\u00a9rations immobili\u00c3\u00a8res H F",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-charge-de-suivi-des-operations-immobilieres-h-f-stellium-immobilier-1133664",
-            "date": 1781630520
-        },
-        {
-            "title": "Executive Assistant Fully Inside IR35",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-fully-inside-ir35-vpa-london-1133498",
-            "date": 1781630153
-        },
-        {
-            "title": "AI ML Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-ml-associate-work-force-nexus-1133493",
-            "date": 1781629861
-        },
-        {
-            "title": "Marketing &amp; Communication Lead Italy",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-amp-communication-lead-italy-base-com-1133496",
-            "date": 1781629834
-        },
-        {
-            "title": "Python Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-python-developer-kindgeek-1133592",
-            "date": 1781627594
-        },
-        {
-            "title": "Administrator 19966",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrator-19966-somewhere-1133492",
-            "date": 1781626161
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
+            "date": 1780476785
         },
         {
             "title": "Insignia Consultancy Solutions: Devops lead",
@@ -1321,19 +1319,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/luxury-presence-staff-software-engineer-ai-website-builder-us-remote",
             "date": 1779393784
-        },
-        {
-            "title": "ShiftForce LLC: Full-Stack Developer \u2014 .NET + React + Azure \u2014 Remote (US)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/shiftforce-llc-full-stack-developer-net-react-azure-remote-us",
-            "date": 1779286120
         },
         {
             "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
