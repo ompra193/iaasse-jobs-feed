@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-19 09:47:18",
+    "generated_at": "2026-06-19 15:55:23",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Staff Product Manager Product Information Management",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-product-information-management-highlevel-1133598",
+            "date": 1781791203
+        },
+        {
+            "title": "Junior Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
+            "date": 1781790949
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-greenpump-energy-1133597",
+            "date": 1781780858
+        },
         {
             "title": "Social Media Manager",
             "company": "RemoteOK",
@@ -1076,39 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-administrator-19966-somewhere-1133492",
             "date": 1781626161
-        },
-        {
-            "title": "Customer Support Specialist Tier 1",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-tier-1-yembo-1133491",
-            "date": 1781626091
-        },
-        {
-            "title": "Sales Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-flagler-health-1133578",
-            "date": 1781618290
-        },
-        {
-            "title": "Analista de Suporte T\u00c3\u00a9cnico ERP Porto Alegre RS",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-suporte-tecnico-erp-porto-alegre-rs-buscarvagas-empregos-brasil-1133669",
-            "date": 1781617158
         },
         {
             "title": "Insignia Consultancy Solutions: Devops lead",
