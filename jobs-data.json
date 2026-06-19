@@ -1,8 +1,70 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-19 20:45:21",
+    "generated_at": "2026-06-20 01:18:56",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Operations Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-administrator-recseekers-1133675",
+            "date": 1781831100
+        },
+        {
+            "title": "HR Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-administrative-assistant-atlantic-health-strategiestm-1133671",
+            "date": 1781830904
+        },
+        {
+            "title": "Documentation Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-documentation-specialist-pinnacle-home-care-1133694",
+            "date": 1781828160
+        },
+        {
+            "title": "Senior Backend Engineer Studio AI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
+            "date": 1781823602
+        },
+        {
+            "title": "Customer Solutions Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-solutions-technician-johnson-controls-1133699",
+            "date": 1781820257
+        },
         {
             "title": "Graphic Designer",
             "company": "RemoteOK",
@@ -230,6 +292,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-zyte-1133572",
             "date": 1781762413
+        },
+        {
+            "title": "Loan Processor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-loan-processor-sfmc-home-lending-1133715",
+            "date": 1781762400
         },
         {
             "title": "Industrial Operatives",
@@ -1032,72 +1105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-marketing-manager-hunt-st-1133500",
             "date": 1781647237
-        },
-        {
-            "title": "Product Designer Design Systems",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-designer-design-systems-penn-interactive-1133499",
-            "date": 1781647221
-        },
-        {
-            "title": "ANALISTA ADMINISTRATIVO JR",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-administrativo-jr-grupo-ri-happy-1133506",
-            "date": 1781646233
-        },
-        {
-            "title": "Analyst Customer Success Measurement US",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analyst-customer-success-measurement-us-cint-1133576",
-            "date": 1781646044
-        },
-        {
-            "title": "Social Media Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-stndrds-magazine-1133512",
-            "date": 1781645810
-        },
-        {
-            "title": "Back End Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-back-end-developer-wisk-ai-inventory-management-for-hotels-restaurants-amp-bars-1133587",
-            "date": 1781645181
-        },
-        {
-            "title": "Technical Support Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-specialist-innergy-1133586",
-            "date": 1781643960
         },
         {
             "title": "Lemon.io: Senior React Full-stack Developer",
