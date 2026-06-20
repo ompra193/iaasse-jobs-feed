@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-20 14:25:37",
-    "total_jobs": 119,
+    "generated_at": "2026-06-20 19:32:52",
+    "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Election Officials",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-election-officials-city-of-new-westminster-1133723",
+            "date": 1781889466
+        },
         {
             "title": "Executive Assistant France",
             "company": "RemoteOK",
@@ -26,6 +37,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-employment-lawyer-fully-kma-legal-recruitment-1133697",
             "date": 1781874014
+        },
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hr-1133743",
+            "date": 1781872561
         },
         {
             "title": "Junior Graphic Designer",
@@ -683,6 +707,17 @@
             "date": 1781744426
         },
         {
+            "title": "Redator J\u00c3\u00banior",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-redator-junior-crt-comunicacao-1133745",
+            "date": 1781743927
+        },
+        {
             "title": "People Operations",
             "company": "RemoteOK",
             "company_logo": null,
@@ -915,19 +950,6 @@
             "date": 1781714737
         },
         {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytixs-hires-1133566",
-            "date": 1781709839
-        },
-        {
             "title": "Operations Support Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1069,39 +1091,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-varun-digital-media-1133521",
             "date": 1781676440
-        },
-        {
-            "title": "Patient Care Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-patient-care-coordinator-winning-assistants-1133520",
-            "date": 1781676020
-        },
-        {
-            "title": "Lead Software Engineer Ads",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-ads-jane-technologies-1133519",
-            "date": 1781676004
-        },
-        {
-            "title": "Junior Project Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
-            "date": 1781676000
         },
         {
             "title": "Lemon.io: Senior React Full-stack Developer",
