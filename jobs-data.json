@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-20 09:08:52",
+    "generated_at": "2026-06-20 14:25:37",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Executive Assistant France",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-france-zirtual-1133698",
+            "date": 1781877955
+        },
+        {
+            "title": "Employment Lawyer Fully",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-employment-lawyer-fully-kma-legal-recruitment-1133697",
+            "date": 1781874014
+        },
+        {
+            "title": "Junior Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-graphic-designer-work-force-nexus-1133696",
+            "date": 1781870785
+        },
+        {
+            "title": "Executive & Admin Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-admin-assistant-nexist-1133695",
+            "date": 1781867266
+        },
         {
             "title": "Corporate Commercial Paralegal Fully",
             "company": "RemoteOK",
@@ -285,6 +333,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-it-infrastructure-systems-lead-monde-nissin-corporation-1133707",
             "date": 1781795158
+        },
+        {
+            "title": "HR Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-associate-ateneo-de-manila-university-1133742",
+            "date": 1781795153
         },
         {
             "title": "Staff Product Manager Product Information Management",
@@ -1041,61 +1102,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-project-designer-archinect-1133677",
             "date": 1781676000
-        },
-        {
-            "title": "Social Media and Content Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-and-content-manager-forcebrands-1133513",
-            "date": 1781672788
-        },
-        {
-            "title": "Corporate Payroll Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-corporate-payroll-administrator-penn-entertainment-inc-1133511",
-            "date": 1781672578
-        },
-        {
-            "title": "Clinical Research Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-clinical-research-associate-i-pharm-consulting-1133510",
-            "date": 1781672563
-        },
-        {
-            "title": "Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-manager-kate-farms-1133515",
-            "date": 1781667175
-        },
-        {
-            "title": "Capital Planning Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-capital-planning-analyst-pbg-1133580",
-            "date": 1781662837
         },
         {
             "title": "Lemon.io: Senior React Full-stack Developer",
