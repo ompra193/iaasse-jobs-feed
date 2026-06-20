@@ -1,8 +1,111 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-20 19:32:52",
+    "generated_at": "2026-06-21 00:55:41",
     "total_jobs": 118,
     "jobs": [
+        {
+            "title": "Junior Human Resources Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-human-resources-assistant-helic-co-1133714",
+            "date": 1781914118
+        },
+        {
+            "title": "Director of Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-operations-robots-pencils-1133712",
+            "date": 1781913744
+        },
+        {
+            "title": "Building Official 3 Inspections",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-building-official-3-inspections-city-of-new-westminster-1133724",
+            "date": 1781910792
+        },
+        {
+            "title": "Director of Communications",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-communications-wing-1133719",
+            "date": 1781910384
+        },
+        {
+            "title": "Fast Hire for VA Receptionist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-fast-hire-for-va-receptionist-onlinejobs-ph-1133720",
+            "date": 1781909563
+        },
+        {
+            "title": "Project Systems Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1133738",
+            "date": 1781904826
+        },
+        {
+            "title": "Social Media Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-rotaract-club-of-university-of-ruhuna-1133711",
+            "date": 1781904321
+        },
+        {
+            "title": "Influencer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-influencer-pashet-1133708",
+            "date": 1781903288
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-brooklyn-cured-1133713",
+            "date": 1781901298
+        },
         {
             "title": "Election Officials",
             "company": "RemoteOK",
@@ -194,6 +297,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-virtual-assistant-sundayy-1133681",
             "date": 1781834719
+        },
+        {
+            "title": "Social Media Content Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-editor-the-narrative-refinery-1133747",
+            "date": 1781832358
         },
         {
             "title": "Operations Administrator",
@@ -418,17 +532,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-greenpump-energy-1133597",
             "date": 1781780858
-        },
-        {
-            "title": "Social Media Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-crypto-com-1133674",
-            "date": 1781774838
         },
         {
             "title": "General",
@@ -992,105 +1095,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-fx-dealer-rbc-1133536",
             "date": 1781700290
-        },
-        {
-            "title": "Scheduling Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-classet-1133535",
-            "date": 1781697931
-        },
-        {
-            "title": "Junior Customer Success Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-customer-success-representative-mission-inbox-1133540",
-            "date": 1781694926
-        },
-        {
-            "title": "Customer Service Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-agent-onlinejobs-ph-1133544",
-            "date": 1781693590
-        },
-        {
-            "title": "Content & Social Media Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-social-media-executive-work-force-nexus-1133530",
-            "date": 1781690904
-        },
-        {
-            "title": "Creative Copywriter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-copywriter-deadpan-1133529",
-            "date": 1781690890
-        },
-        {
-            "title": "Pharmacovigilance Associate Position",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pharmacovigilance-associate-position-puma-biotechnology-inc-1133533",
-            "date": 1781684060
-        },
-        {
-            "title": "Test posting",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-posting-vortex-companies-trenchless-infrastructure-rehabilitation-solutions-1133538",
-            "date": 1781679642
-        },
-        {
-            "title": "Customer Support Specialist Shopbop",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-shopbop-shopbop-1133672",
-            "date": 1781677110
-        },
-        {
-            "title": "Performance Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-performance-marketing-manager-varun-digital-media-1133521",
-            "date": 1781676440
         },
         {
             "title": "Lemon.io: Senior React Full-stack Developer",
