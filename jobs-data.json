@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-21 15:19:33",
-    "total_jobs": 120,
+    "generated_at": "2026-06-21 19:40:11",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Assistant Store Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-ross-stores-inc-1133775",
+            "date": 1781978758
+        },
+        {
+            "title": "Content Creator UGC",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-creator-ugc-twine-1133744",
+            "date": 1781978625
+        },
         {
             "title": "Manufacturing Operator I",
             "company": "RemoteOK",
@@ -101,6 +125,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-associate-max-retail-1133728",
             "date": 1781935202
+        },
+        {
+            "title": "Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-creator-vive-social-pr-1133820",
+            "date": 1781931000
         },
         {
             "title": "Cleaner",
@@ -447,6 +482,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-de-despacho-de-almacen-santiago-tu-empleo-rd-1133809",
             "date": 1781859328
+        },
+        {
+            "title": "Asistente Administrativa",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asistente-administrativa-tu-empleo-rd-1133818",
+            "date": 1781859286
         },
         {
             "title": "Buscando una Asistente de Contabilidad",
@@ -1066,39 +1112,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-assistente-contabil-sicoob-1133700",
             "date": 1781748204
-        },
-        {
-            "title": "Help Desk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-help-desk-zenius-corporation-1133680",
-            "date": 1781745349
-        },
-        {
-            "title": "Payroll Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-elevate-llc-1133562",
-            "date": 1781745037
-        },
-        {
-            "title": "Document Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-document-specialist-capitexai-1133559",
-            "date": 1781744899
         },
         {
             "title": "Anexia Internetdienstleistungs: Senior Linux System Engineer (M/W/D)",
