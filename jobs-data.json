@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-21 09:41:33",
+    "generated_at": "2026-06-21 15:19:33",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Manufacturing Operator I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manufacturing-operator-i-eaton-1133763",
+            "date": 1781968577
+        },
+        {
+            "title": "Scrum Master",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-haystack-1133814",
+            "date": 1781963769
+        },
+        {
+            "title": "\u00e6\u0096\u00b0\u00e5\u00aa\u0092\u00e4\u00bd\u0093\u00e8\u00bf\u0090\u00e8\u0090\u00a5\u00ef\u00bc\u0088\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00ef\u00bc",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1781962881
+        },
         {
             "title": "Product Manager",
             "company": "RemoteOK",
@@ -114,6 +147,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-ateneo-de-manila-university-1133740",
             "date": 1781927003
+        },
+        {
+            "title": "Language Arts Teacher",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "teacher"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-language-arts-teacher-think-academy-u-s-1133816",
+            "date": 1781926445
         },
         {
             "title": "Tax Manager",
@@ -261,6 +307,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-influencer-pashet-1133708",
             "date": 1781903288
+        },
+        {
+            "title": "Sales",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sales-raksha-elite-solutions-raksha-prime-1133810",
+            "date": 1781902977
         },
         {
             "title": "Marketing Assistant",
@@ -473,6 +530,17 @@
             "date": 1781848800
         },
         {
+            "title": "Wholesale Experience &amp; Events Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-wholesale-experience-amp-events-associate-julie-vos-1133815",
+            "date": 1781848800
+        },
+        {
             "title": "TEST JOB AD 2",
             "company": "RemoteOK",
             "company_logo": null,
@@ -662,17 +730,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-crm-sr-analyst-pedidosya-1133781",
             "date": 1781811923
-        },
-        {
-            "title": "Scrum Master",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-blackstone-talent-group-1133679",
-            "date": 1781806590
         },
         {
             "title": "Agent",
@@ -1042,65 +1099,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-document-specialist-capitexai-1133559",
             "date": 1781744899
-        },
-        {
-            "title": "Operations Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-coordinator-capitexai-1133557",
-            "date": 1781744838
-        },
-        {
-            "title": "Assistant Director Convenings",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistant-director-convenings-accesslex-institute-1133554",
-            "date": 1781744559
-        },
-        {
-            "title": "Elementary Teacher K 5",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "teacher"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-elementary-teacher-k-5-stellar-virtual-1133552",
-            "date": 1781744467
-        },
-        {
-            "title": "Paralegal Senior Paralegal Fully",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-paralegal-senior-paralegal-fully-leadenhall-search-selection-1133550",
-            "date": 1781744426
-        },
-        {
-            "title": "Redator J\u00c3\u00banior",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-redator-junior-crt-comunicacao-1133745",
-            "date": 1781743927
         },
         {
             "title": "Anexia Internetdienstleistungs: Senior Linux System Engineer (M/W/D)",
