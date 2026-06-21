@@ -1,8 +1,76 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-21 19:40:11",
-    "total_jobs": 121,
+    "generated_at": "2026-06-22 01:10:19",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "TRANSPORT",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-transport-mississippi-army-national-guard-biloxi-office-1133802",
+            "date": 1782005722
+        },
+        {
+            "title": "CYBER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cyber-mississippi-army-national-guard-biloxi-office-1133824",
+            "date": 1782005554
+        },
+        {
+            "title": "CHRO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chro-neulife-rehabilitation-1133813",
+            "date": 1782004761
+        },
+        {
+            "title": "Agente de Viajes Online",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-agente-de-viajes-online-viajes-marchante-1133749",
+            "date": 1782003636
+        },
+        {
+            "title": "Social Media Manager Fashion Brand",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-fashion-brand-twine-1133748",
+            "date": 1782000459
+        },
+        {
+            "title": "Retoucher",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-retoucher-agency-mj-1133811",
+            "date": 1781990549
+        },
         {
             "title": "Assistant Store Manager",
             "company": "RemoteOK",
@@ -423,6 +491,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-france-zirtual-1133698",
             "date": 1781877955
+        },
+        {
+            "title": "Ni\u00c3\u00b1era y tutor a de repaso",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ninera-y-tutor-a-de-repaso-tus-media-1133827",
+            "date": 1781877001
         },
         {
             "title": "Employment Lawyer Fully",
@@ -1038,80 +1117,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-director-newhouse-1133574",
             "date": 1781755920
-        },
-        {
-            "title": "Junior Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570",
-            "date": 1781755390
-        },
-        {
-            "title": "Launch and Recovery Technician I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-launch-and-recovery-technician-i-amentum-1133701",
-            "date": 1781750702
-        },
-        {
-            "title": "Interested future Corporate positions",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-interested-future-corporate-positions-weedmaps-1133673",
-            "date": 1781749870
-        },
-        {
-            "title": "Data Entry Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-somewhere-1133567",
-            "date": 1781748841
-        },
-        {
-            "title": "Data Entry",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-smart-it-frame-llc-1133577",
-            "date": 1781748471
-        },
-        {
-            "title": "Assistente Cont\u00c3\u00a1bil",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-contabil-sicoob-1133700",
-            "date": 1781748204
         },
         {
             "title": "Anexia Internetdienstleistungs: Senior Linux System Engineer (M/W/D)",
