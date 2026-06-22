@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-22 17:23:03",
+    "generated_at": "2026-06-22 22:26:12",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Outside Sales Representative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-outside-sales-representative-omada-ai-1133826",
+            "date": 1782079206
+        },
+        {
+            "title": "Operations Roles",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-roles-edirq-1133825",
+            "date": 1782071107
+        },
+        {
+            "title": "\u00e6\u0096\u00b0\u00e5\u00aa\u0092\u00e4\u00bd\u0093\u00e8\u00bf\u0090\u00e8\u0090\u00a5\u00e7\u00ba\u00bf\u00e4\u00b8",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1782049344
+        },
+        {
+            "title": "\u00e3\u0080\u0090\u00e8\u00bf\u009c\u00e7\u00a8\u008b\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00e3\u0080\u0091\u00e6\u0096\u00b0\u00e5\u00aa\u0092\u00e4\u00bd\u0093\u00e8\u00bf\u0090\u00e8\u0090",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1782049234
+        },
         {
             "title": "Research and Quality Assistant",
             "company": "RemoteOK",
@@ -581,6 +625,17 @@
             "date": 1781904321
         },
         {
+            "title": "Online Online Appointment Setter Booking Hotels Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-online-appointment-setter-booking-hotels-entry-level-destination-careers-1133882",
+            "date": 1781903608
+        },
+        {
             "title": "Influencer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1083,74 +1138,26 @@
             "date": 1781798487
         },
         {
-            "title": "Surveyor",
+            "title": "Key Account Executive PRO",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-surveyor-sj-group-1133804",
-            "date": 1781796166
+            "link": "https://remoteOK.com/remote-jobs/remote-key-account-executive-pro-unilever-1133891",
+            "date": 1781797235
         },
         {
-            "title": "IT Infrastructure Systems Lead",
-            "company": "RemoteOK",
+            "title": "InterContinental Recruiting: Front End Web Developer, WFH",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-it-infrastructure-systems-lead-monde-nissin-corporation-1133707",
-            "date": 1781795158
-        },
-        {
-            "title": "HR Associate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-hr-associate-ateneo-de-manila-university-1133742",
-            "date": 1781795153
-        },
-        {
-            "title": "Projeteur VRD F H",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-projeteur-vrd-f-h-b-hive-engineering-1133787",
-            "date": 1781791902
-        },
-        {
-            "title": "Staff Product Manager Product Information Management",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-product-information-management-highlevel-1133598",
-            "date": 1781791203
-        },
-        {
-            "title": "Junior Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
-            "date": 1781790949
+            "link": "https://weworkremotely.com/remote-jobs/intercontinental-recruiting-front-end-web-developer-wfh",
+            "date": 1780685040
         },
         {
             "title": "Anexia Internetdienstleistungs: Technical Advisor \u2013 Training & Quality (M/W/D)",
@@ -1378,17 +1385,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/engagedmd-senior-software-engineer",
             "date": 1779977656
-        },
-        {
-            "title": "Speechify Inc: Senior Software Engineer, Web",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
-            "date": 1779543839
         },
         {
             "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
