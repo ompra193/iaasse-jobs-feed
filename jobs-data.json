@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-22 22:26:12",
+    "generated_at": "2026-06-23 02:17:26",
     "total_jobs": 124,
     "jobs": [
         {
@@ -669,6 +669,19 @@
             "date": 1781902977
         },
         {
+            "title": "HR Business Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-business-partner-ministry-of-housing-communities-and-local-government-1133896",
+            "date": 1781902825
+        },
+        {
             "title": "Online Vacation Planning Assistant Entry Level",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1136,17 +1149,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-call-center-agent-quality-aljazira-bank-1133706",
             "date": 1781798487
-        },
-        {
-            "title": "Key Account Executive PRO",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-key-account-executive-pro-unilever-1133891",
-            "date": 1781797235
         },
         {
             "title": "InterContinental Recruiting: Front End Web Developer, WFH",
