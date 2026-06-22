@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-22 09:43:06",
-    "total_jobs": 123,
+    "generated_at": "2026-06-22 17:23:03",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Research and Quality Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-research-and-quality-assistant-cardiovascular-associates-of-america-cvausa-1133812",
+            "date": 1782043340
+        },
+        {
+            "title": "Members Don't Join for Dollar Value",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-members-dont-join-for-dollar-value-steward-1133822",
+            "date": 1782041128
+        },
+        {
+            "title": "Differentiating Membership Offers",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-differentiating-membership-offers-steward-1133823",
+            "date": 1782041084
+        },
         {
             "title": "Freelance Designer",
             "company": "RemoteOK",
@@ -175,6 +210,19 @@
             "date": 1781962881
         },
         {
+            "title": "Project Scheduling Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-scheduling-assistant-talentoma-1133856",
+            "date": 1781951050
+        },
+        {
             "title": "Project Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -219,6 +267,30 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-luxury-fashion-tiktok-instagram-parisa-wang-1133734",
             "date": 1781942633
+        },
+        {
+            "title": "Preparador a de Oposiciones de Magisterio",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-preparador-a-de-oposiciones-de-magisterio-ucademy-1133849",
+            "date": 1781940176
+        },
+        {
+            "title": "Office Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-office-assistant-sany-america-1133855",
+            "date": 1781938871
         },
         {
             "title": "Certified CMMC Assessor",
@@ -1079,63 +1151,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-haystack-1133663",
             "date": 1781790949
-        },
-        {
-            "title": "Call Center Agent Social Media",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-call-center-agent-social-media-aljazira-bank-1133705",
-            "date": 1781788833
-        },
-        {
-            "title": "Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-greenpump-energy-1133597",
-            "date": 1781780858
-        },
-        {
-            "title": "General",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-general-digital-lifestyles-1133722",
-            "date": 1781770133
-        },
-        {
-            "title": "Biology QA Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-biology-qa-lead-yo-it-consulting-1133807",
-            "date": 1781768648
-        },
-        {
-            "title": "Procurement Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-procurement-officer-kaizen-asset-management-services-1133584",
-            "date": 1781766444
         },
         {
             "title": "Anexia Internetdienstleistungs: Technical Advisor \u2013 Training & Quality (M/W/D)",
