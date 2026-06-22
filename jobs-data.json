@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-22 01:10:19",
-    "total_jobs": 122,
+    "generated_at": "2026-06-22 09:43:06",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Freelance Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-houseink-studio-1133817",
+            "date": 1782029146
+        },
+        {
+            "title": "Director of Operations MSP Service Delivery",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-operations-msp-service-delivery-bdmanagedit-1133848",
+            "date": 1782021600
+        },
         {
             "title": "TRANSPORT",
             "company": "RemoteOK",
@@ -59,6 +81,30 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-fashion-brand-twine-1133748",
             "date": 1782000459
+        },
+        {
+            "title": "Corporate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-corporate-valpak-of-southeastern-wisconsin-1133840",
+            "date": 1781992345
+        },
+        {
+            "title": "Data Analyst Data Warehouse Analytics and BI",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-data-warehouse-analytics-and-bi-owl-services-1133828",
+            "date": 1781991477
         },
         {
             "title": "Retoucher",
@@ -129,6 +175,19 @@
             "date": 1781962881
         },
         {
+            "title": "Project Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-project-assistant-talentoma-1133838",
+            "date": 1781950970
+        },
+        {
             "title": "Product Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -193,6 +252,55 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-associate-max-retail-1133728",
             "date": 1781935202
+        },
+        {
+            "title": "No Experience",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-no-experience-rgampt-solutions-1133829",
+            "date": 1781934431
+        },
+        {
+            "title": "Data Entry Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-rgampt-solutions-1133830",
+            "date": 1781934428
+        },
+        {
+            "title": "Product Tester",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-tester-rgampt-solutions-1133847",
+            "date": 1781934428
+        },
+        {
+            "title": "Administrative Assistant Research Panel",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-research-panel-rgampt-solutions-1133835",
+            "date": 1781934427
         },
         {
             "title": "Content Creator",
@@ -412,6 +520,17 @@
             "date": 1781903288
         },
         {
+            "title": "Online Booking &amp; Scheduling Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-booking-amp-scheduling-coordinator-destination-careers-1133833",
+            "date": 1781903015
+        },
+        {
             "title": "Sales",
             "company": "RemoteOK",
             "company_logo": null,
@@ -421,6 +540,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-sales-raksha-elite-solutions-raksha-prime-1133810",
             "date": 1781902977
+        },
+        {
+            "title": "Online Vacation Planning Assistant Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-vacation-planning-assistant-entry-level-destination-careers-1133836",
+            "date": 1781902560
         },
         {
             "title": "Marketing Assistant",
@@ -1006,117 +1138,28 @@
             "date": 1781766444
         },
         {
-            "title": "Analista de Sucesso do Cliente Pleno",
-            "company": "RemoteOK",
+            "title": "Anexia Internetdienstleistungs: Technical Advisor \u2013 Training & Quality (M/W/D)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-sucesso-do-cliente-pleno-zenvia-1133583",
-            "date": 1781766283
-        },
-        {
-            "title": "Est\u00c3\u00a1gio em Recrutamento e Sele\u00c3\u00a7\u00c3\u00a3o Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-estagio-em-recrutamento-e-selecao-remoto-talents-club-1133670",
-            "date": 1781765680
-        },
-        {
-            "title": "Social Content Designer & Producer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-content-designer-producer-josie-maran-1133579",
-            "date": 1781762934
-        },
-        {
-            "title": "Recruiter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-recruiter-pavago-1133573",
-            "date": 1781762430
-        },
-        {
-            "title": "Business Development Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-development-representative-zyte-1133572",
-            "date": 1781762413
-        },
-        {
-            "title": "Loan Processor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-loan-processor-sfmc-home-lending-1133715",
-            "date": 1781762400
-        },
-        {
-            "title": "Maintenance &amp; Repair Technician Senior",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
+            "employment": "internship",
             "skills": [
-                "ai",
-                "technician"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-repair-technician-senior-hewlett-packard-enterprise-1133798",
-            "date": 1781758499
+            "link": "https://weworkremotely.com/remote-jobs/anexia-internetdienstleistungs-technical-advisor-training-quality-m-w-d",
+            "date": 1780589315
         },
         {
-            "title": "Industrial Operatives",
-            "company": "RemoteOK",
+            "title": "Adoreal: Web Development Manager (Marketing & Webflow)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-industrial-operatives-denholm-energy-services-1133652",
-            "date": 1781758334
-        },
-        {
-            "title": "MTM II",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mtm-ii-integer-holdings-corporation-1133657",
-            "date": 1781757735
-        },
-        {
-            "title": "Junior Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-director-newhouse-1133574",
-            "date": 1781755920
+            "link": "https://weworkremotely.com/remote-jobs/adoreal-web-development-manager-marketing-webflow",
+            "date": 1780589315
         },
         {
             "title": "Anexia Internetdienstleistungs: Senior Linux System Engineer (M/W/D)",
@@ -1331,28 +1374,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
             "date": 1779543839
-        },
-        {
-            "title": "Iungo Spa: Product Owner (m/f)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/iungo-spa-product-owner-m-f",
-            "date": 1779481892
-        },
-        {
-            "title": "Welocalize: Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/welocalize-product-manager",
-            "date": 1779481866
         },
         {
             "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
