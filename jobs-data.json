@@ -1,8 +1,102 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-23 02:17:26",
+    "generated_at": "2026-06-23 09:03:02",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-iconsultera-1133846",
+            "date": 1782115503
+        },
+        {
+            "title": "Marketing Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-blackstone-talent-group-1133845",
+            "date": 1782112191
+        },
+        {
+            "title": "Director of Credit Risk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-credit-risk-made-card-1133839",
+            "date": 1782108003
+        },
+        {
+            "title": "Area Sales Manager Chicago",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-chicago-garage-beer-1133908",
+            "date": 1782108000
+        },
+        {
+            "title": "Area Sales Manager Michigan",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-michigan-garage-beer-1133910",
+            "date": 1782108000
+        },
+        {
+            "title": "Amazon Forecasting Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-amazon-forecasting-analyst-buffalo-games-1133837",
+            "date": 1782104954
+        },
+        {
+            "title": "Junior Supply Chain Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-supply-chain-analyst-helic-co-1133834",
+            "date": 1782104878
+        },
+        {
+            "title": "Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-virtana-corp-1133831",
+            "date": 1782104706
+        },
         {
             "title": "Outside Sales Representative",
             "company": "RemoteOK",
@@ -197,6 +291,17 @@
             "date": 1781990549
         },
         {
+            "title": "Sin experiencia Remoto Atenci\u00c3\u00b3n al cliente",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sin-experiencia-remoto-atencion-al-cliente-gea-peru-1133898",
+            "date": 1781982486
+        },
+        {
             "title": "Assistant Store Manager",
             "company": "RemoteOK",
             "company_logo": null,
@@ -252,6 +357,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/",
             "date": 1781962881
+        },
+        {
+            "title": "Operador de Portaria Remota Salvador BA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-salvador-ba-buscarvagas-empregos-brasil-1133899",
+            "date": 1781962781
         },
         {
             "title": "Project Scheduling Assistant",
@@ -949,19 +1065,6 @@
             "date": 1781847847
         },
         {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-chaostrack-1133683",
-            "date": 1781834910
-        },
-        {
             "title": "Customer Support Specialist",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1046,109 +1149,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
             "date": 1781823602
-        },
-        {
-            "title": "Customer Solutions Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-solutions-technician-johnson-controls-1133699",
-            "date": 1781820257
-        },
-        {
-            "title": "Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-swoon-1133676",
-            "date": 1781817278
-        },
-        {
-            "title": "Sales Director Dairy Ingredients",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-sales-director-dairy-ingredients-kinisla-1133684",
-            "date": 1781816786
-        },
-        {
-            "title": "Strategy and Engagement Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-strategy-and-engagement-officer-ministry-of-housing-communities-and-local-government-1133735",
-            "date": 1781816426
-        },
-        {
-            "title": "VP Strategic Customer Programs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-strategic-customer-programs-karbon-1133685",
-            "date": 1781816327
-        },
-        {
-            "title": "VP GM East &amp; Control",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vp-gm-east-amp-control-mast-jagermeister-us-inc-1133678",
-            "date": 1781815594
-        },
-        {
-            "title": "CRM Sr Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-crm-sr-analyst-pedidosya-1133781",
-            "date": 1781811923
-        },
-        {
-            "title": "Agent",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-agent-kier-group-1133662",
-            "date": 1781806334
-        },
-        {
-            "title": "Call Center Agent Quality",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-call-center-agent-quality-aljazira-bank-1133706",
-            "date": 1781798487
         },
         {
             "title": "InterContinental Recruiting: Front End Web Developer, WFH",
