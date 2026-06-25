@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-25 14:50:34",
-    "total_jobs": 118,
+    "generated_at": "2026-06-25 20:02:40",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Continuous Improvement Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-continuous-improvement-specialist-inproduction-1134071",
+            "date": 1782332144
+        },
+        {
+            "title": "Chief of Staff the CEO",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-valiantys-1134069",
+            "date": 1782328088
+        },
+        {
+            "title": "Assistant de formation F H",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-de-formation-f-h-universite-de-bordeaux-1134077",
+            "date": 1782326122
+        },
+        {
+            "title": "Test Job Post",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-test-job-post-halma-plc-1134053",
+            "date": 1782324251
+        },
+        {
+            "title": "Senior DevOps Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
+            "date": 1782322413
+        },
         {
             "title": "Mid Senior AI Cinematic Video Editor",
             "company": "RemoteOK",
@@ -158,6 +215,19 @@
             "date": 1782276157
         },
         {
+            "title": "Retail Marketing Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-retail-marketing-coordinator-crown-affair-1134093",
+            "date": 1782273464
+        },
+        {
             "title": "Creative Director",
             "company": "RemoteOK",
             "company_logo": null,
@@ -304,6 +374,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-developer-bitpay-1133985",
             "date": 1782255148
+        },
+        {
+            "title": "Evergreen \u00e6\u0096\u00b0\u00e6\u0098\u009f\u00e8\u00ae\u00a1\u00e5\u0088\u0092 \u00e5\u008c\u0097\u00e4\u00ba",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1782251915
         },
         {
             "title": "Human Resources Administrator",
@@ -457,6 +538,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-data-analyst-haystack-1134078",
             "date": 1782222939
+        },
+        {
+            "title": "\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00e5\u0086\u0085\u00e5\u00ae\u00b9\u00e6\u008e\u00a8\u00e5\u00b9",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1782222097
         },
         {
             "title": "\u00e7\u00ba\u00bf\u00e4\u00b8\u008a\u00e7\u009f\u00ad\u00e8\u00a7\u0086\u00e9\u00a2\u0091\u00e8\u00bf\u0090\u00e8\u0090\u00a5\u00e5\u00ae\u009e\u00e4\u00b9\u00a0\u00e7\u0094",
@@ -1020,52 +1112,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-orchestrate-consulting-group-1133881",
             "date": 1782151532
-        },
-        {
-            "title": "Service Planner Guwahati",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-service-planner-guwahati-rentokil-initial-1133930",
-            "date": 1782149050
-        },
-        {
-            "title": "Executive Assistant Fully",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-fully-cotrain-1133854",
-            "date": 1782144460
-        },
-        {
-            "title": "FEL Operator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-fel-operator-re-group-1134025",
-            "date": 1782139902
-        },
-        {
-            "title": "Digital Marketing Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-manager-hunt-st-1133850",
-            "date": 1782136802
         },
         {
             "title": "InterContinental Recruiting: Front End Web Developer, WFH",
