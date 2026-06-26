@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-26 19:53:48",
+    "generated_at": "2026-06-27 01:17:21",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Clinical Trial Associate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-clinical-trial-associate-ollin-biosciences-1134124",
+            "date": 1782437379
+        },
+        {
+            "title": "Test Job",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-test-job-newcastle-digest-1134114",
+            "date": 1782430051
+        },
+        {
+            "title": "Product",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-fashionxyz-1134115",
+            "date": 1782429267
+        },
+        {
+            "title": "Assistant Marketing Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistant-marketing-manager-little-caesars-pizza-1134117",
+            "date": 1782427031
+        },
+        {
+            "title": "Scheduling Coordinator Entry Level No Experience Needed",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-no-experience-needed-travel-planning-professionals-1134108",
+            "date": 1782419792
+        },
+        {
+            "title": "Scheduling Coordinator Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-travel-planning-professionals-1134127",
+            "date": 1782419713
+        },
+        {
+            "title": "Entry Level Online Scheduling Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-online-scheduling-coordinator-travel-planning-professionals-1134109",
+            "date": 1782419348
+        },
         {
             "title": "Preparador de Vehiculos Hatillo",
             "company": "RemoteOK",
@@ -1057,85 +1136,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-resolute-hr-consulting-1133917",
             "date": 1782213602
-        },
-        {
-            "title": "Engineer Quality",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineer-quality-epiroc-1134123",
-            "date": 1782213383
-        },
-        {
-            "title": "Logistics Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-logistics-coordinator-altis-recruitment-1133915",
-            "date": 1782212848
-        },
-        {
-            "title": "People &amp; Culture Business Partner",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-people-amp-culture-business-partner-stior-1134070",
-            "date": 1782209775
-        },
-        {
-            "title": "Assistant Project Manager Fragrance",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistant-project-manager-fragrance-slate-brands-1133969",
-            "date": 1782209295
-        },
-        {
-            "title": "Head of Public Understanding",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914",
-            "date": 1782207448
-        },
-        {
-            "title": "Banca Deportiva solicita Cajera",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-banca-deportiva-solicita-cajera-tu-empleo-rd-1134029",
-            "date": 1782205225
-        },
-        {
-            "title": "Freelance Website Copywriter Content Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-website-copywriter-content-strategist-n4-studior-1133968",
-            "date": 1782203501
         },
         {
             "title": "Activate Talent: Senior Shopify Web Developer",
