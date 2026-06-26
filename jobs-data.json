@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-26 09:09:52",
+    "generated_at": "2026-06-26 14:56:04",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Architectural Designer Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
+            "date": 1782392584
+        },
+        {
+            "title": "Freelance Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-la-vena-creativa-1134112",
+            "date": 1782389973
+        },
+        {
+            "title": "Freelance Transcriptionist \u00e2\u0080\u0094 Sinhalese",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-transcriptionist-sinhalese-perle-1134088",
+            "date": 1782388189
+        },
+        {
+            "title": "Freelance Transcriptionist \u00e2\u0080\u0094 Akan",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-transcriptionist-akan-perle-1134091",
+            "date": 1782388139
+        },
+        {
+            "title": "System Software Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-system-software-engineer-hewlett-packard-enterprise-1134102",
+            "date": 1782385050
+        },
         {
             "title": "Account Coordinator",
             "company": "RemoteOK",
@@ -129,6 +186,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-analista-de-produtos-pleno-open-finance-wallet-amp-banking-remoto-picpay-1134044",
             "date": 1782351956
+        },
+        {
+            "title": "Staff Housing Caretaker",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-staff-housing-caretaker-fairmont-hotels-amp-resorts-1134129",
+            "date": 1782351936
         },
         {
             "title": "Spontaneous application Red Deer",
@@ -348,6 +416,20 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytixs-hire-1134017",
             "date": 1782308288
+        },
+        {
+            "title": "Maintenance Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-favio-1134131",
+            "date": 1782306000
         },
         {
             "title": "Halwai",
@@ -797,6 +879,17 @@
             "date": 1782237763
         },
         {
+            "title": "English Arabic Interpreter",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-english-arabic-interpreter-focus-interpreting-1134133",
+            "date": 1782232401
+        },
+        {
             "title": "baker",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1050,96 +1143,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-practicante-pre-profesional-de-recursos-humanos-universia-peru-1133919",
             "date": 1782199119
-        },
-        {
-            "title": "Medical Scheduler",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-scheduler-resonance-cx-partners-1133909",
-            "date": 1782198493
-        },
-        {
-            "title": "Customer Service Representative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-premera-blue-cross-1133903",
-            "date": 1782198031
-        },
-        {
-            "title": "Analista de Atendimento Jr Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-jr-remoto-nstech-1133902",
-            "date": 1782194964
-        },
-        {
-            "title": "Consumer Services Marketing Account Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-consumer-services-marketing-account-director-power-digital-1133901",
-            "date": 1782194424
-        },
-        {
-            "title": "Capital Planning Investment Control Business Analyst Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-capital-planning-investment-control-business-analyst-lead-aretum-1133900",
-            "date": 1782194403
-        },
-        {
-            "title": "Analista de Experiencia Educativa y Mejora Continua",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-experiencia-educativa-y-mejora-continua-centro-de-e-learning-utn-frba-1134045",
-            "date": 1782194400
-        },
-        {
-            "title": "Custodio de Boveda",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-custodio-de-boveda-loomis-us-1134097",
-            "date": 1782194400
-        },
-        {
-            "title": "Despachador Armado",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-despachador-armado-loomis-us-1134106",
-            "date": 1782194400
         },
         {
             "title": "InterContinental Recruiting: Front End Web Developer, WFH",
