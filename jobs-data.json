@@ -1,8 +1,144 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-27 08:56:12",
-    "total_jobs": 125,
+    "generated_at": "2026-06-27 14:05:05",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruit-lytics-hiring-1134152",
+            "date": 1782481916
+        },
+        {
+            "title": "Administrative Assistant Entry Level",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruit-lytics-hiring-1134138",
+            "date": 1782481904
+        },
+        {
+            "title": "File Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruit-lytics-hiring-1134157",
+            "date": 1782481662
+        },
+        {
+            "title": "Data Entry Specialist Assistant Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruit-lytics-hiring-1134153",
+            "date": 1782481648
+        },
+        {
+            "title": "Virtual Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytics-hiring-1134137",
+            "date": 1782481619
+        },
+        {
+            "title": "Freelance Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-awesomehues-1134156",
+            "date": 1782481052
+        },
+        {
+            "title": "Game Tester Earn Up $500 per Game",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-game-tester-earn-up-500-per-game-jobsinmass-com-1134151",
+            "date": 1782479428
+        },
+        {
+            "title": "SOCIAL MEDIA MANAGER \u00e2\u0080",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-ae-onlinejobs-ph-1134150",
+            "date": 1782474909
+        },
+        {
+            "title": "Marketing Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-onlinejobs-ph-1134136",
+            "date": 1782474768
+        },
+        {
+            "title": "I am looking for guide",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-i-am-looking-for-guide-mixed-media-labs-inc-1134141",
+            "date": 1782468225
+        },
+        {
+            "title": "Claims Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-claims-specialist-dtla-benefits-1134173",
+            "date": 1782464449
+        },
         {
             "title": "View Open Positions",
             "company": "RemoteOK",
@@ -13,6 +149,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-view-open-positions-minds-worth-meeting-podcast-1134149",
             "date": 1782461602
+        },
+        {
+            "title": "Genealogista",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-genealogista-amorim-global-1134174",
+            "date": 1782456789
         },
         {
             "title": "Vice President Supply Chain",
@@ -250,17 +397,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
             "date": 1782392584
-        },
-        {
-            "title": "Freelance Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-la-vena-creativa-1134112",
-            "date": 1782389973
         },
         {
             "title": "Freelance Transcriptionist \u00e2\u0080\u0094 Sinhalese",
@@ -1007,144 +1143,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-backend-software-developer-bitpay-1133985",
             "date": 1782255148
-        },
-        {
-            "title": "Conserje Le\u00c3\u00b3n",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-conserje-leon-cargill-1134103",
-            "date": 1782254412
-        },
-        {
-            "title": "Evergreen \u00e6\u0096\u00b0\u00e6\u0098\u009f\u00e8\u00ae\u00a1\u00e5\u0088\u0092 \u00e5\u008c\u0097\u00e4\u00ba",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1782251915
-        },
-        {
-            "title": "Human Resources Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-administrator-lingraphica-1134011",
-            "date": 1782247822
-        },
-        {
-            "title": "Junior Data Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-caterpillar-inc-1134008",
-            "date": 1782245818
-        },
-        {
-            "title": "Associate Product Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-product-manager-caretalk-health-1133979",
-            "date": 1782245222
-        },
-        {
-            "title": "Canva Design Specialist Real Estate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-canva-design-specialist-real-estate-stratifyiq-1133978",
-            "date": 1782245060
-        },
-        {
-            "title": "Medical Secretary",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-secretary-curaleaf-international-1133992",
-            "date": 1782243718
-        },
-        {
-            "title": "Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-singapore-management-university-smu-1133977",
-            "date": 1782242471
-        },
-        {
-            "title": "Change Management Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-change-management-lead-inizio-1134113",
-            "date": 1782242113
-        },
-        {
-            "title": "Technical Support Engineer 2",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-support-engineer-2-databank-1134066",
-            "date": 1782241852
-        },
-        {
-            "title": "Docente de Educaci\u00c3\u00b3n Infantil Virtual Ingles B1",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-docente-de-educacion-infantil-virtual-ingles-b1-colegio-cambridge-international-education-1133986",
-            "date": 1782239523
-        },
-        {
-            "title": "Marketing Assistant Fully",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-assistant-fully-jazzupco-1133973",
-            "date": 1782238273
         },
         {
             "title": "Activate Talent: Senior Shopify Web Developer",
