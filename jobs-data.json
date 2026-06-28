@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-28 00:50:02",
-    "total_jobs": 123,
+    "generated_at": "2026-06-28 09:18:52",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Freelance Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-san-creatives-agency-1134185",
+            "date": 1782544505
+        },
+        {
+            "title": "Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-product-growth-expert-acquisition-afirmativa-para-pessoas-de-grupos-sub-representados-neon-pagamentos-1134159",
+            "date": 1782540004
+        },
+        {
+            "title": "Property Maintenance &amp; Operations Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-property-maintenance-amp-operations-coordinator-dart-1134171",
+            "date": 1782527015
+        },
+        {
+            "title": "Common Energy",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-common-energy-office-of-energy-amp-sustainability-1134164",
+            "date": 1782526801
+        },
+        {
+            "title": "Stok",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-stok-office-of-energy-amp-sustainability-1134197",
+            "date": 1782526341
+        },
+        {
+            "title": "IoT Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-iot-specialist-jasper-solutions-inc-1134196",
+            "date": 1782525932
+        },
+        {
+            "title": "People Operations Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-vulncheck-1134172",
+            "date": 1782525458
+        },
         {
             "title": "Frontend Developer Junior",
             "company": "RemoteOK",
@@ -105,6 +184,17 @@
             "date": 1782505324
         },
         {
+            "title": "Owner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-owner-culturelles-lassociation-des-femmes-du-ministere-de-la-culture-1134200",
+            "date": 1782503192
+        },
+        {
             "title": "Funnel Builder",
             "company": "RemoteOK",
             "company_logo": null,
@@ -147,6 +237,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-process-specialist-betfred-1134181",
             "date": 1782489632
+        },
+        {
+            "title": "Payroll Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-adp-1134203",
+            "date": 1782486820
         },
         {
             "title": "Entry Level Administrative Assistant",
@@ -226,17 +327,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytics-hiring-1134137",
             "date": 1782481619
-        },
-        {
-            "title": "Freelance Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-designer-awesomehues-1134156",
-            "date": 1782481052
         },
         {
             "title": "Game Tester Earn Up $500 per Game",
@@ -579,6 +669,17 @@
             "date": 1782392584
         },
         {
+            "title": "AWS Connect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-aws-connect-tata-consultancy-services-1134199",
+            "date": 1782392012
+        },
+        {
             "title": "Freelance Transcriptionist \u00e2\u0080\u0094 Sinhalese",
             "company": "RemoteOK",
             "company_logo": null,
@@ -599,6 +700,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-freelance-transcriptionist-akan-perle-1134091",
             "date": 1782388139
+        },
+        {
+            "title": "\u00e5\u00b7\u00a5\u00e4\u00bd\u009c\u00e4\u00ba\u00ba\u00e5\u0091",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1782387586
         },
         {
             "title": "System Software Engineer",
@@ -1000,22 +1112,32 @@
             "date": 1782310171
         },
         {
-            "title": "Maintenance Technician",
-            "company": "RemoteOK",
+            "title": "Memora ApS: Founding Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai",
-                "technician"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-favio-1134131",
-            "date": 1782306000
+            "link": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
+            "date": 1780752774
         },
         {
-            "title": "Halwai",
-            "company": "RemoteOK",
+            "title": "Varicent: Support Engineer \u2013 SQL & Web Applications (Remote - Mexico Only)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "sql"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only",
+            "date": 1780691827
+        },
+        {
+            "title": "Akamai: Senior Software Development Engineer in Test II - Automation",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1023,110 +1145,30 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-halwai-justa-hotels-amp-resorts-1134028",
-            "date": 1782305322
+            "link": "https://weworkremotely.com/remote-jobs/akamai-senior-software-development-engineer-in-test-ii-automation",
+            "date": 1780691827
         },
         {
-            "title": "Director of Procurement",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-procurement-kardion-1134002",
-            "date": 1782299227
-        },
-        {
-            "title": "Junior Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
-            "date": 1782292196
-        },
-        {
-            "title": "Bookkeeper",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bookkeeper-pickle-1133991",
-            "date": 1782291648
-        },
-        {
-            "title": "Youth Mental Wellness Coach",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-youth-mental-wellness-coach-3-clayful-1134067",
-            "date": 1782291016
-        },
-        {
-            "title": "Monitor de Concursos Racioc\u00c3\u00adnio L\u00c3\u00b3gico + Inform\u00c3\u00a1tica",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-monitor-de-concursos-raciocinio-logico-informatica-vicio-1134051",
-            "date": 1782283903
-        },
-        {
-            "title": "Data Entry Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-mercer-county-works-1133999",
-            "date": 1782280889
-        },
-        {
-            "title": "REVENUE MANAGER",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-revenue-manager-grupo-los-pueblos-1134101",
-            "date": 1782280800
-        },
-        {
-            "title": "Illustrator Graphic Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-illustrator-graphic-designer-longship-marketing-1134148",
-            "date": 1782280800
-        },
-        {
-            "title": "Aplicador de Productos Qu\u00c3\u00admicos B",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Web Applications Developer - Sacramento, CA",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "govt",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-aplicador-de-productos-quimicos-b-twin-dolphin-los-cabos-1134107",
-            "date": 1782279681
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca",
+            "date": 1780691827
+        },
+        {
+            "title": "Fonio: Founding Product Engineer (m/w/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d",
+            "date": 1780691478
         },
         {
             "title": "AHU Technologies: Manager \u2013 Business Development (Remote - FullTime)",
@@ -1295,89 +1337,6 @@
             "date": 1780418208
         },
         {
-            "title": "Linkage Web Development: [Active Pooling] Lead Generation Specialist - Virtual Assistant",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/linkage-web-development-active-pooling-lead-generation-specialist-virtual-assistant",
-            "date": 1780004305
-        },
-        {
-            "title": "Community Sports Partners: Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/community-sports-partners-web-developer",
-            "date": 1780004305
-        },
-        {
-            "title": "Swanson Health: Shopify Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/swanson-health-shopify-developer",
-            "date": 1780004305
-        },
-        {
-            "title": "thehivecareers.co: Web Developer (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote",
-            "date": 1780004305
-        },
-        {
-            "title": "Akamai: Senior DevOps Engineer II",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii",
-            "date": 1780004284
-        },
-        {
-            "title": "Horizon3 AI: Webapp Offensive Security Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/horizon3-ai-webapp-offensive-security-software-engineer",
-            "date": 1780004284
-        },
-        {
-            "title": "Developex: Project and Presale Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/developex-project-and-presale-manager",
-            "date": 1780004284
-        },
-        {
             "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1413,6 +1372,32 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
             "date": 1775161739
+        },
+        {
+            "title": "A.Team: Senior Independent AI Engineer / Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+            "date": 1718561332
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
