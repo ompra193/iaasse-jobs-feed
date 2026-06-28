@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-28 14:20:43",
+    "generated_at": "2026-06-28 19:15:09",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Industry Analysis",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-industry-analysis-citofield-1134182",
+            "date": 1782579491
+        },
         {
             "title": "Technical Lead",
             "company": "RemoteOK",
@@ -303,6 +314,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-adp-1134203",
             "date": 1782486820
+        },
+        {
+            "title": "Customer Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-recruit-lytics-hiring-1134212",
+            "date": 1782481927
         },
         {
             "title": "Entry Level Administrative Assistant",
@@ -1093,30 +1115,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-valiantys-1134069",
             "date": 1782328088
-        },
-        {
-            "title": "Assistant de formation F H",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistant-de-formation-f-h-universite-de-bordeaux-1134077",
-            "date": 1782326122
-        },
-        {
-            "title": "Test Job Post",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-job-post-halma-plc-1134053",
-            "date": 1782324251
         },
         {
             "title": "Memora ApS: Founding Engineer",
