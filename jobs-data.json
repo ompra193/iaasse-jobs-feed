@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-28 09:18:52",
-    "total_jobs": 122,
+    "generated_at": "2026-06-28 14:20:43",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Technical Lead",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-technical-lead-it-futurz-1134198",
+            "date": 1782563320
+        },
+        {
+            "title": "Ut Facere Aut",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ut-facere-aut-innodrei-1134193",
+            "date": 1782562101
+        },
+        {
+            "title": "Error Odio",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-error-odio-innodrei-1134191",
+            "date": 1782562099
+        },
+        {
+            "title": "Video Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-onlinejobs-ph-1134184",
+            "date": 1782557638
+        },
         {
             "title": "Freelance Designer",
             "company": "RemoteOK",
@@ -81,6 +125,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-people-operations-specialist-vulncheck-1134172",
             "date": 1782525458
+        },
+        {
+            "title": "Creative Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-strategist-happy-mammoth-1134205",
+            "date": 1782524541
         },
         {
             "title": "Frontend Developer Junior",
@@ -408,6 +463,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-genealogista-amorim-global-1134174",
             "date": 1782456789
+        },
+        {
+            "title": "Ayudante de RRHH",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ayudante-de-rrhh-munoz-law-firm-1134204",
+            "date": 1782453600
         },
         {
             "title": "Vice President Supply Chain",
@@ -1051,65 +1117,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-test-job-post-halma-plc-1134053",
             "date": 1782324251
-        },
-        {
-            "title": "Senior DevOps Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
-            "date": 1782322413
-        },
-        {
-            "title": "Mid Senior AI Cinematic Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
-            "date": 1782313484
-        },
-        {
-            "title": "Human Resources Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-mavida-health-1134013",
-            "date": 1782313372
-        },
-        {
-            "title": "Patient Care Advocate",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-patient-care-advocate-hey-jane-1134012",
-            "date": 1782313260
-        },
-        {
-            "title": "Nurse Advice Swing Shift 5a 10a 10p 5a CST",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "nurse"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-nurse-advice-swing-shift-5a-10a-10p-5a-cst-intellatriage-1134010",
-            "date": 1782310171
         },
         {
             "title": "Memora ApS: Founding Engineer",
