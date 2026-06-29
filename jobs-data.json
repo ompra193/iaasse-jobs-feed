@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-29 09:24:09",
+    "generated_at": "2026-06-29 16:28:46",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "JANITOR",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1134206",
+            "date": 1782640865
+        },
         {
             "title": "Senior Counsel Project Finance &amp; Commercial",
             "company": "RemoteOK",
@@ -94,6 +105,19 @@
             "date": 1782557638
         },
         {
+            "title": "AI Filmmaker",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
+            "date": 1782547218
+        },
+        {
             "title": "Freelance Designer",
             "company": "RemoteOK",
             "company_logo": null,
@@ -160,6 +184,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-stok-office-of-energy-amp-sustainability-1134197",
             "date": 1782526341
+        },
+        {
+            "title": "Competency Assessor Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-competency-assessor-operations-nextdecade-1134225",
+            "date": 1782526257
         },
         {
             "title": "IoT Specialist",
@@ -386,6 +421,17 @@
             "date": 1782503192
         },
         {
+            "title": "Operations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-manager-cxc-upstream-ltd-1134226",
+            "date": 1782502816
+        },
+        {
             "title": "Funnel Builder",
             "company": "RemoteOK",
             "company_logo": null,
@@ -450,6 +496,28 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-payroll-specialist-adp-1134203",
             "date": 1782486820
+        },
+        {
+            "title": "UX UI Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-ux-ui-designer-siroko-1134233",
+            "date": 1782486223
+        },
+        {
+            "title": "Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analyst-mphasis-1134227",
+            "date": 1782483460
         },
         {
             "title": "Customer Support",
@@ -1045,78 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-lead-creative-strategist-new-engen-1134063",
             "date": 1782357368
-        },
-        {
-            "title": "Office Support Role Pratham Education Foundation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-office-support-role-pratham-education-foundation-un-remote-jobss-1134092",
-            "date": 1782356706
-        },
-        {
-            "title": "Product manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
-            "date": 1782355257
-        },
-        {
-            "title": "Marketing Virtual Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-marketing-virtual-assistant-martell-media-1134049",
-            "date": 1782353619
-        },
-        {
-            "title": "Medical Scribe Female",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-scribe-female-angel-city-va-recruitment-1134048",
-            "date": 1782353585
-        },
-        {
-            "title": "Locator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-locator-grandbridge-energy-inc-1134118",
-            "date": 1782352541
-        },
-        {
-            "title": "Analista de Produtos Pleno Open Finance Wallet &amp; Banking Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-produtos-pleno-open-finance-wallet-amp-banking-remoto-picpay-1134044",
-            "date": 1782351956
         },
         {
             "title": "Memora ApS: Founding Engineer",
