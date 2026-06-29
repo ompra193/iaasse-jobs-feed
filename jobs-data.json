@@ -1,19 +1,8 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-29 16:28:46",
+    "generated_at": "2026-06-29 21:15:30",
     "total_jobs": 123,
     "jobs": [
-        {
-            "title": "JANITOR",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1134206",
-            "date": 1782640865
-        },
         {
             "title": "Senior Counsel Project Finance &amp; Commercial",
             "company": "RemoteOK",
@@ -1115,6 +1104,28 @@
             "date": 1782357368
         },
         {
+            "title": "Office Support Role Pratham Education Foundation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-office-support-role-pratham-education-foundation-un-remote-jobss-1134092",
+            "date": 1782356706
+        },
+        {
+            "title": "Patrianna: DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/patrianna-devops-engineer",
+            "date": 1780777853
+        },
+        {
             "title": "Memora ApS: Founding Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1338,17 +1349,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
             "date": 1780418208
-        },
-        {
-            "title": "comparis.ch: Full Stack Software Developer 80-100% (f/m/x)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x",
-            "date": 1777557358
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
