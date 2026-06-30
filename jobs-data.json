@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-30 15:04:47",
-    "total_jobs": 122,
+    "generated_at": "2026-06-30 19:47:45",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Sharetea Edmonton City Centre",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-sharetea-edmonton-city-centre-edmonton-city-centre-1134251",
+            "date": 1782754107
+        },
+        {
+            "title": "Testing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-testing-macquarie-group-1134237",
+            "date": 1782751193
+        },
         {
             "title": "Cuidador a de Ni\u00c3\u00b1os",
             "company": "RemoteOK",
@@ -123,6 +145,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-job-title-qb-corporation-1134248",
             "date": 1782679513
+        },
+        {
+            "title": "Various",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-various-glenrands-jaguar-amp-land-rover-1134256",
+            "date": 1782657200
         },
         {
             "title": "Senior Counsel Project Finance &amp; Commercial",
@@ -1080,28 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-architectural-designer-assistant-archisearch-1134110",
             "date": 1782392584
-        },
-        {
-            "title": "AWS Connect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-aws-connect-tata-consultancy-services-1134199",
-            "date": 1782392012
-        },
-        {
-            "title": "Freelance Transcriptionist \u00e2\u0080\u0094 Sinhalese",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-transcriptionist-sinhalese-perle-1134088",
-            "date": 1782388189
         },
         {
             "title": "AHU Technologies: GxP Instrument Systems Engineer- Norwood, MA",
