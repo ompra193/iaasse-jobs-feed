@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-06-30 01:27:06",
+    "generated_at": "2026-06-30 09:07:56",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Admissions Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-admissions-coordinator-discovery-institute-drug-amp-alcohol-rehab-new-jersey-1134247",
+            "date": 1782712800
+        },
+        {
+            "title": "WAREHOUSE OFFICER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-warehouse-officer-coactum-rpe-1134235",
+            "date": 1782706437
+        },
         {
             "title": "Senior Counsel Project Finance &amp; Commercial",
             "company": "RemoteOK",
@@ -1091,28 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-laborer-portales-fire-department-1134147",
             "date": 1782364261
-        },
-        {
-            "title": "Lead Creative Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-creative-strategist-new-engen-1134063",
-            "date": 1782357368
-        },
-        {
-            "title": "Office Support Role Pratham Education Foundation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-office-support-role-pratham-education-foundation-un-remote-jobss-1134092",
-            "date": 1782356706
         },
         {
             "title": "Patrianna: DevOps Engineer",
