@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-01 20:04:38",
+    "generated_at": "2026-07-02 01:24:27",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "MANAGER TECHNOLOGY MET",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-technology-met-the-home-depot-canada-1134316",
+            "date": 1782867861
+        },
+        {
+            "title": "Mortgage Operations Loan Processor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mortgage-operations-loan-processor-wealthfront-1134311",
+            "date": 1782865219
+        },
+        {
+            "title": "Full crew",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-crew-atlantic-oceanic-llc-1134321",
+            "date": 1782862898
+        },
+        {
+            "title": "Captain",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-captain-uicgs-bowhead-family-of-companies-1134323",
+            "date": 1782862878
+        },
+        {
+            "title": "Vice President of Customer Growth",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-customer-growth-patientiq-1134312",
+            "date": 1782854942
+        },
         {
             "title": "Creative Director",
             "company": "RemoteOK",
@@ -1041,67 +1098,15 @@
             "date": 1782483460
         },
         {
-            "title": "Customer Support",
-            "company": "RemoteOK",
+            "title": "Linkage Web Development: GoHighLevel Expert (Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-recruit-lytics-hiring-1134212",
-            "date": 1782481927
-        },
-        {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruit-lytics-hiring-1134152",
-            "date": 1782481916
-        },
-        {
-            "title": "Administrative Assistant Entry Level",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-entry-level-recruit-lytics-hiring-1134138",
-            "date": 1782481904
-        },
-        {
-            "title": "Human Resources Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-assistant-recruit-lytics-hiring-1134179",
-            "date": 1782481881
-        },
-        {
-            "title": "File Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruit-lytics-hiring-1134157",
-            "date": 1782481662
+            "link": "https://weworkremotely.com/remote-jobs/linkage-web-development-gohighlevel-expert-remote",
+            "date": 1780949779
         },
         {
             "title": "AHU Technologies: GxP Instrument Systems Engineer- Norwood, MA",
@@ -1357,19 +1362,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
             "date": 1775162760
-        },
-        {
-            "title": "Tether: AI Research Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
-            "date": 1775161739
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
