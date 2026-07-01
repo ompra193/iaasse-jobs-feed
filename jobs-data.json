@@ -1,8 +1,66 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-01 15:15:48",
+    "generated_at": "2026-07-01 20:04:38",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Creative Director",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-padsplit-1134310",
+            "date": 1782847266
+        },
+        {
+            "title": "Chief Financial Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-hospitable-com-1134320",
+            "date": 1782845305
+        },
+        {
+            "title": "Maintenance &amp; MEP Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
+            "date": 1782844886
+        },
+        {
+            "title": "Total Rewards Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-total-rewards-manager-pgim-ireland-1134296",
+            "date": 1782838795
+        },
+        {
+            "title": "Bid Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-bid-manager-razorblue-group-1134276",
+            "date": 1782837236
+        },
         {
             "title": "Vehicle Repair Assessor Philippines",
             "company": "RemoteOK",
@@ -882,17 +940,6 @@
             "date": 1782502816
         },
         {
-            "title": "Bid Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bid-manager-px-group-1134260",
-            "date": 1782501839
-        },
-        {
             "title": "Funnel Builder",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1055,55 +1102,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruit-lytics-hiring-1134157",
             "date": 1782481662
-        },
-        {
-            "title": "Data Entry Specialist Assistant Administrator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-specialist-assistant-administrator-recruit-lytics-hiring-1134153",
-            "date": 1782481648
-        },
-        {
-            "title": "Virtual Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruit-lytics-hiring-1134137",
-            "date": 1782481619
-        },
-        {
-            "title": "Game Tester Earn Up $500 per Game",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-game-tester-earn-up-500-per-game-jobsinmass-com-1134151",
-            "date": 1782479428
-        },
-        {
-            "title": "SOCIAL MEDIA MANAGER \u00e2\u0080",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-ae-onlinejobs-ph-1134150",
-            "date": 1782474909
         },
         {
             "title": "AHU Technologies: GxP Instrument Systems Engineer- Norwood, MA",
