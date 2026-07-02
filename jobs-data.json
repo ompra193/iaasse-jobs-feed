@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-02 09:03:36",
-    "total_jobs": 121,
+    "generated_at": "2026-07-02 14:25:09",
+    "total_jobs": 122,
     "jobs": [
         {
             "title": "Asistente administrativa",
@@ -242,6 +242,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-accommodation-administrator-fifo-14-7-roster-cairns-queensland-sodexo-1134252",
             "date": 1782800503
+        },
+        {
+            "title": "Test Role",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-test-role-atlantic-strategic-minerals-1134383",
+            "date": 1782799200
         },
         {
             "title": "Caretaker Manor Park Primary School",
@@ -747,6 +758,17 @@
             "date": 1782547218
         },
         {
+            "title": "Speculative Application",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-speculative-application-reincubate-camo-1134381",
+            "date": 1782541269
+        },
+        {
             "title": "Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1072,17 +1094,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-owner-culturelles-lassociation-des-femmes-du-ministere-de-la-culture-1134200",
             "date": 1782503192
-        },
-        {
-            "title": "Operations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-operations-manager-cxc-upstream-ltd-1134226",
-            "date": 1782502816
         },
         {
             "title": "Rehire: Senior Web Developer (WordPress & Shopify)",
