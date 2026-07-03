@@ -1,8 +1,101 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-03 14:46:56",
+    "generated_at": "2026-07-03 19:32:56",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Facility Maintenance Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-facility-maintenance-technician-pricesmart-1134399",
+            "date": 1783022073
+        },
+        {
+            "title": "Docente a Tiempo Parcial para Escuela de Comunicaci\u00c3\u00b3n",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-docente-a-tiempo-parcial-para-escuela-de-comunicacion-universidad-catolica-santo-toribio-de-mogrovejo-1134426",
+            "date": 1783019074
+        },
+        {
+            "title": "Senior AI Engineer Architect",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
+            "date": 1783016712
+        },
+        {
+            "title": "Full Stack Developer first UK",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
+            "date": 1783014774
+        },
+        {
+            "title": "Engineer 2",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-engineer-2-catalyst-brands-india-1134424",
+            "date": 1783014261
+        },
+        {
+            "title": "Multi Skilled Operative",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-multi-skilled-operative-tarmac-1134400",
+            "date": 1783010995
+        },
+        {
+            "title": "P0005148",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-p0005148-1134394",
+            "date": 1783007832
+        },
+        {
+            "title": "Spontaneous application",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-homeexchange-1134434",
+            "date": 1783007548
+        },
         {
             "title": "Junior UI Engineer",
             "company": "RemoteOK",
@@ -283,6 +376,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-derecho-remoto-universidad-privada-del-norte-1134390",
             "date": 1782932897
+        },
+        {
+            "title": "Advogado Trabalhista de Prazos",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-advogado-trabalhista-de-prazos-juridico-vagas-1134432",
+            "date": 1782914978
         },
         {
             "title": "Junior Product Designer",
@@ -969,107 +1073,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-industry-analysis-citofield-1134182",
             "date": 1782579491
-        },
-        {
-            "title": "Technical Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-technical-lead-it-futurz-1134198",
-            "date": 1782563320
-        },
-        {
-            "title": "Content",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-den-danske-seermaling-1134220",
-            "date": 1782562476
-        },
-        {
-            "title": "Ut Facere Aut",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ut-facere-aut-innodrei-1134193",
-            "date": 1782562101
-        },
-        {
-            "title": "Error Odio",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-error-odio-innodrei-1134191",
-            "date": 1782562099
-        },
-        {
-            "title": "Video Editor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-onlinejobs-ph-1134184",
-            "date": 1782557638
-        },
-        {
-            "title": "Cable Jointer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cable-jointer-ipsum-1134300",
-            "date": 1782554846
-        },
-        {
-            "title": "AI Filmmaker",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
-            "date": 1782547218
-        },
-        {
-            "title": "Speculative Application",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-speculative-application-reincubate-camo-1134381",
-            "date": 1782541269
-        },
-        {
-            "title": "Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-growth-expert-acquisition-afirmativa-para-pessoas-de-grupos-sub-representados-neon-pagamentos-1134159",
-            "date": 1782540004
         },
         {
             "title": "Willow Health: Senior Web Designer",
