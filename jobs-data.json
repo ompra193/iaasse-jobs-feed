@@ -1,8 +1,85 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-03 19:32:56",
-    "total_jobs": 120,
+    "generated_at": "2026-07-04 00:51:26",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Department Supervisor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-department-supervisor-the-home-depot-canada-1134409",
+            "date": 1783040616
+        },
+        {
+            "title": "Business Development Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-development-executive-fresha-1134417",
+            "date": 1783035745
+        },
+        {
+            "title": "Un Una capoprogetto per la revisione della Classificazione Svizzera degli Interventi Chirurgici CHOP",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-un-una-capoprogetto-per-la-revisione-della-classificazione-svizzera-degli-interventi-chirurgici-chop-bundesamt-fur-statistik-bfs-1134412",
+            "date": 1783031059
+        },
+        {
+            "title": "Asset Management Analyst Multifamily Real Estate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asset-management-analyst-multifamily-real-estate-bluecore-residential-1134402",
+            "date": 1783029655
+        },
+        {
+            "title": "Associate Account Strategist Donut Studios",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-account-strategist-donut-studios-new-engen-1134405",
+            "date": 1783028069
+        },
+        {
+            "title": "Digital Marketing Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-digital-marketing-specialist-wish-you-were-here-group-1134403",
+            "date": 1783023991
+        },
+        {
+            "title": "Operations Supervisor Healthcare Atlanta",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-atlanta-belle-1134404",
+            "date": 1783023185
+        },
         {
             "title": "Facility Maintenance Technician",
             "company": "RemoteOK",
@@ -1007,72 +1084,17 @@
             "date": 1782662801
         },
         {
-            "title": "Various",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-various-glenrands-jaguar-amp-land-rover-1134256",
-            "date": 1782657200
-        },
-        {
-            "title": "Ascent Environmental",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-ascent-environmental-office-of-energy-amp-sustainability-1134327",
-            "date": 1782612399
-        },
-        {
-            "title": "Attendant Laundry",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-attendant-laundry-siro-hotels-1134275",
-            "date": 1782601712
-        },
-        {
-            "title": "Senior Counsel Project Finance &amp; Commercial",
-            "company": "RemoteOK",
+            "title": "Paired: Senior Web Developer for a DTC Company (US-Based/Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "finance"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-counsel-project-finance-amp-commercial-energy-vault-1134188",
-            "date": 1782597604
-        },
-        {
-            "title": "DOCUMENT FORMATTING SPECIALIST",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-document-formatting-specialist-sharon-wells-1134219",
-            "date": 1782594666
-        },
-        {
-            "title": "Industry Analysis",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-industry-analysis-citofield-1134182",
-            "date": 1782579491
+            "link": "https://weworkremotely.com/remote-jobs/paired-senior-web-developer-for-a-dtc-company-us-based-remote",
+            "date": 1781107148
         },
         {
             "title": "Willow Health: Senior Web Designer",
@@ -1333,19 +1355,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/akamai-senior-lead-software-engineer-ii",
             "date": 1780517039
-        },
-        {
-            "title": "POS+: Full-Stack JavaScript Engineer (Remote - LATAM or Europe)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
-            "date": 1780506411
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
