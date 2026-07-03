@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-03 08:26:23",
+    "generated_at": "2026-07-03 14:46:56",
     "total_jobs": 120,
     "jobs": [
+        {
+            "title": "Junior UI Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-ui-engineer-arabian-private-holdings-1134413",
+            "date": 1783004794
+        },
         {
             "title": "Heading",
             "company": "RemoteOK",
@@ -13,6 +24,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-heading-bankari-sk-1134386",
             "date": 1782979319
+        },
+        {
+            "title": "Asesor call center Remoto lima o provincia",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-asesor-call-center-remoto-lima-o-provincia-shalom-1134427",
+            "date": 1782975882
         },
         {
             "title": "Industry Officer",
@@ -26,15 +48,15 @@
             "date": 1782975215
         },
         {
-            "title": "Customer Service Representative",
+            "title": "Creative",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-nestle-health-science-1134401",
-            "date": 1782970105
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-the-elites-1134415",
+            "date": 1782974153
         },
         {
             "title": "12 jobs that pay well without a degree",
@@ -68,6 +90,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-the-nature-conservancy-1134360",
             "date": 1782957014
+        },
+        {
+            "title": "Orientador a Laboral Freelance Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-orientador-a-laboral-freelance-remoto-ironhack-1134414",
+            "date": 1782955442
         },
         {
             "title": "Executive Assistant",
@@ -175,17 +208,6 @@
             "date": 1782942452
         },
         {
-            "title": "Handy Person",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-handy-person-can-group-1134380",
-            "date": 1782941795
-        },
-        {
             "title": "Resource mobiliser",
             "company": "RemoteOK",
             "company_logo": null,
@@ -272,6 +294,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407",
             "date": 1782895805
+        },
+        {
+            "title": "Profesor a de Apoyo escolar Todos los niveles",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-apoyo-escolar-todos-los-niveles-apprentus-1134416",
+            "date": 1782892001
         },
         {
             "title": "Asistente administrativa",
@@ -536,15 +569,17 @@
             "date": 1782799200
         },
         {
-            "title": "Caretaker Manor Park Primary School",
+            "title": "OSP Technician",
             "company": "RemoteOK",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "technician"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-caretaker-manor-park-primary-school-isle-of-man-public-service-careers-1134239",
-            "date": 1782792651
+            "link": "https://remoteOK.com/remote-jobs/remote-osp-technician-liberty-caribbean-1134420",
+            "date": 1782794341
         },
         {
             "title": "Vice President Operations",
@@ -679,19 +714,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-block-operator-sal-trading-limited-1134322",
             "date": 1782764327
-        },
-        {
-            "title": "Painter",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-painter-ian-williams-ltd-1134261",
-            "date": 1782760917
         },
         {
             "title": "Sharetea Edmonton City Centre",
@@ -846,17 +868,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-helpdesk-specialist-empathy-talent-1134244",
             "date": 1782726068
-        },
-        {
-            "title": "Admissions Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-admissions-coordinator-discovery-institute-drug-amp-alcohol-rehab-new-jersey-1134247",
-            "date": 1782712800
         },
         {
             "title": "WAREHOUSE OFFICER",
@@ -1061,17 +1072,15 @@
             "date": 1782540004
         },
         {
-            "title": "Property Maintenance &amp; Operations Coordinator",
-            "company": "RemoteOK",
+            "title": "Willow Health: Senior Web Designer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-property-maintenance-amp-operations-coordinator-dart-1134171",
-            "date": 1782527015
+            "link": "https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
+            "date": 1781107148
         },
         {
             "title": "Olsson: Licensed Civil Engineer - Site Design",
@@ -1334,19 +1343,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
             "date": 1780506411
-        },
-        {
-            "title": "Lemon.io: Senior React Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
-            "date": 1780476785
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
