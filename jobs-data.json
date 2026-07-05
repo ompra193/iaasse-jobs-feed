@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-05 19:07:59",
+    "generated_at": "2026-07-06 00:46:45",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Lead Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
+            "date": 1783202408
+        },
+        {
+            "title": "Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-pickle-1134486",
+            "date": 1783196694
+        },
+        {
+            "title": "Founder Ghostwriter for a U.S. based Google Ads Agency",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-1134487",
+            "date": 1783196670
+        },
         {
             "title": "Customer Support",
             "company": "RemoteOK",
@@ -250,6 +287,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-numa-1134429",
             "date": 1783089786
+        },
+        {
+            "title": "**NEW SITE OPENING** Utility Allrounder",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-new-site-opening-utility-allrounder-cater-care-1134506",
+            "date": 1783083687
         },
         {
             "title": "Residential Real Estate Title Search Quality Control",
@@ -1065,48 +1113,39 @@
             "date": 1782878813
         },
         {
-            "title": "...the seekrette is discovering what you love and doing it often..",
-            "company": "RemoteOK",
+            "title": "Indigenous Climate Action: Request for Proposals: Website Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-the-seekrette-is-discovering-what-you-love-and-doing-it-often-seekrette-1134331",
-            "date": 1782871583
+            "link": "https://weworkremotely.com/remote-jobs/indigenous-climate-action-request-for-proposals-website-developer",
+            "date": 1781214340
         },
         {
-            "title": "MANAGER TECHNOLOGY MET",
-            "company": "RemoteOK",
+            "title": "AHU Technologies: Tax Analyst- Bloomington, IL",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-technology-met-the-home-depot-canada-1134316",
-            "date": 1782867861
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-tax-analyst-bloomington-il",
+            "date": 1781202787
         },
         {
-            "title": "Mortgage Operations Loan Processor",
-            "company": "RemoteOK",
+            "title": "Air Apps: Framer Website Designer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mortgage-operations-loan-processor-wealthfront-1134311",
-            "date": 1782865219
-        },
-        {
-            "title": "Multi trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-multi-trader-moxie-people-1134408",
-            "date": 1782864546
+            "link": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer",
+            "date": 1781202787
         },
         {
             "title": "NinjaOne: Localization Web Developer",
@@ -1319,39 +1358,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca",
             "date": 1780691827
-        },
-        {
-            "title": "AHU Technologies: Manager \u2013 Business Development (Remote - FullTime)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-manager-business-development-remote-fulltime",
-            "date": 1780685040
-        },
-        {
-            "title": "Activate Talent: Senior Shopify Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
-            "date": 1780685040
-        },
-        {
-            "title": "InterContinental Recruiting: Front End Web Developer, WFH",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/intercontinental-recruiting-front-end-web-developer-wfh",
-            "date": 1780685040
         },
         {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
