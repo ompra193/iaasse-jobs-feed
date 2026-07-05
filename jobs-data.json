@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-05 00:42:08",
+    "generated_at": "2026-07-05 08:52:22",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Online Casino Game Tester",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-casino-game-tester-rgampt-solutions-1134455",
+            "date": 1783144030
+        },
+        {
+            "title": "Member of Marketing Staff",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-member-of-marketing-staff-slingshot-1134448",
+            "date": 1783141650
+        },
+        {
+            "title": "All Positions",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-all-positions-tamworth-regional-council-1134462",
+            "date": 1783139057
+        },
+        {
+            "title": "Manager HR Business Partner",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-manager-hr-business-partner-linkedin-1134451",
+            "date": 1783135140
+        },
+        {
+            "title": "Business Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-blockchain-com-1134457",
+            "date": 1783133615
+        },
         {
             "title": "Special Services Associate AIRDRIE",
             "company": "RemoteOK",
@@ -37,6 +94,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
             "date": 1783116013
+        },
+        {
+            "title": "Buyer I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-buyer-i-jabil-1134489",
+            "date": 1783109431
         },
         {
             "title": "Supply Chain Director",
@@ -992,6 +1060,17 @@
             "date": 1782854942
         },
         {
+            "title": "THE STRAND HOUSE",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-the-strand-house-zislis-group-1134485",
+            "date": 1782847355
+        },
+        {
             "title": "Creative Director",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1026,87 +1105,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
             "date": 1782844886
-        },
-        {
-            "title": "Total Rewards Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-total-rewards-manager-pgim-ireland-1134296",
-            "date": 1782838795
-        },
-        {
-            "title": "Bid Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-bid-manager-razorblue-group-1134276",
-            "date": 1782837236
-        },
-        {
-            "title": "Vehicle Repair Assessor Philippines",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vehicle-repair-assessor-philippines-hire-with-reef-1134253",
-            "date": 1782828003
-        },
-        {
-            "title": "Speculative",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-speculative-flok-health-1134257",
-            "date": 1782816260
-        },
-        {
-            "title": "Good Life Helper",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-good-life-helper-good-life-sorted-1134482",
-            "date": 1782807614
-        },
-        {
-            "title": "Accommodation Administrator FIFO 14 7 Roster Cairns Queensland",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-accommodation-administrator-fifo-14-7-roster-cairns-queensland-sodexo-1134252",
-            "date": 1782800503
-        },
-        {
-            "title": "Test Role",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-role-atlantic-strategic-minerals-1134383",
-            "date": 1782799200
         },
         {
             "title": "NinjaOne: Localization Web Developer",
