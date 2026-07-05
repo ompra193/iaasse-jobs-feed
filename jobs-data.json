@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-05 08:52:22",
+    "generated_at": "2026-07-05 14:21:51",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Customer Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytics-hiring-1134472",
+            "date": 1783174876
+        },
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hiring-1134471",
+            "date": 1783174863
+        },
+        {
+            "title": "File Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytics-hiring-1134495",
+            "date": 1783173718
+        },
+        {
+            "title": "Jobs",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-jobs-konkan-development-society-1134490",
+            "date": 1783173532
+        },
         {
             "title": "Online Casino Game Tester",
             "company": "RemoteOK",
@@ -107,6 +155,19 @@
             "date": 1783109431
         },
         {
+            "title": "Watch Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-watch-clerk-city-of-campbell-river-1134493",
+            "date": 1783104502
+        },
+        {
             "title": "Supply Chain Director",
             "company": "RemoteOK",
             "company_logo": null,
@@ -151,19 +212,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-psicopedagogos-para-alumnos-con-tdah-tus-media-1134428",
             "date": 1783091330
-        },
-        {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-relyticx-hr-1134433",
-            "date": 1783089860
         },
         {
             "title": "Junior Data Analyst",
@@ -381,6 +429,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-associate-account-strategist-donut-studios-new-engen-1134405",
             "date": 1783028069
+        },
+        {
+            "title": "Greenskeeper",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-greenskeeper-city-of-brantford-1134491",
+            "date": 1783026787
         },
         {
             "title": "Project Manager Donut Studios",
@@ -1047,64 +1106,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-asst-manager-overseas-business-development-geeta-group-of-companies-1134443",
             "date": 1782858578
-        },
-        {
-            "title": "Vice President of Customer Growth",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-customer-growth-patientiq-1134312",
-            "date": 1782854942
-        },
-        {
-            "title": "THE STRAND HOUSE",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-the-strand-house-zislis-group-1134485",
-            "date": 1782847355
-        },
-        {
-            "title": "Creative Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-padsplit-1134310",
-            "date": 1782847266
-        },
-        {
-            "title": "Chief Financial Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-chief-financial-officer-hospitable-com-1134320",
-            "date": 1782845305
-        },
-        {
-            "title": "Maintenance &amp; MEP Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-maintenance-amp-mep-technician-scales-and-associates-1134325",
-            "date": 1782844886
         },
         {
             "title": "NinjaOne: Localization Web Developer",
