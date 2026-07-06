@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-06 15:50:21",
+    "generated_at": "2026-07-06 21:01:28",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Innovation",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-innovation-doshi-group-1134520",
+            "date": 1783276487
+        },
+        {
+            "title": "Public Relations Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-public-relations-manager-temu-1134532",
+            "date": 1783236178
+        },
         {
             "title": "Supply Chain Analyst",
             "company": "RemoteOK",
@@ -1097,26 +1119,15 @@
             "date": 1782934026
         },
         {
-            "title": "Docente Tiempo Parcial Derecho Remoto",
-            "company": "RemoteOK",
+            "title": "Aguru UK Ltd: Senior Full Stack Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-derecho-remoto-universidad-privada-del-norte-1134390",
-            "date": 1782932897
-        },
-        {
-            "title": "Advogado Trabalhista de Prazos",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-advogado-trabalhista-de-prazos-juridico-vagas-1134432",
-            "date": 1782914978
+            "link": "https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
+            "date": 1781257936
         },
         {
             "title": "Abstract: Full Stack Web Developer \u23e4 Remote Contractor",
@@ -1353,17 +1364,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/servicetitan-web-developer",
             "date": 1780949738
-        },
-        {
-            "title": "Memora ApS: Founding Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
-            "date": 1780752774
         },
         {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
