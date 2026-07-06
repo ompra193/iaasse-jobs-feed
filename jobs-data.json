@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-06 09:00:29",
+    "generated_at": "2026-07-06 15:50:21",
     "total_jobs": 122,
     "jobs": [
         {
@@ -14,6 +14,17 @@
             ],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
+            "date": 1783231200
+        },
+        {
+            "title": "Junior Front End Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
             "date": 1783231200
         },
         {
@@ -1106,17 +1117,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-advogado-trabalhista-de-prazos-juridico-vagas-1134432",
             "date": 1782914978
-        },
-        {
-            "title": "Junior Product Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407",
-            "date": 1782895805
         },
         {
             "title": "Abstract: Full Stack Web Developer \u23e4 Remote Contractor",
