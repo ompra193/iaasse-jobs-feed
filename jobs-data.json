@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-06 21:01:28",
-    "total_jobs": 122,
+    "generated_at": "2026-07-07 01:26:11",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-creator-medicomedics-1134523",
+            "date": 1783302136
+        },
+        {
+            "title": "Business Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-nibm-kandy-1134504",
+            "date": 1783293521
+        },
         {
             "title": "Innovation",
             "company": "RemoteOK",
@@ -215,17 +237,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-manager-hr-business-partner-linkedin-1134451",
             "date": 1783135140
-        },
-        {
-            "title": "Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-blockchain-com-1134457",
-            "date": 1783133615
         },
         {
             "title": "Assistente de Processos",
@@ -1097,26 +1108,17 @@
             "date": 1782936182
         },
         {
-            "title": "India posts require 17 Staff Car Drivers Fast track your application",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-india-posts-require-17-staff-car-drivers-fast-track-your-application-the-kashmir-monitor-1134373",
-            "date": 1782934170
-        },
-        {
-            "title": "BRENTWOOD CHAGUANAS",
-            "company": "RemoteOK",
+            "title": "Drivetrain: UI/UX Website Designer (copy)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-brentwood-chaguanas-tommys-brewing-company-1134374",
-            "date": 1782934026
+            "link": "https://weworkremotely.com/remote-jobs/drivetrain-ui-ux-website-designer-copy",
+            "date": 1781554067
         },
         {
             "title": "Aguru UK Ltd: Senior Full Stack Engineer",
@@ -1366,6 +1368,17 @@
             "date": 1780949738
         },
         {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+            "date": 1778750068
+        },
+        {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -1388,32 +1401,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
             "date": 1747425814
-        },
-        {
-            "title": "A.Team: Senior Independent AI Engineer / Architect",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-            "date": 1718561332
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
