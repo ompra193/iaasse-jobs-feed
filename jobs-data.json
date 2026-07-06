@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-06 00:46:45",
+    "generated_at": "2026-07-06 09:00:29",
     "total_jobs": 122,
     "jobs": [
+        {
+            "title": "Supply Chain Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
+            "date": 1783231200
+        },
+        {
+            "title": "dishwasher",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dishwasher-pur-amp-simple-1134492",
+            "date": 1783226452
+        },
+        {
+            "title": "Human Resources Generalist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-coberonchronos-1134499",
+            "date": 1783221036
+        },
         {
             "title": "Lead Data Scientist",
             "company": "RemoteOK",
@@ -160,6 +195,28 @@
             "date": 1783133615
         },
         {
+            "title": "Assistente de Processos",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-processos-sicoob-1134513",
+            "date": 1783130515
+        },
+        {
+            "title": "Editor Paginator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-editor-paginator-the-canadian-press-1134517",
+            "date": 1783129053
+        },
+        {
             "title": "Special Services Associate AIRDRIE",
             "company": "RemoteOK",
             "company_logo": null,
@@ -265,6 +322,19 @@
             "date": 1783096551
         },
         {
+            "title": "Supply Chain Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-executive-pharmanovia-1134515",
+            "date": 1783092949
+        },
+        {
             "title": "Psicopedagogos para alumnos con TDAH",
             "company": "RemoteOK",
             "company_logo": null,
@@ -366,6 +436,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-supervisora-de-operacoes-e-reservas-remoto-panrotas-1134468",
             "date": 1783058400
+        },
+        {
+            "title": "Auxiliar financeiro",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-auxiliar-financeiro-hiflex-group-1134514",
+            "date": 1783054348
         },
         {
             "title": "General Operative Northern Ireland",
@@ -571,6 +654,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-facility-maintenance-technician-pricesmart-1134399",
             "date": 1783022073
+        },
+        {
+            "title": "\u00c2\u00a1Vacante Remota Atenci\u00c3\u00b3n al Cliente Contrataci\u00c3\u00b3n R\u00c3\u00a1pida",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vacante-remota-atencion-al-cliente-contratacion-rapida-gea-peru-1134510",
+            "date": 1783019155
         },
         {
             "title": "Docente a Tiempo Parcial para Escuela de Comunicaci\u00c3\u00b3n",
@@ -1025,92 +1119,41 @@
             "date": 1782895805
         },
         {
-            "title": "Profesor a de Apoyo escolar Todos los niveles",
-            "company": "RemoteOK",
+            "title": "Abstract: Full Stack Web Developer \u23e4 Remote Contractor",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor",
+            "date": 1781214341
+        },
+        {
+            "title": "https://shiperp.com/: PHP Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "php"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-profesor-a-de-apoyo-escolar-todos-los-niveles-apprentus-1134416",
-            "date": 1782892001
+            "link": "https://weworkremotely.com/remote-jobs/https-shiperp-com-php-web-developer",
+            "date": 1781214341
         },
         {
-            "title": "Asistente administrativa",
-            "company": "RemoteOK",
+            "title": "WorkStaff360: E-commerce Web Developer (Next.js / Node.js experience is required)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "node"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asistente-administrativa-syntepro-s-a-de-c-v-1134334",
-            "date": 1782891967
-        },
-        {
-            "title": "Tutor profesor clases particulares m\u00c3\u00baltiples actividades",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-tutor-profesor-clases-particulares-multiples-actividades-apprentus-1134317",
-            "date": 1782891954
-        },
-        {
-            "title": "Growth &amp; Success Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-growth-amp-success-manager-medida-ai-1134356",
-            "date": 1782890563
-        },
-        {
-            "title": "Template",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-template-justworks-1134315",
-            "date": 1782885220
-        },
-        {
-            "title": "Class 1 Shunt Driver",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-class-1-shunt-driver-coca-cola-canada-bottling-limited-1134349",
-            "date": 1782885010
-        },
-        {
-            "title": "Social Media and Influencer Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-and-influencer-manager-pete-amp-gerrys-organics-llc-1134313",
-            "date": 1782882027
-        },
-        {
-            "title": "SVP Banking Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-svp-banking-operations-nymbus-1134314",
-            "date": 1782878813
+            "link": "https://weworkremotely.com/remote-jobs/workstaff360-e-commerce-web-developer-next-js-node-js-experience-is-required",
+            "date": 1781214340
         },
         {
             "title": "Indigenous Climate Action: Request for Proposals: Website Developer",
@@ -1321,43 +1364,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
             "date": 1780752774
-        },
-        {
-            "title": "Varicent: Support Engineer \u2013 SQL & Web Applications (Remote - Mexico Only)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "sql"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only",
-            "date": 1780691827
-        },
-        {
-            "title": "Akamai: Senior Software Development Engineer in Test II - Automation",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/akamai-senior-software-development-engineer-in-test-ii-automation",
-            "date": 1780691827
-        },
-        {
-            "title": "AHU Technologies: Web Applications Developer - Sacramento, CA",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca",
-            "date": 1780691827
         },
         {
             "title": "bunny.net: Staff Software Engineer (Magic Containers)",
