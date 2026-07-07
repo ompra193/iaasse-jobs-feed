@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-07 08:50:53",
-    "total_jobs": 122,
+    "generated_at": "2026-07-07 15:09:57",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "GET",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-get-yokogawa-1134535",
+            "date": 1783350883
+        },
+        {
+            "title": "CRO specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-cro-specialist-sofatutor-1134522",
+            "date": 1783345274
+        },
+        {
+            "title": "Entry Level Administrative Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytic-hiring-1134524",
+            "date": 1783342717
+        },
+        {
+            "title": "Virtual Executive Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytic-hiring-1134546",
+            "date": 1783342059
+        },
         {
             "title": "Expression of Interest",
             "company": "RemoteOK",
@@ -164,19 +212,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-customer-support-recruitlytics-hiring-1134472",
             "date": 1783174876
-        },
-        {
-            "title": "Entry Level Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-entry-level-administrative-assistant-recruitlytics-hiring-1134471",
-            "date": 1783174863
         },
         {
             "title": "Administrative Data Entry File Clerk",
@@ -746,6 +781,17 @@
             "date": 1783019074
         },
         {
+            "title": "Associate Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-analyst-trinity-life-sciences-1134551",
+            "date": 1783017257
+        },
+        {
             "title": "Senior AI Engineer Architect",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1064,61 +1110,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
             "date": 1782942699
-        },
-        {
-            "title": "Registrar",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-registrar-queensland-government-1134378",
-            "date": 1782942452
-        },
-        {
-            "title": "Resource mobiliser",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-resource-mobiliser-vrindavan-chandrodaya-mandir-1134372",
-            "date": 1782941012
-        },
-        {
-            "title": "Junior Crypto Trader",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-limited-1134351",
-            "date": 1782939902
-        },
-        {
-            "title": "Events &amp; Experiences Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-events-amp-experiences-coordinator-blinkrx-1134354",
-            "date": 1782938399
-        },
-        {
-            "title": "Agency Core 1",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-agency-core-1-caterpillar-inc-1134350",
-            "date": 1782938007
         },
         {
             "title": "Drivetrain: UI/UX Website Designer (copy)",
