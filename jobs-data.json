@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-07 20:02:00",
-    "total_jobs": 122,
+    "generated_at": "2026-07-08 01:24:01",
+    "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Operator Red days",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operator-red-days-princes-group-1134538",
+            "date": 1783377561
+        },
+        {
+            "title": "Proposal Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-proposal-manager-linkedin-1134548",
+            "date": 1783372088
+        },
         {
             "title": "SCL Agent",
             "company": "RemoteOK",
@@ -105,6 +127,19 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-virtual-executive-assistant-recruitlytic-hiring-1134546",
             "date": 1783342059
+        },
+        {
+            "title": "File Clerk",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "clerk"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytic-hiring-1134559",
+            "date": 1783341868
         },
         {
             "title": "Expression of Interest",
@@ -258,6 +293,17 @@
             "date": 1783196670
         },
         {
+            "title": "Detection Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-detection-specialist-iampu-studios-1134561",
+            "date": 1783193634
+        },
+        {
             "title": "Customer Support",
             "company": "RemoteOK",
             "company_logo": null,
@@ -283,19 +329,6 @@
             "date": 1783174032
         },
         {
-            "title": "File Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytics-hiring-1134495",
-            "date": 1783173718
-        },
-        {
             "title": "Jobs",
             "company": "RemoteOK",
             "company_logo": null,
@@ -305,6 +338,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-jobs-konkan-development-society-1134490",
             "date": 1783173532
+        },
+        {
+            "title": "\u00e7\u0095\u0099\u00e5\u00ad\u00a6\u00e9\u00a1\u00be\u00e9\u0097\u00ae\u00ef\u00bc\u0088\u00e7\u00be\u008e\u00e6\u009c\u00ac\u00e9\u00a1\u00be\u00e9\u0097\u00ae\u00ef\u00bc",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/",
+            "date": 1783154670
         },
         {
             "title": "Online Casino Game Tester",
@@ -1060,67 +1104,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-orientador-a-laboral-freelance-remoto-ironhack-1134414",
             "date": 1782955442
-        },
-        {
-            "title": "Executive Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-executive-assistant-efficientaide-1134363",
-            "date": 1782954480
-        },
-        {
-            "title": "Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-scientist-new-flyer-1134357",
-            "date": 1782953221
-        },
-        {
-            "title": "Event Planning Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-event-planning-assistant-professional-travel-planners-llc-1134361",
-            "date": 1782953162
-        },
-        {
-            "title": "Custodian",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-custodian-kbr-inc-1134467",
-            "date": 1782953106
-        },
-        {
-            "title": "Vice President of Operations",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-operations-vestcom-1134359",
-            "date": 1782951696
         },
         {
             "title": "Drivetrain: UI/UX Website Designer (copy)",
