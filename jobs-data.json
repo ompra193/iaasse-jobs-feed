@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-07 15:09:57",
-    "total_jobs": 121,
+    "generated_at": "2026-07-07 20:02:00",
+    "total_jobs": 122,
     "jobs": [
+        {
+            "title": "SCL Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scl-agent-skanska-costain-strabag-joint-venture-1134541",
+            "date": 1783368470
+        },
+        {
+            "title": "Agent",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-agent-skanska-costain-strabag-joint-venture-1134540",
+            "date": 1783368449
+        },
+        {
+            "title": "Scrum Master",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-scrum-master-holliday-systems-inc-1134531",
+            "date": 1783362637
+        },
+        {
+            "title": "Expression of Interest Transition of Candidate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-transition-of-candidate-accenture-australia-1134526",
+            "date": 1783356914
+        },
+        {
+            "title": "Wireless Systems Technical Support Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
+            "date": 1783355283
+        },
         {
             "title": "GET",
             "company": "RemoteOK",
@@ -1066,50 +1121,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-vice-president-of-operations-vestcom-1134359",
             "date": 1782951696
-        },
-        {
-            "title": "Assistente de Atendimento ao Cliente",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-atendimento-ao-cliente-stone-1134389",
-            "date": 1782947978
-        },
-        {
-            "title": "Influencer Marketing Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-influencer-marketing-coordinator-nello-1134355",
-            "date": 1782946756
-        },
-        {
-            "title": "Manager of Influencer Marketing",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-manager-of-influencer-marketing-newhouse-1134353",
-            "date": 1782944443
-        },
-        {
-            "title": "Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
-            "date": 1782942699
         },
         {
             "title": "Drivetrain: UI/UX Website Designer (copy)",
