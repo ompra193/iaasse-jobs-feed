@@ -1,8 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-08 13:57:15",
+    "generated_at": "2026-07-08 19:34:52",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Freelance T\u00c3\u00a9cnico Audiovisual Sevilla",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-tecnico-audiovisual-sevilla-openwebinars-1134563",
+            "date": 1783452212
+        },
+        {
+            "title": "Creative Director YouTube",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-youtube-flick-1134582",
+            "date": 1783451478
+        },
+        {
+            "title": "Regional Training Supervisor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
+            "date": 1783450308
+        },
+        {
+            "title": "Replacement for Joe test",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-replacement-for-joe-test-infinity-group-1134556",
+            "date": 1783442287
+        },
+        {
+            "title": "Associate Data Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-data-analyst-arabian-private-holdings-1134566",
+            "date": 1783440288
+        },
+        {
+            "title": "Junior Business Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-arabian-private-holdings-1134577",
+            "date": 1783436795
+        },
         {
             "title": "Online Bidder",
             "company": "RemoteOK",
@@ -92,6 +162,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-testing-testing-test-gold-standard-1134544",
             "date": 1783400307
+        },
+        {
+            "title": "Tutor Virtual Matem\u00c3\u00a1ticas",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-tutor-virtual-matematicas-universidad-del-valle-de-guatemala-1134593",
+            "date": 1783398570
         },
         {
             "title": "Operations Supervisor Healthcare South Georgia",
@@ -1023,87 +1104,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-facility-maintenance-technician-pricesmart-1134399",
             "date": 1783022073
-        },
-        {
-            "title": "\u00c2\u00a1Vacante Remota Atenci\u00c3\u00b3n al Cliente Contrataci\u00c3\u00b3n R\u00c3\u00a1pida",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vacante-remota-atencion-al-cliente-contratacion-rapida-gea-peru-1134510",
-            "date": 1783019155
-        },
-        {
-            "title": "Docente a Tiempo Parcial para Escuela de Comunicaci\u00c3\u00b3n",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-docente-a-tiempo-parcial-para-escuela-de-comunicacion-universidad-catolica-santo-toribio-de-mogrovejo-1134426",
-            "date": 1783019074
-        },
-        {
-            "title": "Associate Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-analyst-trinity-life-sciences-1134551",
-            "date": 1783017257
-        },
-        {
-            "title": "Senior AI Engineer Architect",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-ai-engineer-architect-lemon-io-1134396",
-            "date": 1783016712
-        },
-        {
-            "title": "Full Stack Developer first UK",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
-            "date": 1783014774
-        },
-        {
-            "title": "Engineer 2",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-engineer-2-catalyst-brands-india-1134424",
-            "date": 1783014261
-        },
-        {
-            "title": "Associate Accounts Payable Expert",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "accounts"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-accounts-payable-expert-capgemini-1134474",
-            "date": 1783011290
         },
         {
             "title": "Pavago: Website Designer",
