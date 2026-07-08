@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-08 08:08:25",
+    "generated_at": "2026-07-08 13:57:15",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Online Bidder",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-bidder-digitex-technologies-1134567",
+            "date": 1783431499
+        },
+        {
+            "title": "Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-designer-archisearch-1134565",
+            "date": 1783429844
+        },
+        {
+            "title": "Paid Media Specialist Meta & Google Ads",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-paid-media-specialist-meta-google-ads-noventra-group-1134552",
+            "date": 1783422536
+        },
+        {
+            "title": "Custodian",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-custodian-hospitality-newfoundland-and-labrador-1134554",
+            "date": 1783420181
+        },
         {
             "title": "Lifeguard",
             "company": "RemoteOK",
@@ -24,6 +70,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-dutch-speaking-customer-service-agent-for-imperial-work-from-home-greece-mercier-consultancy-1134545",
             "date": 1783404008
+        },
+        {
+            "title": "Multi Trader",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-multi-trader-bampr-home-1134574",
+            "date": 1783401195
         },
         {
             "title": "Testing Testing Test",
@@ -78,6 +135,17 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-operator-red-days-princes-group-1134538",
+            "date": 1783377561
+        },
+        {
+            "title": "Skilled Operator blue shift days",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-skilled-operator-blue-shift-days-princes-group-1134575",
             "date": 1783377561
         },
         {
@@ -145,6 +213,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-wireless-systems-technical-support-engineer-intracom-telecom-1134530",
             "date": 1783355283
+        },
+        {
+            "title": "Junior Project Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-project-manager-asg-international-1134576",
+            "date": 1783350922
         },
         {
             "title": "GET",
@@ -1027,83 +1106,15 @@
             "date": 1783011290
         },
         {
-            "title": "Multi Skilled Operative",
-            "company": "RemoteOK",
+            "title": "Pavago: Website Designer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-multi-skilled-operative-tarmac-1134400",
-            "date": 1783010995
-        },
-        {
-            "title": "P0005148",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-p0005148-1134394",
-            "date": 1783007832
-        },
-        {
-            "title": "Spontaneous application",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-homeexchange-1134434",
-            "date": 1783007548
-        },
-        {
-            "title": "Junior UI Engineer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-ui-engineer-arabian-private-holdings-1134413",
-            "date": 1783004794
-        },
-        {
-            "title": "SELEZIONE PUBBLICA PER TITOLI ED ESAMI PER L\u00e2\u0080\u0099ASSUNZIONE A TEMPO DETERMINATO DI 2 FUNZIONARI PROFILO ECONOMISTA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-selezione-pubblica-per-titoli-ed-esami-per-lassunzione-a-tempo-determinato-di-2-funzionari-profilo-economista-dipartimento-della-funzione-pubblica-1134465",
-            "date": 1782998147
-        },
-        {
-            "title": "Computer Aided Design Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-computer-aided-design-designer-indovance-inc-1134470",
-            "date": 1782996685
-        },
-        {
-            "title": "Heading",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-heading-bankari-sk-1134386",
-            "date": 1782979319
+            "link": "https://weworkremotely.com/remote-jobs/pavago-website-designer",
+            "date": 1781554067
         },
         {
             "title": "Drivetrain: UI/UX Website Designer (copy)",
@@ -1388,17 +1399,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
             "date": 1778589286
-        },
-        {
-            "title": "Mobena: Frontend Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
-            "date": 1747425814
         }
     ]
 }
