@@ -1,8 +1,66 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-09 15:08:06",
+    "generated_at": "2026-07-09 20:27:41",
     "total_jobs": 119,
     "jobs": [
+        {
+            "title": "Attractions Instructor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-attractions-instructor-royal-caribbean-international-1134598",
+            "date": 1783544145
+        },
+        {
+            "title": "Events Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-events-manager-lantern-1134622",
+            "date": 1783540273
+        },
+        {
+            "title": "Influencer &amp; Community Marketing Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-influencer-amp-community-marketing-executive-ubt-1134631",
+            "date": 1783539988
+        },
+        {
+            "title": "Data center technician Dispatch",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data",
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-data-center-technician-dispatch-sharp-brains-1134595",
+            "date": 1783537364
+        },
+        {
+            "title": "Mali",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mali-ghar-1134606",
+            "date": 1783530649
+        },
         {
             "title": "Vendor Partner Lead",
             "company": "RemoteOK",
@@ -573,6 +631,28 @@
             "date": 1783368449
         },
         {
+            "title": "Freelance Social Media &amp; Marketing Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-freelance-social-media-amp-marketing-executive-meplus-nutrition-1134635",
+            "date": 1783366380
+        },
+        {
+            "title": "Social Media Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-uniupp-1134633",
+            "date": 1783364140
+        },
+        {
             "title": "Scrum Master",
             "company": "RemoteOK",
             "company_logo": null,
@@ -995,89 +1075,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
             "date": 1783116013
-        },
-        {
-            "title": "Buyer I",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-buyer-i-jabil-1134489",
-            "date": 1783109431
-        },
-        {
-            "title": "Watch Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-watch-clerk-city-of-campbell-river-1134493",
-            "date": 1783104502
-        },
-        {
-            "title": "Supply Chain Director",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-director-novaris-search-1134454",
-            "date": 1783099200
-        },
-        {
-            "title": "Associate Officer ARFF",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-associate-officer-arff-adani-airport-holdings-ltd-1134460",
-            "date": 1783098376
-        },
-        {
-            "title": "Pedagogy Specialist English",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pedagogy-specialist-english-cloudfactory-1134456",
-            "date": 1783096551
-        },
-        {
-            "title": "Supply Chain Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-executive-pharmanovia-1134515",
-            "date": 1783092949
-        },
-        {
-            "title": "Psicopedagogos para alumnos con TDAH",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-psicopedagogos-para-alumnos-con-tdah-tus-media-1134428",
-            "date": 1783091330
         },
         {
             "title": "AHU Technologies: SDET / Automated QA Engineer- Seattle WA",
