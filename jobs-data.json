@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-10 08:46:36",
+    "generated_at": "2026-07-10 15:03:43",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Operador de Portaria Remota Recife PE Seu Novo Emprego",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-operador-de-portaria-remota-recife-pe-seu-novo-emprego-buscarvagas-empregos-brasil-1134659",
+            "date": 1783604419
+        },
+        {
+            "title": "Houseperson",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-houseperson-accor-1134656",
+            "date": 1783604246
+        },
         {
             "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
             "company": "RemoteOK",
@@ -1093,28 +1115,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-nibm-kandy-1134504",
             "date": 1783293521
-        },
-        {
-            "title": "Spontaneous Application Saskatoon",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-saskatoon-germain-hotels-1134572",
-            "date": 1783280507
-        },
-        {
-            "title": "Innovation",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-innovation-doshi-group-1134520",
-            "date": 1783276487
         },
         {
             "title": "MRIoA: Web Developer (Remote)",
