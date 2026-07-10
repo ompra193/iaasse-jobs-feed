@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-10 15:03:43",
+    "generated_at": "2026-07-10 19:55:28",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Firefighter ARFF",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-firefighter-arff-adani-airport-holdings-ltd-1134670",
+            "date": 1783617282
+        },
+        {
+            "title": "Junior Ecommerce Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-ecommerce-specialist-haystack-1134653",
+            "date": 1783614604
+        },
         {
             "title": "Operador de Portaria Remota Recife PE Seu Novo Emprego",
             "company": "RemoteOK",
@@ -103,6 +125,17 @@
             "date": 1783579869
         },
         {
+            "title": "Non USA",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
+            "date": 1783579716
+        },
+        {
             "title": "Founder's Office Finance Super App",
             "company": "RemoteOK",
             "company_logo": null,
@@ -194,6 +227,17 @@
             "skills": [],
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-ahmedabad-aditya-birla-capital-1134630",
+            "date": 1783567969
+        },
+        {
+            "title": "SLT HDFC BB Bangalore",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-bangalore-aditya-birla-capital-1134676",
             "date": 1783567969
         },
         {
@@ -542,6 +586,19 @@
             "date": 1783484428
         },
         {
+            "title": "Medical Writer Scientific Communications",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "medical"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-medical-writer-scientific-communications-prime-1134662",
+            "date": 1783484373
+        },
+        {
             "title": "Social Media Manager TikTok and Founder",
             "company": "RemoteOK",
             "company_logo": null,
@@ -827,6 +884,17 @@
             "date": 1783404008
         },
         {
+            "title": "eLearning Developer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-elearning-developer-the-learning-network-1134666",
+            "date": 1783404000
+        },
+        {
             "title": "Multi Trader",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1045,76 +1113,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-pedagogy-specialist-spanish-cloudfactory-1134562",
             "date": 1783344555
-        },
-        {
-            "title": "File Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytic-hiring-1134559",
-            "date": 1783341868
-        },
-        {
-            "title": "Expression of Interest",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-easygo-1134525",
-            "date": 1783317631
-        },
-        {
-            "title": "Head of Hiring and Training South FL",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-head-of-hiring-and-training-south-fl-7-brew-coffee-1134543",
-            "date": 1783317600
-        },
-        {
-            "title": "Human Resources Generalist Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-manager-seasoned-recruitment-1134533",
-            "date": 1783306419
-        },
-        {
-            "title": "Content Creator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-content-creator-medicomedics-1134523",
-            "date": 1783302136
-        },
-        {
-            "title": "Business Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-analyst-rotaract-club-of-nibm-kandy-1134504",
-            "date": 1783293521
         },
         {
             "title": "MRIoA: Web Developer (Remote)",
