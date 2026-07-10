@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-10 19:55:28",
-    "total_jobs": 123,
+    "generated_at": "2026-07-11 00:56:13",
+    "total_jobs": 125,
     "jobs": [
+        {
+            "title": "Health Navigator I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-health-navigator-i-moda-health-1134652",
+            "date": 1783646015
+        },
+        {
+            "title": "Caretaker City Buildings",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-caretaker-city-buildings-city-of-kalgoorlie-boulder-1134655",
+            "date": 1783631055
+        },
+        {
+            "title": "Mason",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-mason-united-infrastructure-ltd-1134639",
+            "date": 1783630179
+        },
         {
             "title": "Firefighter ARFF",
             "company": "RemoteOK",
@@ -147,6 +180,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-founders-office-finance-super-app-bjak-1134604",
             "date": 1783576804
+        },
+        {
+            "title": "General Consideration",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-general-consideration-certasite-1134683",
+            "date": 1783576800
         },
         {
             "title": "Barista",
@@ -1093,26 +1137,50 @@
             "date": 1783350883
         },
         {
-            "title": "CRO specialist",
-            "company": "RemoteOK",
+            "title": "1Password: Senior Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cro-specialist-sofatutor-1134522",
-            "date": 1783345274
+            "link": "https://weworkremotely.com/remote-jobs/1password-senior-web-developer",
+            "date": 1781749152
         },
         {
-            "title": "Pedagogy Specialist Spanish",
-            "company": "RemoteOK",
+            "title": "Solar Secure Solutions: Web Development Intern",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/solar-secure-solutions-web-development-intern",
+            "date": 1781749152
+        },
+        {
+            "title": "Remote VA: Web Developer & AI Specialist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-ai-specialist",
+            "date": 1781749152
+        },
+        {
+            "title": "Remote VA: Web Developer (BigCommerce Experience Required)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pedagogy-specialist-spanish-cloudfactory-1134562",
-            "date": 1783344555
+            "link": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+            "date": 1781749152
         },
         {
             "title": "MRIoA: Web Developer (Remote)",
@@ -1338,54 +1406,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
             "date": 1781200975
-        },
-        {
-            "title": "Paired: Senior Web Developer for a DTC Company (US-Based/Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/paired-senior-web-developer-for-a-dtc-company-us-based-remote",
-            "date": 1781107148
-        },
-        {
-            "title": "Willow Health: Senior Web Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
-            "date": 1781107148
-        },
-        {
-            "title": "Olsson: Licensed Civil Engineer - Site Design",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "civil"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/olsson-licensed-civil-engineer-site-design",
-            "date": 1781107148
-        },
-        {
-            "title": "Rehire: Senior Web Developer (WordPress & Shopify)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
-            "date": 1781107148
         },
         {
             "title": "Sticker Mule: Software engineer",
