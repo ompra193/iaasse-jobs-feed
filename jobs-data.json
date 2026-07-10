@@ -1,8 +1,193 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-10 01:15:34",
-    "total_jobs": 120,
+    "generated_at": "2026-07-10 08:46:36",
+    "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Update Add Your Resume Any Position EOI Infrastructure Projects",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-update-add-your-resume-any-position-eoi-infrastructure-projects-bellwether-group-1134658",
+            "date": 1783585671
+        },
+        {
+            "title": "Coordinador de Medio Ambiente y Desarrollo Comunitario",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-coordinador-de-medio-ambiente-y-desarrollo-comunitario-wisefind-1134642",
+            "date": 1783585144
+        },
+        {
+            "title": "Docente Tiempo Parcial Desarrollo de Psicomotricidad en Primera Infancia Remoto",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-desarrollo-de-psicomotricidad-en-primera-infancia-remoto-universidad-privada-del-norte-1134611",
+            "date": 1783580769
+        },
+        {
+            "title": "Docente Tiempo Parcial Elaboraci\u00c3\u00b3n Materiales Educativos Nivel Primaria SJL",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-elaboracion-materiales-educativos-nivel-primaria-sjl-universidad-privada-del-norte-1134613",
+            "date": 1783580694
+        },
+        {
+            "title": "Docente Tiempo Parcial Elaboraci\u00c3\u00b3n Materiales Educativos Primera Infancia SJL",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-docente-tiempo-parcial-elaboracion-materiales-educativos-primera-infancia-sjl-universidad-privada-del-norte-1134609",
+            "date": 1783580684
+        },
+        {
+            "title": "Dispatch Coordinator I",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dispatch-coordinator-i-belle-1134617",
+            "date": 1783580267
+        },
+        {
+            "title": "Pesquisador em Teoria da Mudan\u00c3\u00a7a",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-pesquisador-em-teoria-da-mudanca-instituto-cordial-1134643",
+            "date": 1783579869
+        },
+        {
+            "title": "Founder's Office Finance Super App",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-founders-office-finance-super-app-bjak-1134604",
+            "date": 1783576804
+        },
+        {
+            "title": "Barista",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-barista-spark-1134640",
+            "date": 1783574024
+        },
+        {
+            "title": "SLT HDFC BB Delhi",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-delhi-aditya-birla-capital-1134624",
+            "date": 1783567969
+        },
+        {
+            "title": "SLT HDFC BB Ludhiana",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-ludhiana-aditya-birla-capital-1134625",
+            "date": 1783567969
+        },
+        {
+            "title": "SLT HDFC BB Pondicherry",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-pondicherry-aditya-birla-capital-1134626",
+            "date": 1783567969
+        },
+        {
+            "title": "SLT HDFC BB Chennai",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-chennai-aditya-birla-capital-1134627",
+            "date": 1783567969
+        },
+        {
+            "title": "SLT HDFC BB Mumbai",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-mumbai-aditya-birla-capital-1134629",
+            "date": 1783567969
+        },
+        {
+            "title": "SLT HDFC BB Ahmedabad",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-ahmedabad-aditya-birla-capital-1134630",
+            "date": 1783567969
+        },
+        {
+            "title": "Accounts Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-cxc-upstream-ltd-1134628",
+            "date": 1783565812
+        },
         {
             "title": "Freelance Background Artist for YouTube Studio",
             "company": "RemoteOK",
@@ -932,156 +1117,15 @@
             "date": 1783276487
         },
         {
-            "title": "Public Relations Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-public-relations-manager-temu-1134532",
-            "date": 1783236178
-        },
-        {
-            "title": "Supply Chain Analyst",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-supply-chain-analyst-diva-1134516",
-            "date": 1783231200
-        },
-        {
-            "title": "Junior Front End Developer",
-            "company": "RemoteOK",
+            "title": "MRIoA: Web Developer (Remote)",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-front-end-developer-pulsemedia-mena-1134518",
-            "date": 1783231200
-        },
-        {
-            "title": "Human Resources Generalist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-coberonchronos-1134499",
-            "date": 1783221036
-        },
-        {
-            "title": "Lead Data Scientist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lead-data-scientist-brigit-1134476",
-            "date": 1783202408
-        },
-        {
-            "title": "Administrative Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-pickle-1134486",
-            "date": 1783196694
-        },
-        {
-            "title": "Founder Ghostwriter for a U.S. based Google Ads Agency",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-1134487",
-            "date": 1783196670
-        },
-        {
-            "title": "Detection Specialist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-detection-specialist-iampu-studios-1134561",
-            "date": 1783193634
-        },
-        {
-            "title": "Administrative Data Entry File Clerk",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "clerk"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytics-hiring-1134498",
-            "date": 1783174032
-        },
-        {
-            "title": "Jobs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-jobs-konkan-development-society-1134490",
-            "date": 1783173532
-        },
-        {
-            "title": "\u00e7\u0095\u0099\u00e5\u00ad\u00a6\u00e9\u00a1\u00be\u00e9\u0097\u00ae\u00ef\u00bc\u0088\u00e7\u00be\u008e\u00e6\u009c\u00ac\u00e9\u00a1\u00be\u00e9\u0097\u00ae\u00ef\u00bc",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/",
-            "date": 1783154670
-        },
-        {
-            "title": "Assistente Administrativo",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-grupo-santa-helena-1134615",
-            "date": 1783144800
-        },
-        {
-            "title": "Desenhista",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-desenhista-engemon-engenharia-amp-construcao-1134641",
-            "date": 1783144800
+            "link": "https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote",
+            "date": 1781749152
         },
         {
             "title": "AHU Technologies: SDET / Automated QA Engineer- Seattle WA",
@@ -1344,17 +1388,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
             "date": 1781107148
-        },
-        {
-            "title": "FatturaElettronica APP: Full-Stack Web App Developer Saas (Mid-Senior)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/fatturaelettronica-app-full-stack-web-app-developer-saas-mid-senior",
-            "date": 1781043379
         },
         {
             "title": "Sticker Mule: Software engineer",
