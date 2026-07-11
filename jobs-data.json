@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-11 18:47:51",
+    "generated_at": "2026-07-12 00:32:20",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "WAREHOUSE OFFICER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-warehouse-officer-nexilon-energy-systems-pvt-ltd-1134694",
+            "date": 1783714969
+        },
+        {
+            "title": "ASSISTENTE ADMINISTRATIVO BARUERI SP",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-barueri-sp-sgs-1134705",
+            "date": 1783714750
+        },
         {
             "title": "Resume Inbox",
             "company": "RemoteOK",
@@ -254,6 +276,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-adelaide-opsarmy-careers-1134698",
             "date": 1783671645
+        },
+        {
+            "title": "Australian English Voice Actor Perth",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-australian-english-voice-actor-perth-opsarmy-careers-1134709",
+            "date": 1783671557
         },
         {
             "title": "Support Technician Level 1 2",
@@ -1072,8 +1105,30 @@
             "date": 1783451478
         },
         {
-            "title": "Regional Training Supervisor",
-            "company": "RemoteOK",
+            "title": "Atcom: Senior .NET Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
+            "date": 1782142194
+        },
+        {
+            "title": "Mindrift: Freelance Web Designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-web-designer",
+            "date": 1782142193
+        },
+        {
+            "title": "KAI Partners: Technical Solutions Engineer/Web Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
@@ -1081,30 +1136,19 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
-            "date": 1783450308
+            "link": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
+            "date": 1782142193
         },
         {
-            "title": "Senior Vice President &amp; General Manager Senior Living",
-            "company": "RemoteOK",
+            "title": "ALIQAN Technologies: Site Reliability Engineer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-senior-vice-president-amp-general-manager-senior-living-pointclickcare-1134686",
-            "date": 1783447977
-        },
-        {
-            "title": "Replacement for Joe test",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-replacement-for-joe-test-infinity-group-1134556",
-            "date": 1783442287
+            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-site-reliability-engineer",
+            "date": 1782142193
         },
         {
             "title": "1Password: Senior Web Developer",
@@ -1321,61 +1365,15 @@
             "date": 1781214340
         },
         {
-            "title": "AHU Technologies: Tax Analyst- Bloomington, IL",
+            "title": "Speechify Inc: Senior Software Engineer, Web",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-tax-analyst-bloomington-il",
-            "date": 1781202787
-        },
-        {
-            "title": "Air Apps: Framer Website Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer",
-            "date": 1781202787
-        },
-        {
-            "title": "NinjaOne: Localization Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ninjaone-localization-web-developer",
-            "date": 1781202787
-        },
-        {
-            "title": "AHU Technologies: Senior Technical Business Analyst- Atlanta, GA",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-senior-technical-business-analyst-atlanta-ga",
-            "date": 1781202787
-        },
-        {
-            "title": "Cortes 23: Senior QA Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
-            "date": 1781200975
+            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
+            "date": 1779543839
         },
         {
             "title": "Sticker Mule: Software engineer",
