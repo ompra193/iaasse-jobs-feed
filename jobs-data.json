@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-12 13:45:54",
+    "generated_at": "2026-07-12 18:48:04",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "Atendente Relacionamento Ouvidoria",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-atendente-relacionamento-ouvidoria-vivo-telefonica-brasil-1134706",
+            "date": 1783792818
+        },
         {
             "title": "Recepcionista Jr Bela Vista SP",
             "company": "RemoteOK",
@@ -112,6 +123,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-assistente-administrativo-barueri-sp-sgs-1134705",
             "date": 1783714750
+        },
+        {
+            "title": "Deputy Chief Executive Officer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
+            "date": 1783714723
         },
         {
             "title": "Resume Inbox",
@@ -998,17 +1020,6 @@
             "date": 1783507966
         },
         {
-            "title": "Project Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-project-manager-queensland-government-1134623",
-            "date": 1783503610
-        },
-        {
             "title": "Data Entry Typist",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1090,17 +1101,17 @@
             "date": 1783476896
         },
         {
-            "title": "Assistente Financeiro",
-            "company": "RemoteOK",
+            "title": "Coin Market Cap: Technical AI Product Manager",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "finance"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-assistente-financeiro-sicoob-1134592",
-            "date": 1783476168
+            "link": "https://weworkremotely.com/remote-jobs/coin-market-cap-technical-ai-product-manager",
+            "date": 1782851455
         },
         {
             "title": "Lemon.io: Senior React Native Developer",
@@ -1350,17 +1361,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/drivetrain-ui-ux-website-designer-copy",
             "date": 1781554067
-        },
-        {
-            "title": "Aguru UK Ltd: Senior Full Stack Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
-            "date": 1781257936
         },
         {
             "title": "Speechify Inc: Senior Software Engineer, Web",
