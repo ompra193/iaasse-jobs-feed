@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-12 18:48:04",
-    "total_jobs": 121,
+    "generated_at": "2026-07-13 00:35:03",
+    "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Heading",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-heading-ux-ui-design-k7-tech-1134723",
+            "date": 1783808400
+        },
+        {
+            "title": "CRM & Lifecycle Manager",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-crm-lifecycle-manager-joko-1134710",
+            "date": 1783807202
+        },
+        {
+            "title": "Junior Web Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-hunt-remotely-1134732",
+            "date": 1783804617
+        },
+        {
+            "title": "Graduate Data Scientist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
+            "date": 1783800047
+        },
         {
             "title": "Atendente Relacionamento Ouvidoria",
             "company": "RemoteOK",
@@ -35,6 +81,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-brad-phillips-milton-fire-department-inc-1134702",
             "date": 1783767442
+        },
+        {
+            "title": "Online Birth Certificate",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-birth-certificate-ajebask-1134733",
+            "date": 1783765152
         },
         {
             "title": "You",
@@ -92,6 +149,17 @@
             "date": 1783745041
         },
         {
+            "title": "Social Media Coordinator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-digital-style-house-1134743",
+            "date": 1783744795
+        },
+        {
             "title": "and Academic Specialist All Subjects",
             "company": "RemoteOK",
             "company_logo": null,
@@ -101,6 +169,39 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-and-academic-specialist-all-subjects-sinica-education-1134717",
             "date": 1783735146
+        },
+        {
+            "title": "Director of Customer Success",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-customer-success-innergy-1134738",
+            "date": 1783733778
+        },
+        {
+            "title": "Illustrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-illustrator-zebomba-games-1134735",
+            "date": 1783730942
+        },
+        {
+            "title": "Educational Programs Administrator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-educational-programs-administrator-lingraphica-1134741",
+            "date": 1783727248
         },
         {
             "title": "WAREHOUSE OFFICER",
@@ -134,6 +235,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
             "date": 1783714723
+        },
+        {
+            "title": "Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
+            "date": 1783708614
         },
         {
             "title": "Resume Inbox",
@@ -202,17 +314,6 @@
             "date": 1783702280
         },
         {
-            "title": "Junior Web Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-junior-web-designer-arabian-private-holdings-1134699",
-            "date": 1783699586
-        },
-        {
             "title": "Expression of Interest Application",
             "company": "RemoteOK",
             "company_logo": null,
@@ -233,6 +334,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-custodian-crunch-fitness-fit-fusion-llc-1134693",
             "date": 1783698476
+        },
+        {
+            "title": "KYC Compliance Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-kyc-compliance-analyst-kast-1134740",
+            "date": 1783692268
         },
         {
             "title": "Administrative Customer Support",
@@ -1018,87 +1130,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
             "date": 1783507966
-        },
-        {
-            "title": "Data Entry Typist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-entry-typist-argus-medical-management-llc-1134579",
-            "date": 1783503047
-        },
-        {
-            "title": "RTW Driver",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-rtw-driver-parkland-corporation-1134587",
-            "date": 1783499835
-        },
-        {
-            "title": "Asset Management Specialist Water Wastewater Treatment",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-asset-management-specialist-water-wastewater-treatment-woodard-amp-curran-1134569",
-            "date": 1783490405
-        },
-        {
-            "title": "12 jobs that pay well without a degree",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-12-jobs-that-pay-well-without-a-degree-unigo-1134605",
-            "date": 1783484428
-        },
-        {
-            "title": "Medical Writer Scientific Communications",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-medical-writer-scientific-communications-prime-1134662",
-            "date": 1783484373
-        },
-        {
-            "title": "Social Media Manager TikTok and Founder",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-tiktok-and-founder-once-upon-a-farm-1134578",
-            "date": 1783479434
-        },
-        {
-            "title": "Creative Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-strategist-ramen-bae-1134585",
-            "date": 1783476896
         },
         {
             "title": "Coin Market Cap: Technical AI Product Manager",
