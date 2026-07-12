@@ -1,8 +1,63 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-12 00:32:20",
+    "generated_at": "2026-07-12 08:13:12",
     "total_jobs": 121,
     "jobs": [
+        {
+            "title": "You",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-you-dqc-data-quality-company-1134701",
+            "date": 1783758116
+        },
+        {
+            "title": "DPS Employee II",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-dps-employee-ii-paw-paw-police-dept-1134697",
+            "date": 1783754963
+        },
+        {
+            "title": "Assistente de Gente e Cultura J\u00c3\u00banior",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-assistente-de-gente-e-cultura-junior-joyn-group-1134711",
+            "date": 1783753393
+        },
+        {
+            "title": "Analista de Atra\u00c3\u00a7\u00c3\u00a3o e Sele\u00c3\u00a7\u00c3\u00a3o Tempor\u00c3\u00a1rio",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-analista-de-atracao-e-selecao-temporario-lojas-renner-s-a-1134703",
+            "date": 1783745041
+        },
+        {
+            "title": "and Academic Specialist All Subjects",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-and-academic-specialist-all-subjects-sinica-education-1134717",
+            "date": 1783735146
+        },
         {
             "title": "WAREHOUSE OFFICER",
             "company": "RemoteOK",
@@ -1048,61 +1103,52 @@
             "date": 1783472637
         },
         {
-            "title": "Compliance Market Surveillance Analyst",
-            "company": "RemoteOK",
+            "title": "Lemon.io: Senior React Native Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react"
+            ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-compliance-market-surveillance-analyst-crypto-com-1134599",
-            "date": 1783466344
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer",
+            "date": 1782396710
         },
         {
-            "title": "Human Resources Administrative Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-human-resources-administrative-coordinator-enstar-group-1134583",
-            "date": 1783458725
-        },
-        {
-            "title": "Freelance T\u00c3\u00a9cnico Audiovisual Sevilla",
-            "company": "RemoteOK",
+            "title": "Mindrift: Freelance Full-Stack Web App Developer",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "contract",
             "skills": [],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-tecnico-audiovisual-sevilla-openwebinars-1134563",
-            "date": 1783452212
+            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer",
+            "date": 1782334593
         },
         {
-            "title": "CAD Assistant",
-            "company": "RemoteOK",
+            "title": "Unqork: Intern-Web Application Penetration Tester",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester",
+            "date": 1782334593
+        },
+        {
+            "title": "Akamai: Security Architect II",
+            "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "assistant"
+                "ai"
             ],
             "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-cad-assistant-recruitgo-careers-1134601",
-            "date": 1783452211
-        },
-        {
-            "title": "Creative Director YouTube",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-creative-director-youtube-flick-1134582",
-            "date": 1783451478
+            "link": "https://weworkremotely.com/remote-jobs/akamai-security-architect-ii",
+            "date": 1782334593
         },
         {
             "title": "Atcom: Senior .NET Web Developer",
@@ -1315,54 +1361,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
             "date": 1781257936
-        },
-        {
-            "title": "Abstract: Full Stack Web Developer \u23e4 Remote Contractor",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor",
-            "date": 1781214341
-        },
-        {
-            "title": "https://shiperp.com/: PHP Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "php"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/https-shiperp-com-php-web-developer",
-            "date": 1781214341
-        },
-        {
-            "title": "WorkStaff360: E-commerce Web Developer (Next.js / Node.js experience is required)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/workstaff360-e-commerce-web-developer-next-js-node-js-experience-is-required",
-            "date": 1781214340
-        },
-        {
-            "title": "Indigenous Climate Action: Request for Proposals: Website Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/indigenous-climate-action-request-for-proposals-website-developer",
-            "date": 1781214340
         },
         {
             "title": "Speechify Inc: Senior Software Engineer, Web",
