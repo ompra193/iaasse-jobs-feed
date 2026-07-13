@@ -1,8 +1,54 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-13 14:55:35",
+    "generated_at": "2026-07-13 20:02:45",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "Brand Executive",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-brand-executive-brand-organic-1134730",
+            "date": 1783879346
+        },
+        {
+            "title": "Social Media & Marketing Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-marketing-virtual-assistant-outsource-access-careers-1134728",
+            "date": 1783875771
+        },
+        {
+            "title": "O&amp;M",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-oampm-kirloskar-solar-technologies-pvt-ltd-1134745",
+            "date": 1783872979
+        },
+        {
+            "title": "Vacancy Development",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-vacancy-development-unicor-pharmatech-llp-1134727",
+            "date": 1783870142
+        },
         {
             "title": "Inbound Sales Closer",
             "company": "RemoteOK",
@@ -37,6 +83,19 @@
             "date": 1783850743
         },
         {
+            "title": "Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-remoteva-1134765",
+            "date": 1783844376
+        },
+        {
             "title": "HR Assistant",
             "company": "RemoteOK",
             "company_logo": null,
@@ -49,6 +108,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729",
             "date": 1783844375
+        },
+        {
+            "title": "Architectural Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-architectural-designer-remoteva-1134763",
+            "date": 1783844309
         },
         {
             "title": "Interface Designer",
@@ -993,6 +1063,28 @@
             "date": 1783576800
         },
         {
+            "title": "Social Media Officer Freelance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-officer-freelance-boleh-dicoba-digital-1134764",
+            "date": 1783576800
+        },
+        {
+            "title": "Copywriter Freelance",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-copywriter-freelance-boleh-dicoba-digital-1134766",
+            "date": 1783576800
+        },
+        {
             "title": "Barista",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1035,101 +1127,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-pondicherry-aditya-birla-capital-1134626",
             "date": 1783567969
-        },
-        {
-            "title": "SLT HDFC BB Chennai",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-chennai-aditya-birla-capital-1134627",
-            "date": 1783567969
-        },
-        {
-            "title": "SLT HDFC BB Mumbai",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-mumbai-aditya-birla-capital-1134629",
-            "date": 1783567969
-        },
-        {
-            "title": "SLT HDFC BB Ahmedabad",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-ahmedabad-aditya-birla-capital-1134630",
-            "date": 1783567969
-        },
-        {
-            "title": "SLT HDFC BB Bangalore",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-slt-hdfc-bb-bangalore-aditya-birla-capital-1134676",
-            "date": 1783567969
-        },
-        {
-            "title": "Accounts Assistant",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant",
-                "accounts"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-accounts-assistant-cxc-upstream-ltd-1134628",
-            "date": 1783565812
-        },
-        {
-            "title": "Freelance Background Artist for YouTube Studio",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-freelance-background-artist-for-youtube-studio-newscape-studios-inc-1134620",
-            "date": 1783561376
-        },
-        {
-            "title": "Territory Sales Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-territory-sales-manager-celsius-1134619",
-            "date": 1783559182
-        },
-        {
-            "title": "\u00c2\u00a0SUPERVISEUR 31 94",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-superviseur-31-94-the-home-depot-canada-1134603",
-            "date": 1783558982
         },
         {
             "title": "Highlevel: Product Solutions Engineer - Creator Platform",
