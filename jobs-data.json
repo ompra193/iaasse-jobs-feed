@@ -1,8 +1,143 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-13 00:35:03",
+    "generated_at": "2026-07-13 08:14:21",
     "total_jobs": 124,
     "jobs": [
+        {
+            "title": "HR Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-assistant-remoteva-1134729",
+            "date": 1783844375
+        },
+        {
+            "title": "Interface Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-interface-designer-grow-the-roses-1134742",
+            "date": 1783841382
+        },
+        {
+            "title": "General Applicant Position",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-general-applicant-position-hunt-remotely-1134720",
+            "date": 1783831927
+        },
+        {
+            "title": "Healthcare Intake Coordinator Alberta",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-healthcare-intake-coordinator-alberta-carewell-1134719",
+            "date": 1783825417
+        },
+        {
+            "title": "Creative Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-creative-strategist-jts-growth-1134718",
+            "date": 1783825398
+        },
+        {
+            "title": "Social Media Content Creator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-social-media-content-creator-classet-1134716",
+            "date": 1783825350
+        },
+        {
+            "title": "Video Editor Off Season",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-video-editor-off-season-atlanta-gladiators-1134734",
+            "date": 1783819468
+        },
+        {
+            "title": "The Hiring Process",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-the-hiring-process-bfc-aerospace-1134724",
+            "date": 1783819133
+        },
+        {
+            "title": "Online Language Tutors",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-online-language-tutors-martin-language-school-1134715",
+            "date": 1783818579
+        },
+        {
+            "title": "Content Strategist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-content-strategist-content-forge-1134714",
+            "date": 1783818494
+        },
+        {
+            "title": "Podcast Video Editor",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-podcast-video-editor-hyprwork-1134713",
+            "date": 1783818406
+        },
+        {
+            "title": "Graphic Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-huzzle-1134712",
+            "date": 1783818354
+        },
         {
             "title": "Heading",
             "company": "RemoteOK",
@@ -193,6 +328,17 @@
             "date": 1783730942
         },
         {
+            "title": "Billing Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-billing-specialist-databank-1134749",
+            "date": 1783730259
+        },
+        {
             "title": "Educational Programs Administrator",
             "company": "RemoteOK",
             "company_logo": null,
@@ -235,6 +381,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-deputy-chief-executive-officer-thehivecareers-1134731",
             "date": 1783714723
+        },
+        {
+            "title": "Director Social Media Marketing",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-social-media-marketing-starface-world-1134746",
+            "date": 1783713908
         },
         {
             "title": "Designer",
@@ -973,163 +1130,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-project-coordinator-franklin-fitch-1134634",
             "date": 1783552566
-        },
-        {
-            "title": "Controller Financiero",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-controller-financiero-veolia-1134632",
-            "date": 1783549990
-        },
-        {
-            "title": "Test 1 posting",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-1-posting-sonic-healthcare-uk-1134608",
-            "date": 1783546218
-        },
-        {
-            "title": "Attractions Instructor",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-attractions-instructor-royal-caribbean-international-1134598",
-            "date": 1783544145
-        },
-        {
-            "title": "Joiner Multi",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-joiner-multi-united-infrastructure-ltd-1134638",
-            "date": 1783543788
-        },
-        {
-            "title": "Events Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-events-manager-lantern-1134622",
-            "date": 1783540273
-        },
-        {
-            "title": "Influencer &amp; Community Marketing Executive",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-influencer-amp-community-marketing-executive-ubt-1134631",
-            "date": 1783539988
-        },
-        {
-            "title": "Data center technician Dispatch",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data",
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-data-center-technician-dispatch-sharp-brains-1134595",
-            "date": 1783537364
-        },
-        {
-            "title": "Mali",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-mali-ghar-1134606",
-            "date": 1783530649
-        },
-        {
-            "title": "Vendor Partner Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-vendor-partner-lead-linkedin-1134596",
-            "date": 1783523847
-        },
-        {
-            "title": "Test",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-test-solvay-1134589",
-            "date": 1783520250
-        },
-        {
-            "title": "Social Content Lead",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-content-lead-kast-1134618",
-            "date": 1783517140
-        },
-        {
-            "title": "RESTAURANT JOBS",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-restaurant-jobs-boudin-bakery-cafe-1134590",
-            "date": 1783516318
-        },
-        {
-            "title": "Social Media Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-manager-digital-1134621",
-            "date": 1783509080
-        },
-        {
-            "title": "Architectural Drafter Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-architectural-drafter-designer-onlinejobs-ph-1134584",
-            "date": 1783507966
         },
         {
             "title": "Coin Market Cap: Technical AI Product Manager",
