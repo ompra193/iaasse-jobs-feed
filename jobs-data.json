@@ -1,8 +1,65 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-15 07:55:13",
+    "generated_at": "2026-07-15 13:38:44",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Senior Analyst Project Support",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-senior-analyst-project-support-cint-1134818",
+            "date": 1784035213
+        },
+        {
+            "title": "Equipment Technician",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "technician"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-equipment-technician-favio-1134827",
+            "date": 1784034000
+        },
+        {
+            "title": "Handyperson",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-handyperson-wmjobs-1134835",
+            "date": 1784022020
+        },
+        {
+            "title": "Motion Designer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+            "date": 1784020105
+        },
+        {
+            "title": "Junior Content Writer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-content-writer-supportyourapp-1134790",
+            "date": 1784019780
+        },
         {
             "title": "Data Entry Clerk Data Entry Specialist",
             "company": "RemoteOK",
@@ -279,6 +336,17 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-metro-jarmani-limited-1134798",
             "date": 1783949042
+        },
+        {
+            "title": "Director of Operations",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-director-of-operations-confidential-careers-1134844",
+            "date": 1783946838
         },
         {
             "title": "Data Analyst Healthcare",
@@ -1057,72 +1125,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-building-operator-level-one-fairmont-hotels-amp-resorts-1134828",
             "date": 1783712712
-        },
-        {
-            "title": "Designer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-designer-crevtus-1134739",
-            "date": 1783708614
-        },
-        {
-            "title": "Resume Inbox",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-resume-inbox-mark-thomas-1134682",
-            "date": 1783706998
-        },
-        {
-            "title": "Social Media Creator &amp; Manager",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-social-media-creator-amp-manager-simplee-drinks-1134810",
-            "date": 1783705874
-        },
-        {
-            "title": "QUICK EAT &amp; DRINKS",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-quick-eat-amp-drinks-khoja-khoji-1134691",
-            "date": 1783705809
-        },
-        {
-            "title": "ACCOMMODATIONS",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-accommodations-khoja-khoji-1134725",
-            "date": 1783705708
-        },
-        {
-            "title": "All Jobs",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-all-jobs-expat-shield-insurance-solutions-in-thailand-thats-chubb-life-1134692",
-            "date": 1783704693
         },
         {
             "title": "Highlevel: Product Solutions Engineer - Creator Platform",
