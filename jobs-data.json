@@ -1,8 +1,87 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-17 13:38:53",
+    "generated_at": "2026-07-17 18:56:45",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "Exuma Operator",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-exuma-operator-seven-seas-water-group-1134950",
+            "date": 1784227352
+        },
+        {
+            "title": "Museum Specialist",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-museum-specialist-smithsonian-institution-1134957",
+            "date": 1784220150
+        },
+        {
+            "title": "Date Posted",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-date-posted-optn-inc-1134954",
+            "date": 1784218190
+        },
+        {
+            "title": "Virtual Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-somewhere-1134914",
+            "date": 1784214635
+        },
+        {
+            "title": "Junior Power BI Analyst",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-junior-power-bi-analyst-statusneo-1134912",
+            "date": 1784214196
+        },
+        {
+            "title": "Zentix Software",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-zentix-software-superbcompanies-1134971",
+            "date": 1784202441
+        },
+        {
+            "title": "Supbot",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-supbot-superbcompanies-1134969",
+            "date": 1784202426
+        },
         {
             "title": "HR Assistant",
             "company": "RemoteOK",
@@ -655,6 +734,17 @@
             "date": 1784055869
         },
         {
+            "title": "QA Engineer",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-qa-engineer-ineight-1134965",
+            "date": 1784055465
+        },
+        {
             "title": "Customer Success Manager Brazil",
             "company": "RemoteOK",
             "company_logo": null,
@@ -1032,96 +1122,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-hiring-operations-team-member-bbg-etc-bbg-etc-1134781",
             "date": 1783987880
-        },
-        {
-            "title": "L\u00c3\u00adder T\u00c3\u00a9cnico de Dados I Remoto",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-lider-tecnico-de-dados-i-remoto-bling-1134907",
-            "date": 1783986344
-        },
-        {
-            "title": "IMPIEGATO A TELEFONICO RECUPERO CREDITI FULL PUGLIA",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-impiegato-a-telefonico-recupero-crediti-full-puglia-covisian-credit-management-1134920",
-            "date": 1783986327
-        },
-        {
-            "title": "Client Success Manager NYC Fully",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779",
-            "date": 1783984354
-        },
-        {
-            "title": "Director of Social Media",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-director-of-social-media-truheight-vitamins-1134775",
-            "date": 1783984190
-        },
-        {
-            "title": "Instructional Operations Coordinator",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-instructional-operations-coordinator-masteryprep-1134774",
-            "date": 1783984042
-        },
-        {
-            "title": "Pool Technician",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "technician"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-pool-technician-four-seasons-1134787",
-            "date": 1783983259
-        },
-        {
-            "title": "Software developmentFrontend Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-software-developmentfrontend-developer-defdone-1134928",
-            "date": 1783983114
-        },
-        {
-            "title": "Jr Creative Strategist",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-jr-creative-strategist-trivium-group-1134870",
-            "date": 1783980803
         },
         {
             "title": "Chemin: Product Translation Reviewer (Mandarin - English)",
