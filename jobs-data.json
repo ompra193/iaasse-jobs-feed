@@ -1,8 +1,44 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-17 08:05:24",
+    "generated_at": "2026-07-17 13:38:53",
     "total_jobs": 123,
     "jobs": [
+        {
+            "title": "HR Assistant",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-hr-assistant-sundayy-1134900",
+            "date": 1784199732
+        },
+        {
+            "title": "Create Your Own Role",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-create-your-own-role-newsletterjobs-io-1134897",
+            "date": 1784192470
+        },
+        {
+            "title": "Publisher",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-publisher-newsletterjobs-io-1134898",
+            "date": 1784192405
+        },
         {
             "title": "Asesor de Atenci\u00c3\u00b3n al Cliente Inmobiliario Call center Remoto",
             "company": "RemoteOK",
@@ -35,6 +71,28 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-danny-pinter-1134892",
             "date": 1784181649
+        },
+        {
+            "title": "COURIER",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-courier-doctors-hospital-1134947",
+            "date": 1784181600
+        },
+        {
+            "title": "Associate Customer Engagement",
+            "company": "RemoteOK",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
+            "date": 1784177709
         },
         {
             "title": "Patient Scheduler II",
@@ -1064,63 +1122,6 @@
             "salary": null,
             "link": "https://remoteOK.com/remote-jobs/remote-jr-creative-strategist-trivium-group-1134870",
             "date": 1783980803
-        },
-        {
-            "title": "Product Manager AI",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
-            "date": 1783980032
-        },
-        {
-            "title": "Podcaster and Content Creator Psychology Today",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-podcaster-and-content-creator-psychology-today-psychology-today-1134808",
-            "date": 1783975831
-        },
-        {
-            "title": "Business Intelligence Developer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-business-intelligence-developer-base-com-1134926",
-            "date": 1783975536
-        },
-        {
-            "title": "Procurement Officer",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-procurement-officer-gales-agro-products-1134769",
-            "date": 1783972639
-        },
-        {
-            "title": "Clases de Refuerzo Primaria Media Jornada",
-            "company": "RemoteOK",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://remoteOK.com/remote-jobs/remote-clases-de-refuerzo-primaria-media-jornada-tusclasesparticulares-1134792",
-            "date": 1783972153
         },
         {
             "title": "Chemin: Product Translation Reviewer (Mandarin - English)",
