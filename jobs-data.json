@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-19 00:32:19",
+    "generated_at": "2026-07-19 08:09:50",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor",
+            "date": 1782851572
+        },
         {
             "title": "Accuweather Careers: Product Manager, Mapping and Weather Visualization",
             "company": "WeWorkRemotely",
@@ -280,19 +291,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
             "date": 1779543839
-        },
-        {
-            "title": "Stellar AI: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-            "date": 1761075386
         }
     ]
 }
