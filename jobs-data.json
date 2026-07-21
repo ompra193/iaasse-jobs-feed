@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-21 13:57:05",
+    "generated_at": "2026-07-21 19:18:11",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Khibraty: Product Manager / QA Analyst (Full-Time Remote Contractor)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
+            "date": 1782851572
+        },
         {
             "title": "Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)",
             "company": "WeWorkRemotely",
@@ -59,17 +70,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws",
             "date": 1782851528
-        },
-        {
-            "title": "Hyperdev: Intermediate Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hyperdev-intermediate-full-stack-developer",
-            "date": 1782851520
         },
         {
             "title": "Sowelo Consulting: Full Stack Developer",
