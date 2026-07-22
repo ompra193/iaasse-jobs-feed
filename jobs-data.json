@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-22 13:57:51",
+    "generated_at": "2026-07-22 19:21:42",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Holepunch: Product / Technical Project Manager (100% Remote, Worldwide)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/holepunch-product-technical-project-manager-100-remote-worldwide",
+            "date": 1782851595
+        },
         {
             "title": "Khibraty: Product Manager / QA Analyst (Full-Time Remote Contractor)",
             "company": "WeWorkRemotely",
@@ -280,17 +291,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-site-reliability-engineer",
             "date": 1782142193
-        },
-        {
-            "title": "Speechify Inc: Senior Software Engineer, Web",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
-            "date": 1779543839
         }
     ]
 }
