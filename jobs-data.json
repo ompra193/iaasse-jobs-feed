@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-22 19:21:42",
+    "generated_at": "2026-07-23 00:47:29",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Supportyourapp: (Native Finnish) Customer Support Consultant (remotely)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-remotely",
+            "date": 1782851625
+        },
+        {
+            "title": "Supportyourapp: (Native Danish) Customer Support Consultant (remotely)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-danish-customer-support-consultant-remotely",
+            "date": 1782851624
+        },
+        {
+            "title": "Supportyourapp: (Native Swedish) Customer Support Consultant (remotely)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-swedish-customer-support-consultant-remotely",
+            "date": 1782851624
+        },
+        {
+            "title": "Elevenlabs: Product Marketing - Agents",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/elevenlabs-product-marketing-agents",
+            "date": 1782851603
+        },
         {
             "title": "Holepunch: Product / Technical Project Manager (100% Remote, Worldwide)",
             "company": "WeWorkRemotely",
@@ -245,52 +289,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/akamai-security-architect-ii",
             "date": 1782334593
-        },
-        {
-            "title": "Atcom: Senior .NET Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
-            "date": 1782142194
-        },
-        {
-            "title": "Mindrift: Freelance Web Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-web-designer",
-            "date": 1782142193
-        },
-        {
-            "title": "KAI Partners: Technical Solutions Engineer/Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
-            "date": 1782142193
-        },
-        {
-            "title": "ALIQAN Technologies: Site Reliability Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aliqan-technologies-site-reliability-engineer",
-            "date": 1782142193
         }
     ]
 }
