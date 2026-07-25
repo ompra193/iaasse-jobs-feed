@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-25 00:54:12",
-    "total_jobs": 25,
+    "generated_at": "2026-07-25 08:05:45",
+    "total_jobs": 23,
     "jobs": [
+        {
+            "title": "Supportyourapp: (fluent German & English) L1 Customer Support Consultant (EU Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1",
+            "date": 1782851653
+        },
         {
             "title": "Supportyourapp: (Native Finnish) Customer Support Consultant (remotely)",
             "company": "WeWorkRemotely",
@@ -254,41 +265,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer",
             "date": 1782396710
-        },
-        {
-            "title": "Mindrift: Freelance Full-Stack Web App Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer",
-            "date": 1782334593
-        },
-        {
-            "title": "Unqork: Intern-Web Application Penetration Tester",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/unqork-intern-web-application-penetration-tester",
-            "date": 1782334593
-        },
-        {
-            "title": "Akamai: Security Architect II",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/akamai-security-architect-ii",
-            "date": 1782334593
         }
     ]
 }
