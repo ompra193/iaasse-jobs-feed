@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-29 08:04:24",
+    "generated_at": "2026-07-29 14:09:18",
     "total_jobs": 23,
     "jobs": [
         {
@@ -138,17 +138,6 @@
             "date": 1782851528
         },
         {
-            "title": "Sowelo Consulting: Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sowelo-consulting-full-stack-developer",
-            "date": 1782851514
-        },
-        {
             "title": "Coupa Software: Sr. Director, Product Management - 11051",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -252,6 +241,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/coin-market-cap-technical-ai-product-manager",
             "date": 1782851455
+        },
+        {
+            "title": "Reveleer: Full Stack AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+            "date": 1775162760
         },
         {
             "title": "Tether: AI Research Engineer",
