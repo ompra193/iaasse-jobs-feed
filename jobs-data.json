@@ -1,131 +1,78 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-07-31 00:54:53",
-    "total_jobs": 23,
+    "generated_at": "2026-07-31 08:16:00",
+    "total_jobs": 25,
     "jobs": [
         {
-            "title": "Supportyourapp: (fluent German & English) L1 Customer Support Consultant (EU Remote)",
+            "title": "MapTiler:  \ufe0f Location Services Engineer | Maps Platform (Remote in Europe)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1",
-            "date": 1782851653
+            "link": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe",
+            "date": 1784645851
         },
         {
-            "title": "Supportyourapp: (Native Finnish) Customer Support Consultant (remotely)",
+            "title": "Steady Vision: Web Designer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-remotely",
-            "date": 1782851625
+            "link": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer",
+            "date": 1784236089
         },
         {
-            "title": "Supportyourapp: (Native Danish) Customer Support Consultant (remotely)",
+            "title": "SilverTech: Account Director",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-danish-customer-support-consultant-remotely",
-            "date": 1782851624
+            "link": "https://weworkremotely.com/remote-jobs/silvertech-account-director",
+            "date": 1784236089
         },
         {
-            "title": "Supportyourapp: (Native Swedish) Customer Support Consultant (remotely)",
+            "title": "Work and Study Travel: Website Builder / WordPress Specialist",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-swedish-customer-support-consultant-remotely",
-            "date": 1782851624
+            "link": "https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist",
+            "date": 1784236089
         },
         {
-            "title": "Elevenlabs: Product Marketing - Agents",
+            "title": "Snapscale: WP dev (remote)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/elevenlabs-product-marketing-agents",
-            "date": 1782851603
+            "link": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote",
+            "date": 1784236089
         },
         {
-            "title": "Holepunch: Product / Technical Project Manager (100% Remote, Worldwide)",
+            "title": "Proxify AB: Senior Java Backend Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "java"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/holepunch-product-technical-project-manager-100-remote-worldwide",
-            "date": 1782851595
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+            "date": 1783950075
         },
         {
-            "title": "Khibraty: Product Manager / QA Analyst (Full-Time Remote Contractor)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
-            "date": 1782851572
-        },
-        {
-            "title": "Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor",
-            "date": 1782851572
-        },
-        {
-            "title": "Accuweather Careers: Product Manager, Mapping and Weather Visualization",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/accuweather-careers-product-manager-mapping-and-weather-visualization",
-            "date": 1782851543
-        },
-        {
-            "title": "Openrouter: Developer Product Marketing Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/openrouter-developer-product-marketing-lead",
-            "date": 1782851543
-        },
-        {
-            "title": "Pixx.io: (Senior) Product Manager B2B (d/w/m*)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/pixx-io-senior-product-manager-b2b-d-w-m",
-            "date": 1782851528
-        },
-        {
-            "title": "Base.com: Full-Stack Developer (React + AWS)",
+            "title": "Proxify AB: Senior Frontend Developer (React.js / Next.js)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -134,22 +81,25 @@
                 "react"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws",
-            "date": 1782851528
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+            "date": 1783949793
         },
         {
-            "title": "Coupa Software: Sr. Director, Product Management - 11051",
+            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react",
+                "node"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coupa-software-sr-director-product-management-11051",
-            "date": 1782851514
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+            "date": 1783949656
         },
         {
-            "title": "Arize Ai: Open Source Design Engineer",
+            "title": "Proxify AB: Senior Ruby on Rails Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -158,79 +108,48 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
-            "date": 1782851502
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-3",
+            "date": 1783949484
         },
         {
-            "title": "Databento: Product Marketing Specialist",
+            "title": "Proxify AB: Senior Backend Developer (Python)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "python"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/databento-product-marketing-specialist",
-            "date": 1782851499
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+            "date": 1783947278
         },
         {
-            "title": "Chemin: Product Translation Reviewer (Mandarin - English)",
+            "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/chemin-product-translation-reviewer-mandarin-english",
-            "date": 1782851485
+            "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+            "date": 1783616618
         },
         {
-            "title": "Win Home Inspection: DevOps Engineer",
+            "title": "Lemon.io: Senior React Full-stack Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "react"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer",
-            "date": 1782851478
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5",
+            "date": 1783524505
         },
         {
-            "title": "Highlevel: Staff Product Manager - Conversations",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/highlevel-staff-product-manager-conversations",
-            "date": 1782851468
-        },
-        {
-            "title": "Highlevel: Product Solution Engineer - Mobile App",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app",
-            "date": 1782851468
-        },
-        {
-            "title": "Highlevel: Product Solutions Engineer - Creator Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
-            "date": 1782851468
-        },
-        {
-            "title": "Coin Market Cap: Technical AI Product Manager",
+            "title": "Vidalytics: AI Automation Engineer, In-House MarTech Video SaaS",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -239,8 +158,78 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coin-market-cap-technical-ai-product-manager",
-            "date": 1782851455
+            "link": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+            "date": 1783428582
+        },
+        {
+            "title": "Vidalytics: [EUROPE ONLY] GTM MarTech Engineer (Growth & Attribution) at Video MarTech SaaS",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
+            "date": 1783427949
+        },
+        {
+            "title": "Hyphen Connect Limited: Lead Product Designer (Crypto Exchange)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-lead-product-designer-crypto-exchange",
+            "date": 1783283456
+        },
+        {
+            "title": "Proxify AB: Senior Fullstack Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
+            "date": 1781717619
+        },
+        {
+            "title": "Cortes 23: Senior QA Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+            "date": 1781200975
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+            "date": 1778750068
+        },
+        {
+            "title": "bunny.net: Staff Software Engineer (Magic Containers)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
+            "date": 1778589286
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
@@ -267,6 +256,56 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
             "date": 1775161739
+        },
+        {
+            "title": "Stellar AI: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
+            "date": 1761075386
+        },
+        {
+            "title": "A.Team: Senior Independent AI Engineer / Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+            "date": 1718561332
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
