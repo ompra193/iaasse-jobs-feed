@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-01 00:53:27",
+    "generated_at": "2026-08-01 08:14:21",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore",
+            "date": 1784703651
+        },
+        {
+            "title": "Gusto, Inc.: Business Money Engineering",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
+            "date": 1784692970
+        },
+        {
+            "title": "Cloudflare: Country Director, India",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india",
+            "date": 1784692939
+        },
         {
             "title": "MapTiler:  \ufe0f Location Services Engineer | Maps Platform (Remote in Europe)",
             "company": "WeWorkRemotely",
@@ -232,32 +269,6 @@
             "date": 1778589286
         },
         {
-            "title": "Reveleer: Full Stack AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-            "date": 1775162760
-        },
-        {
-            "title": "Tether: AI Research Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
-            "date": 1775161739
-        },
-        {
             "title": "Stellar AI: Senior Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -295,17 +306,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
             "date": 1718559051
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
