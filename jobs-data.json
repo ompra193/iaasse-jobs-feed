@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-05 01:06:03",
+    "generated_at": "2026-08-05 07:57:46",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Stripe: Backend Engineer, AI Security",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security",
+            "date": 1784703666
+        },
         {
             "title": "Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
             "company": "WeWorkRemotely",
@@ -208,17 +221,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
             "date": 1783427949
-        },
-        {
-            "title": "Hyphen Connect Limited: Lead Product Designer (Crypto Exchange)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-lead-product-designer-crypto-exchange",
-            "date": 1783283456
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
