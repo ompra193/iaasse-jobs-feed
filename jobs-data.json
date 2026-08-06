@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-06 14:04:21",
+    "generated_at": "2026-08-06 19:37:12",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Dropbox: Director, Product Design",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dropbox-director-product-design",
+            "date": 1784703692
+        },
+        {
+            "title": "Coinbase: Analytics Engineer, GFCO Analytics",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics",
+            "date": 1784703692
+        },
         {
             "title": "Gusto, Inc.: Enterprise Application AI Architect",
             "company": "WeWorkRemotely",
@@ -221,30 +243,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5",
             "date": 1783524505
-        },
-        {
-            "title": "Vidalytics: AI Automation Engineer, In-House MarTech Video SaaS",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
-            "date": 1783428582
-        },
-        {
-            "title": "Vidalytics: [EUROPE ONLY] GTM MarTech Engineer (Growth & Attribution) at Video MarTech SaaS",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-gtm-martech-engineer-growth-attribution-at-video-martech-saas",
-            "date": 1783427949
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
