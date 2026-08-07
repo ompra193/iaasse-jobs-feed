@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-07 18:31:02",
+    "generated_at": "2026-08-08 00:25:00",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Gusto, Inc.: Retirement Implementation Specialist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gusto-inc-retirement-implementation-specialist",
+            "date": 1784703692
+        },
         {
             "title": "Dropbox: Director, Product Design",
             "company": "WeWorkRemotely",
@@ -230,19 +241,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
             "date": 1783616618
-        },
-        {
-            "title": "Lemon.io: Senior React Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-5",
-            "date": 1783524505
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
