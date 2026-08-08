@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-08 18:16:41",
+    "generated_at": "2026-08-09 00:06:06",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Airtable: Manager, Sales Strategy & Planning",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning",
+            "date": 1784703692
+        },
         {
             "title": "Gusto, Inc.: Retirement Implementation Specialist",
             "company": "WeWorkRemotely",
@@ -230,17 +243,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
             "date": 1783947278
-        },
-        {
-            "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
-            "date": 1783616618
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
