@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-10 13:09:15",
+    "generated_at": "2026-08-10 18:35:25",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Airtable: Program Manager, Professional Services - East",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east",
+            "date": 1784703695
+        },
         {
             "title": "Airtable: Manager, Sales Strategy & Planning",
             "company": "WeWorkRemotely",
@@ -278,19 +291,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
             "date": 1778750068
-        },
-        {
-            "title": "bunny.net: Staff Software Engineer (Magic Containers)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
-            "date": 1778589286
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
