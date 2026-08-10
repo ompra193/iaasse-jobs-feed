@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-10 18:35:25",
+    "generated_at": "2026-08-11 00:26:07",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Stripe: Credit Risk Analyst Commercial Underwriter, West Coast",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast",
+            "date": 1784703695
+        },
         {
             "title": "Airtable: Program Manager, Professional Services - East",
             "company": "WeWorkRemotely",
@@ -269,17 +280,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
             "date": 1781717619
-        },
-        {
-            "title": "Cortes 23: Senior QA Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
-            "date": 1781200975
         },
         {
             "title": "Sticker Mule: Software engineer",
