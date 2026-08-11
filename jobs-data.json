@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-11 07:11:07",
+    "generated_at": "2026-08-11 12:35:37",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Airtable: Program Manager, Professional Services - West",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west",
+            "date": 1784703704
+        },
         {
             "title": "Stripe: Credit Risk Analyst Commercial Underwriter, West Coast",
             "company": "WeWorkRemotely",
@@ -26,19 +39,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east",
             "date": 1784703695
-        },
-        {
-            "title": "Airtable: Manager, Sales Strategy & Planning",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/airtable-manager-sales-strategy-planning",
-            "date": 1784703692
         },
         {
             "title": "Gusto, Inc.: Retirement Implementation Specialist",
