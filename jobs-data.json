@@ -1,8 +1,58 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-12 18:37:01",
+    "generated_at": "2026-08-13 00:30:24",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Airtable: Senior Solutions Architect- West Coast",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast",
+            "date": 1784703724
+        },
+        {
+            "title": "Gusto, Inc.: Staff Software Engineer,  AI Developer Tools",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools",
+            "date": 1784703709
+        },
+        {
+            "title": "Coinbase: Communications Manager, Policy & Public Affairs",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-communications-manager-policy-public-affairs",
+            "date": 1784703704
+        },
+        {
+            "title": "Dropbox: Head of Field and Partner Marketing",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dropbox-head-of-field-and-partner-marketing",
+            "date": 1784703704
+        },
         {
             "title": "Stripe: Credit Risk Analyst, North American Underwriter",
             "company": "WeWorkRemotely",
@@ -223,59 +273,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote",
             "date": 1784236089
-        },
-        {
-            "title": "Proxify AB: Senior Java Backend Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
-            "date": 1783950075
-        },
-        {
-            "title": "Proxify AB: Senior Frontend Developer (React.js / Next.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
-            "date": 1783949793
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
-            "date": 1783949656
-        },
-        {
-            "title": "Proxify AB: Senior Ruby on Rails Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-3",
-            "date": 1783949484
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
