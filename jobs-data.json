@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-12 12:52:59",
+    "generated_at": "2026-08-12 18:37:01",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Stripe: Credit Risk Analyst, North American Underwriter",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter",
+            "date": 1784703704
+        },
+        {
+            "title": "Coinbase: Business Operations Senior Associate, Institutional",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional",
+            "date": 1784703704
+        },
         {
             "title": "Airtable: Program Manager, Professional Services - West",
             "company": "WeWorkRemotely",
@@ -256,19 +278,6 @@
             "date": 1783949484
         },
         {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
-            "date": 1783947278
-        },
-        {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -280,17 +289,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
             "date": 1781717619
-        },
-        {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-            "date": 1778750068
         },
         {
             "title": "Stellar AI: Senior Software Engineer",
