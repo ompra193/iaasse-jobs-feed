@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-13 18:38:10",
+    "generated_at": "2026-08-14 00:31:34",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Airtable: Senior Solutions Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect",
+            "date": 1784703724
+        },
         {
             "title": "Airtable: Senior Solutions Architect- West Coast",
             "company": "WeWorkRemotely",
@@ -286,19 +299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
             "date": 1781717619
-        },
-        {
-            "title": "Stellar AI: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
-            "date": 1761075386
         }
     ]
 }
