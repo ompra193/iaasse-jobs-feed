@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-15 12:05:57",
+    "generated_at": "2026-08-15 18:04:57",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Coinbase: Counsel, Commercial",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial",
+            "date": 1784703724
+        },
         {
             "title": "Airtable: Senior Solutions Architect",
             "company": "WeWorkRemotely",
@@ -181,19 +192,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-core-technology",
             "date": 1784703673
-        },
-        {
-            "title": "Stripe: Backend Engineer, AI Security",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security",
-            "date": 1784703666
         },
         {
             "title": "Cloudflare: Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",
