@@ -1,8 +1,52 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-15 23:57:25",
+    "generated_at": "2026-08-16 06:44:53",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Stripe: GTM Operations Process Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect",
+            "date": 1784703774
+        },
+        {
+            "title": "Stripe: Fullstack Engineer, Privy",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy",
+            "date": 1784703757
+        },
+        {
+            "title": "Coinbase: GFCO Program Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager",
+            "date": 1784703748
+        },
+        {
+            "title": "Coinbase: Creative Director",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-creative-director",
+            "date": 1784703740
+        },
         {
             "title": "Coinbase: Counsel, Commercial",
             "company": "WeWorkRemotely",
@@ -240,50 +284,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe",
             "date": 1784645851
-        },
-        {
-            "title": "Steady Vision: Web Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/steady-vision-web-designer",
-            "date": 1784236089
-        },
-        {
-            "title": "SilverTech: Account Director",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/silvertech-account-director",
-            "date": 1784236089
-        },
-        {
-            "title": "Work and Study Travel: Website Builder / WordPress Specialist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/work-and-study-travel-website-builder-wordpress-specialist",
-            "date": 1784236089
-        },
-        {
-            "title": "Snapscale: WP dev (remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/snapscale-wp-dev-remote",
-            "date": 1784236089
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (Python)",
