@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-16 18:06:54",
+    "generated_at": "2026-08-16 23:57:03",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Stripe: Head of Self-Serve Paid Media",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-head-of-self-serve-paid-media",
+            "date": 1784703794
+        },
         {
             "title": "Stripe: GTM Operations Process Architect",
             "company": "WeWorkRemotely",
@@ -284,19 +297,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe",
             "date": 1784645851
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-python-3",
-            "date": 1781717619
         }
     ]
 }
