@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-20 12:13:08",
+    "generated_at": "2026-08-20 18:17:23",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Coinbase: Head of Finance, Canada",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-head-of-finance-canada",
+            "date": 1784703794
+        },
         {
             "title": "Stripe: Head of Self-Serve Paid Media",
             "company": "WeWorkRemotely",
@@ -48,17 +61,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager",
             "date": 1784703748
-        },
-        {
-            "title": "Coinbase: Creative Director",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-creative-director",
-            "date": 1784703740
         },
         {
             "title": "Coinbase: Counsel, Commercial",
