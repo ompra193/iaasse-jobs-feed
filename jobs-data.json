@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-20 18:17:23",
+    "generated_at": "2026-08-21 00:07:21",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Twilio: Machine Learning Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer",
+            "date": 1784703826
+        },
         {
             "title": "Coinbase: Head of Finance, Canada",
             "company": "WeWorkRemotely",
@@ -288,17 +299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india",
             "date": 1784692939
-        },
-        {
-            "title": "MapTiler:  \ufe0f Location Services Engineer | Maps Platform (Remote in Europe)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/maptiler-location-services-engineer-maps-platform-remote-in-europe",
-            "date": 1784645851
         }
     ]
 }
