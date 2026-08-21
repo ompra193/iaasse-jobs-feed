@@ -1,7 +1,7 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-21 06:44:28",
-    "total_jobs": 25,
+    "generated_at": "2026-08-21 12:13:35",
+    "total_jobs": 24,
     "jobs": [
         {
             "title": "Twilio: Machine Learning Engineer",
@@ -12,6 +12,19 @@
             "skills": [],
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer",
+            "date": 1784703826
+        },
+        {
+            "title": "Coinbase: HR Business Partner",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-hr-business-partner",
             "date": 1784703826
         },
         {
@@ -275,30 +288,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cloudflare-principal-partner-solutions-engineer-saarc-based-in-bangalore",
             "date": 1784703651
-        },
-        {
-            "title": "Gusto, Inc.: Business Money Engineering",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
-            "date": 1784692970
-        },
-        {
-            "title": "Cloudflare: Country Director, India",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cloudflare-country-director-india",
-            "date": 1784692939
         }
     ]
 }
