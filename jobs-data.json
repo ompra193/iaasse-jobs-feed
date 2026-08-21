@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-21 18:14:10",
+    "generated_at": "2026-08-22 00:04:42",
     "total_jobs": 20,
     "jobs": [
+        {
+            "title": "Coinbase: Senior Software Engineer, Backend (Consumer - Risk)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk",
+            "date": 1784790234
+        },
         {
             "title": "Coinbase: Senior Software Engineer, Backend - Platform (Core AI Automation)",
             "company": "WeWorkRemotely",
@@ -219,17 +230,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager",
             "date": 1784790055
-        },
-        {
-            "title": "Speechify Inc: Senior Software Engineer, Web",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
-            "date": 1779543839
         }
     ]
 }
