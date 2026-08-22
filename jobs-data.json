@@ -1,8 +1,74 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-22 18:06:45",
-    "total_jobs": 25,
+    "generated_at": "2026-08-22 23:58:56",
+    "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Azumo: Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
+            "date": 1785881537
+        },
+        {
+            "title": "Faire: Senior Staff Data Engineer - Platform Data and Analytics",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
+            "date": 1785742243
+        },
+        {
+            "title": "Doximity: Data Engineering Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/doximity-data-engineering-manager",
+            "date": 1785655865
+        },
+        {
+            "title": "Doximity: Data Analyst, Reporting Partnerships",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/doximity-data-analyst-reporting-partnerships",
+            "date": 1785655848
+        },
+        {
+            "title": "ClickHouse: AI Product Engineer - ClickStack",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack-1",
+            "date": 1785569447
+        },
         {
             "title": "SuperPlane: Product Engineer",
             "company": "WeWorkRemotely",
@@ -203,74 +269,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer",
             "date": 1784870450
-        },
-        {
-            "title": "Jobgether: Product Manager \u2013 Progressive Web Apps (PWA)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jobgether-product-manager-progressive-web-apps-pwa",
-            "date": 1784813380
-        },
-        {
-            "title": "WeVote: General Volunteering Opportunities: Digital Democracy",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wevote-general-volunteering-opportunities-digital-democracy",
-            "date": 1784813380
-        },
-        {
-            "title": "REDspace: Senior Software Developer - Ad Tech",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
-            "date": 1784813367
-        },
-        {
-            "title": "cFive Solutions: Senior Web Developer/Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
-            "date": 1784813367
-        },
-        {
-            "title": "Business Web Solutions: Web Developer Intern",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
-            "date": 1784813367
-        },
-        {
-            "title": "AHU Technologies: Industrial Painter",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-industrial-painter",
-            "date": 1784813367
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
