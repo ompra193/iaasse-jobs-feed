@@ -1,21 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-22 12:07:49",
-    "total_jobs": 20,
+    "generated_at": "2026-08-22 18:06:45",
+    "total_jobs": 25,
     "jobs": [
         {
-            "title": "Coinbase: Senior Software Engineer, Backend (Consumer - Risk)",
+            "title": "SuperPlane: Product Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-consumer-risk",
-            "date": 1784790234
+            "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
+            "date": 1785504628
         },
         {
-            "title": "Coinbase: Senior Software Engineer, Backend - Platform (Core AI Automation)",
+            "title": "Hygraph: Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+            "date": 1785499176
+        },
+        {
+            "title": "Maven Clinic: Content & Creative Strategist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist",
+            "date": 1785396663
+        },
+        {
+            "title": "OnTheGoSystems: AI-Native Software Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -24,132 +46,94 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-backend-platform-core-ai-automation",
-            "date": 1784790234
+            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
+            "date": 1785161793
         },
         {
-            "title": "Twilio: Senior Engineering Manager V&V Media",
+            "title": "Lemon.io: Senior Vue Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-senior-engineering-manager-v-v-media-1",
-            "date": 1784790218
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer",
+            "date": 1784903258
         },
         {
-            "title": "Coinbase: Senior Software Engineer",
+            "title": "Yoko Co: Front-End WordPress Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer",
-            "date": 1784790200
+            "link": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
+            "date": 1784901826
         },
         {
-            "title": "Twilio: Senior Engineering Manager, Voice and Video",
+            "title": "JetBrains: Backend Customer Success Engineer (Kotlin Ecosystem)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem",
+            "date": 1784876482
+        },
+        {
+            "title": "LaunchDarkly: Backend Engineer, Flag Delivery",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-senior-engineering-manager-voice-and-video",
-            "date": 1784790199
+            "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
+            "date": 1784876472
         },
         {
-            "title": "Coinbase: Senior Payroll Specialist",
+            "title": "Hightouch: AI Strategy Consultant",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hightouch-ai-strategy-consultant",
+            "date": 1784876472
+        },
+        {
+            "title": "Coinbase: Senior Staff Software Engineer, Legal Automation",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-payroll-specialist",
-            "date": 1784790177
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation",
+            "date": 1784876462
         },
         {
-            "title": "Coinbase: Senior Manager, Internal Audit IT",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-manager-internal-audit-it",
-            "date": 1784790172
-        },
-        {
-            "title": "Coinbase: Senior Manager, Clearing Operations",
+            "title": "GitLab: AI Transformation Owner, CRO",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-manager-clearing-operations",
-            "date": 1784790157
+            "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro",
+            "date": 1784876462
         },
         {
-            "title": "Coinbase: Senior Machine Learning Engineer, CX Intelligence",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-machine-learning-engineer-cx-intelligence",
-            "date": 1784790157
-        },
-        {
-            "title": "Coinbase: Senior Machine Learning Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-machine-learning-engineer",
-            "date": 1784790157
-        },
-        {
-            "title": "Twilio: Project Manager 3",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-project-manager-3",
-            "date": 1784790142
-        },
-        {
-            "title": "Stripe: Risk Strategist - Screening (Financial Crimes)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-risk-strategist-screening-financial-crimes",
-            "date": 1784790130
-        },
-        {
-            "title": "Twilio: Principal Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-principal-software-engineer",
-            "date": 1784790130
-        },
-        {
-            "title": "Coinbase: Senior Finance & Strategy Analyst, Consumer",
+            "title": "Coinbase: Senior Staff Software Engineer, Finance Automation",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -158,11 +142,57 @@
                 "finance"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-finance-strategy-analyst-consumer",
-            "date": 1784790130
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation",
+            "date": 1784876451
         },
         {
-            "title": "Coinbase: Senior Data Scientist, CX Analytics",
+            "title": "Twilio: Senior Software Engineer, Identity",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-identity",
+            "date": 1784876451
+        },
+        {
+            "title": "GitLab: AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer",
+            "date": 1784876448
+        },
+        {
+            "title": "Twilio: Senior Software Engineer, Fraud",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud",
+            "date": 1784876448
+        },
+        {
+            "title": "Reddit: Ads Conversion Modeling, Machine Learning Engineering Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reddit-ads-conversion-modeling-machine-learning-engineering-manager",
+            "date": 1784870463
+        },
+        {
+            "title": "Coinbase: Senior Software Engineer, Data Layer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -171,65 +201,100 @@
                 "data"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-data-scientist-cx-analytics",
-            "date": 1784790130
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-data-layer",
+            "date": 1784870450
         },
         {
-            "title": "Coinbase: Senior Analytics Engineer (Platform - Financial Analytics)",
+            "title": "Jobgether: Product Manager \u2013 Progressive Web Apps (PWA)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-analytics-engineer-platform-financial-analytics",
-            "date": 1784790102
+            "link": "https://weworkremotely.com/remote-jobs/jobgether-product-manager-progressive-web-apps-pwa",
+            "date": 1784813380
         },
         {
-            "title": "Coinbase: Senior Analyst, Compliance Technology",
+            "title": "WeVote: General Volunteering Opportunities: Digital Democracy",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-analyst-compliance-technology",
-            "date": 1784790096
+            "link": "https://weworkremotely.com/remote-jobs/wevote-general-volunteering-opportunities-digital-democracy",
+            "date": 1784813380
         },
         {
-            "title": "Coinbase: Regional Threat Assessment Manager",
+            "title": "REDspace: Senior Software Developer - Ad Tech",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
+            "date": 1784813367
+        },
+        {
+            "title": "cFive Solutions: Senior Web Developer/Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
+            "date": 1784813367
+        },
+        {
+            "title": "Business Web Solutions: Web Developer Intern",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/business-web-solutions-web-developer-intern",
+            "date": 1784813367
+        },
+        {
+            "title": "AHU Technologies: Industrial Painter",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "hr"
+                "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-regional-threat-assessment-manager-2",
-            "date": 1784790086
+            "link": "https://weworkremotely.com/remote-jobs/ahu-technologies-industrial-painter",
+            "date": 1784813367
         },
         {
-            "title": "Twilio: Principal Engineer (L5)",
+            "title": "Reveleer: Full Stack AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
+            "date": 1775162760
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-principal-engineer-l5",
-            "date": 1784790067
-        },
-        {
-            "title": "Stripe: Privacy Operations Program Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-privacy-operations-program-manager",
-            "date": 1784790055
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
