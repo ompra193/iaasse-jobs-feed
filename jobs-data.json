@@ -1,8 +1,91 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-23 12:09:01",
+    "generated_at": "2026-08-23 18:07:31",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Toptal: Stibo Sr. Architect/Platform Owner for Global Fortune 500",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
+            "date": 1786118066
+        },
+        {
+            "title": "Lemon.io: Senior AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4",
+            "date": 1785918221
+        },
+        {
+            "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+            "date": 1785909166
+        },
+        {
+            "title": "thehivecareers.co: Web Developer (Remote)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1",
+            "date": 1785881580
+        },
+        {
+            "title": "Charles Technology Africa: Web Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
+            "date": 1785881580
+        },
+        {
+            "title": "Azumo: Technical Leader - Latin America",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
+            "date": 1785881537
+        },
+        {
+            "title": "Azumo: Data Engineer - Latin America",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
+            "date": 1785881537
+        },
         {
             "title": "Azumo: Java Engineer - Latin America",
             "company": "WeWorkRemotely",
@@ -164,115 +247,6 @@
             "date": 1784901826
         },
         {
-            "title": "JetBrains: Backend Customer Success Engineer (Kotlin Ecosystem)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem",
-            "date": 1784876482
-        },
-        {
-            "title": "LaunchDarkly: Backend Engineer, Flag Delivery",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
-            "date": 1784876472
-        },
-        {
-            "title": "Hightouch: AI Strategy Consultant",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hightouch-ai-strategy-consultant",
-            "date": 1784876472
-        },
-        {
-            "title": "Coinbase: Senior Staff Software Engineer, Legal Automation",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-legal-automation",
-            "date": 1784876462
-        },
-        {
-            "title": "GitLab: AI Transformation Owner, CRO",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-cro",
-            "date": 1784876462
-        },
-        {
-            "title": "Coinbase: Senior Staff Software Engineer, Finance Automation",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-senior-staff-software-engineer-finance-automation",
-            "date": 1784876451
-        },
-        {
-            "title": "Twilio: Senior Software Engineer, Identity",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-identity",
-            "date": 1784876451
-        },
-        {
-            "title": "GitLab: AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer",
-            "date": 1784876448
-        },
-        {
-            "title": "Twilio: Senior Software Engineer, Fraud",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twilio-senior-software-engineer-fraud",
-            "date": 1784876448
-        },
-        {
             "title": "Reveleer: Full Stack AI Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -284,6 +258,32 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
             "date": 1775162760
+        },
+        {
+            "title": "A.Team: Senior Independent AI Engineer / Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+            "date": 1718561332
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
