@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-23 18:07:31",
-    "total_jobs": 24,
+    "generated_at": "2026-08-23 23:57:45",
+    "total_jobs": 23,
     "jobs": [
+        {
+            "title": "Lattice: Engineering Manager, AI",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
+            "date": 1786174254
+        },
         {
             "title": "Toptal: Stibo Sr. Architect/Platform Owner for Global Fortune 500",
             "company": "WeWorkRemotely",
@@ -223,28 +236,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
             "date": 1785161793
-        },
-        {
-            "title": "Lemon.io: Senior Vue Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer",
-            "date": 1784903258
-        },
-        {
-            "title": "Yoko Co: Front-End WordPress Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
-            "date": 1784901826
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
