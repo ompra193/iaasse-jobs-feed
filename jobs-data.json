@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-25 12:14:35",
-    "total_jobs": 23,
+    "generated_at": "2026-08-25 18:14:33",
+    "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Gusto, Inc.: Staff Software Engineer, Time and Scheduling",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-time-and-scheduling",
+            "date": 1786260640
+        },
+        {
+            "title": "Amwell: Manager, Government Compliance & Authorization",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/amwell-manager-government-compliance-authorization",
+            "date": 1786260640
+        },
         {
             "title": "Lattice: Engineering Manager, AI",
             "company": "WeWorkRemotely",
@@ -153,19 +175,6 @@
             "date": 1785742243
         },
         {
-            "title": "Doximity: Data Engineering Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/doximity-data-engineering-manager",
-            "date": 1785655865
-        },
-        {
             "title": "Doximity: Data Analyst, Reporting Partnerships",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -177,19 +186,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/doximity-data-analyst-reporting-partnerships",
             "date": 1785655848
-        },
-        {
-            "title": "ClickHouse: AI Product Engineer - ClickStack",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack-1",
-            "date": 1785569447
         },
         {
             "title": "SuperPlane: Product Engineer",
@@ -236,6 +232,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
             "date": 1785161793
+        },
+        {
+            "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+            "date": 1783616618
         },
         {
             "title": "Reveleer: Full Stack AI Engineer",
