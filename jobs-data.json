@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-26 18:20:36",
+    "generated_at": "2026-08-27 01:15:58",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Lithic: Senior Dispute Analyst",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst",
+            "date": 1786347055
+        },
         {
             "title": "Gusto, Inc.: Staff Software Engineer, Time and Scheduling",
             "company": "WeWorkRemotely",
@@ -219,19 +230,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist",
             "date": 1785396663
-        },
-        {
-            "title": "OnTheGoSystems: AI-Native Software Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
-            "date": 1785161793
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
