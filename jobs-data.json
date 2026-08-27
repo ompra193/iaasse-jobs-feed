@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-27 01:15:58",
+    "generated_at": "2026-08-27 13:14:33",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Toptal: Data Scientist for Top Cosmetic firm",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
+            "date": 1786452035
+        },
         {
             "title": "Lithic: Senior Dispute Analyst",
             "company": "WeWorkRemotely",
@@ -241,19 +254,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
             "date": 1783616618
-        },
-        {
-            "title": "Reveleer: Full Stack AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-            "date": 1775162760
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
