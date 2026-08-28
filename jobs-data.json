@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-28 03:20:13",
+    "generated_at": "2026-08-28 15:19:13",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
+            "date": 1786453119
+        },
         {
             "title": "Toptal: Data Scientist for Top Cosmetic firm",
             "company": "WeWorkRemotely",
@@ -15,17 +29,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
             "date": 1786452035
-        },
-        {
-            "title": "Lithic: Senior Dispute Analyst",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-dispute-analyst",
-            "date": 1786347055
         },
         {
             "title": "Gusto, Inc.: Staff Software Engineer, Time and Scheduling",
