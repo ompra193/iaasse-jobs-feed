@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-29 11:19:37",
+    "generated_at": "2026-08-29 17:51:56",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Mercury: Counsel, Product & Regulatory - Payments & AML",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml",
+            "date": 1786519859
+        },
         {
             "title": "Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
             "company": "WeWorkRemotely",
@@ -235,17 +246,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
             "date": 1785499176
-        },
-        {
-            "title": "Maven Clinic: Content & Creative Strategist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-content-creative-strategist",
-            "date": 1785396663
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
