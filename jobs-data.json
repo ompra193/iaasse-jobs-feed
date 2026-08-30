@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-30 16:50:35",
+    "generated_at": "2026-08-30 21:37:45",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
+            "date": 1786537131
+        },
         {
             "title": "Mercury: Counsel, Product & Regulatory - Payments & AML",
             "company": "WeWorkRemotely",
@@ -226,28 +239,6 @@
             "date": 1785655848
         },
         {
-            "title": "SuperPlane: Product Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
-            "date": 1785504628
-        },
-        {
-            "title": "Hygraph: Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-            "date": 1785499176
-        },
-        {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -257,6 +248,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
             "date": 1783616618
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+            "date": 1778750068
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
