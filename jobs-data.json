@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-08-31 02:07:49",
+    "generated_at": "2026-08-31 09:25:49",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Toptal: Python Backend Development Talent with RAG and Agentic AI Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python",
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+            "date": 1786559912
+        },
         {
             "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
             "company": "WeWorkRemotely",
@@ -285,17 +299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
             "date": 1718559051
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
