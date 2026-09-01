@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-01 09:17:09",
+    "generated_at": "2026-09-01 16:40:24",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Proxify AB: Senior Backend Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-9",
+            "date": 1786702021
+        },
         {
             "title": "Toptal: Python Backend Development Talent with RAG and Agentic AI Experience",
             "company": "WeWorkRemotely",
@@ -238,19 +251,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
             "date": 1785742243
-        },
-        {
-            "title": "Doximity: Data Analyst, Reporting Partnerships",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/doximity-data-analyst-reporting-partnerships",
-            "date": 1785655848
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
