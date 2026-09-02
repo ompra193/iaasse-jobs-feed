@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-02 08:36:14",
+    "generated_at": "2026-09-02 16:13:30",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Proxify AB: Senior Ruby on Rails Developer (AI-Augmented Engineering)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering",
+            "date": 1786702383
+        },
         {
             "title": "Proxify AB: Senior Backend Developer (Python)",
             "company": "WeWorkRemotely",
@@ -237,20 +250,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
             "date": 1785881537
-        },
-        {
-            "title": "Faire: Senior Staff Data Engineer - Platform Data and Analytics",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/faire-senior-staff-data-engineer-platform-data-and-analytics",
-            "date": 1785742243
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
