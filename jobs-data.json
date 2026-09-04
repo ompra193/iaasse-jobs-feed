@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-04 08:37:19",
+    "generated_at": "2026-09-04 16:12:03",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Samsara: Staff Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+            "date": 1786975034
+        },
+        {
+            "title": "Collaboration.Ai: Senior Software AI Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
+            "date": 1786967858
+        },
         {
             "title": "Collaboration.Ai: Senior Software Engineer",
             "company": "WeWorkRemotely",
@@ -223,32 +247,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
             "date": 1786118066
-        },
-        {
-            "title": "Lemon.io: Senior AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-4",
-            "date": 1785918221
-        },
-        {
-            "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-            "date": 1785909166
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
