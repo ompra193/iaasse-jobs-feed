@@ -1,8 +1,92 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-04 02:03:32",
+    "generated_at": "2026-09-04 08:37:19",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Collaboration.Ai: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
+            "date": 1786967468
+        },
+        {
+            "title": "Vercel: Member of the Technical Staff, Internal Agent",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
+            "date": 1786865441
+        },
+        {
+            "title": "Vercel: GRC Analyst",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vercel-grc-analyst",
+            "date": 1786865432
+        },
+        {
+            "title": "Hightouch: Application Security Lead",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
+            "date": 1786865432
+        },
+        {
+            "title": "OKX: Affiliate BD Manager (Taiwan)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
+            "date": 1786779087
+        },
+        {
+            "title": "ZoomInfo Technologies LLC: Principal Business Intelligence Analyst",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
+            "date": 1786779087
+        },
+        {
+            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react",
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
+            "date": 1786702493
+        },
         {
             "title": "Proxify AB: Senior Ruby on Rails Developer (AI-Augmented Engineering)",
             "company": "WeWorkRemotely",
@@ -165,91 +249,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
             "date": 1785909166
-        },
-        {
-            "title": "thehivecareers.co: Web Developer (Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote-1",
-            "date": 1785881580
-        },
-        {
-            "title": "Charles Technology Africa: Web Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
-            "date": 1785881580
-        },
-        {
-            "title": "Azumo: Technical Leader - Latin America",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
-            "date": 1785881537
-        },
-        {
-            "title": "Azumo: Data Engineer - Latin America",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-            "date": 1785881537
-        },
-        {
-            "title": "Azumo: Java Engineer - Latin America",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
-            "date": 1785881537
-        },
-        {
-            "title": "LMG Staffing Solutions: AI-Assisted Software Engineer, Web Applications",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
-            "date": 1785881537
-        },
-        {
-            "title": "Azumo: Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
-            "date": 1785881537
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
