@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-06 20:29:33",
+    "generated_at": "2026-09-07 01:32:28",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Charisma-tec: Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
+            "date": 1787085114
+        },
         {
             "title": "Edfinity: Senior Software Engineer, remote",
             "company": "WeWorkRemotely",
@@ -260,17 +271,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
             "date": 1786174254
-        },
-        {
-            "title": "Toptal: Stibo Sr. Architect/Platform Owner for Global Fortune 500",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
-            "date": 1786118066
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
