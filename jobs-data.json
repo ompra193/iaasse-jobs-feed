@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-07 17:11:19",
+    "generated_at": "2026-09-07 22:49:32",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Coderio: DevOps Senior",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coderio-devops-senior",
+            "date": 1787085133
+        },
         {
             "title": "Summa Linguae Technologies: Digital Design Diagram Creators",
             "company": "WeWorkRemotely",
@@ -280,17 +291,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/amwell-manager-government-compliance-authorization",
             "date": 1786260640
-        },
-        {
-            "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
-            "date": 1783616618
         },
         {
             "title": "Sticker Mule: Software engineer",
