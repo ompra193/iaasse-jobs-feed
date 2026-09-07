@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-07 08:37:12",
-    "total_jobs": 24,
+    "generated_at": "2026-09-07 17:11:19",
+    "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Summa Linguae Technologies: Digital Design Diagram Creators",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
+            "date": 1787085124
+        },
+        {
+            "title": "Myneva: Senior DevOps Engineer (m/f/d)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
+            "date": 1787085122
+        },
         {
             "title": "Charisma-tec: Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)",
             "company": "WeWorkRemotely",
@@ -258,19 +280,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/amwell-manager-government-compliance-authorization",
             "date": 1786260640
-        },
-        {
-            "title": "Lattice: Engineering Manager, AI",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lattice-engineering-manager-ai-1",
-            "date": 1786174254
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
