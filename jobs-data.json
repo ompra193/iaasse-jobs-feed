@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-10 16:12:57",
+    "generated_at": "2026-09-10 21:24:01",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Aker Systems: Principal Software Engineer - Product team",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/aker-systems-principal-software-engineer-product-team",
+            "date": 1787085157
+        },
+        {
+            "title": "Happyco: Senior Product Designer, Mobile Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/happyco-senior-product-designer-mobile-experience",
+            "date": 1787085153
+        },
         {
             "title": "Zeta Global: Senior Product Designer, AI",
             "company": "WeWorkRemotely",
@@ -268,33 +290,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml",
             "date": 1786519859
-        },
-        {
-            "title": "Toptal: Tech Lead - Manufacturing Data & AI Platforms - Global Pharmaceutical Company",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-tech-lead-manufacturing-data-ai-platforms-global-pharmaceutical-company",
-            "date": 1786453119
-        },
-        {
-            "title": "Toptal: Data Scientist for Top Cosmetic firm",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-data-scientist-for-top-cosmetic-firm",
-            "date": 1786452035
         },
         {
             "title": "Sticker Mule: Software engineer",
