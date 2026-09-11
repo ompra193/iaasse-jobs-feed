@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-11 16:11:08",
+    "generated_at": "2026-09-11 21:26:17",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Confluent: Senior Product Manager, Cluster Linking",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
+            "date": 1787085188
+        },
         {
             "title": "Supportyourapp: (Native Finnish) Customer Support Consultant (Future Openings, remotely)",
             "company": "WeWorkRemotely",
@@ -288,19 +299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
             "date": 1786559912
-        },
-        {
-            "title": "Toptal: Senior Software Engineer for AI-Powered Banking Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
-            "date": 1786537131
         }
     ]
 }
