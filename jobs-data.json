@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-11 21:26:17",
+    "generated_at": "2026-09-12 02:01:20",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Stadium: AWS DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
+            "date": 1787085188
+        },
         {
             "title": "Confluent: Senior Product Manager, Cluster Linking",
             "company": "WeWorkRemotely",
@@ -285,20 +296,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-9",
             "date": 1786702021
-        },
-        {
-            "title": "Toptal: Python Backend Development Talent with RAG and Agentic AI Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
-            "date": 1786559912
         }
     ]
 }
