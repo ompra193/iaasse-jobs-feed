@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-11 08:44:01",
+    "generated_at": "2026-09-11 16:11:08",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Supportyourapp: (Native Finnish) Customer Support Consultant (Future Openings, remotely)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
+            "date": 1787085170
+        },
+        {
+            "title": "Zowie: DevOps Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
+            "date": 1787085162
+        },
         {
             "title": "Aker Systems: Principal Software Engineer - Product team",
             "company": "WeWorkRemotely",
@@ -279,28 +301,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-senior-software-engineer-for-ai-powered-banking-platform",
             "date": 1786537131
-        },
-        {
-            "title": "Mercury: Counsel, Product & Regulatory - Payments & AML",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mercury-counsel-product-regulatory-payments-aml",
-            "date": 1786519859
-        },
-        {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-            "date": 1778750068
         }
     ]
 }
