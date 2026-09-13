@@ -1,8 +1,47 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-13 08:54:42",
+    "generated_at": "2026-09-13 16:39:49",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Holafly: Finance Business Partner (Marketing & Product)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "finance"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/holafly-finance-business-partner-marketing-product",
+            "date": 1787085220
+        },
+        {
+            "title": "Trafilea: Product Manager AI Personalization",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/trafilea-product-manager-ai-personalization",
+            "date": 1787085212
+        },
+        {
+            "title": "Wing Assistant: Full Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "assistant"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer-1",
+            "date": 1787085188
+        },
         {
             "title": "Stadium: AWS DevOps Engineer",
             "company": "WeWorkRemotely",
@@ -256,46 +295,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
             "date": 1786779087
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-3",
-            "date": 1786702493
-        },
-        {
-            "title": "Proxify AB: Senior Ruby on Rails Developer (AI-Augmented Engineering)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-ruby-on-rails-developer-ai-augmented-engineering",
-            "date": 1786702383
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-9",
-            "date": 1786702021
         }
     ]
 }
