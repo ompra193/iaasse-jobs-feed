@@ -1,8 +1,36 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-14 09:05:41",
+    "generated_at": "2026-09-14 17:25:40",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Huzzle: Full-Stack Developer (Python, React, AI)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python",
+                "react",
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+            "date": 1787085245
+        },
+        {
+            "title": "Ci&t: [Job -26953] Senior Full Stack Developer (React/.Net)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net",
+            "date": 1787085245
+        },
         {
             "title": "Holafly: Finance Business Partner (Marketing & Product)",
             "company": "WeWorkRemotely",
@@ -271,30 +299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
             "date": 1786865432
-        },
-        {
-            "title": "OKX: Affiliate BD Manager (Taiwan)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
-            "date": 1786779087
-        },
-        {
-            "title": "ZoomInfo Technologies LLC: Principal Business Intelligence Analyst",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-            "date": 1786779087
         }
     ]
 }
