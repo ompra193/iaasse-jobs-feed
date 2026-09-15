@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-15 09:06:39",
-    "total_jobs": 25,
+    "generated_at": "2026-09-15 16:40:47",
+    "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Intellectsoft: Senior Shopify Full-stack Developer (IR-471)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/intellectsoft-senior-shopify-full-stack-developer-ir-471",
+            "date": 1787085255
+        },
         {
             "title": "Huzzle: Full-Stack Developer (Python, React, AI)",
             "company": "WeWorkRemotely",
@@ -15,7 +26,18 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai",
+            "link": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1",
+            "date": 1787085251
+        },
+        {
+            "title": "Performyard: VP of Product",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/performyard-vp-of-product",
             "date": 1787085245
         },
         {
@@ -266,39 +288,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
             "date": 1786967468
-        },
-        {
-            "title": "Vercel: Member of the Technical Staff, Internal Agent",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vercel-member-of-the-technical-staff-internal-agent",
-            "date": 1786865441
-        },
-        {
-            "title": "Vercel: GRC Analyst",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vercel-grc-analyst",
-            "date": 1786865432
-        },
-        {
-            "title": "Hightouch: Application Security Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hightouch-application-security-lead",
-            "date": 1786865432
         }
     ]
 }
