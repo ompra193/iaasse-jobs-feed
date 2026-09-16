@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-16 21:43:33",
+    "generated_at": "2026-09-17 02:25:11",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Alphorm: Formateur IT Ind\u00e9pendant  Cybers\u00e9curit\u00e9, IA, Cloud, DevOps et R\u00e9seaux ...",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-cloud-devops-et-reseaux",
+            "date": 1787085303
+        },
         {
             "title": "Endava: Senior Product Architect",
             "company": "WeWorkRemotely",
@@ -275,17 +288,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
             "date": 1787085114
-        },
-        {
-            "title": "Edfinity: Senior Software Engineer, remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
-            "date": 1786994479
         }
     ]
 }
