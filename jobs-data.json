@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-16 16:25:14",
+    "generated_at": "2026-09-16 21:43:33",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Endava: Senior Product Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/endava-senior-product-architect",
+            "date": 1787085291
+        },
+        {
+            "title": "Mechanical Orchard: Head of Product Support",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "mechanical"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mechanical-orchard-head-of-product-support",
+            "date": 1787085291
+        },
+        {
+            "title": "Infomediji .: Senior Growth Product Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/infomediji-senior-growth-product-manager",
+            "date": 1787085281
+        },
+        {
+            "title": "Sigma Software: Data Engineer (Interior Design)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sigma-software-data-engineer-interior-design",
+            "date": 1787085267
+        },
         {
             "title": "Intellectsoft: Senior Shopify Full-stack Developer (IR-471)",
             "company": "WeWorkRemotely",
@@ -238,56 +286,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
             "date": 1786994479
-        },
-        {
-            "title": "Toptal: AI/ML Engineer for an AI-Driven E-Commerce Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-ai-ml-engineer-for-an-ai-driven-e-commerce-platform",
-            "date": 1786975809
-        },
-        {
-            "title": "Samsara: Staff Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-            "date": 1786975034
-        },
-        {
-            "title": "Collaboration.Ai: Senior Software AI Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-ai-engineer",
-            "date": 1786967858
-        },
-        {
-            "title": "Collaboration.Ai: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/collaboration-ai-senior-software-engineer",
-            "date": 1786967468
         }
     ]
 }
