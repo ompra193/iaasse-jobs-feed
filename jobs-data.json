@@ -1,134 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-17 21:49:47",
+    "generated_at": "2026-09-18 02:28:46",
     "total_jobs": 24,
     "jobs": [
         {
-            "title": "Alphorm: Formateur IT Ind\u00e9pendant  Cybers\u00e9curit\u00e9, IA, Cloud, DevOps et R\u00e9seaux ...",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/alphorm-formateur-it-independant-cybersecurite-ia-cloud-devops-et-reseaux",
-            "date": 1787085303
-        },
-        {
-            "title": "Endava: Senior Product Architect",
+            "title": "Smartcat: Senior Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/endava-senior-product-architect",
-            "date": 1787085291
+            "link": "https://weworkremotely.com/remote-jobs/smartcat-senior-product-manager",
+            "date": 1787171833
         },
         {
-            "title": "Mechanical Orchard: Head of Product Support",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "mechanical"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mechanical-orchard-head-of-product-support",
-            "date": 1787085291
-        },
-        {
-            "title": "Infomediji .: Senior Growth Product Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/infomediji-senior-growth-product-manager",
-            "date": 1787085281
-        },
-        {
-            "title": "Sigma Software: Data Engineer (Interior Design)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sigma-software-data-engineer-interior-design",
-            "date": 1787085267
-        },
-        {
-            "title": "Intellectsoft: Senior Shopify Full-stack Developer (IR-471)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/intellectsoft-senior-shopify-full-stack-developer-ir-471",
-            "date": 1787085255
-        },
-        {
-            "title": "Huzzle: Full-Stack Developer (Python, React, AI)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python",
-                "react",
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1",
-            "date": 1787085251
-        },
-        {
-            "title": "Performyard: VP of Product",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/performyard-vp-of-product",
-            "date": 1787085245
-        },
-        {
-            "title": "Ci&t: [Job -26953] Senior Full Stack Developer (React/.Net)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ci-t-job-26953-senior-full-stack-developer-react-net",
-            "date": 1787085245
-        },
-        {
-            "title": "Holafly: Finance Business Partner (Marketing & Product)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/holafly-finance-business-partner-marketing-product",
-            "date": 1787085220
-        },
-        {
-            "title": "Trafilea: Product Manager AI Personalization",
+            "title": "Allencomm: AI Technical Product Director",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -137,90 +24,121 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/trafilea-product-manager-ai-personalization",
-            "date": 1787085212
+            "link": "https://weworkremotely.com/remote-jobs/allencomm-ai-technical-product-director",
+            "date": 1787171818
         },
         {
-            "title": "Wing Assistant: Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "assistant"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-developer-1",
-            "date": 1787085188
-        },
-        {
-            "title": "Stadium: AWS DevOps Engineer",
+            "title": "Saas: Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stadium-aws-devops-engineer",
-            "date": 1787085188
+            "link": "https://weworkremotely.com/remote-jobs/saas-product-manager",
+            "date": 1787171818
         },
         {
-            "title": "Confluent: Senior Product Manager, Cluster Linking",
+            "title": "Tiugo Technologies: Principal Product Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/confluent-senior-product-manager-cluster-linking",
-            "date": 1787085188
+            "link": "https://weworkremotely.com/remote-jobs/tiugo-technologies-principal-product-engineer",
+            "date": 1787171806
         },
         {
-            "title": "Supportyourapp: (Native Finnish) Customer Support Consultant (Future Openings, remotely)",
+            "title": "Kodify: Senior Product Manager",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/supportyourapp-native-finnish-customer-support-consultant-future-openings-remotely",
-            "date": 1787085170
+            "link": "https://weworkremotely.com/remote-jobs/kodify-senior-product-manager",
+            "date": 1787171798
         },
         {
-            "title": "Zowie: DevOps Engineer",
+            "title": "Base.com: Full-stack Developer (BL paczka)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zowie-devops-engineer",
-            "date": 1787085162
+            "link": "https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-bl-paczka",
+            "date": 1787171798
         },
         {
-            "title": "Aker Systems: Principal Software Engineer - Product team",
+            "title": "Sedona Digital: Senior Platform Engineer(DevOps)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/aker-systems-principal-software-engineer-product-team",
-            "date": 1787085157
+            "link": "https://weworkremotely.com/remote-jobs/sedona-digital-senior-platform-engineer-devops",
+            "date": 1787171788
         },
         {
-            "title": "Happyco: Senior Product Designer, Mobile Experience",
+            "title": "Tenchi Security: DevOps Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/happyco-senior-product-designer-mobile-experience",
-            "date": 1787085153
+            "link": "https://weworkremotely.com/remote-jobs/tenchi-security-devops-engineer",
+            "date": 1787171784
         },
         {
-            "title": "Zeta Global: Senior Product Designer, AI",
+            "title": "Mediafly: Product Marketing Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mediafly-product-marketing-manager",
+            "date": 1787171777
+        },
+        {
+            "title": "Kota: Senior Product Designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/kota-senior-product-designer",
+            "date": 1787171767
+        },
+        {
+            "title": "Cohere: Product Manager, Agent Harness & Modelling",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cohere-product-manager-agent-harness-modelling",
+            "date": 1787171767
+        },
+        {
+            "title": "Huzzle: Senior Product Designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/huzzle-senior-product-designer",
+            "date": 1787171767
+        },
+        {
+            "title": "Highlevel: Sr. Product Manager - AI Growth",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
@@ -229,65 +147,139 @@
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-ai",
-            "date": 1787085139
+            "link": "https://weworkremotely.com/remote-jobs/highlevel-sr-product-manager-ai-growth",
+            "date": 1787171752
         },
         {
-            "title": "Zeta Global: Senior Product Designer, Agentic AI Applications",
+            "title": "Truv: Senior DevOps Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "govt",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/truv-senior-devops-engineer",
+            "date": 1787171752
+        },
+        {
+            "title": "Highlevel: Sr. Product Manager - AI Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
             "skills": [
                 "ai"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zeta-global-senior-product-designer-agentic-ai-applications",
-            "date": 1787085139
+            "link": "https://weworkremotely.com/remote-jobs/highlevel-sr-product-manager-ai-platform",
+            "date": 1787171744
         },
         {
-            "title": "Coderio: DevOps Senior",
+            "title": "Coin Market Cap: DevOps Engineer - Contractor",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coin-market-cap-devops-engineer-contractor",
+            "date": 1787171738
+        },
+        {
+            "title": "Highlevel: Customer Support Representative I",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coderio-devops-senior",
-            "date": 1787085133
+            "link": "https://weworkremotely.com/remote-jobs/highlevel-customer-support-representative-i",
+            "date": 1787171732
         },
         {
-            "title": "Summa Linguae Technologies: Digital Design Diagram Creators",
+            "title": "Trafilea: Design Specialist",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/summa-linguae-technologies-digital-design-diagram-creators",
-            "date": 1787085124
+            "link": "https://weworkremotely.com/remote-jobs/trafilea-design-specialist",
+            "date": 1787171726
         },
         {
-            "title": "Myneva: Senior DevOps Engineer (m/f/d)",
+            "title": "Leland: AI Product Development Coach (Contract)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/leland-ai-product-development-coach-contract",
+            "date": 1787171715
+        },
+        {
+            "title": "Toast: Principal Product Manager, Voice AI",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toast-principal-product-manager-voice-ai",
+            "date": 1787171695
+        },
+        {
+            "title": "Rockstar: Product Designer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/myneva-senior-devops-engineer-m-f-d",
-            "date": 1787085122
+            "link": "https://weworkremotely.com/remote-jobs/rockstar-product-designer",
+            "date": 1787171692
         },
         {
-            "title": "Charisma-tec: Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d)",
+            "title": "Newrich Network: Senior Full Stack Developer - PHP Laravel",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "php"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/newrich-network-senior-full-stack-developer-php-laravel",
+            "date": 1787171681
+        },
+        {
+            "title": "Hyphen Connect Limited: Founding Product Designer - Decentralized Identity",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/charisma-tec-junior-devops-engineer-ci-cd-developer-tooling-remote-m-f-d",
-            "date": 1787085114
+            "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-founding-product-designer-decentralized-identity",
+            "date": 1787171676
+        },
+        {
+            "title": "Postscript: Director, Email Deliverability",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
+            "date": 1787124640
         }
     ]
 }
