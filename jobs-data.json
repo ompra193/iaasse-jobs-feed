@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-18 08:54:29",
+    "generated_at": "2026-09-18 16:09:21",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Revenuecat: Senior DevOps / DevEx Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/revenuecat-senior-devops-devex-engineer",
+            "date": 1787171840
+        },
         {
             "title": "Smartcat: Senior Product Manager",
             "company": "WeWorkRemotely",
@@ -267,19 +278,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/hyphen-connect-limited-founding-product-designer-decentralized-identity",
             "date": 1787171676
-        },
-        {
-            "title": "Postscript: Director, Email Deliverability",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
-            "date": 1787124640
         }
     ]
 }
