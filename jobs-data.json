@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-20 09:07:49",
+    "generated_at": "2026-09-20 16:12:56",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Legion: Director of Production Engineering",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+            "date": 1788766254
+        },
         {
             "title": "Legion: Chief Architect",
             "company": "WeWorkRemotely",
@@ -235,19 +246,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/customer-io-director-gtm-finance",
             "date": 1787470251
-        },
-        {
-            "title": "Galileo: Medical Licensing Specialist (Contract)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "medical"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/galileo-medical-licensing-specialist-contract",
-            "date": 1787297441
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
