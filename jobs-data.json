@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-22 09:01:37",
+    "generated_at": "2026-09-22 16:32:18",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Lemon.io: Senior Java & React Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java",
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
+            "date": 1788790186
+        },
         {
             "title": "Legion: Director of Production Engineering",
             "company": "WeWorkRemotely",
@@ -81,20 +95,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
             "date": 1788441854
-        },
-        {
-            "title": "Airbnb: Senior Data Scientist, Guest & Host",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/airbnb-senior-data-scientist-guest-host",
-            "date": 1788420663
         },
         {
             "title": "Expel: Managed SIEM Detection Engineer",
@@ -235,19 +235,6 @@
             "date": 1787729439
         },
         {
-            "title": "Customer.io: Director, GTM Finance",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "finance"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/customer-io-director-gtm-finance",
-            "date": 1787470251
-        },
-        {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -259,6 +246,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
             "date": 1785909166
+        },
+        {
+            "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+            "date": 1783616618
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
