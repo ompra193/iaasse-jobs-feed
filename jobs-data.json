@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-22 21:51:50",
+    "generated_at": "2026-09-23 02:26:30",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Lemon.io: Senior .NET Full-stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1",
+            "date": 1788875353
+        },
         {
             "title": "Lemon.io: Senior Java & React Developer",
             "company": "WeWorkRemotely",
@@ -150,17 +161,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
             "date": 1787988667
-        },
-        {
-            "title": "Evident Change: Senior Full-Stack Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/evident-change-senior-full-stack-software-engineer",
-            "date": 1787952570
         },
         {
             "title": "Toptal: [PT/FT] Senior Roblox Developer & Game Designer",
