@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-25 16:45:30",
+    "generated_at": "2026-09-25 22:09:15",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Fin: Solutions Architect -Spanish Speaking",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
+            "date": 1789111848
+        },
+        {
+            "title": "Toptal: Power Platform Solutions Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
+            "date": 1789075833
+        },
         {
             "title": "Flexport: Senior Systems Engineer (Identity and Access)",
             "company": "WeWorkRemotely",
@@ -207,32 +229,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6",
             "date": 1787840209
-        },
-        {
-            "title": "Toptal: Automation Engineer (UIPath) for innovative AI Project",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-automation-engineer-uipath-for-innovative-ai-project",
-            "date": 1787752130
-        },
-        {
-            "title": "Toptal: Mechanical Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "mechanical"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-mechanical-engineer",
-            "date": 1787751443
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
