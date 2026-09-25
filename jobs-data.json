@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-25 09:09:29",
+    "generated_at": "2026-09-25 16:45:30",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Flexport: Senior Systems Engineer (Identity and Access)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
+            "date": 1789025445
+        },
+        {
+            "title": "Salesloft: Commercial Account Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager",
+            "date": 1788939041
+        },
         {
             "title": "Lemon.io: Senior .NET Full-stack Developer",
             "company": "WeWorkRemotely",
@@ -27,17 +49,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
             "date": 1788790186
-        },
-        {
-            "title": "Legion: Director of Production Engineering",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
-            "date": 1788766254
         },
         {
             "title": "Legion: Chief Architect",
@@ -222,17 +233,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-mechanical-engineer",
             "date": 1787751443
-        },
-        {
-            "title": "OfferUp: Software Development Engineer II Full Stack - Business (Remote @ Colombia)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia",
-            "date": 1787729439
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
