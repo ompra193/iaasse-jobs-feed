@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-26 16:22:59",
+    "generated_at": "2026-09-26 21:22:49",
     "total_jobs": 25,
     "jobs": [
         {
@@ -218,19 +218,6 @@
             "date": 1787928687
         },
         {
-            "title": "Lemon.io: Senior React Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-6",
-            "date": 1787840209
-        },
-        {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -253,6 +240,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
             "date": 1783616618
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+            "date": 1778750068
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
