@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-27 16:59:18",
+    "generated_at": "2026-09-27 21:58:44",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Pinterest: Data Scientist II, Infrastructure",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
+            "date": 1789284666
+        },
         {
             "title": "Fin: Solutions Architect -Spanish Speaking",
             "company": "WeWorkRemotely",
@@ -205,17 +218,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-pt-ft-senior-roblox-developer-game-designer",
             "date": 1787949257
-        },
-        {
-            "title": "Toggl: Senior Full Stack",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-            "date": 1787928687
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
