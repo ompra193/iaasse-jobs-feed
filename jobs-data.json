@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-27 21:58:44",
+    "generated_at": "2026-09-28 02:26:42",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Pinterest: Data Scientist II, ML Infrastructure",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
+            "date": 1789284672
+        },
         {
             "title": "Pinterest: Data Scientist II, Infrastructure",
             "company": "WeWorkRemotely",
@@ -207,17 +220,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
             "date": 1787988667
-        },
-        {
-            "title": "Toptal: [PT/FT] Senior Roblox Developer & Game Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-pt-ft-senior-roblox-developer-game-designer",
-            "date": 1787949257
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
