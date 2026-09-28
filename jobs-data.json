@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-28 09:24:37",
+    "generated_at": "2026-09-28 18:31:25",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Reddit: Backend Engineer, IAM",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+            "date": 1789371067
+        },
         {
             "title": "Pinterest: Data Scientist II, ML Infrastructure",
             "company": "WeWorkRemotely",
@@ -209,17 +220,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cribl-customer-support-manager",
             "date": 1788075043
-        },
-        {
-            "title": "Reddit: Backend Software Engineer, PDP Experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
-            "date": 1787988667
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
