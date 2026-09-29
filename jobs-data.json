@@ -1,8 +1,48 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-29 09:59:44",
+    "generated_at": "2026-09-29 17:43:27",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
+            "date": 1789463191
+        },
+        {
+            "title": "Proxify AB: Senior Backend Developer (Python)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "python"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+            "date": 1789462896
+        },
+        {
+            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react",
+                "node"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
+            "date": 1789462305
+        },
         {
             "title": "Reddit: Backend Engineer, IAM",
             "company": "WeWorkRemotely",
@@ -13,19 +53,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
             "date": 1789371067
-        },
-        {
-            "title": "Pinterest: Data Scientist II, ML Infrastructure",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
-            "date": 1789284672
         },
         {
             "title": "Pinterest: Data Scientist II, Infrastructure",
@@ -61,17 +88,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
             "date": 1789075833
-        },
-        {
-            "title": "Flexport: Senior Systems Engineer (Identity and Access)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/flexport-senior-systems-engineer-identity-and-access",
-            "date": 1789025445
         },
         {
             "title": "Salesloft: Commercial Account Manager",
@@ -209,17 +225,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect-for-global-pharmaceutical-company",
             "date": 1788191237
-        },
-        {
-            "title": "Cribl: Customer Support Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cribl-customer-support-manager",
-            "date": 1788075043
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
