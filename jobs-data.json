@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-09-30 09:42:13",
+    "generated_at": "2026-09-30 17:29:21",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "AccuLynx: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
+            "date": 1789481567
+        },
         {
             "title": "Toptal: Senior Data Engineer \u2013 AWS Data Lake & Pipeline Architecture",
             "company": "WeWorkRemotely",
@@ -205,17 +216,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
             "date": 1788441854
-        },
-        {
-            "title": "Expel: Managed SIEM Detection Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
-            "date": 1788247849
         },
         {
             "title": "Toptal: Smartsheet Expert for Integrated Project Planning",
