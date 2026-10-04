@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-04 10:02:18",
+    "generated_at": "2026-10-04 17:20:28",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
+            "date": 1789750868
+        },
+        {
+            "title": "Collibra: CPS Account Program Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager",
+            "date": 1789716646
+        },
+        {
+            "title": "Twikey: Senior Java Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "java"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+            "date": 1789642283
+        },
         {
             "title": "Sticker Mule: AI agent engineer",
             "company": "WeWorkRemotely",
@@ -198,28 +233,6 @@
             "date": 1788537411
         },
         {
-            "title": "Fin: Senior Solutions Engineer- LATAM",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/fin-senior-solutions-engineer-latam",
-            "date": 1788507056
-        },
-        {
-            "title": "Prove: Director, Channel & Partnerships",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/prove-director-channel-partnerships",
-            "date": 1788507053
-        },
-        {
             "title": "Edfinity: Senior Software Engineer, remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -240,19 +253,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
             "date": 1786975034
-        },
-        {
-            "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-            "date": 1785909166
         },
         {
             "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
