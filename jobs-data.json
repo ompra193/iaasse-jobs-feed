@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-04 22:00:01",
+    "generated_at": "2026-10-05 02:24:50",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "STEUART NUTRITION: Software Developer AI Coding",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
+            "date": 1790175798
+        },
+        {
+            "title": "Glean: Application Security Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
+            "date": 1790148673
+        },
+        {
+            "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
+            "date": 1789985675
+        },
         {
             "title": "Hex Technologies: Cloud Security Engineer",
             "company": "WeWorkRemotely",
@@ -222,17 +257,6 @@
             "date": 1788766247
         },
         {
-            "title": "Track it Forward: Lead Developer \u2014 Rebuild, Modernize, & Scale (Social Good SaaS, Remote)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote",
-            "date": 1788554302
-        },
-        {
             "title": "Edfinity: Senior Software Engineer, remote",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -275,32 +299,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
             "date": 1778750068
-        },
-        {
-            "title": "A.Team: Senior Independent AI Engineer / Architect",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-            "date": 1718561332
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
