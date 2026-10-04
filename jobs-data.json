@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-04 17:20:28",
+    "generated_at": "2026-10-04 22:00:01",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Hex Technologies: Cloud Security Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+            "date": 1789803070
+        },
         {
             "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
             "company": "WeWorkRemotely",
@@ -218,19 +231,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote",
             "date": 1788554302
-        },
-        {
-            "title": "Lemon.io: Senior React Native Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1",
-            "date": 1788537411
         },
         {
             "title": "Edfinity: Senior Software Engineer, remote",
