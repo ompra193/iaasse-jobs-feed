@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-05 09:48:06",
+    "generated_at": "2026-10-05 19:13:47",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Customer.io: Contract Accounts Payable Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "accounts"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/customer-io-contract-accounts-payable-manager",
+            "date": 1790235050
+        },
         {
             "title": "STEUART NUTRITION: Software Developer AI Coding",
             "company": "WeWorkRemotely",
@@ -277,17 +290,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
             "date": 1786975034
-        },
-        {
-            "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
-            "date": 1783616618
         },
         {
             "title": "Sticker Mule: Software engineer",
