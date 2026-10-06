@@ -1,20 +1,18 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-06 10:36:03",
+    "generated_at": "2026-10-06 18:19:51",
     "total_jobs": 25,
     "jobs": [
         {
-            "title": "Customer.io: Contract Accounts Payable Manager",
+            "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "accounts"
-            ],
+            "employment": "full-time",
+            "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/customer-io-contract-accounts-payable-manager",
-            "date": 1790235050
+            "link": "https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
+            "date": 1790261120
         },
         {
             "title": "STEUART NUTRITION: Software Developer AI Coding",
