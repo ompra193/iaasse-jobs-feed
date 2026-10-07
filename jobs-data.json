@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-07 10:02:56",
+    "generated_at": "2026-10-07 18:13:49",
     "total_jobs": 25,
     "jobs": [
         {
@@ -257,15 +257,15 @@
             "date": 1788790186
         },
         {
-            "title": "Legion: Chief Architect",
+            "title": "Toggl: Senior Full Stack",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
-            "date": 1788766247
+            "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+            "date": 1787928687
         },
         {
             "title": "Edfinity: Senior Software Engineer, remote",
