@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-07 18:13:49",
+    "generated_at": "2026-10-08 04:17:11",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Dremio: Senior Staff Software Engineer - Query Execution",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
+            "date": 1790580665
+        },
         {
             "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
             "company": "WeWorkRemotely",
@@ -241,20 +252,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1",
             "date": 1788875353
-        },
-        {
-            "title": "Lemon.io: Senior Java & React Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java",
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-java-react-developer",
-            "date": 1788790186
         },
         {
             "title": "Toggl: Senior Full Stack",
