@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-08 18:23:15",
+    "generated_at": "2026-10-09 04:28:12",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Dremio: Software Engineer - Developer Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience",
+            "date": 1790580665
+        },
         {
             "title": "Dremio: Senior Staff Software Engineer - Query Execution",
             "company": "WeWorkRemotely",
@@ -241,17 +252,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/salesloft-commercial-account-manager",
             "date": 1788939041
-        },
-        {
-            "title": "Lemon.io: Senior .NET Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-1",
-            "date": 1788875353
         },
         {
             "title": "Toggl: Senior Full Stack",
