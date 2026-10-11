@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-11 02:42:55",
+    "generated_at": "2026-10-11 09:46:04",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Air Apps: Framer Website Designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
+            "date": 1790633566
+        },
         {
             "title": "Wisevu: Web Development Project Manager",
             "company": "WeWorkRemotely",
@@ -241,17 +254,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/fin-solutions-architect-spanish-speaking",
             "date": 1789111848
-        },
-        {
-            "title": "Toptal: Power Platform Solutions Architect",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-power-platform-solutions-architect",
-            "date": 1789075833
         },
         {
             "title": "Toggl: Senior Full Stack",
