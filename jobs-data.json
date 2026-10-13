@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-13 05:41:45",
+    "generated_at": "2026-10-13 19:08:55",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
+            "date": 1790709232
+        },
+        {
+            "title": "Discord: Engineering Manager, Machine Learning (Safety)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
+            "date": 1790667041
+        },
         {
             "title": "ZoomInfo Technologies LLC: Director, Applied AI",
             "company": "WeWorkRemotely",
@@ -144,17 +166,6 @@
             "date": 1789750868
         },
         {
-            "title": "Collibra: CPS Account Program Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/collibra-cps-account-program-manager",
-            "date": 1789716646
-        },
-        {
             "title": "Twikey: Senior Java Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -168,16 +179,14 @@
             "date": 1789642283
         },
         {
-            "title": "Sticker Mule: AI agent engineer",
+            "title": "Sticker Mule: SI agent engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
+            "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
             "date": 1789561457
         },
         {
@@ -254,19 +263,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
             "date": 1789371067
-        },
-        {
-            "title": "Pinterest: Data Scientist II, Infrastructure",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
-            "date": 1789284666
         },
         {
             "title": "Toggl: Senior Full Stack",
