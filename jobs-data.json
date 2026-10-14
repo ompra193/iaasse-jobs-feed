@@ -1,8 +1,22 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-14 09:13:02",
+    "generated_at": "2026-10-14 16:47:35",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [
+                "ai",
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
+            "date": 1790709232
+        },
         {
             "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
             "company": "WeWorkRemotely",
@@ -252,17 +266,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
             "date": 1789462305
-        },
-        {
-            "title": "Reddit: Backend Engineer, IAM",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
-            "date": 1789371067
         },
         {
             "title": "Toggl: Senior Full Stack",
