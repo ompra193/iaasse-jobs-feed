@@ -1,8 +1,33 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-15 08:54:42",
+    "generated_at": "2026-10-15 16:25:24",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Tailscale: Analytics Engineer, Data",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai",
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+            "date": 1790753484
+        },
+        {
+            "title": "Lithic: Senior Software Engineer, Card Authorization",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+            "date": 1790753484
+        },
         {
             "title": "HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
             "company": "WeWorkRemotely",
@@ -228,46 +253,6 @@
             "date": 1789476789
         },
         {
-            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-3",
-            "date": 1789463191
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
-            "date": 1789462896
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-4",
-            "date": 1789462305
-        },
-        {
             "title": "Toggl: Senior Full Stack",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -299,6 +284,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
             "date": 1786975034
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
