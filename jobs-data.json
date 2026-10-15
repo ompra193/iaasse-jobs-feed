@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-15 16:25:24",
-    "total_jobs": 25,
+    "generated_at": "2026-10-15 21:53:11",
+    "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Salesloft: Principal Software Engineer, AI",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
+            "date": 1790753484
+        },
         {
             "title": "Tailscale: Analytics Engineer, Data",
             "company": "WeWorkRemotely",
@@ -227,30 +240,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
             "date": 1789561457
-        },
-        {
-            "title": "AccuLynx: Senior Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/acculynx-senior-software-engineer",
-            "date": 1789481567
-        },
-        {
-            "title": "Toptal: Senior Data Engineer \u2013 AWS Data Lake & Pipeline Architecture",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-data-engineer-aws-data-lake-pipeline-architecture",
-            "date": 1789476789
         },
         {
             "title": "Toggl: Senior Full Stack",
