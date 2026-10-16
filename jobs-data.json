@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-16 21:39:36",
+    "generated_at": "2026-10-17 02:03:26",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Doximity: Commercial Data Scientist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
+            "date": 1790839856
+        },
         {
             "title": "Hex Technologies: Legal Ops",
             "company": "WeWorkRemotely",
@@ -262,17 +275,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
             "date": 1787928687
-        },
-        {
-            "title": "Edfinity: Senior Software Engineer, remote",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
-            "date": 1786994479
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
