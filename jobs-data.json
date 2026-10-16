@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-16 16:17:28",
+    "generated_at": "2026-10-16 21:39:36",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Hex Technologies: Legal Ops",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
+            "date": 1790839856
+        },
+        {
+            "title": "Lithic: Senior Risk Associate",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
+            "date": 1790753484
+        },
         {
             "title": "Salesloft: Principal Software Engineer, AI",
             "company": "WeWorkRemotely",
@@ -231,17 +253,6 @@
             "date": 1789642283
         },
         {
-            "title": "Sticker Mule: SI agent engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-si-agent-engineer",
-            "date": 1789561457
-        },
-        {
             "title": "Toggl: Senior Full Stack",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -262,17 +273,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
             "date": 1786994479
-        },
-        {
-            "title": "Samsara: Staff Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-            "date": 1786975034
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
