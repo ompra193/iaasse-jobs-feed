@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-17 15:42:29",
+    "generated_at": "2026-10-17 20:31:40",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Humane World for Animals: Web Designer, eCRM",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
+            "date": 1790962785
+        },
         {
             "title": "Doximity: Commercial Data Scientist",
             "company": "WeWorkRemotely",
@@ -251,19 +262,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
             "date": 1789750868
-        },
-        {
-            "title": "Twikey: Senior Java Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
-            "date": 1789642283
         },
         {
             "title": "Toggl: Senior Full Stack",
