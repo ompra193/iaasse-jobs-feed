@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-18 20:56:31",
+    "generated_at": "2026-10-19 01:39:38",
     "total_jobs": 24,
     "jobs": [
         {
@@ -253,17 +253,6 @@
             "date": 1789803070
         },
         {
-            "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-integration-engineer-for-enterprise-api-integration-products",
-            "date": 1789750868
-        },
-        {
             "title": "Toggl: Senior Full Stack",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -273,6 +262,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
             "date": 1787928687
+        },
+        {
+            "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+            "date": 1785909166
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
