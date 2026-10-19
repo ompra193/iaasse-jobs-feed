@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-19 08:57:00",
+    "generated_at": "2026-10-19 17:45:42",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Stripe: Abuse Research Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
+            "date": 1791099068
+        },
         {
             "title": "Humane World for Animals: Web Designer, eCRM",
             "company": "WeWorkRemotely",
@@ -238,19 +249,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
             "date": 1789985675
-        },
-        {
-            "title": "Hex Technologies: Cloud Security Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "cloud"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
-            "date": 1789803070
         },
         {
             "title": "Toggl: Senior Full Stack",
