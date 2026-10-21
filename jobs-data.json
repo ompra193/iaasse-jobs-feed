@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-21 08:59:21",
+    "generated_at": "2026-10-21 16:44:59",
     "total_jobs": 24,
     "jobs": [
         {
@@ -240,17 +240,6 @@
             "date": 1790148673
         },
         {
-            "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/adventure-travel-365-senior-full-stack-developer-marketplace-web-mobile-platform",
-            "date": 1789985675
-        },
-        {
             "title": "Toggl: Senior Full Stack",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -273,6 +262,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
             "date": 1785909166
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
