@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-23 09:03:39",
+    "generated_at": "2026-10-23 16:35:08",
     "total_jobs": 24,
     "jobs": [
         {
@@ -229,17 +229,6 @@
             "date": 1790175798
         },
         {
-            "title": "Glean: Application Security Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
-            "date": 1790148673
-        },
-        {
             "title": "Toggl: Senior Full Stack",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -262,6 +251,19 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
             "date": 1785909166
+        },
+        {
+            "title": "A.Team: Senior Independent AI Engineer / Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+            "date": 1718561332
         },
         {
             "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
