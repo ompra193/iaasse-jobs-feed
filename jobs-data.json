@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-23 16:35:08",
+    "generated_at": "2026-10-23 22:02:04",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Wrike: Director, Global GTM Strategy & Operations",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
+            "date": 1791185489
+        },
         {
             "title": "Stripe: Abuse Research Engineer",
             "company": "WeWorkRemotely",
@@ -214,19 +225,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
             "date": 1790261120
-        },
-        {
-            "title": "STEUART NUTRITION: Software Developer AI Coding",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding",
-            "date": 1790175798
         },
         {
             "title": "Toggl: Senior Full Stack",
