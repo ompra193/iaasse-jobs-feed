@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-24 15:51:30",
+    "generated_at": "2026-10-24 20:56:50",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Webflow: Senior Infrastructure Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
+            "date": 1791271865
+        },
         {
             "title": "Wrike: Director, Global GTM Strategy & Operations",
             "company": "WeWorkRemotely",
@@ -214,17 +225,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
             "date": 1790580665
-        },
-        {
-            "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-salesforce-platform-lead-for-global-industrial-company",
-            "date": 1790261120
         },
         {
             "title": "Toggl: Senior Full Stack",
