@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-27 17:09:54",
+    "generated_at": "2026-10-27 23:01:16",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Dremio: Software Engineer - Query Execution",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+            "date": 1791358253
+        },
+        {
+            "title": "Lemon.io: Senior Angular Full-stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+            "date": 1791293157
+        },
         {
             "title": "PagerDuty: Senior Director, Field Enablement",
             "company": "WeWorkRemotely",
@@ -46,17 +68,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
             "date": 1791099068
-        },
-        {
-            "title": "Humane World for Animals: Web Designer, eCRM",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/humane-world-for-animals-web-designer-ecrm-1",
-            "date": 1790962785
         },
         {
             "title": "Doximity: Commercial Data Scientist",
@@ -225,17 +236,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
             "date": 1790580665
-        },
-        {
-            "title": "Toggl: Senior Full Stack",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-            "date": 1787928687
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
