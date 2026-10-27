@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-27 09:23:27",
+    "generated_at": "2026-10-27 17:09:54",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "PagerDuty: Senior Director, Field Enablement",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
+            "date": 1791271876
+        },
         {
             "title": "Webflow: Senior Infrastructure Engineer",
             "company": "WeWorkRemotely",
@@ -167,17 +178,6 @@
             ],
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-            "date": 1790667041
-        },
-        {
-            "title": "Postscript: Client Strategist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/postscript-client-strategist",
             "date": 1790667041
         },
         {
