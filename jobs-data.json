@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-28 17:41:23",
+    "generated_at": "2026-10-29 03:44:11",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Lemon.io: Senior .NET Full-stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
+            "date": 1791459696
+        },
+        {
+            "title": "Jumio: Machine Learning Engineer - IV (Biometrics)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
+            "date": 1791444681
+        },
         {
             "title": "Jumio: Machine Learning Engineer",
             "company": "WeWorkRemotely",
@@ -212,30 +234,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
             "date": 1790667041
-        },
-        {
-            "title": "Air Apps: Framer Website Designer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
-            "date": 1790633566
-        },
-        {
-            "title": "Wisevu: Web Development Project Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
-            "date": 1790633565
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
