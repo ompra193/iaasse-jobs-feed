@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-29 10:04:32",
+    "generated_at": "2026-10-29 17:51:47",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Typeform: Full Stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
+            "date": 1791617468
+        },
+        {
+            "title": "Jumio: Machine Learning Engineer - IV (Computer Vision)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
+            "date": 1791617440
+        },
+        {
+            "title": "Lemon.io: Senior React Full-stack Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "react"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+            "date": 1791553761
+        },
         {
             "title": "Lemon.io: Senior .NET Full-stack Developer",
             "company": "WeWorkRemotely",
@@ -176,17 +211,6 @@
             "date": 1790753484
         },
         {
-            "title": "Lithic: Senior Software Engineer, Card Authorization",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-            "date": 1790753484
-        },
-        {
             "title": "HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -210,30 +234,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
             "date": 1790709232
-        },
-        {
-            "title": "Discord: Engineering Manager, Machine Learning (Safety)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
-            "date": 1790667041
-        },
-        {
-            "title": "ZoomInfo Technologies LLC: Director, Applied AI",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai",
-            "date": 1790667041
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
