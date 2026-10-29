@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-29 17:51:47",
+    "generated_at": "2026-10-30 03:58:20",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Vercel: Software Engineer, Backend",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
+            "date": 1791703867
+        },
+        {
+            "title": "Maven Clinic: Client Success Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
+            "date": 1791703856
+        },
         {
             "title": "Typeform: Full Stack Developer",
             "company": "WeWorkRemotely",
@@ -209,31 +231,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
             "date": 1790753484
-        },
-        {
-            "title": "HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "govt",
-            "skills": [
-                "ai",
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hr-plus-web-developer-fresh-graduate-welcome-wfh-policy-on-job-training",
-            "date": 1790709232
-        },
-        {
-            "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bondex-fullstack-web3-engineer-solidity-rust-typescript",
-            "date": 1790709232
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
