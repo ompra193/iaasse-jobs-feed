@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-30 03:58:20",
+    "generated_at": "2026-10-30 10:04:49",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Vercel: Software Engineer - Data Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
+            "date": 1791703867
+        },
         {
             "title": "Vercel: Software Engineer, Backend",
             "company": "WeWorkRemotely",
@@ -270,17 +283,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
             "date": 1718559051
-        },
-        {
-            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
-            "date": 1715570070
         }
     ]
 }
