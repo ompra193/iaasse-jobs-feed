@@ -1,8 +1,43 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-30 10:04:49",
-    "total_jobs": 24,
+    "generated_at": "2026-10-30 17:42:41",
+    "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Toptal: Apigee Engineer for Global Consumer Food Company",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-apigee-engineer-for-global-consumer-food-company",
+            "date": 1791822514
+        },
+        {
+            "title": "Toptal: Salesforce Developers with AI-Assisted Coding Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience",
+            "date": 1791822083
+        },
+        {
+            "title": "Toptal: Full-Stack E-commerce Developer with Sage X3 Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
+            "date": 1791813176
+        },
         {
             "title": "Vercel: Software Engineer - Data Platform",
             "company": "WeWorkRemotely",
@@ -208,44 +243,6 @@
             "date": 1790839856
         },
         {
-            "title": "Lithic: Senior Risk Associate",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-risk-associate",
-            "date": 1790753484
-        },
-        {
-            "title": "Salesloft: Principal Software Engineer, AI",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/salesloft-principal-software-engineer-ai",
-            "date": 1790753484
-        },
-        {
-            "title": "Tailscale: Analytics Engineer, Data",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai",
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
-            "date": 1790753484
-        },
-        {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -257,6 +254,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
             "date": 1785909166
+        },
+        {
+            "title": "Sticker Mule: Software engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+            "date": 1778750068
         },
         {
             "title": "A.Team: Senior Independent AI Engineer / Architect",
