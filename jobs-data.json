@@ -1,8 +1,34 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-10-31 09:47:30",
+    "generated_at": "2026-10-31 17:14:54",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Databricks: Deployment Strategist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
+            "date": 1791963060
+        },
+        {
+            "title": "Toptal: Applied AI Engineers for telecommunications company",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-applied-ai-engineers-for-telecommunications-company",
+            "date": 1791823081
+        },
         {
             "title": "Toptal: Apigee Engineer for Global Consumer Food Company",
             "company": "WeWorkRemotely",
@@ -217,30 +243,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
             "date": 1791099068
-        },
-        {
-            "title": "Doximity: Commercial Data Scientist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist",
-            "date": 1790839856
-        },
-        {
-            "title": "Hex Technologies: Legal Ops",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/hex-technologies-legal-ops",
-            "date": 1790839856
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
