@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-03 06:04:06",
+    "generated_at": "2026-11-03 19:11:26",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "StockX: Category Manager - Apparel",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
+            "date": 1792049481
+        },
+        {
+            "title": "Upgrade: AI Experience Engineer (Conversational AI)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
+            "date": 1792049474
+        },
         {
             "title": "Databricks: Deployment Strategist",
             "company": "WeWorkRemotely",
@@ -232,30 +256,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
             "date": 1791185489
-        },
-        {
-            "title": "Stripe: Abuse Research Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-            "date": 1791099068
-        },
-        {
-            "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-            "date": 1785909166
         },
         {
             "title": "Sticker Mule: Software engineer",
