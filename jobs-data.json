@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-03 19:11:26",
+    "generated_at": "2026-11-04 04:26:16",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Medify: Engineering Manager",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
+            "date": 1792072747
+        },
+        {
+            "title": "Lattice: Senior Software Engineer, Infrastructure Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
+            "date": 1792049481
+        },
         {
             "title": "StockX: Category Manager - Apparel",
             "company": "WeWorkRemotely",
@@ -267,32 +289,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
             "date": 1778750068
-        },
-        {
-            "title": "A.Team: Senior Independent AI Engineer / Architect",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
-            "date": 1718561332
-        },
-        {
-            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
-            "date": 1718559051
         }
     ]
 }
