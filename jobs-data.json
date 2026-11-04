@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-04 10:29:19",
+    "generated_at": "2026-11-04 19:20:23",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Askable: Software Engineer, AI Coding Tasks (Contract)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
+            "date": 1792111853
+        },
         {
             "title": "Medify: Engineering Manager",
             "company": "WeWorkRemotely",
@@ -267,17 +280,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
             "date": 1791271865
-        },
-        {
-            "title": "Wrike: Director, Global GTM Strategy & Operations",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/wrike-director-global-gtm-strategy-operations",
-            "date": 1791185489
         },
         {
             "title": "Sticker Mule: Software engineer",
