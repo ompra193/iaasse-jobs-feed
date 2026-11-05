@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-05 10:50:50",
+    "generated_at": "2026-11-05 19:33:32",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Sanctuary Computer: Head of Technology",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
+            "date": 1792160471
+        },
+        {
+            "title": "Maven Clinic: Director, Marketing Operations",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations",
+            "date": 1792135860
+        },
+        {
+            "title": "Fivetran : Global Alliance Lead, Capgemini",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
+            "date": 1792135850
+        },
         {
             "title": "Askable: Software Engineer, AI Coding Tasks (Contract)",
             "company": "WeWorkRemotely",
@@ -249,48 +282,15 @@
             "date": 1791358253
         },
         {
-            "title": "Lemon.io: Senior Angular Full-stack Developer",
+            "title": "Samsara: Staff Software Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
-            "date": 1791293157
-        },
-        {
-            "title": "PagerDuty: Senior Director, Field Enablement",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-            "date": 1791271876
-        },
-        {
-            "title": "Webflow: Senior Infrastructure Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/webflow-senior-infrastructure-engineer",
-            "date": 1791271865
-        },
-        {
-            "title": "Sticker Mule: Software engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
-            "date": 1778750068
+            "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
+            "date": 1786975034
         }
     ]
 }
