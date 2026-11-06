@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-06 10:50:12",
+    "generated_at": "2026-11-06 19:17:38",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Mixpanel: Customer Value Architect III",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
+            "date": 1792222250
+        },
         {
             "title": "Sanctuary Computer: Head of Technology",
             "company": "WeWorkRemotely",
@@ -269,17 +280,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
             "date": 1791444660
-        },
-        {
-            "title": "Dremio: Software Engineer - Query Execution",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
-            "date": 1791358253
         },
         {
             "title": "Samsara: Staff Software Engineer",
