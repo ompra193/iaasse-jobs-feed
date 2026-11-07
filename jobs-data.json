@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-07 10:19:39",
-    "total_jobs": 25,
+    "generated_at": "2026-11-07 18:01:09",
+    "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Squarespace: Staff Software Engineer, Revenue Systems",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
+            "date": 1792308658
+        },
+        {
+            "title": "Dremio: Staff Software Engineer - Connectivity",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
+            "date": 1792308658
+        },
         {
             "title": "Mixpanel: Customer Value Architect III",
             "company": "WeWorkRemotely",
@@ -11,8 +33,8 @@
             "employment": "full-time",
             "skills": [],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii",
-            "date": 1792222250
+            "link": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
+            "date": 1792222254
         },
         {
             "title": "Sanctuary Computer: Head of Technology",
@@ -238,48 +260,17 @@
             "date": 1791553761
         },
         {
-            "title": "Lemon.io: Senior .NET Full-stack Developer",
+            "title": "Twikey: Senior Java Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "java"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-net-full-stack-developer-2",
-            "date": 1791459696
-        },
-        {
-            "title": "Jumio: Machine Learning Engineer - IV (Biometrics)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-biometrics",
-            "date": 1791444681
-        },
-        {
-            "title": "Jumio: Machine Learning Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer",
-            "date": 1791444681
-        },
-        {
-            "title": "Abnormal: Director of Security Engineering",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/abnormal-director-of-security-engineering",
-            "date": 1791444660
+            "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
+            "date": 1789642283
         },
         {
             "title": "Samsara: Staff Software Engineer",
