@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-08 18:19:34",
+    "generated_at": "2026-11-09 03:13:19",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Lithic: Senior Software Engineer, Processing",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
+            "date": 1792308659
+        },
         {
             "title": "Squarespace: Staff Software Engineer, Revenue Systems",
             "company": "WeWorkRemotely",
@@ -245,19 +256,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
             "date": 1791617440
-        },
-        {
-            "title": "Lemon.io: Senior React Full-stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
-            "date": 1791553761
         },
         {
             "title": "Twikey: Senior Java Developer",
