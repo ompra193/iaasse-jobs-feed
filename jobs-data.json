@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-09 10:21:15",
+    "generated_at": "2026-11-09 20:48:48",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Alloy: Founding Forward Deployed Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+            "date": 1792308665
+        },
+        {
+            "title": "Airbnb: Operations Engineer, BizTech",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+            "date": 1792308665
+        },
         {
             "title": "Lithic: Senior Software Engineer, Processing",
             "company": "WeWorkRemotely",
@@ -234,28 +258,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
             "date": 1791703856
-        },
-        {
-            "title": "Typeform: Full Stack Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/typeform-full-stack-developer",
-            "date": 1791617468
-        },
-        {
-            "title": "Jumio: Machine Learning Engineer - IV (Computer Vision)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision",
-            "date": 1791617440
         },
         {
             "title": "Twikey: Senior Java Developer",
