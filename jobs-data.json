@@ -1,8 +1,45 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-10 06:42:40",
+    "generated_at": "2026-11-10 19:54:36",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Current: Freelance Marketo Email Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
+            "date": 1792395085
+        },
+        {
+            "title": "Clover Health: Director, AI-Enabled Fraud Prevention & Investigations",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
+            "date": 1792395071
+        },
+        {
+            "title": "Lithic: Senior Software Engineer, Product Platform",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
+            "date": 1792308665
+        },
         {
             "title": "Alloy: Founding Forward Deployed Engineer",
             "company": "WeWorkRemotely",
@@ -223,41 +260,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/toptal-full-stack-e-commerce-developer-with-sage-x3-experience",
             "date": 1791813176
-        },
-        {
-            "title": "Vercel: Software Engineer - Data Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform",
-            "date": 1791703867
-        },
-        {
-            "title": "Vercel: Software Engineer, Backend",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend",
-            "date": 1791703867
-        },
-        {
-            "title": "Maven Clinic: Client Success Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-client-success-manager",
-            "date": 1791703856
         },
         {
             "title": "Twikey: Senior Java Developer",
