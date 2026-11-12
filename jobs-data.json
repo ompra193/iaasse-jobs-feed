@@ -1,18 +1,20 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-12 20:12:21",
+    "generated_at": "2026-11-13 04:44:51",
     "total_jobs": 24,
     "jobs": [
         {
-            "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
+            "title": "Cigna Healthcare: Clinical Program Senior Advisor - Remote - Express Scripts (Academic Detailing)",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
-            "skills": [],
+            "skills": [
+                "ai"
+            ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
-            "date": 1792404081
+            "link": "https://weworkremotely.com/remote-jobs/cigna-healthcare-clinical-program-senior-advisor-remote-express-scripts-academic-detailing",
+            "date": 1794502931
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
