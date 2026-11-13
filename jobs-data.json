@@ -1,6 +1,6 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-13 10:47:14",
+    "generated_at": "2026-11-13 19:29:00",
     "total_jobs": 24,
     "jobs": [
         {
@@ -15,6 +15,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/cigna-healthcare-clinical-program-senior-advisor-remote-express-scripts-academic-detailing",
             "date": 1794502931
+        },
+        {
+            "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
+            "date": 1792404081
         },
         {
             "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
@@ -252,19 +263,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
             "date": 1792049474
-        },
-        {
-            "title": "Databricks: Deployment Strategist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
-            "date": 1791963060
         },
         {
             "title": "Twikey: Senior Java Developer",
