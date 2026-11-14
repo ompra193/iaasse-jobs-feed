@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-14 18:30:46",
+    "generated_at": "2026-11-15 03:29:48",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Vertex Marketing Group: Distribution Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+            "date": 1792495957
+        },
         {
             "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
             "company": "WeWorkRemotely",
@@ -250,17 +261,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
             "date": 1792111853
-        },
-        {
-            "title": "Medify: Engineering Manager",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
-            "date": 1792072747
         },
         {
             "title": "Twikey: Senior Java Developer",
