@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-14 10:36:56",
+    "generated_at": "2026-11-14 18:30:46",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
+            "date": 1792481464
+        },
+        {
+            "title": "Celonis: Client Value Partner (CVP) - Oil & Gas Industry",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
+            "date": 1792481460
+        },
+        {
+            "title": "Reddit: Analytics Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
+            "date": 1792481457
+        },
         {
             "title": "Growth Minded: Senior Data Engineer",
             "company": "WeWorkRemotely",
@@ -228,41 +261,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/medify-engineering-manager",
             "date": 1792072747
-        },
-        {
-            "title": "Lattice: Senior Software Engineer, Infrastructure Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lattice-senior-software-engineer-infrastructure-platform",
-            "date": 1792049481
-        },
-        {
-            "title": "StockX: Category Manager - Apparel",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stockx-category-manager-apparel",
-            "date": 1792049481
-        },
-        {
-            "title": "Upgrade: AI Experience Engineer (Conversational AI)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/upgrade-ai-experience-engineer-conversational-ai",
-            "date": 1792049474
         },
         {
             "title": "Twikey: Senior Java Developer",
