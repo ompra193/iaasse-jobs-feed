@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-15 18:59:13",
+    "generated_at": "2026-11-16 04:00:39",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Lemon.io: Senior Vue Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+            "date": 1792587296
+        },
+        {
+            "title": "Ritual: Core Protocol Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+            "date": 1792567885
+        },
         {
             "title": "Oportun: Senior Data Engineer - Capital Markets (R13923)",
             "company": "WeWorkRemotely",
@@ -252,17 +274,6 @@
             "date": 1792222254
         },
         {
-            "title": "Sanctuary Computer: Head of Technology",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
-            "date": 1792160471
-        },
-        {
             "title": "Twikey: Senior Java Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -274,17 +285,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
             "date": 1789642283
-        },
-        {
-            "title": "Samsara: Staff Software Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/samsara-staff-software-engineer",
-            "date": 1786975034
         }
     ]
 }
