@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-15 10:29:31",
+    "generated_at": "2026-11-15 18:59:13",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Oportun: Senior Data Engineer - Capital Markets (R13923)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
+            "date": 1792567866
+        },
+        {
+            "title": "Toptal: Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
+            "date": 1792519855
+        },
         {
             "title": "Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development",
             "company": "WeWorkRemotely",
@@ -237,28 +261,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
             "date": 1792160471
-        },
-        {
-            "title": "Maven Clinic: Director, Marketing Operations",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-director-marketing-operations",
-            "date": 1792135860
-        },
-        {
-            "title": "Fivetran : Global Alliance Lead, Capgemini",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
-            "date": 1792135850
         },
         {
             "title": "Twikey: Senior Java Developer",
