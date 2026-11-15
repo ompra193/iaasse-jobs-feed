@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-15 03:29:48",
+    "generated_at": "2026-11-15 10:29:31",
     "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
+            "date": 1792518853
+        },
         {
             "title": "Vertex Marketing Group: Distribution Engineer",
             "company": "WeWorkRemotely",
@@ -248,19 +259,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/fivetran-global-alliance-lead-capgemini",
             "date": 1792135850
-        },
-        {
-            "title": "Askable: Software Engineer, AI Coding Tasks (Contract)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
-            "date": 1792111853
         },
         {
             "title": "Twikey: Senior Java Developer",
