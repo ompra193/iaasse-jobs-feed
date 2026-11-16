@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-16 10:27:59",
-    "total_jobs": 24,
+    "generated_at": "2026-11-16 20:24:41",
+    "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Mercury: Business Continuity Management Lead",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead",
+            "date": 1792654274
+        },
+        {
+            "title": "OfferUp: Software Development Engineer II (Remote @ Colombia)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
+            "date": 1792654268
+        },
+        {
+            "title": "Maven Clinic: Head of Member Growth (B2B2C)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
+            "date": 1792654268
+        },
         {
             "title": "Lemon.io: Senior Vue Developer",
             "company": "WeWorkRemotely",
@@ -261,30 +294,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
             "date": 1792308658
-        },
-        {
-            "title": "Mixpanel: Customer Value Architect III",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mixpanel-customer-value-architect-iii-1",
-            "date": 1792222254
-        },
-        {
-            "title": "Twikey: Senior Java Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "java"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/twikey-senior-java-developer",
-            "date": 1789642283
         }
     ]
 }
