@@ -1,8 +1,80 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-17 07:07:25",
+    "generated_at": "2026-11-17 21:02:59",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Bybit: Blockchain Risk Control Lead",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead",
+            "date": 1792740681
+        },
+        {
+            "title": "Bybit: Animator Intern",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
+            "date": 1792740680
+        },
+        {
+            "title": "Toptal: Senior Deployment Engineer with LLM and GPU Infrastructure experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
+            "date": 1792695543
+        },
+        {
+            "title": "Toptal: AI Engineer - Agentic Systems",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
+            "date": 1792695282
+        },
+        {
+            "title": "Affirm: Analytics Engineer II, Full Stack (Revenue Analytics)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
+            "date": 1792654285
+        },
+        {
+            "title": "Netlify: Senior Staff Data Scientist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
+            "date": 1792654274
+        },
         {
             "title": "Mercury: Business Continuity Management Lead",
             "company": "WeWorkRemotely",
@@ -226,74 +298,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
             "date": 1792395071
-        },
-        {
-            "title": "Lithic: Senior Software Engineer, Product Platform",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-product-platform",
-            "date": 1792308665
-        },
-        {
-            "title": "Alloy: Founding Forward Deployed Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
-            "date": 1792308665
-        },
-        {
-            "title": "Airbnb: Operations Engineer, BizTech",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
-            "date": 1792308665
-        },
-        {
-            "title": "Lithic: Senior Software Engineer, Processing",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-processing",
-            "date": 1792308659
-        },
-        {
-            "title": "Squarespace: Staff Software Engineer, Revenue Systems",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/squarespace-staff-software-engineer-revenue-systems",
-            "date": 1792308658
-        },
-        {
-            "title": "Dremio: Staff Software Engineer - Connectivity",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/dremio-staff-software-engineer-connectivity",
-            "date": 1792308658
         }
     ]
 }
