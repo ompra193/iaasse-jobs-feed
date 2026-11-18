@@ -1,8 +1,89 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-18 06:05:24",
+    "generated_at": "2026-11-18 20:40:02",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "PATH: Consultant \u2013 Data analysis and Technical writing, HIV-Hepatitis-STI (HHS)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/path-consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs",
+            "date": 1794762041
+        },
+        {
+            "title": "Reddit: Frontend Engineer, Ads",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
+            "date": 1792999887
+        },
+        {
+            "title": "PlanetScale: Software Engineer - PlanetScale Postgres",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
+            "date": 1792913454
+        },
+        {
+            "title": "StockX: Category Manager - Trading Cards",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
+            "date": 1792827064
+        },
+        {
+            "title": "Carrot: Lead Product Management",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
+            "date": 1792827063
+        },
+        {
+            "title": "StockX: Category Manager - Sneakers",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
+            "date": 1792827063
+        },
+        {
+            "title": "Oportun: Sr. Data Analytics Engineer (R14153)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "data"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
+            "date": 1792827050
+        },
         {
             "title": "Bybit: Blockchain Risk Control Lead",
             "company": "WeWorkRemotely",
@@ -208,96 +289,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
             "date": 1792481457
-        },
-        {
-            "title": "Growth Minded: Senior Data Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/growth-minded-senior-data-engineer",
-            "date": 1792414078
-        },
-        {
-            "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
-            "date": 1792404081
-        },
-        {
-            "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "react",
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-            "date": 1792402140
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Python)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "python"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-11",
-            "date": 1792401717
-        },
-        {
-            "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "node"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-node-js-nest-js-4",
-            "date": 1792401472
-        },
-        {
-            "title": "Current: Freelance Marketo Email Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/current-freelance-marketo-email-engineer",
-            "date": 1792395085
-        },
-        {
-            "title": "Clover Health: Director, AI-Enabled Fraud Prevention & Investigations",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations",
-            "date": 1792395071
         }
     ]
 }
