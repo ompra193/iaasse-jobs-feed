@@ -1,20 +1,97 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-18 20:40:02",
+    "generated_at": "2026-11-19 05:25:18",
     "total_jobs": 25,
     "jobs": [
         {
-            "title": "PATH: Consultant \u2013 Data analysis and Technical writing, HIV-Hepatitis-STI (HHS)",
+            "title": "Bitovi: Backend / Platform Developer Consultant (Temporal & Kubernetes)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
+            "date": 1793313063
+        },
+        {
+            "title": "Salesloft: HR Enablement Lead",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "hr"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/path-consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs",
-            "date": 1794762041
+            "link": "https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
+            "date": 1793259057
+        },
+        {
+            "title": "Legion: Senior Integration Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
+            "date": 1793259052
+        },
+        {
+            "title": "Cambridge Information Group Inc: Front-End Developer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer",
+            "date": 1793223763
+        },
+        {
+            "title": "SimpleTiger: Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+            "date": 1793206177
+        },
+        {
+            "title": "StockX: Director, Category Growth (General Manager)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
+            "date": 1793086269
+        },
+        {
+            "title": "Coinbase: Broker Dealer Operations, Associate",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
+            "date": 1793086269
+        },
+        {
+            "title": "Coinbase: Associate Manager, Internal Audit",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "internship",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
+            "date": 1793086257
         },
         {
             "title": "Reddit: Frontend Engineer, Ads",
@@ -50,17 +127,6 @@
             "date": 1792827064
         },
         {
-            "title": "Carrot: Lead Product Management",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/carrot-lead-product-management",
-            "date": 1792827063
-        },
-        {
             "title": "StockX: Category Manager - Sneakers",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -83,19 +149,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
             "date": 1792827050
-        },
-        {
-            "title": "Bybit: Blockchain Risk Control Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bybit-blockchain-risk-control-lead",
-            "date": 1792740681
         },
         {
             "title": "Bybit: Animator Intern",
@@ -133,17 +186,6 @@
             "date": 1792695282
         },
         {
-            "title": "Affirm: Analytics Engineer II, Full Stack (Revenue Analytics)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics",
-            "date": 1792654285
-        },
-        {
             "title": "Netlify: Senior Staff Data Scientist",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -179,17 +221,6 @@
             "date": 1792654268
         },
         {
-            "title": "Maven Clinic: Head of Member Growth (B2B2C)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/maven-clinic-head-of-member-growth-b2b2c",
-            "date": 1792654268
-        },
-        {
             "title": "Lemon.io: Senior Vue Developer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -199,30 +230,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
             "date": 1792587296
-        },
-        {
-            "title": "Ritual: Core Protocol Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
-            "date": 1792567885
-        },
-        {
-            "title": "Oportun: Senior Data Engineer - Capital Markets (R13923)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/oportun-senior-data-engineer-capital-markets-r13923",
-            "date": 1792567866
         },
         {
             "title": "Toptal: Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
@@ -258,28 +265,6 @@
             "date": 1792495957
         },
         {
-            "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-utilities-energy-industry",
-            "date": 1792481464
-        },
-        {
-            "title": "Celonis: Client Value Partner (CVP) - Oil & Gas Industry",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/celonis-client-value-partner-cvp-oil-gas-industry",
-            "date": 1792481460
-        },
-        {
             "title": "Reddit: Analytics Engineer",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -289,6 +274,17 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
             "date": 1792481457
+        },
+        {
+            "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
+            "date": 1715570070
         }
     ]
 }
