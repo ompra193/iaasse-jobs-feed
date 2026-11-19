@@ -1,8 +1,41 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-19 11:35:35",
-    "total_jobs": 25,
+    "generated_at": "2026-11-20 01:29:27",
+    "total_jobs": 24,
     "jobs": [
+        {
+            "title": "Dropbox: Backend Product Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
+            "date": 1793431872
+        },
+        {
+            "title": "GitLab: Backend Engineer, Knowledge Graph",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-knowledge-graph",
+            "date": 1793431862
+        },
+        {
+            "title": "Jumio: Principal Enterprise Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
+            "date": 1793345481
+        },
         {
             "title": "Bitovi: Backend / Platform Developer Consultant (Temporal & Kubernetes)",
             "company": "WeWorkRemotely",
@@ -230,50 +263,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
             "date": 1792587296
-        },
-        {
-            "title": "Toptal: Senior Analytics Engineer / BI Lead \u2014 Channel Insights (iX360)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-analytics-engineer-bi-lead-channel-insights-ix360",
-            "date": 1792519855
-        },
-        {
-            "title": "Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-salesforce-developer-for-org-ownership-and-ongoing-platform-development",
-            "date": 1792518853
-        },
-        {
-            "title": "Vertex Marketing Group: Distribution Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
-            "date": 1792495957
-        },
-        {
-            "title": "Reddit: Analytics Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer",
-            "date": 1792481457
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
