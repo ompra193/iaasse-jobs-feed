@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-20 01:29:27",
-    "total_jobs": 24,
+    "generated_at": "2026-11-20 11:23:06",
+    "total_jobs": 25,
     "jobs": [
+        {
+            "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-product-management-growth",
+            "date": 1793518253
+        },
+        {
+            "title": "Oportun: Senior ML Engineer (R14284)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
+            "date": 1793518235
+        },
         {
             "title": "Dropbox: Backend Product Software Engineer",
             "company": "WeWorkRemotely",
@@ -92,17 +114,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
             "date": 1793206177
-        },
-        {
-            "title": "StockX: Director, Category Growth (General Manager)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
-            "date": 1793086269
         },
         {
             "title": "Coinbase: Broker Dealer Operations, Associate",
