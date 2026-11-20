@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-20 11:23:06",
+    "generated_at": "2026-11-20 20:26:56",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Knock: Lending Manager (Front End) - Remote",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/knock-lending-manager-front-end-remote",
+            "date": 1793518264
+        },
         {
             "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
             "company": "WeWorkRemotely",
@@ -263,17 +274,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
             "date": 1792654268
-        },
-        {
-            "title": "Lemon.io: Senior Vue Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
-            "date": 1792587296
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
