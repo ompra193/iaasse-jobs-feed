@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-21 11:18:07",
+    "generated_at": "2026-11-21 19:46:40",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "mechanical"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
+            "date": 1793725216
+        },
+        {
+            "title": "WelcomeHome Software: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
+            "date": 1793634714
+        },
         {
             "title": "Knock: Lending Manager (Front End) - Remote",
             "company": "WeWorkRemotely",
@@ -241,39 +265,17 @@
             "date": 1792695282
         },
         {
-            "title": "Netlify: Senior Staff Data Scientist",
+            "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
             "company": "WeWorkRemotely",
             "company_logo": null,
             "country": "Worldwide",
             "employment": "full-time",
             "skills": [
-                "data"
+                "react"
             ],
             "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/netlify-senior-staff-data-scientist",
-            "date": 1792654274
-        },
-        {
-            "title": "Mercury: Business Continuity Management Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mercury-business-continuity-management-lead",
-            "date": 1792654274
-        },
-        {
-            "title": "OfferUp: Software Development Engineer II (Remote @ Colombia)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-            "date": 1792654268
+            "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
+            "date": 1785909166
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
