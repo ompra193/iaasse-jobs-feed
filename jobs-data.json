@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-21 19:46:40",
+    "generated_at": "2026-11-22 04:18:13",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "MANTECH: Quantum Research Scientist",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
+            "date": 1793725219
+        },
         {
             "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
             "company": "WeWorkRemotely",
@@ -129,17 +140,6 @@
             "date": 1793259052
         },
         {
-            "title": "Cambridge Information Group Inc: Front-End Developer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/cambridge-information-group-inc-front-end-developer",
-            "date": 1793223763
-        },
-        {
             "title": "SimpleTiger: Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -241,30 +241,6 @@
             "date": 1792740680
         },
         {
-            "title": "Toptal: Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-            "date": 1792695543
-        },
-        {
-            "title": "Toptal: AI Engineer - Agentic Systems",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "ai"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems",
-            "date": 1792695282
-        },
-        {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -276,6 +252,32 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
             "date": 1785909166
+        },
+        {
+            "title": "A.Team: Senior Independent AI Engineer / Architect",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
+            "date": 1718561332
+        },
+        {
+            "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "hr"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
+            "date": 1718559051
         },
         {
             "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
