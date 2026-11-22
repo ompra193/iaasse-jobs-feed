@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-22 10:49:11",
+    "generated_at": "2026-11-22 19:37:01",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Crazy Maple Studio: Screenwriter - ReelShort (Contractor)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "contract",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
+            "date": 1793811632
+        },
         {
             "title": "MANTECH: Quantum Research Scientist",
             "company": "WeWorkRemotely",
@@ -228,17 +239,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
             "date": 1792827050
-        },
-        {
-            "title": "Bybit: Animator Intern",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bybit-animator-intern",
-            "date": 1792740680
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
