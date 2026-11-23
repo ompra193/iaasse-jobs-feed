@@ -1,8 +1,56 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-23 11:27:39",
+    "generated_at": "2026-11-23 23:15:02",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Toptal: Cryptography Specialist for AI lab",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+            "date": 1793898547
+        },
+        {
+            "title": "DRFIRST COM INC: Senior Software Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+            "date": 1793884953
+        },
+        {
+            "title": "Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) \u2013 AI-First, with GDPR Experience",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+            "date": 1793882367
+        },
+        {
+            "title": "Toptal: ML Inference Engineer \u2013 Terminal-Bench Task Designer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+            "date": 1793828516
+        },
         {
             "title": "Crazy Maple Studio: Screenwriter - ReelShort (Contractor)",
             "company": "WeWorkRemotely",
@@ -116,17 +164,6 @@
             "date": 1793345481
         },
         {
-            "title": "Bitovi: Backend / Platform Developer Consultant (Temporal & Kubernetes)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes",
-            "date": 1793313063
-        },
-        {
             "title": "Salesloft: HR Enablement Lead",
             "company": "WeWorkRemotely",
             "company_logo": null,
@@ -204,41 +241,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
             "date": 1792913454
-        },
-        {
-            "title": "StockX: Category Manager - Trading Cards",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stockx-category-manager-trading-cards",
-            "date": 1792827064
-        },
-        {
-            "title": "StockX: Category Manager - Sneakers",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/stockx-category-manager-sneakers",
-            "date": 1792827063
-        },
-        {
-            "title": "Oportun: Sr. Data Analytics Engineer (R14153)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "data"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/oportun-sr-data-analytics-engineer-r14153",
-            "date": 1792827050
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
