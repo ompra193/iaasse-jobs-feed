@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-24 09:22:35",
+    "generated_at": "2026-11-24 22:31:09",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Vertican: Senior Applied AI Engineer, Document Intelligence",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/vertican-senior-applied-ai-engineer-document-intelligence",
+            "date": 1793898747
+        },
         {
             "title": "Toptal: Cryptography Specialist for AI lab",
             "company": "WeWorkRemotely",
@@ -230,17 +243,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
             "date": 1792999887
-        },
-        {
-            "title": "PlanetScale: Software Engineer - PlanetScale Postgres",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/planetscale-software-engineer-planetscale-postgres",
-            "date": 1792913454
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
