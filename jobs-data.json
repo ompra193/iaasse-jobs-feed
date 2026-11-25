@@ -1,8 +1,19 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-25 07:26:40",
+    "generated_at": "2026-11-25 22:21:36",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "EPAM Systems: Senior Web Application Security Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/epam-systems-senior-web-application-security-engineer",
+            "date": 1793913878
+        },
         {
             "title": "Vertican: Senior Applied AI Engineer, Document Intelligence",
             "company": "WeWorkRemotely",
@@ -232,17 +243,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
             "date": 1793086257
-        },
-        {
-            "title": "Reddit: Frontend Engineer, Ads",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
-            "date": 1792999887
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
