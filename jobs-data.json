@@ -1,8 +1,30 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-26 07:07:25",
+    "generated_at": "2026-11-26 21:58:21",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Karat: Software Engineer Interviewer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+            "date": 1793989672
+        },
+        {
+            "title": "Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "govt",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
+            "date": 1793913878
+        },
         {
             "title": "EPAM Systems: Senior Web Application Security Engineer",
             "company": "WeWorkRemotely",
@@ -221,28 +243,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
             "date": 1793206177
-        },
-        {
-            "title": "Coinbase: Broker Dealer Operations, Associate",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
-            "date": 1793086269
-        },
-        {
-            "title": "Coinbase: Associate Manager, Internal Audit",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "internship",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/coinbase-associate-manager-internal-audit",
-            "date": 1793086257
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
