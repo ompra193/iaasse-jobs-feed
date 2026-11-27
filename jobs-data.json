@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-27 07:00:54",
+    "generated_at": "2026-11-27 21:43:52",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "OpenTrain AI: Full-Stack Engineer",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+            "date": 1793995998
+        },
         {
             "title": "Karat: Software Engineer Interviewer",
             "company": "WeWorkRemotely",
@@ -107,17 +120,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
             "date": 1793811632
-        },
-        {
-            "title": "MANTECH: Quantum Research Scientist",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
-            "date": 1793725219
         },
         {
             "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
