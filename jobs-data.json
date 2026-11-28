@@ -1,8 +1,21 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-27 21:43:52",
+    "generated_at": "2026-11-28 06:39:19",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "OneImaging: Cloud Systems Administrator",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "cloud"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/oneimaging-cloud-systems-administrator",
+            "date": 1794070872
+        },
         {
             "title": "OpenTrain AI: Full-Stack Engineer",
             "company": "WeWorkRemotely",
@@ -234,17 +247,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
             "date": 1793259052
-        },
-        {
-            "title": "SimpleTiger: Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "contract",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
-            "date": 1793206177
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
