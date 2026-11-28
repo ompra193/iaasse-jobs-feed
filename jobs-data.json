@@ -1,8 +1,32 @@
 {
     "brand": "IAASSE",
-    "generated_at": "2026-11-28 06:39:19",
+    "generated_at": "2026-11-28 20:37:04",
     "total_jobs": 25,
     "jobs": [
+        {
+            "title": "Terac: Offensive Cybersecurity Engineers: Build RL Environments for AI Evaluation",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [
+                "ai"
+            ],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/terac-offensive-cybersecurity-engineers-build-rl-environments-for-ai-evaluation",
+            "date": 1794215212
+        },
+        {
+            "title": "Exa: Support Engineer, PAYGO",
+            "company": "WeWorkRemotely",
+            "company_logo": null,
+            "country": "Worldwide",
+            "employment": "full-time",
+            "skills": [],
+            "salary": null,
+            "link": "https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo",
+            "date": 1794157243
+        },
         {
             "title": "OneImaging: Cloud Systems Administrator",
             "company": "WeWorkRemotely",
@@ -223,30 +247,6 @@
             "salary": null,
             "link": "https://weworkremotely.com/remote-jobs/jumio-principal-enterprise-architect",
             "date": 1793345481
-        },
-        {
-            "title": "Salesloft: HR Enablement Lead",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [
-                "hr"
-            ],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/salesloft-hr-enablement-lead",
-            "date": 1793259057
-        },
-        {
-            "title": "Legion: Senior Integration Engineer",
-            "company": "WeWorkRemotely",
-            "company_logo": null,
-            "country": "Worldwide",
-            "employment": "full-time",
-            "skills": [],
-            "salary": null,
-            "link": "https://weworkremotely.com/remote-jobs/legion-senior-integration-engineer",
-            "date": 1793259052
         },
         {
             "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
